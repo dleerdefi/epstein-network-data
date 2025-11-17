@@ -75,37 +75,44 @@ cd epstein-network-data
 | Dataset | Status | Format | Purpose |
 |---------|--------|--------|---------|
 | **Birthday Book** | 🔄 In Progress | JSON | Manual extraction + AI verification |
-| **Black Book** | ⏸️ Halted | JSON | External CSV found (more complete) |
+| **Black Book** | ✅ Complete | JSON | External CSV found (more complete) |
 | **Flight Logs** | 🔄 In Progress | JSON | Manual extraction with date inference |
 | **Epstein Notes** | ✅ Complete | JSON | Source for Neo4j production dataset |
 
 ### 📊 Final Processed Data (7.3MB)
 **Location**: `data/final/`
 
-#### Epstein Notes - Neo4j Dataset v1.3
+#### Complete Neo4j Database v2.0
 
 **Location**: `data/final/epstein_notes/`
 
-Production-ready knowledge graph for Neo4j GraphRAG:
+Production-ready knowledge graph for Neo4j GraphRAG integrating all data sources (Flight Logs + Black Book + Epstein Notes):
 
-**Nodes** (514 total):
-- 286 Persons (with occupations, summaries, aliases)
-- 97 Organizations (companies, institutions, agencies)
-- 5 Equipment (aircraft: N908JE, etc.)
-- 53 Claims (verified factual statements with confidence scores)
-- 73 Citations (court filings, news articles, Wikipedia)
+**Nodes** (7,447 total):
+- 2,541 Persons (canonical persons from flight logs, black book, Epstein Notes)
+- 2,051 Flights (flight records with date, aircraft, route)
+- 283 Airports (with IATA/ICAO codes, geocoding)
+- 97 Organizations (companies, foundations, institutions)
+- 5 Equipment (aircraft: Gulfstream N909JE, Boeing 727 "Lolita Express")
+- 53 Claims (factual statements with verification status)
+- 73 Citations (source documents: Wikipedia, news articles, PDFs)
+- Contact Nodes: 3,676 PhoneNumbers, 385 EmailAddresses, 1,192 Addresses, Locations
 
-**Relationships** (534 total, 65 types):
-- Provenance: CLAIM_ABOUT (113), SUPPORTED_BY (67)
-- Social: IN_BLACK_BOOK (66), FAMILY, ASSOCIATED_WITH
-- Legal: ABUSED (21), SUED_BY, REPRESENTED_BY, PROSECUTED_BY
+**Relationships** (16,625+ total, 65+ types):
+- FLEW_ON: Person → Flight (4,951)
+- DEPARTED_FROM / ARRIVED_AT: Flight → Airport (4,012)
+- TRAVELED_WITH: Person → Person (1,570 co-passenger connections)
+- HAS_PHONE / HAS_EMAIL / HAS_ADDRESS: Person → Contact info (5,572)
+- CLAIM_ABOUT / SUPPORTED_BY: Provenance tracking (180)
+- IN_BLACK_BOOK / FAMILY / ASSOCIATED_WITH: Relationships (135+)
+- Legal: ABUSED, SUED_BY, REPRESENTED_BY, PROSECUTED_BY
 - Professional: WORKED_FOR, CEO_OF, FOUNDED, APPOINTED_BY
 
 **Embeddings** (436 vectors):
 - Voyage-3-Large model (1024 dimensions)
-- 286 person embeddings
-- 97 organization embeddings
-- 53 claim embeddings
+- 286 person embeddings (Epstein Notes entities)
+- 97 organization embeddings (Epstein Notes entities)
+- 53 claim embeddings (Epstein Notes entities)
 
 **Quality Metrics**:
 - ✅ 0 orphaned relationships
@@ -193,7 +200,15 @@ data/
 
 ## Dataset Versions
 
-### v1.3 (2025-11-16) - Current
+### v2.0 (2025-11-16) - Current
+- ✅ Complete Neo4j database integrating all data sources (7,447 nodes, 16,625+ relationships)
+- ✅ Flight Logs integration: 2,541 persons, 2,051 flights, 283 airports (4,951 FLEW_ON, 1,570 TRAVELED_WITH)
+- ✅ Black Book integration: 3,676 phone numbers, 385 email addresses, 1,192 addresses (5,572 contact relationships)
+- ✅ Epstein Notes: 286 persons, 97 organizations, 5 equipment, 53 claims, 73 citations (65 relationship types)
+- ✅ Voyage-3-Large embeddings (436 vectors, 1024 dimensions)
+- ✅ Full provenance layer (claims + citations with CLAIM_ABOUT, SUPPORTED_BY relationships)
+
+### v1.3 (2025-11-16)
 - ✅ Epstein Notes Neo4j dataset (514 nodes, 534 relationships)
 - ✅ Voyage-3-Large embeddings (436 vectors, 1024 dimensions)
 - ✅ Case normalization (all person names in Title Case)
@@ -259,14 +274,14 @@ All documents are publicly available government releases and FOIA documents:
 | Document | Pages | Manual Extraction Status | Neo4j Integration |
 |----------|-------|--------------------------|-------------------|
 | **Birthday Book** | 128 | 🔄 In Progress (0/128 pages) | ❌ Not yet integrated |
-| **Black Book** | 95 | ✅ Complete (external CSV) | ✅ Partial (66 circled entries) |
-| **Flight Logs** | 118 | 🔄 In Progress (31/38 pages needed) | 🔄 Partial (pages 39-118 available) |
-| **Epstein Notes** | N/A | ✅ Complete (manual research) | ✅ Production ready (v1.3) |
+| **Black Book** | 95 | ✅ Complete (external CSV) | ✅ Complete (1,252 contacts, 5,572 contact relationships) |
+| **Flight Logs** | 118 | 🔄 In Progress (31/38 pages needed) | ✅ Complete (2,541 persons, 2,051 flights, 4,951 FLEW_ON) |
+| **Epstein Notes** | N/A | ✅ Complete (manual research) | ✅ Production ready (v2.0) |
 
 **Current Focus**:
-1. Flight Logs pages 32-38 (7 pages remaining)
+1. Flight Logs pages 32-38 (7 pages remaining for manual extraction)
 2. Birthday Book manual extraction (128 pages)
-3. Black Book full integration (1,252 contacts → Neo4j)
+3. Data quality improvements and validation
 
 See [DATA_STATUS.md](DATA_STATUS.md) for detailed progress tracking.
 
@@ -313,4 +328,4 @@ This repository processes publicly available court records, FOIA releases, and g
 
 **Making public documents queryable through structured data storage**
 
-*Transform 341 pages of handwritten documents and 1,252 contacts into a searchable knowledge graph with provenance tracking and semantic search capabilities.*
+*7,447 entities • 16,625+ relationships • 2,541 persons • 2,051 flights • Full contact network • Provenance tracking • Semantic search*
