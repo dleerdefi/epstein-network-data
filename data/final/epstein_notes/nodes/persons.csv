@@ -1,0 +1,287 @@
+entity_id:ID,:LABEL,name,aliases:string[],birth_year:int,death_year:int,nationality,occupations:string[],summary,sources:string[]
+person_001,Person,Jeffrey Edward Epstein,JE;Epstein;Jeffrey Epstein,1953,2019,American,financier;teacher;money manager;convicted sex offender,"Financier and convicted sex offender. Member of Trilateral Commission and CFR. Taught at Dalton School 1974-1975, worked at Bear Stearns 1976-1981, founded International Assets Group 1982. Convicted of sex trafficking crimes, served sentence 2008-2010. Died in federal custody 2019.",batch1_jeffrey_epstein_extraction.json
+person_010,Person,Alan Greenberg,Alan 'Ace' Greenberg;Ace Greenberg,,,,CEO of Bear Stearns,,batch1_jeffrey_epstein_extraction.json
+person_003,Person,Leslie Wexner,Les Wexner;Les Wexner,,,,,,batch1_jeffrey_epstein_extraction.json
+person_006,Person,Michael Stroll,Michael Stroll,,,,former head of Williams Electronics Inc.,,batch1_jeffrey_epstein_extraction.json
+person_024,Person,Steven Hoffenberg,Steven Hoffenberg,,,,,,batch1_jeffrey_epstein_extraction.json
+person_008,Person,Robert Massey,Robert Massey,,,,Office of Foreign Missions official,,batch1_jeffrey_epstein_extraction.json
+person_009,Person,Xenophon A. Galinas,Xenophon A. Galinas,,,,,,batch1_jeffrey_epstein_extraction.json
+person_011,Person,Bruce King,Bruce King,,,,,,batch1_jeffrey_epstein_extraction.json
+person_025,Person,Bill Clinton,Clinton;Bill Clinton,,,,US President 1993-2001,,batch1_jeffrey_epstein_extraction.json
+person_027,Person,Prince Andrew,Prince Andrew,,,,British Royal,,batch1_jeffrey_epstein_extraction.json
+person_028,Person,Donald Trump,Donald Trump,,,,,,batch1_jeffrey_epstein_extraction.json
+person_059,Person,Bradley J. Edwards,Bradley J. Edwards;Brad Edwards,,,,attorney,,batch1_jeffrey_epstein_extraction.json
+person_016,Person,Scott Rothstein,Scott Rothstein,,,,attorney,,batch1_jeffrey_epstein_extraction.json
+person_017,Person,Dianya Nida,Jane Doe II,,,,,,batch1_jeffrey_epstein_extraction.json
+person_002,Person,Ghislaine Noelle Maxwell,GM;Ghislaine Maxwell;Maxwell;Ghislaine,1961,,British,socialite;alleged co-conspirator;helicopter pilot;certified EMT;Deepworker submersible pilot;president of TerraMar Project;president of Ellmax,"British socialite, youngest child of publisher Robert Maxwell. Long-time associate and alleged co-conspirator of Jeffrey Epstein. Founded TerraMar Project (ocean conservation non-profit). Licensed helicopter pilot, certified EMT, submersible pilot.",batch1_ghislaine_maxwell_extraction.json
+person_021,Person,Doug Bands,Doug Bands,,,,Clinton's assistant,,batch1_ghislaine_maxwell_extraction.json
+person_022,Person,Virginia Roberts Giuffre,,,,,,,batch1_ghislaine_maxwell_extraction.json
+person_023,Person,Brett Jaffe,,,,,attorney,,batch1_ghislaine_maxwell_extraction.json
+person_029,Person,Aline Weber,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_030,Person,Ginta Lapina,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_031,Person,Rebecca Romijn-Stamos,Rebecca Romign-Stamos,,,,model;actress,,batch1_jean_luc_brunel_extraction.json
+person_032,Person,Estella Warren,,,,,model,,batch1_jean_luc_brunel_extraction.json
+person_033,Person,Christy Turlington,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_034,Person,Liu Dan,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_035,Person,Sessilee Lopez,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_036,Person,Anastasia Lagune,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_037,Person,Eve Doll,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_038,Person,Alina Olegnova,,,,,,,batch1_jean_luc_brunel_extraction.json
+person_054,Person,A. Alfred Taubman,,,,,Detroit real estate baron,,batch1_leslie_wexner_extraction.json
+person_055,Person,Ariel Sharon,,,,,Israeli Prime Minister,,batch1_leslie_wexner_extraction.json
+person_056,Person,Martin Trust,,,,,chief of Limited's overseas clothes-buying wing,,batch1_leslie_wexner_extraction.json
+person_057,Person,Dennis Hersch,Dennis Hersch,,,,,,batch1_leslie_wexner_extraction.json
+person_058,Person,Arthur Shapiro,,,1985,,,,batch1_leslie_wexner_extraction.json
+person_004,Person,Robert Maxwell,Ian Robert Maxwell;Jan Ludwig Hoch;Captain Maxwell;Wallace Chesterton;Enian Robert Maxwell;IS-R;GE;Jan Ludvik Binyamin Hoch,1923,1991,British (originally Czechoslovakian),media mogul;British PM (Member of Parliament);publisher;polymath,"Media mogul born Jan Ludvik Binyamin Hoch in Czechoslovakia 1923. Fled Nazis, arrived Liverpool 1940. War hero awarded Military Cross. Founded Pergamon Press 1951. Member of Parliament 1964. Built media empire including Daily Mirror, Macmillan Publishers. Died mysteriously off yacht Lady Ghislaine July 1991. Pension fraud scandal discovered posthumously ($670M missing). Father of Ghislaine Maxwell.",batch1_robert_maxwell_extraction.json
+person_041,Person,Herr Springer,,,,,publisher,,batch1_robert_maxwell_extraction.json
+person_042,Person,Robert Hallandale,,,,,,,batch1_robert_maxwell_extraction.json
+person_043,Person,Rupert Murdoch,,,,,media mogul,,batch1_robert_maxwell_extraction.json
+person_044,Person,Saul Sternberg,,,,,CEO of Leasco,,batch1_robert_maxwell_extraction.json
+person_045,Person,Conchita Sarnoff,,,,,investigator,,batch1_robert_maxwell_extraction.json
+person_046,Person,Larry Trachtenberg,,,,,American financial advisor,,batch1_robert_maxwell_extraction.json
+person_047,Person,Adnan Khashoggi,,,,,international arms dealer,,batch1_robert_maxwell_extraction.json
+person_067,Person,Sarah Lynelle Kellen,Sarah Kensington;Sarah Lynnelle;Sarah Bonk,1979,,,JE personal assistant;co-conspirator;interior designer,"Born 1979. Began working for Epstein circa 1990 when she was a minor (~11 years old). Personal assistant and alleged co-conspirator. Deposed March 24 2010. Now married to NASCAR driver Brian Vickers, works as interior designer. Ran company SLK Designs LLC.",batch1_sarah_kellen_extraction.json
+person_068,Person,Story Cowles,Story Cowles,,,,,,batch1_sarah_kellen_extraction.json
+person_069,Person,Brian Vickers,,,,,NASCAR driver,,batch1_sarah_kellen_extraction.json
+person_070,Person,Mr. Goldsmith,,,,,,,batch1_sarah_kellen_extraction.json
+person_007,Person,Virginia Louise Roberts Giuffre,Virginia Roberts;Jane Doe 2;Jane Doe #3;VA Roberts,,,,JE victim;activist,Sexually abused at 13 by Ron Eppinger. Recruited by Ghislaine Maxwell at age 14 while working at Mar-a-Lago in 1999. Lived as Epstein's 'sex slave' 1999-2002. Fled to Australia 2002. Key victim in Epstein cases. Founded non-profit 'Victims Refuse Silence' 2014. Sued Ghislaine Maxwell for defamation 2015.,batch1_virginia_giuffre_extraction.json
+person_060,Person,Ron Eppinger,,,,,knows JE,,batch1_virginia_giuffre_extraction.json
+person_061,Person,Alan Dershowitz,Alan Dershowitz,,,,attorney,,batch1_virginia_giuffre_extraction.json
+person_062,Person,Paul Cassell,,,,,attorney,,batch1_virginia_giuffre_extraction.json
+person_063,Person,Robert Josephsberg,,,,,attorney,,batch1_virginia_giuffre_extraction.json
+person_064,Person,Marie Villafaña,Ausa Marie Villafaña,,,,Assistant US Attorney,,batch1_virginia_giuffre_extraction.json
+person_065,Person,Wilfredo Ferrer,,,,,US Attorney,,batch1_virginia_giuffre_extraction.json
+person_066,Person,Jack Scarola,Jack Scarola,,,,attorney,,batch1_virginia_giuffre_extraction.json
+person_073,Person,Nadia Marcinkova,Nadia/Nada Marcinkova;Nadia Marcinko;Global Girl,,,,JE victim & co-conspirator;pilot;flight instructor;online pilot celebrity,"Allegedly 'bought' from Yugoslavian parents by Epstein at age 14. Visa paid for by Epstein. Described as his 'lesbian sex slave'. Engaged in sexual activity with victims. Kept out of country in 2007 to avoid subpoena. Deposed April 13 2010. Got FAA license, trained at same school as Mohammed Atta. Company Aviloop 301 E 66th St.",batch2_victims_procurers_extraction.json
+person_072,Person,Johanna Sjoberg,,,,,girlfriend/masseuse of JE;of consenting age,Met Prince Andrew Easter 2001 per affidavit. Maxwell and Virginia Roberts present plus other underage girls. Told press Prince Andrew groped her breast. Article broke Sept 23 2007.,batch2_victims_procurers_extraction.json
+person_074,Person,Nicole Junkermann,,,,,,,batch2_victims_procurers_extraction.json
+person_075,Person,Andrea Mitrovitch,,,,,,,batch2_victims_procurers_extraction.json
+person_076,Person,Cindy Lopez,C.L.,,,,,,batch2_victims_procurers_extraction.json
+person_077,Person,B.B.,,,,,,,batch2_victims_procurers_extraction.json
+person_078,Person,S.R.,Jane Doe;S.R.,,,,,,batch2_victims_procurers_extraction.json
+person_079,Person,Juliana Barbosa,,,,,,,batch2_victims_procurers_extraction.json
+person_080,Person,Amanda Venaro,,,,,,,batch2_victims_procurers_extraction.json
+person_081,Person,Juliette Bryant,,,,,,,batch2_victims_procurers_extraction.json
+person_082,Person,Andrea Metrovich,,,,,,,batch2_victims_procurers_extraction.json
+person_083,Person,Tila Davies Jeletzia Claire Hazel Zinta Braukis,Braukis;Broukis,,,,,,batch2_victims_procurers_extraction.json
+person_084,Person,Vanessa,Jane Doe 4,,,,,,batch2_victims_procurers_extraction.json
+person_085,Person,Melissa Hanes,,,,,,,batch2_victims_procurers_extraction.json
+person_086,Person,Carolyn Andriano,C.M.A.,,,,,,batch2_victims_procurers_extraction.json
+person_087,Person,Elena Weber,Aline Weber,,,,,,batch2_victims_procurers_extraction.json
+person_088,Person,Dainya Nida Mohini,Dianya Nida;Jane Doe II,,,,,,batch2_victims_procurers_extraction.json
+person_089,Person,Lauren Murphy,,,,,,,batch2_victims_procurers_extraction.json
+person_090,Person,Michelle Tagliani,,,,,,,batch2_victims_procurers_extraction.json
+person_091,Person,Haley Robson,,,,,procurer;co-conspirator,"Daughter of retired Florida policeman. Born April 9 1986 in rural Loxahatchee. Finished high school, enrolled Palm Beach Community College. Met Epstein around 2004. Of Royal Palm Beach. Worked at Olive Garden in Wellington. Journalism major at PBCC when questioned by police.",batch2_victims_procurers_extraction.json
+person_092,Person,Rachel Chandler,,,,,unofficial procurer;photographer;alleged girlfriend of Bill Clinton,"Graduated Brentwood School June 2005. Descendant of Otis Chandler (LA Times owner). Childhood friends with Paris Hilton. Works as photographer, recently connected to occultist Marina Abramovic. Married Tom Guiness 2012.",batch2_victims_procurers_extraction.json
+person_093,Person,Maximila Cordero,Ava Cordero,1983,,,,"Born 1983. JE victim in NYC. In complaint (Cordero v. Epstein) alleges Epstein told her during massage 'I love how young you are. You have a tight butt like a baby'. Filed suit against NY Post for slander/defamation (Ava v. NYP Holdings, Inc.)",batch2_victims_procurers_extraction.json
+person_094,Person,Adriana Ross Muscinska,Adrianna Muchinska,1983,,,JE co-conspirator;assistant,"Born 1983. Invited by Elite Models, moved to Miami from Poland Fall 2002. Hired at Epstein's Florida mansion, organized daily massage rituals. Married Duncan Ross July 12 2003. Began working as JE's assistant late 2004. Received Grand Jury investigation letter Aug 31 2007. Got bachelors from Miami Dade College 2008. Deposed March 15 2010. Residence: 1040 South Shore Drive Miami (alleged to have hidden evidence).",batch2_victims_procurers_extraction.json
+person_095,Person,Emmy Taylor,Emmy Tayler,1975,,British,actress;JE victim,"Born 1975. British actress. Close to Ghislaine Maxwell. Alleged to be Maxwell's 'sex slave'. Has address linked to Oxford. July 16 2001 flight from Santa Fe NM to Teterboro NJ with Epstein, Maxwell, Roberts. Refused to comment on relationship.",batch2_victims_procurers_extraction.json
+person_096,Person,Alfredo Rodriguez,,,2014,,JE's house manager,"JE's house manager. Deposed Aug 7 2009. After deposition attempted to sell 97-page document appropriated from Epstein's computer containing telephone directory and list of apparent young girls in various locations. FBI undercover employee set up meeting, exchanged $50k buy money for document. FBI arrested Rodriguez for obstruction of justice. Sentenced to 18 months in prison (U.S. v. Rodriguez, No. 9:10-CR-80015-KAM). Later discovered DOJ had another copy. Died Dec 2014 at 60 from mesothelioma.",batch2_victims_procurers_extraction.json
+person_ref_99460,Person,Sara Kellen,,,,,,Associate of person person_068,batch3_remaining_profiles_part1.json
+person_ref_98321,Person,Jack Goldberger,,,,,,Associate of person person_068,batch3_remaining_profiles_part1.json
+person_097,Person,Gregory B. Taylor,,,,,JE friend/business associate;Certified Public Accountant,JE friend and business associate. CPA. Maxwell attempted to use as witness in her case against VA Roberts Giuffre.,batch3_remaining_profiles_part1.json
+person_098,Person,Lawrence Visoski Jr.,Larry Visoski,,,,JE pilot,"JE's pilot (till present day as of document date). Deposed Oct 15 2009. Employed by JE since 1991, paid by 'NES, LLC'. JE deeded him 40 acres of New Mexico property to build home around 1997. JE gifted him Hummer in 2005. Wife Eileen worked for JE's Florida Science Foundation one month. Residence: 1131 Pine Point Road Riviera Beach FL",batch3_remaining_profiles_part1.json
+person_099,Person,Maritza Vasquez,Marztza Vazquez;Marissa Vasquez,,,,former accountant at MC2;Brunel associate,"Former MC2 accountant. Met JLB 1998 in Miami. Sent by 'gentleman from Switzerland' to examine JLB's books for Karin Models. Worked for Karin's Miami till 2003 when became MC2. 2003 moved to NYC, worked MC2 office until 2006. Fired for inside info, charged with embezzling. Has criminal record. FBI interviewed by Agent Nesbitt 2008. Deposed June 15 2010, told Edwards Epstein's numerous condos at 301 E 66th St NYC used to house young models. Told MC2 brought underage girls from worldwide promising modeling contracts, Epstein/Brunel obtained visas, charged girls rent to live as underage prostitutes in condos.",batch3_remaining_profiles_part1.json
+person_101,Person,Frederick Rudd,,,,,,2016 bought Ghislaine Maxwell's townhouse at 116 E 65th St for $15 million with wife Kim Rudd,batch3_remaining_profiles_part1.json
+person_102,Person,Kim Rudd,,,,,,2016 bought Ghislaine Maxwell's townhouse at 116 E 65th St for $15 million with husband Frederick Rudd,batch3_remaining_profiles_part1.json
+person_103,Person,Cecile de Jongh,,,,,JE's office manager;wife of former USVI governor,Office Manager at Financial Trust Company (JE's offshore company). Simultaneously served as board member at Antilles School on St. Thomas. First wife of sitting US governor employed by convicted sex offender. Strange/unprincipled not to notify private school/parents given fiduciary/ethical responsibilities and proximity laws between predator and school-aged children. As of Jan 2016 no longer first lady but remains employed as Epstein's office manager.,batch3_remaining_profiles_part1.json
+person_104,Person,Janusz Banasiak,Janusz Banziak,1953,,,JE's house manager,Born 1953. JE's house manager. Has Montgomery County Health Dept ID (questioned why). Deposed Feb 16 2010. Wife: Beata,batch3_remaining_profiles_part1.json
+person_105,Person,Jo-Jo Fontanella,,,,,JE's NYC mansion house manager,JE's NYC mansion house manager. Friendly with NYPD. Works with wife Lynn Fontanella.,batch3_remaining_profiles_part1.json
+person_106,Person,Lynn Fontanella,,,,,JE's NYC mansion house manager,JE's NYC mansion house manager. Works with husband Jo-Jo Fontanella. Friendly with NYPD.,batch3_remaining_profiles_part1.json
+person_107,Person,Igor Zinoviev,,,,,bodyguard,Bodyguard for JE,batch3_remaining_profiles_part1.json
+person_108,Person,Brent Tyndall,,,,,chef,,batch3_remaining_profiles_part1.json
+person_109,Person,Eva Andersson,,,,,,,batch3_remaining_profiles_part1.json
+person_110,Person,Dana Burns,,,,,JLB's assistant,,batch3_remaining_profiles_part1.json
+person_111,Person,Cecilia Stein,,,,,JE assistant,,batch3_remaining_profiles_part1.json
+person_112,Person,Luis Font,,,,,attorney handling MC2 visas in Miami,,batch3_remaining_profiles_part1.json
+person_113,Person,Simon Parra,,,,,JLB associate,,batch3_remaining_profiles_part1.json
+person_114,Person,Evelyn Valenzeula,,,,,Office Manager MC2 NYC,,batch3_remaining_profiles_part1.json
+person_115,Person,Amanda Grant,,,,,worked for JE and JLB,Worked for JE and JLB until 2008. Single mother of four kids. Was fired.,batch3_remaining_profiles_part1.json
+person_116,Person,Michael Friedman,,,,,former JE house manager in Palm Beach,Former JE house manager in Palm Beach. Teared up when confronted by attorneys in CA,batch3_remaining_profiles_part1.json
+person_117,Person,Edward Tuttle,,,,,hotel designer,Hotel designer. Designed JE's luxury resort on Little St. James island,batch3_remaining_profiles_part1.json
+person_118,Person,Paula Heil Fisher,,,,,writer,JE ex-girlfriend. New York writer.,batch3_remaining_profiles_part1.json
+person_119,Person,Mark Zeff,,,,,house designer,JE's house designer,batch3_remaining_profiles_part1.json
+person_120,Person,Daniel Estes,,,,,architect,,batch3_remaining_profiles_part1.json
+person_121,Person,Douglas Schoettle,,,,,architect,JE's architect for 7 years as of 2005,batch3_remaining_profiles_part1.json
+person_122,Person,Sergio Cordero,,,,,scouter;Brunel associate,,batch3_remaining_profiles_part1.json
+person_123,Person,Mike Sanka,,,,,JLB modelling buddy;scouter,,batch3_remaining_profiles_part1.json
+person_124,Person,David Mullen,,,,,,,batch3_remaining_profiles_part1.json
+person_125,Person,Khalid Monroe,,,,,scouter,,batch3_remaining_profiles_part1.json
+person_126,Person,Eric Gany,,,,,JE assistant,,batch3_remaining_profiles_part1.json
+person_127,Person,Khalid Salaam,Mohammed,,,,scouter;booker,,batch3_remaining_profiles_part1.json
+person_128,Person,Dr. Stephen Alexander,,,,,psychologist,'Court appointed' psychologist who visited JE in prison,batch3_remaining_profiles_part1.json
+person_129,Person,Dr. Steve Strumwasser,,,,,doctor,,batch3_remaining_profiles_part1.json
+person_130,Person,Louella Rabuyo,,,,,JE's housekeeper,JE's housekeeper. JE paid for her attorney. Deposed Oct 20 2009.,batch3_remaining_profiles_part1.json
+person_131,Person,James Cayne,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_60464,Person,Ann Greenberg,,,,,,first wife of person_004,batch3_part2_FULL_extraction.json
+person_ref_50716,Person,Lynne Koeppel,,,,,first woman to own seat on American Stock Exchange,daughter of person_004,batch3_part2_FULL_extraction.json
+person_ref_50533,Person,Allison Frey,,,,,,daughter of person_004,batch3_part2_FULL_extraction.json
+person_ref_87970,Person,Melissa Frey,,,,,,daughter of person_004,batch3_part2_FULL_extraction.json
+person_ref_43714,Person,Ted Greenberg,,,,,risk arbitrage at Dresdner Kleinwort NYC,son of person_004,batch3_part2_FULL_extraction.json
+person_132b,Person,Alan Schwartz,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_63923,Person,Patricia Denner,,,,,,second wife of person_131,batch3_part2_FULL_extraction.json
+person_ref_67366,Person,Allison Cayne Schneider,,,,,,daughter of person_131,batch3_part2_FULL_extraction.json
+person_005,Person,Les Wexner,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_054a,Person,Milton Petrie,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_132,Person,Douglas Leese,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_133a,Person,John Mitchell,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_012,Person,Bill Clinton,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_86002,Person,Maria Santiago,,,,,NY Post News President,wife of person_024,batch3_part2_FULL_extraction.json
+person_133,Person,Gary Kenneth King,,1954,,American,Attorney General of New Mexico;attorney;Policy Advisor,"JE bought land from him to build NM ranch, donated to his campaign. Attorney General of New Mexico January 1 2007 to January 1 2015. Lost election bid for Governor of New Mexico in 2014. Son of Bruce King (three-time Governor of New Mexico). 1998 became Policy Advisor to Assistant Secretary for Environmental Management at U.S. Department of Energy (DOE) in Washington, D.C.",batch3_part2_FULL_extraction.json
+person_134,Person,George John Mitchell Jr.,,1933,,American,US Senator;Senate Majority Leader;attorney;trial attorney;executive assistant;director;law firm chairman;Special Envoy,"US Senator friend of JE who, according to Alan Dershowitz, kept a regular 'room' at JE's Palm Beach mansion. Father George John Mitchell Sr. (born Joseph Kilroy) was ethnic Irish but adopted by Lebanese family when orphaned. Father was janitor at Colby College Waterville. Mother Mary (née Saad) was textile worker who emigrated from Bkassine, Lebanon in 1920 at age 18. Recognized as prominent Arab-American. Served US Army 1954-1956, rising to First Lieutenant. Received law degree from Georgetown University Law Center part-time program at night. Trial attorney for Antitrust Division US Dept of Justice Washington 1960-1962. Executive assistant to Senator Edmund S. Muskie 1962-1965. US Senator from Maine 1980-1995, Senate Majority Leader 1989-1995. Director: Walt Disney, Federal Express, Xerox, Unilever, Staples, Starwood Hotels, Boston Red Sox. After Senate joined Verner, Liipfert, Bernhard, McPherson and Hand DC, became chairman. Criticized for lobbying for Big Tobacco. Senior counsel Preti, Flaherty, Beliveau, Pachios, Orlick & Haley Portland Maine. Partner and Chairman Global Board DLA Piper US LLP. Advisor ZeniMax Media Inc. Co-chairman (with Newt Gingrich) of Task Force on United Nations, released findings June 15 2005. January 22 2009 President Obama and Sec State Hillary Clinton appointed Special Envoy to Arab-Israeli peace process (Special Envoy for Middle East Peace).",batch3_part2_FULL_extraction.json
+person_134a,Person,Edmund S. Muskie,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_134b,Person,Newt Gingrich,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_134c,Person,Hillary Clinton,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_43422,Person,George John Mitchell Sr.,,,,,janitor at Colby College,father of person_134,batch3_part2_FULL_extraction.json
+person_ref_9449,Person,Mary Saad,,,,,textile worker,mother of person_134,batch3_part2_FULL_extraction.json
+person_ref_10568,Person,Andrea Mitchell,,,,,,daughter of person_134,batch3_part2_FULL_extraction.json
+person_ref_92504,Person,Andrew Mitchell,,,,,,son of person_134,batch3_part2_FULL_extraction.json
+person_ref_31266,Person,Claire Mitchell,,,,,,daughter of person_134,batch3_part2_FULL_extraction.json
+person_135,Person,Robert A. Meister,,1943,,American,Vice Chairman;insurance executive;trustee;director,"Allegedly introduced JE to Les Wexner who was a client at Meister's insurance firm. Vice Chairman Aon Risk Services Companies Inc. (subsidiary of Aon Corporation) since 1991. Prior: Vice Chairman Sedgwick James 1985-1991, Alexander & Alexander 1975-1985. Managing Trustee Hunt Mortgage Group (parent of Centerline Capital Group). Director Universal Health Services Inc. Independent Trustee Ramco-Gershenson Properties Trust 1996-May 6 2014. Board of Trustees Centerline Holding Company since November 2003. March 1991-January 2010 Vice Chairman Aon Group Inc. Became Vice Chairman Emeritus Aon Group Inc January 2010. Board of Directors Universal Health Services Inc July 2004-May 2008.",batch3_part2_FULL_extraction.json
+person_135a,Person,Nicky Hilton Rothschild,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_58643,Person,Todd Meister,,,,,,son of person_135,batch3_part2_FULL_extraction.json
+person_ref_36090,Person,Keith Meister,,,,,,son of person_135,batch3_part2_FULL_extraction.json
+person_ref_73329,Person,Lisa Schad,,,,,,second wife of person_135,batch3_part2_FULL_extraction.json
+person_136,Person,Flavio Briatore,,1950,,Italian,businessman;restaurant manager;insurance salesman;Formula One team manager;club owner;brand owner,"Circled in JE address book. Italian businessman. Started career as restaurant manager and insurance salesman in Italy. When Benetton opened first five stores in US 1979, appointed Briatore as director of group's American operations. Convicted in Italy on several fraud charges 1980s, though convictions successively extinguished by amnesty. After appeal 1987 sentence reduced to 1 year 2 months. To avoid imprisonment lived in Saint Thomas, Virgin Islands. Never went to prison, returned to EU after both convictions extinguished by amnesty. Set up successful Benetton franchises as fugitive in Virgin Islands and US. 1990 promoted by Luciano Benetton to manager of Benetton Formula One racing team, which became Renault F1 in 2002. Created Billionaire brand 1998, owns club in Sardinia (since closed). August 2012 opened Billionaire Club in Marbella plus haute couture line Billionaire Italian Couture. 2004 opened Cipriani's restaurant Mayfair London. Until 2007 owned 48.9% of pharmaceuticals company Pierrel. 2007-2010 part-owner and chairman London's Queens Park Rangers F.C. Was on ING Renault F1 team but due to involvement in race fixing at 2008 Singapore Grand Prix forced to resign. 2010 Turin court ordered Briatore rehabilitated, which by Italian Criminal Code results in extinction of any criminal effect of conviction. Operates Tuscan beach club and Lion in the Sun (holiday resort Kenya). Beneficiary of Autumn Sailing Ltd which purchased super yacht Force Blue from Home Shopping Network investor Roy Speer for £68.2m.",batch3_part2_FULL_extraction.json
+person_136a,Person,Luciano Benetton,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_136b,Person,Roy Speer,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_137,Person,Arnold Paul Prosperi,,1948,2015,American,attorney;real estate attorney,JE crony who visited him in jail. 2001 disbarred Palm Beach attorney made headlines when five-year federal prison sentence commuted to three years house arrest by former President Bill Clinton. The two were college buddies. Former real estate attorney suffered from rare autoimmune disorder myasthenia gravis. Convicted November 1997 of filing false tax returns and creating counterfeit securities. PBP probable cause affidavit mentions JE's private investigator who told victims he was called 'Paul'.,batch3_part2_FULL_extraction.json
+person_146,Person,Barry Krischer,,,,American,Florida State Attorney;prosecutor,"Florida State Attorney during Epstein's case. Early 2006 stated that due to quality of evidence Epstein would only be charged with one count aggravated assault with no jail time, no requirement to register as sex offender, no restitution for victims. PBPD was unsatisfied and requested federal investigation. Also ran Florida's Crimes Against Children Unit. Wrote Assistant U.S. Attorney A. Marie Villafana (prosecutor handling federal matter): 'Glad we could get this worked out for reasons I won't put in writing. After this is resolved I would love to buy you a cup at Starbucks and have a conversation.' Re-hired a judge who was accused of sexual harassment and stepped down. Refused to prosecute police killing of Jerrod Miller. Was subpoenaed by US Commission of Civil Rights to investigate irregularities during 2000 election in Palm Beach County FL.",batch3_part2_FULL_extraction.json
+person_015,Person,Bradley J. Edwards,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_061a,Person,Virginia Roberts,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_061b,Person,Jack Scarola,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_151,Person,David Boies,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_061c,Person,Alan Burstein,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_061d,Person,Abdelbaset al-Megrahi,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_19801,Person,Sue Barlach,,,,,,wife of person_061,batch3_part2_FULL_extraction.json
+person_ref_1864,Person,Carolyn Cohen,,,,,,wife of person_061,batch3_part2_FULL_extraction.json
+person_ref_20043,Person,Ella Dershowitz,,,,,,child of person_061,batch3_part2_FULL_extraction.json
+person_ref_87058,Person,Jamin Dershowitz,,,,,,child of person_061,batch3_part2_FULL_extraction.json
+person_ref_86128,Person,Elon Dershowitz,,,,,,child of person_061,batch3_part2_FULL_extraction.json
+person_147,Person,Donald Hafele,,,,American,Palm Beach County Circuit Judge;judge,"Palm Beach County Circuit Judge who ruled allowing subpoenaed JE's victim abortion records but in 2009 ordered Epstein's erect member couldn't be examined for civil lawsuit filed against him by women he abused. 2014 sided with JE over victims' attorney Brad Edwards, ruling there is no legal basis for Edwards' claims of abuse of process and malicious prosecution. The ruling stemmed from civil lawsuit that JE filed 2009 against Edwards, claiming Edwards used judicial system improperly in investigating Epstein for civil lawsuits Edwards filed on behalf of victims. JE dropped his lawsuit against Edwards August 2012. But Edwards forged on with his counterclaim, saying Epstein filed 'baseless and unsupportable claims' to get Edwards to back down from representing victims and force him to spend time, energy and resources on own defense.",batch3_part2_FULL_extraction.json
+person_148,Person,Jay Lefkowitz,,,,American,attorney;White House aide;Mid East envoy;senior partner,"Attorney who helped negotiate JE's NPA with Kenneth Starr in 2007. Father Jerome was labor lawyer who drafted New York's landmark Taylor Law. As white house aide 1995, while trying to defend Pat Robertson's 'The New World Order' which allegedly 'regurgitates decades-old conspiracy theories about all-powerful bankers who just happen to be Jewish', Lefkowitz made statement to NY Times: 'I don't see Pat Robertson as being opposed to Jewish interests. Deep down, I believe that a little anti-Semitism is good for Jews -- it reminds us who we are.' Mentioned in article featured on front page of NY Times in 2001 about Bush vs Kennedy re: stem cell research. Also served as Mid East envoy for GWB. 2003 left GWB administration to join law firm of Kirkland Ellis where he is made senior partner. 1991 married Elena Neuman (daughter of wealthy real estate mogul Herbert Neuman), they have 3 kids Talia, Danielle and Jacob.",batch3_part2_FULL_extraction.json
+person_149,Person,Kenneth Starr,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_148a,Person,George W. Bush,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_148b,Person,Pat Robertson,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_148c,Person,Herbert Neuman,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_29981,Person,Jerome Lefkowitz,,,,,labor lawyer,father of person_148,batch3_part2_FULL_extraction.json
+person_ref_37821,Person,Elena Neuman,,,,,,wife of person_148,batch3_part2_FULL_extraction.json
+person_ref_32282,Person,Talia Lefkowitz,,,,,,child of person_148,batch3_part2_FULL_extraction.json
+person_ref_69944,Person,Danielle Lefkowitz,,,,,,child of person_148,batch3_part2_FULL_extraction.json
+person_ref_3307,Person,Jacob Lefkowitz,,,,,,child of person_148,batch3_part2_FULL_extraction.json
+person_191,Person,Gerald Lefcourt,,,,American,attorney;trial lawyer,"JE's lawyer 2007. Lefcourt graduated Brooklyn Law School, class of 1967. Considered one of the nation's best trial lawyers, Lefcourt is currently one of the attorneys in the federal KPMG tax shelter fraud prosecution.",batch3_part2_FULL_extraction.json
+person_150,Person,Guy Fronstin,,,,American,attorney,"JE attorney. 2006 he accepted a plea deal that would have billionaire plead guilty to one count of aggravated assault with intent to commit a felony, and would give him five years' probation but no criminal record, according to NY Post. That deal was to only apply to one of the five alleged victims. He was then fired and replaced with Jack A. Goldberger.",batch3_part2_FULL_extraction.json
+person_150a,Person,Jack A. Goldberger,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_138,Person,Kenneth Starr,,,,American,Solicitor General;attorney;prosecutor,Brokered JE's secret plea deal. 1989-1993 was 39th Solicitor General. A Republican he served as solicitor during the Monica Lewinsky trial.,batch3_part2_FULL_extraction.json
+person_142,Person,Bruce E. Reinhart,,,,American,Assistant U.S. Attorney;defense attorney,"1996-2008 distinguished former Assistant U.S. Attorney. His unexpected exit from United States Attorneys Office was surprising given timing. Asst US District Attorney in FL before leaving government to defend JE. He represented Sarah Kellen at time of her deposition in 2010. Reinhart moved to intervene in federal case to contest victims' allegations that Reinhart (a former prosecutor in U.S. Attorney's Office investigating Epstein) received confidential, non-public information about investigation. Victims specifically alleged that Reinhart had 'joined Epstein's payroll shortly after important decisions were made limiting Epstein's criminal liability' and that Reinhart had gone on to improperly represent Epstein-related witnesses in various civil suits. Reinhart filed sworn affidavit admitting that he had represented Epstein-related clients, but claiming that he did not possess any such confidential information. He sought to intervene to challenge victims' arguments but was denied by Court. He visited Epstein in prison July 2 2008 August 8 2008.",batch3_part2_FULL_extraction.json
+person_153,Person,Louis Freeh,,,,American,FBI Director;attorney;mediator,Clinton appointed former FBI Director. Is called in by Alan Dershowitz to mediate in the suits against Bradley Edwards and Paul Cassell. CACE 15-000072,batch3_part2_FULL_extraction.json
+person_154,Person,Darren Indyke,,,,American,corporate attorney,"Corporate attorney JE's companies are assigned to, visited JE daily in jail.",batch3_part2_FULL_extraction.json
+person_155,Person,Kenneth Marra,,,,American,Federal Judge,"Federal Judge on Jane Doe #1 and Jane Doe #2 vs the United States, 08-80736-CIV-MARRA, in which JE's victims say their rights were violated by JE's NPA. On April 7, 2015, Marra ruled that allegations made by Roberts against Prince Andrew had no bearing on aim of lawsuit to reopen Epstein's non-prosecution agreement and should be struck from record. Judge Marra made no ruling as to whether claims by Roberts are true or false. Marra specifically stated that Roberts may later give evidence when case comes to court. President George W. Bush nominated Marra to United States District Court for Southern District of Florida to new seat created by 114 Stat. 2762. Currently ruling on Chiquita/Colombian Para-Military case.",batch3_part2_FULL_extraction.json
+person_155a,Person,Prince Andrew,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_156,Person,R. Alexander Acosta,Alex Acosta,,,American,U.S. Attorney;law clerk;attorney,"Served as U.S. Attorney for Southern District of Florida from 2005-2009. 1994-1995 R. Alex Acosta, federal prosecutor during Jeffrey Epstein criminal case, a Harvard University Law graduate, serves as law clerk to Judge Samuel Alito for US Court of Appeals for Third Circuit. 1995 R. Alex Acosta hired by Kirkland Ellis befriends Kenneth Starr. Worked at Kirkland Ellis with Ken Starr. On March 20, 2011 Acosta wrote 'whistle blowing' letter that was published in Daily Beast. It detailed unprecedented 'assault' by JE's defense lawyers against prosecutors office and Palm Beach police during time of JE's NPA in 2008.",batch3_part2_FULL_extraction.json
+person_156a,Person,Samuel Alito,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_157,Person,Bob Josefsberg,,,,American,attorney;General Counsel;Assistant U.S. Attorney;special counsel,"JE approved & paid for civil defense lawyer for his victims. Served as General Counsel to Governor Bob Graham in 1980, served as assistant U.S. attorney for Southern District of Florida, and was special counsel to Dade County Grand Jury. He has served on many task forces, including American Bar Association's Standing Committee on Judiciary and U.S. Supreme Court's Advisory Committee on Criminal Rules. He received Florida Supreme Court's Tobias Simon Pro Bono Service Award for his commitment to providing pro bono representation.",batch3_part2_FULL_extraction.json
+person_157a,Person,Bob Graham,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_158a,Person,John V. Lindsay,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_158b,Person,Eliot Spitzer,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_158c,Person,Max Abramovitz,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_158d,Person,Lloyd Taft,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_158e,Person,John J Gilhooley,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_158f,Person,Louis Lefkowitz,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_ref_75664,Person,Lois Clapp,,,,,,wife of person_150,batch3_part2_FULL_extraction.json
+person_ref_73506,Person,Robert Sweet Jr.,,,,,,son of person_150,batch3_part2_FULL_extraction.json
+person_ref_54833,Person,Deborah Sweet,,,,,,daughter of person_150,batch3_part2_FULL_extraction.json
+person_ref_71517,Person,Ames Sweet,,,,,,son of person_150,batch3_part2_FULL_extraction.json
+person_ref_14286,Person,Eliza Sweet,,,,,,daughter of person_150,batch3_part2_FULL_extraction.json
+person_ref_49042,Person,James Sweet,,,,,attorney at Davis Polk & Wardwell,father of person_150,batch3_part2_FULL_extraction.json
+person_ref_12736,Person,George Sweet,,,,,aide to camp to FDR in Navy,uncle of person_150,batch3_part2_FULL_extraction.json
+person_ref_42800,Person,grandfather (name unknown),,,,,state senator,grandfather of person_150,batch3_part2_FULL_extraction.json
+person_159,Person,Donald Trump,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_160,Person,David Copperfield,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_161,Person,Bill Richardson,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_151a,Person,Al Gore,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_151b,Person,Karen Dunn,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_151c,Person,Hillary Clinton,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_162,Person,Spencer Kuvin,,,,American,attorney,B.B.'s attorneys,batch3_part2_FULL_extraction.json
+person_163,Person,Adam Langino,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_162a,Person,B.B.,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_064a,Person,Elena Weber,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_064b,Person,L.M.,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_064c,Person,Eric Holder,,,,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+person_164,Person,Daliah Weiss,,,,American,Assistant State Attorney,ASA taken off the JE case after grand jury bc husband works at Jack Goldberger's office,batch3_part2_FULL_extraction.json
+person_165,Person,Drew Oosterbaan,Andrew Oosterbaan,,,American,Chief of Child Exploitation and Obscenity Section;prosecutor,"Helped USAO draft JE's NPA. Chief of Department of Justice's Child Exploitation and Obscenity Section (CEOS). Drew Oosterbaan has been Chief of Child Exploitation and Obscenity Section (CEOS) of U.S. Department of Justice since 2001. CEOS leverages expertise of its prosecutors and computer forensic specialists to develop and prosecute high-impact child exploitation cases, national and frequently international in scope, involving most prolific and dangerous offenders. In 2003, Drew led CEOS in partnership with FBI and National Center for Missing and Exploited Children to design and implement Innocence Lost Initiative, nationwide, federal-local joint law enforcement strategy to investigate and prosecute traffickers exploiting minors through prostitution.",batch3_part2_FULL_extraction.json
+person_166,Person,Lara Belohlavek,,,,American,Assistant State Attorney,ASA,batch3_part2_FULL_extraction.json
+person_152,Person,Katie Johnson,,,,,,Filed suit against JE and Donald Trump April 26 2016 for sexual abuse in 1994 when she was 13 years old,batch3_remaining_profiles_part3_final.json
+person_167,Person,Tim O'Meilia,,,,,journalist,Palm Beach Post journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_168,Person,Larry Keller,,,,,journalist,Palm Beach Post journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_169,Person,Elisa Cramer,,,,,journalist,Palm Beach Post journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_170,Person,Jane Musgrave,,,,,journalist,Palm Beach Post journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_171,Person,Shannon Donnelly,,,,,journalist,PB Daily News Society journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_172,Person,Dan Mangan,,,,,journalist,NY Post journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_173,Person,Nigel Rosser,,,,,journalist,Evening Standard journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_174,Person,Nick Denton,,,,,journalist,Gawker journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_175,Person,Lilach Weissman,,,,,journalist,Jewish Business News journalist covering Epstein case,batch3_remaining_profiles_part3_final.json
+person_blackbook_circled_003,Person,Courtney Love,,,,,black book contact (circled),Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association,batch3_remaining_profiles_part3_final.json
+person_blackbook_circled_004,Person,Peter Soros,,,,,black book contact (circled),Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association,batch3_remaining_profiles_part3_final.json
+person_blackbook_circled_006,Person,Alberto Pinto,,,,,black book contact (circled),Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association,batch3_remaining_profiles_part3_final.json
+person_blackbook_circled_007,Person,Ehud Barak,,,,,black book contact (circled),Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association,batch3_remaining_profiles_part3_final.json
+person_blackbook_circled_011,Person,Larry Visoski,,,,,black book contact (circled),Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association,batch3_remaining_profiles_part3_final.json
+person_blackbook_circled_013,Person,Christopher Gaie,,,,,black book contact (circled),Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association,batch3_remaining_profiles_part3_final.json
+person_blackbook_circled_015,Person,Bill Richardson,,,,,black book contact (circled),Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association,batch3_remaining_profiles_part3_final.json
+person_blackbook_001,Person,Alec Baldwin,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_003,Person,David Blaine,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_004,Person,Tony Blair,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_005,Person,Mike Bloomberg,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_006,Person,Edgar Bronfman Jr,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_007,Person,Candace Bushnell,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_008,Person,William Carey,,,,,black book contact,Listed in Epstein's black book (William and Carina Carey),batch3_remaining_profiles_part3_final.json
+person_blackbook_009,Person,Carina Carey,,,,,black book contact,Listed in Epstein's black book (William and Carina Carey),batch3_remaining_profiles_part3_final.json
+person_blackbook_010,Person,Sophie Dahl,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_011,Person,Jeff Davies,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_012,Person,Isabel Goldsmith,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_013,Person,Barry Josephson,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_014,Person,Nancy Jarecki,,,,,black book contact,Listed in Epstein's black book (Nancy and Andrew Jarecki),batch3_remaining_profiles_part3_final.json
+person_blackbook_015,Person,Andrew Jarecki,,,,,black book contact,Listed in Epstein's black book (Nancy and Andrew Jarecki),batch3_remaining_profiles_part3_final.json
+person_blackbook_016,Person,Nick Jarecki,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_017,Person,Lal Dalamel,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_018,Person,Doug Liman,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_019,Person,Carol Mack,,,,,black book contact,Listed in Epstein's black book (Carol and Earl Mack),batch3_remaining_profiles_part3_final.json
+person_blackbook_020,Person,Earl Mack,,,,,black book contact,Listed in Epstein's black book (Carol and Earl Mack),batch3_remaining_profiles_part3_final.json
+person_blackbook_021,Person,Kevin Maxwell,,,,,black book contact,Listed in Epstein's black book (Kevin & Pandora Maxwell),batch3_remaining_profiles_part3_final.json
+person_blackbook_022,Person,Pandora Maxwell,,,,,black book contact,Listed in Epstein's black book (Kevin & Pandora Maxwell),batch3_remaining_profiles_part3_final.json
+person_blackbook_023,Person,John Mayhew,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_025,Person,Joel Pashcow,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_026,Person,Jessica Rothschild,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_027,Person,Hannah Rothschild,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_028,Person,Edouard de Rothschild,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_029,Person,Evelyn de Rothschild,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_030,Person,Simon Sebag-Montefiore,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_031,Person,Bobby Shriver,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_032,Person,Andrew Solomon,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_033,Person,Allison Stern,,,,,black book contact,Listed in Epstein's black book (Allison & Leonard Stern),batch3_remaining_profiles_part3_final.json
+person_blackbook_034,Person,Leonard Stern,,,,,black book contact,Listed in Epstein's black book (Allison & Leonard Stern),batch3_remaining_profiles_part3_final.json
+person_blackbook_035,Person,Brett Tollman,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_036,Person,Blaine Trump,,,,,black book contact,Listed in Epstein's black book (Blaine & Robert Trump),batch3_remaining_profiles_part3_final.json
+person_blackbook_037,Person,Robert Trump,,,,,black book contact,Listed in Epstein's black book (Blaine & Robert Trump),batch3_remaining_profiles_part3_final.json
+person_blackbook_038,Person,Ivana Trump,,,,,black book contact,Listed in Epstein's black book (Ivana & Ivanka Trump),batch3_remaining_profiles_part3_final.json
+person_blackbook_039,Person,Ivanka Trump,,,,,black book contact,Listed in Epstein's black book (Ivana & Ivanka Trump),batch3_remaining_profiles_part3_final.json
+person_blackbook_040,Person,Steve Wynn,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_041,Person,Andrew Yates,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_042,Person,Robert Goldberg,,,,,black book contact;NYPD,Listed in Epstein's black book (Robert Goldberg NYPD),batch3_remaining_profiles_part3_final.json
+person_blackbook_043,Person,Frederic Adler,,,,,black book contact,Listed in Epstein's black book (Frederic & Cath Adler),batch3_remaining_profiles_part3_final.json
+person_blackbook_044,Person,Cath Adler,,,,,black book contact,Listed in Epstein's black book (Frederic & Cath Adler),batch3_remaining_profiles_part3_final.json
+person_blackbook_046,Person,Eileen Guggenheim,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_047,Person,Walter Isaacson,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_049,Person,Lesley Wexner,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_050,Person,Joe Pagano,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_051,Person,Michael Ovitz,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_blackbook_052,Person,David Rockefeller,,,,,black book contact,Listed in Epstein's black book,batch3_remaining_profiles_part3_final.json
+person_201,Person,E.W.,E.W.;Courtney Wild,,,,,"Homeless JE victim. Received FBI letters Jan 10, 2008 and May 30, 2008 advising case under investigation. Hired Brad Edwards June 13, 2008 to represent her in federal suit claiming victim rights violated by JE's NPA under Crime Victims' Rights Act (CVRA). Also abused by Alan Dershowitz.",supplemental_victim_extraction.json
+person_202,Person,A.H.,A.H.;Jane Doe 3;Alexandra Hall,,,,,Epstein sent roses to her after her high school play. Raped her after 3some with Nadia Marcinkova. Critical evidence of criminal activity pattern.,supplemental_victim_extraction.json
+person_071,Person,Nadia Marcinkova,,,,,,Referenced in relationships,supplemental_victim_extraction.json
+person_203,Person,Chauntae Davies,,,,,massage girl;actress,"JE California 'massage' girl who traveled on 'Lolita Express' with Bill Clinton in 2002. Actress with credits including HBO's Enlightened. In 2002 landed role as 'lingerie model' in Exposed, movie produced by softcore porn company MRG Entertainment.",supplemental_victim_extraction.json
+person_204,Person,Tatiania Kovylinda,,,,,Victoria Secret model,Victoria Secret model provided by JE to Alan Dershowitz. Direct evidence of Epstein providing women to associates.,supplemental_victim_extraction.json
+person_205,Person,Annie Farmer,,,,,,Was assaulted by Ghislaine Maxwell and Jeffrey Epstein at Leslie Wexner's property. Connects Wexner directly to assault location.,supplemental_victim_extraction.json
+person_206,Person,Natalya Malychev,,,,,,Recruiter for Epstein. Recruited Jane Doe 43 from South Africa.,supplemental_victim_extraction.json
+person_207,Person,Jane Doe 43,,,,,,Referenced in relationships,supplemental_victim_extraction.json
+person_208,Person,Nadia Bjorlin,,,,,opera singer;actress,Opera singer and Days of Our Lives actress whom Epstein met at Interlochen Music School in Michigan when she was 13. Evidence of targeting minors at educational institutions.,supplemental_victim_extraction.json

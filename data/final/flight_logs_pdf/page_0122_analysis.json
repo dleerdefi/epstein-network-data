@@ -1,0 +1,686 @@
+{
+  "page_number": 122,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:26.733348",
+  "chunk": "chunk_081-090",
+  "flights": [
+    {
+      "date": {
+        "original": "11/05/2003",
+        "parsed": "2003-11-05",
+        "display": "11/05/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ENGM",
+        "to": "UNNT",
+        "from_codes": [
+          "ENGM"
+        ],
+        "to_codes": [
+          "UNNT"
+        ],
+        "from_full": "Oslo, Norway",
+        "to_full": "Novosibirsk, Russia",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "228",
+        "iidd": "1134",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Secret Service (4)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0004"
+    },
+    {
+      "date": {
+        "original": "11/06/2003",
+        "parsed": "2003-11-06",
+        "display": "11/06/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "UNNT",
+        "to": "VHHH",
+        "from_codes": [
+          "UNNT"
+        ],
+        "to_codes": [
+          "VHHH"
+        ],
+        "from_full": "Novosibirsk, Russia",
+        "to_full": "Hong Kong, Hong Kong",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "229",
+        "iidd": "1141",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Secret Service (4)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0011"
+    },
+    {
+      "date": {
+        "original": "11/09/2003",
+        "parsed": "2003-11-09",
+        "display": "11/09/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VHHH",
+        "to": "ZUUU",
+        "from_codes": [
+          "VHHH"
+        ],
+        "to_codes": [
+          "ZUUU"
+        ],
+        "from_full": "Hong Kong, Hong Kong",
+        "to_full": "Chengdu, China",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "230",
+        "iidd": "1148",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ira Magaziner",
+          "code": "IM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Secret Service (4)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0018"
+    },
+    {
+      "date": {
+        "original": "11/09/2003",
+        "parsed": "2003-11-09",
+        "display": "11/09/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ZUUU",
+        "to": "ZBAA",
+        "from_codes": [
+          "ZUUU"
+        ],
+        "to_codes": [
+          "ZBAA"
+        ],
+        "from_full": "Chengdu, China",
+        "to_full": "Beijing, China",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "231",
+        "iidd": "1156",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joe Novich",
+          "code": "JN",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ira Magaziner",
+          "code": "IM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jantelle Torie",
+          "code": "JT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Scott Rueber",
+          "code": "SR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0026"
+    },
+    {
+      "date": {
+        "original": "11/10/2003",
+        "parsed": "2003-11-10",
+        "display": "11/10/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ZUUU",
+        "to": "ZBAA",
+        "from_codes": [
+          "ZUUU"
+        ],
+        "to_codes": [
+          "ZBAA"
+        ],
+        "from_full": "Chengdu, China",
+        "to_full": "Beijing, China",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "231",
+        "iidd": "1165",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Secret Service (4)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0036"
+    },
+    {
+      "date": {
+        "original": "11/11/2003",
+        "parsed": "2003-11-11",
+        "display": "11/11/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ZBAA",
+        "to": "PANC",
+        "from_codes": [
+          "ZBAA"
+        ],
+        "to_codes": [
+          "PANC"
+        ],
+        "from_full": "Beijing, China",
+        "to_full": "Anchorage, AK, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "232",
+        "iidd": "1167",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0037"
+    },
+    {
+      "date": {
+        "original": "11/11/2003",
+        "parsed": "2003-11-11",
+        "display": "11/11/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PANC",
+        "to": "JFK",
+        "from_codes": [
+          "PANC"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Anchorage, AK, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "233",
+        "iidd": "1170",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0040"
+    },
+    {
+      "date": {
+        "original": "11/14/2003",
+        "parsed": "2003-11-14",
+        "display": "11/14/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "234",
+        "iidd": "1173",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "L C",
+          "code": "LC",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0043"
+    },
+    {
+      "date": {
+        "original": "11/18/2003",
+        "parsed": "2003-11-18",
+        "display": "11/18/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "235",
+        "iidd": "1178",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "L C",
+          "code": "LC",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "081-090",
+      "v3_flight_id": "chunk_081-090_p004_r0048"
+    }
+  ]
+}

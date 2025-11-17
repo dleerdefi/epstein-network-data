@@ -1,0 +1,563 @@
+{
+  "batch_name": "Batch 2: Victims/Procurers - NORMALIZED",
+  "source_lines": "66-105",
+  "extraction_date": "2025-11-14",
+  "normalization_date": "2025-11-14",
+  "normalization_note": "Added explicit relationships[] arrays extracted from implicit fields (alleged_abusers, legal_representation, recruited_by) and summary text for CSV generation compatibility",
+  "total_profiles": 25,
+  "profiles": [
+    {
+      "entity_id": "person_071",
+      "name": "Nadia Marcinkova",
+      "aliases": [
+        "Nadia/Nada Marcinkova",
+        "Nadia Marcinko",
+        "Global Girl"
+      ],
+      "occupations": [
+        "JE victim & co-conspirator",
+        "pilot",
+        "flight instructor",
+        "online pilot celebrity"
+      ],
+      "summary": "Allegedly 'bought' from Yugoslavian parents by Epstein at age 14. Visa paid for by Epstein. Described as his 'lesbian sex slave'. Engaged in sexual activity with victims. Kept out of country in 2007 to avoid subpoena. Deposed April 13 2010. Got FAA license, trained at same school as Mohammed Atta. Company Aviloop 301 E 66th St.",
+      "companies": [
+        "Aviloop"
+      ],
+      "locations": [
+        "301 E 66th St"
+      ],
+      "training": "Palm Beach Flight Training (Director: Marian Smith)",
+      "legal_events": [
+        {
+          "description": "Subpoena avoided 2007",
+          "confidence": 0.7,
+          "date_confidence": 0.3,
+          "verification_status": "Unverified"
+        },
+        {
+          "description": "Deposed April 13 2010",
+          "confidence": 0.7,
+          "date_confidence": 0.3,
+          "verification_status": "Unverified"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Allegedly 'bought' from parents at age 14, victim and co-conspirator",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 8
+    },
+    {
+      "entity_id": "person_072",
+      "name": "Johanna Sjoberg",
+      "occupations": [
+        "girlfriend/masseuse of JE",
+        "of consenting age"
+      ],
+      "summary": "Met Prince Andrew Easter 2001 per affidavit. Maxwell and Virginia Roberts present plus other underage girls. Told press Prince Andrew groped her breast. Article broke Sept 23 2007.",
+      "key_events": [
+        "Easter 2001 meeting with Prince Andrew",
+        "Groping claim",
+        "Article Sept 23 2007"
+      ],
+      "relationships": [],
+      "entity_count": 5
+    },
+    {
+      "entity_id": "person_073",
+      "name": "L.M.",
+      "aliases": [
+        "Jane Doe #1"
+      ],
+      "birth_year": 1988,
+      "summary": "Born 1988. Assaulted by Epstein 50+ times between Aug 2002 (age 13) and Sept 2005. Also abused by Alan Dershowitz. Pregnant at 16, Epstein bought registry gifts delivered to trailer home. Pressed charges with Palm Beach police. FBI victim notifications Jan 10 2008 and May 30 2008. Edwards represented in L.M. v. Jeffrey Epstein ($15M award). Filed federal suit July 7 2008 re NPA violation. Epstein sued L.M. and Edwards Dec 7 2009. Edwards filed summary judgment 2011 with 53 undisputed facts. Case ongoing.",
+      "legal_cases": [
+        "L.M. v. Jeffrey Epstein ($15M award)",
+        "Federal suit July 7 2008 (NPA violation)",
+        "Jeffrey Epstein v. Scott Rothstein, Bradley J. Edwards, and L.M. (Dec 7 2009)",
+        "Summary judgment motion 2011"
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Assaulted 50+ times between Aug 2002 (age 13) and Sept 2005",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_dershowitz",
+          "name": "Alan Dershowitz",
+          "type": "ABUSED_BY",
+          "context": "Also abused by Alan Dershowitz",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_edwards",
+          "name": "Bradley J. Edwards",
+          "type": "REPRESENTED_BY",
+          "context": "Legal representation in L.M. v. Jeffrey Epstein ($15M award)",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        }
+      ],
+      "entity_count": 12
+    },
+    {
+      "entity_id": "person_074",
+      "name": "Nicole Junkermann",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_075",
+      "name": "Andrea Mitrovitch",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_076",
+      "name": "Cindy Lopez",
+      "aliases": [
+        "C.L."
+      ],
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_077",
+      "name": "B.B.",
+      "notes": "Also abused by Dershowitz",
+      "legal_cases": [
+        "B.B. v. Epstein"
+      ],
+      "profile_type": "brief_mention",
+      "category": "victim",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Victim - legal case B.B. v. Epstein",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_dershowitz",
+          "name": "Alan Dershowitz",
+          "type": "ABUSED_BY",
+          "context": "Also abused by Dershowitz",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_078",
+      "name": "S.R.",
+      "aliases": [
+        "Jane Doe",
+        "S.R."
+      ],
+      "notes": "Brad Edwards agreed to represent July 2, 200[?]. Source text appears truncated in document lines 76-77. Separate from E.W./Courtney Wild who is person_201.",
+      "profile_type": "brief_mention",
+      "category": "victim",
+      "legal_representation": "Bradley J. Edwards",
+      "source_line": "76-77",
+      "data_quality_note": "Incomplete data in source - date year truncated",
+      "relationships": [
+        {
+          "entity_id": "person_ref_edwards",
+          "name": "Bradley J. Edwards",
+          "type": "REPRESENTED_BY",
+          "context": "Legal representation - agreed to represent July 2, 200[?]",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_079",
+      "name": "Juliana Barbosa",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_080",
+      "name": "Amanda Venaro",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_081",
+      "name": "Juliette Bryant",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_082",
+      "name": "Andrea Metrovich",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_083",
+      "name": "Tila Davies Jeletzia Claire Hazel Zinta Braukis",
+      "aliases": [
+        "Braukis",
+        "Broukis"
+      ],
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "notes": "Name appears to be run-together multiple names or single complex name",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_084",
+      "name": "Vanessa",
+      "aliases": [
+        "Jane Doe 4"
+      ],
+      "notes": "2010",
+      "profile_type": "brief_mention",
+      "category": "victim",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_085",
+      "name": "Melissa Hanes",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_086",
+      "name": "Carolyn Andriano",
+      "aliases": [
+        "C.M.A."
+      ],
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_087",
+      "name": "Elena Weber",
+      "aliases": [
+        "Aline Weber"
+      ],
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "notes": "May be same as Aline Weber mentioned in Brunel profile",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_088",
+      "name": "Dainya Nida Mohini",
+      "aliases": [
+        "Dianya Nida",
+        "Jane Doe II"
+      ],
+      "profile_type": "brief_mention",
+      "category": "victim",
+      "notes": "Case: Dianya Nida v. Epstein and Kellen",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Legal case: Dianya Nida v. Epstein and Kellen",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_072",
+          "name": "Sarah Kellen",
+          "type": "ABUSED_BY",
+          "context": "Legal case: Dianya Nida v. Epstein and Kellen",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_089",
+      "name": "Lauren Murphy",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_090",
+      "name": "Michelle Tagliani",
+      "profile_type": "brief_mention",
+      "category": "model/masseuse",
+      "relationships": [],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_091",
+      "name": "Haley Robson",
+      "birth_date": "1986-04-09",
+      "birth_location": "rural Loxahatchee, Florida",
+      "occupations": [
+        "procurer",
+        "co-conspirator"
+      ],
+      "summary": "Daughter of retired Florida policeman. Born April 9 1986 in rural Loxahatchee. Finished high school, enrolled Palm Beach Community College. Met Epstein around 2004. Of Royal Palm Beach. Worked at Olive Garden in Wellington. Journalism major at PBCC when questioned by police.",
+      "locations": [
+        "Royal Palm Beach",
+        "Wellington",
+        "Loxahatchee"
+      ],
+      "organizations": [
+        "Palm Beach Community College",
+        "Olive Garden"
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "WORKED_FOR",
+          "context": "Procurer and co-conspirator for Epstein, met around 2004",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 6
+    },
+    {
+      "entity_id": "person_092",
+      "name": "Rachel Chandler",
+      "occupations": [
+        "unofficial procurer",
+        "photographer",
+        "alleged girlfriend of Bill Clinton"
+      ],
+      "education": "Brentwood School, Westside Los Angeles (graduated June 2005)",
+      "summary": "Graduated Brentwood School June 2005. Descendant of Otis Chandler (LA Times owner). Childhood friends with Paris Hilton. Works as photographer, recently connected to occultist Marina Abramovic. Married Tom Guiness 2012.",
+      "family": "Descendant of OTIS CHANDLER",
+      "associates": [
+        "PARIS HILTON",
+        "MARINA ABRAMOVIC",
+        "TOM GUINESS",
+        "BILL CLINTON"
+      ],
+      "married": "2012 to TOM GUINESS",
+      "relationships": [],
+      "entity_count": 8
+    },
+    {
+      "entity_id": "person_093",
+      "name": "Maximila Cordero",
+      "aliases": [
+        "Ava Cordero"
+      ],
+      "birth_year": 1983,
+      "summary": "Born 1983. JE victim in NYC. In complaint (Cordero v. Epstein) alleges Epstein told her during massage 'I love how young you are. You have a tight butt like a baby'. Filed suit against NY Post for slander/defamation (Ava v. NYP Holdings, Inc.)",
+      "legal_cases": [
+        "Cordero v. Epstein",
+        "Ava v. NYP Holdings, Inc."
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "JE victim in NYC - complaint Cordero v. Epstein",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 4
+    },
+    {
+      "entity_id": "person_094",
+      "name": "Adriana Ross Muscinska",
+      "aliases": [
+        "Adrianna Muchinska"
+      ],
+      "birth_year": 1983,
+      "occupations": [
+        "JE co-conspirator",
+        "assistant"
+      ],
+      "summary": "Born 1983. Invited by Elite Models, moved to Miami from Poland Fall 2002. Hired at Epstein's Florida mansion, organized daily massage rituals. Married Duncan Ross July 12 2003. Began working as JE's assistant late 2004. Received Grand Jury investigation letter Aug 31 2007. Got bachelors from Miami Dade College 2008. Deposed March 15 2010. Residence: 1040 South Shore Drive Miami (alleged to have hidden evidence).",
+      "married": "July 12 2003 to DUNCAN ROSS",
+      "education": "Miami Dade College (bachelors 2008)",
+      "locations": [
+        "1040 South Shore Drive Miami"
+      ],
+      "organizations": [
+        "Elite Models",
+        "Miami Dade College"
+      ],
+      "legal_events": [
+        {
+          "description": "Grand Jury letter Aug 31 2007",
+          "confidence": 0.7,
+          "date_confidence": 0.3,
+          "verification_status": "Unverified"
+        },
+        {
+          "description": "Deposed March 15 2010",
+          "confidence": 0.7,
+          "date_confidence": 0.3,
+          "verification_status": "Unverified"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "WORKED_FOR",
+          "context": "Assistant and co-conspirator, organized daily massage rituals, worked late 2004+",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 10
+    },
+    {
+      "entity_id": "person_095",
+      "name": "Emmy Taylor",
+      "aliases": [
+        "Emmy Tayler"
+      ],
+      "birth_year": 1975,
+      "nationality": "British",
+      "occupations": [
+        "actress",
+        "JE victim"
+      ],
+      "summary": "Born 1975. British actress. Close to Ghislaine Maxwell. Alleged to be Maxwell's 'sex slave'. Has address linked to Oxford. July 16 2001 flight from Santa Fe NM to Teterboro NJ with Epstein, Maxwell, Roberts. Refused to comment on relationship.",
+      "locations": [
+        "Oxford"
+      ],
+      "flights": [
+        "July 16 2001: Santa Fe NM to Teterboro NJ with Epstein, Maxwell, Roberts"
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_002",
+          "name": "Ghislaine Maxwell",
+          "type": "ABUSED_BY",
+          "context": "Alleged to be Maxwell's 'sex slave', close relationship",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ],
+      "entity_count": 6
+    },
+    {
+      "entity_id": "person_096",
+      "name": "Alfredo Rodriguez",
+      "death_year": 2014,
+      "death_date": "2014-12",
+      "death_cause": "mesothelioma (asbestos-related cancer)",
+      "death_age": 60,
+      "occupations": [
+        "JE's house manager"
+      ],
+      "summary": "JE's house manager. Deposed Aug 7 2009. After deposition attempted to sell 97-page document appropriated from Epstein's computer containing telephone directory and list of apparent young girls in various locations. FBI undercover employee set up meeting, exchanged $50k buy money for document. FBI arrested Rodriguez for obstruction of justice. Sentenced to 18 months in prison (U.S. v. Rodriguez, No. 9:10-CR-80015-KAM). Later discovered DOJ had another copy. Died Dec 2014 at 60 from mesothelioma.",
+      "legal_cases": [
+        "U.S. v. Rodriguez, No. 9:10-CR-80015-KAM (obstruction of justice, 18 months prison)"
+      ],
+      "legal_events": [
+        {
+          "description": "Deposed Aug 7 2009",
+          "confidence": 1.0,
+          "date_confidence": 0.3,
+          "verification_status": "Factual"
+        },
+        {
+          "description": "FBI sting operation $50k",
+          "confidence": 1.0,
+          "date_confidence": 0.3,
+          "verification_status": "Factual"
+        },
+        {
+          "description": "Arrested for obstruction",
+          "confidence": 1.0,
+          "date_confidence": 0.3,
+          "verification_status": "Factual"
+        },
+        {
+          "description": "Sentenced 18 months",
+          "confidence": 1.0,
+          "date_confidence": 0.3,
+          "verification_status": "Factual"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "WORKED_FOR",
+          "context": "House manager for Jeffrey Epstein",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        }
+      ],
+      "entity_count": 8
+    }
+  ],
+  "batch_stats": {
+    "total_profiles": 26,
+    "detailed_profiles": 10,
+    "brief_mentions": 16,
+    "total_entities": 93,
+    "persons": 26,
+    "organizations": 8,
+    "locations": 10,
+    "legal_cases": 15,
+    "events": 34,
+    "relationships_added": 15
+  }
+}

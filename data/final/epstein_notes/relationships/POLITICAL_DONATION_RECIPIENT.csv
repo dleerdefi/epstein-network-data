@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_024,person_012,POLITICAL_DONATION_RECIPIENT,65,0.733,Hoffenberg bragged about donations to Clinton campaign,Unverified

@@ -1,0 +1,783 @@
+{
+  "page_number": 116,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:16.473676",
+  "chunk": "chunk_071-080",
+  "flights": [
+    {
+      "date": {
+        "original": "04/06/2003",
+        "parsed": "2003-04-06",
+        "display": "04/06/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "GVAL",
+        "to": "LFPB",
+        "from_codes": [
+          "GVAL"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "Geneva, Switzerland",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "191",
+        "iidd": "875",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Magale Blachou",
+          "code": "MB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0003"
+    },
+    {
+      "date": {
+        "original": "04/10/2003",
+        "parsed": "2003-04-10",
+        "display": "04/10/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "CYQX",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "CYQX"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Gander, Canada",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "192",
+        "iidd": "880",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Michael Liffman",
+          "code": "ML",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Evelyn Boulet",
+          "code": "EB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Suetlana Griaznovc",
+          "code": "SG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0008"
+    },
+    {
+      "date": {
+        "original": "04/10/2003",
+        "parsed": "2003-04-10",
+        "display": "04/10/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CYQX",
+        "to": "PBI",
+        "from_codes": [
+          "CYQX"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Gander, Canada",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "193",
+        "iidd": "886",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Evelyn Boulet",
+          "code": "EB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Michael Liffman",
+          "code": "ML",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Suetlana Griaznovc",
+          "code": "SG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0014"
+    },
+    {
+      "date": {
+        "original": "04/13/2003",
+        "parsed": "2003-04-13",
+        "display": "04/13/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Columbus, OH, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1623",
+        "iidd": "892",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Michael Liffman",
+          "code": "ML",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Barry Massion",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0020"
+    },
+    {
+      "date": {
+        "original": "04/13/2003",
+        "parsed": "2003-04-13",
+        "display": "04/13/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "CMH",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Columbus, OH, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1626",
+        "iidd": "898",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Michael Liffman",
+          "code": "ML",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Barry Massion",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0026"
+    },
+    {
+      "date": {
+        "original": "04/14/2003",
+        "parsed": "2003-04-14",
+        "display": "04/14/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "MIV",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "MIV"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Millville, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1628",
+        "iidd": "904",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Barry Massion",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0032"
+    },
+    {
+      "date": {
+        "original": "04/16/2003",
+        "parsed": "2003-04-16",
+        "display": "04/16/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MIV",
+        "to": "TEB",
+        "from_codes": [
+          "MIV"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Millville, NJ, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1629",
+        "iidd": "906",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Barry Massion",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0034"
+    },
+    {
+      "date": {
+        "original": "04/17/2003",
+        "parsed": "2003-04-17",
+        "display": "04/17/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1630",
+        "iidd": "907",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Barry Massion",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0035"
+    },
+    {
+      "date": {
+        "original": "04/21/2003",
+        "parsed": "2003-04-21",
+        "display": "04/21/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "ADS",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "ADS"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Dallas, TX, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1631",
+        "iidd": "914",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0042"
+    },
+    {
+      "date": {
+        "original": "04/21/2003",
+        "parsed": "2003-04-21",
+        "display": "04/21/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ADS",
+        "to": "SAF",
+        "from_codes": [
+          "ADS"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Dallas, TX, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1632",
+        "iidd": "918",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0046"
+    },
+    {
+      "date": {
+        "original": "04/24/2003",
+        "parsed": "2003-04-24",
+        "display": "04/24/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "SBA",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "SBA"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "Santa Barbara, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1633",
+        "iidd": "922",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Teala Davies",
+          "code": "TD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Diane Fleetwood",
+          "code": "DF",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p008_r0050"
+    }
+  ]
+}

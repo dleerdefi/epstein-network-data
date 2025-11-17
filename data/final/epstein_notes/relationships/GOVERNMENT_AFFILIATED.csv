@@ -1,0 +1,6 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_007,person_064,GOVERNMENT_AFFILIATED,false,,0.7,"Contacted Roberts March 2011 after Daily Mail story, expressed interest in case",Unverified
+person_007,person_065,GOVERNMENT_AFFILIATED,false,,0.7,Edwards sent letter Aug 20 2014 requesting consent to add Roberts as Jane Doe #3. Delayed response until Dec 23 2014 objection.,Unverified
+person_001,person_008,GOVERNMENT_AFFILIATED,false,,0.7,OFM official allegedly gave Epstein permission to sublet seized Iranian property,Unverified
+person_001,person_025,GOVERNMENT_AFFILIATED,false,65,0.733,Met as early as 1995 at Palm Beach fundraising dinner. Became close friends after Clinton left office and moved to NYC,Unverified
+person_150,person_158f,GOVERNMENT_AFFILIATED,,,0.7,,Unverified

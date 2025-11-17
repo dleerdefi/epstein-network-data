@@ -1,0 +1,984 @@
+{
+  "page_number": 31,
+  "document_type": "flight_log",
+  "extraction_version": "v2",
+  "extraction_date": "2025-10-13",
+  "source_image": "page-031.png",
+  "flights": [
+    {
+      "date": {
+        "original": "OCT 15",
+        "parsed": "10/15/1994",
+        "display": "1994-10-15",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high",
+        "notes": "Gulfstream"
+      },
+      "route": {
+        "from": "SAV",
+        "to": "SAV",
+        "notes": "Local test flight at Savannah",
+        "from_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "to_expanded": "Savannah/Hilton Head International Airport, Georgia"
+      },
+      "remarks": "TEST FLIGHT FCR VIBRATION AFTER TAKE OFF",
+      "passengers": [],
+      "flight_data": {
+        "flight_number": "600"
+      }
+    },
+    {
+      "date": {
+        "original": "15",
+        "parsed": "10/15/1994",
+        "display": "1994-10-15",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAV",
+        "to": "PBI",
+        "notes": "Savannah to Palm Beach after test flight",
+        "from_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "REPOSITION",
+      "passengers": [],
+      "flight_data": {
+        "flight_number": "601"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "10/18/1994",
+        "display": "1994-10-18",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "notes": "Palm Beach to Teterboro",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, GM, JERRY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jerry",
+          "type": "identified",
+          "code": "",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "602"
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "10/20/1994",
+        "display": "1994-10-20",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "notes": "Teterboro to Columbus",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "John Glenn Columbus International Airport, Columbus, Ohio"
+      },
+      "remarks": "JE, 1 FEMALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 FEMALE",
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "603"
+      }
+    },
+    {
+      "date": {
+        "original": "21",
+        "parsed": "10/21/1994",
+        "display": "October 21, 1994",
+        "confidence": "high",
+        "notes": "Sequential date"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "notes": "Columbus to Palm Beach",
+        "from_expanded": "John Glenn Columbus International Airport, Columbus, Ohio",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "604"
+      }
+    },
+    {
+      "date": {
+        "original": "23",
+        "parsed": "10/23/1994",
+        "display": "October 23, 1994",
+        "confidence": "high",
+        "notes": "Sequential date"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "notes": "Palm Beach to Teterboro",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "605"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "10/27/1994",
+        "display": "1994-10-27",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DCA",
+        "notes": "Teterboro to Washington DC",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Ronald Reagan Washington National Airport, Washington DC"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "606"
+      }
+    },
+    {
+      "date": {
+        "original": "27",
+        "parsed": "10/27/1994",
+        "display": "1994-10-27",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "PBI",
+        "notes": "Washington DC to Palm Beach",
+        "from_expanded": "Ronald Reagan Washington National Airport, Washington DC",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, SOPHIE BIDDLE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "607"
+      }
+    },
+    {
+      "date": {
+        "original": "31",
+        "parsed": "10/31/1994",
+        "display": "1994-10-31",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "notes": "Palm Beach to Teterboro",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, FRANCES, RUPERT",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Rupert",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "608"
+      }
+    },
+    {
+      "date": {
+        "original": "NOV 3",
+        "parsed": "11/03/1994",
+        "display": "1994-11-03",
+        "confidence": "high",
+        "notes": "Month change to November"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "notes": "Teterboro to Palm Beach",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "609"
+      }
+    },
+    {
+      "date": {
+        "original": "6",
+        "parsed": "11/06/1994",
+        "display": "1994-11-06",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "notes": "Palm Beach to Teterboro",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "610"
+      }
+    },
+    {
+      "date": {
+        "original": "11",
+        "parsed": "11/11/1994",
+        "display": "November 11, 1994",
+        "confidence": "high",
+        "notes": "Veterans Day in US"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "notes": "Teterboro to Columbus",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "John Glenn Columbus International Airport, Columbus, Ohio"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "611"
+      }
+    },
+    {
+      "date": {
+        "original": "12",
+        "parsed": "11/12/1994",
+        "display": "1994-11-12",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "notes": "Columbus to Palm Beach",
+        "from_expanded": "John Glenn Columbus International Airport, Columbus, Ohio",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "612"
+      }
+    },
+    {
+      "date": {
+        "original": "14",
+        "parsed": "11/14/1994",
+        "display": "1994-11-14",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "notes": "Palm Beach to Teterboro",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "613"
+      }
+    },
+    {
+      "date": {
+        "original": "17",
+        "parsed": "11/17/1994",
+        "display": "1994-11-17",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "IAD",
+        "notes": "Teterboro to Dulles",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Washington Dulles International Airport, Virginia"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "614"
+      }
+    },
+    {
+      "date": {
+        "original": "17",
+        "parsed": "11/17/1994",
+        "display": "1994-11-17",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "IAD",
+        "to": "PBI",
+        "notes": "Dulles to Palm Beach",
+        "from_expanded": "Washington Dulles International Airport, Virginia",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "615"
+      }
+    },
+    {
+      "date": {
+        "original": "19",
+        "parsed": "11/19/1994",
+        "display": "1994-11-19",
+        "confidence": "high",
+        "notes": "Sequential date"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "SBEG",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Unknown (Brazilian airport code)"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "616"
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "11/20/1994",
+        "display": "1994-11-20",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SBEG",
+        "to": "SBGL",
+        "from_expanded": "Unknown (Brazilian airport code)",
+        "to_expanded": "Rio de Janeiro/Gale\u00e3o International Airport, Brazil"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "617"
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "11/22/1994",
+        "display": "1994-11-22",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SBGL",
+        "to": "SAEZ",
+        "from_expanded": "Rio de Janeiro/Gale\u00e3o International Airport, Brazil",
+        "to_expanded": "Buenos Aires Ezeiza International Airport, Argentina"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "618"
+      }
+    }
+  ],
+  "page_totals": {
+    "visible_total_line": "3714",
+    "amount_forward": "18887",
+    "total_to_date": "22601",
+    "calculated_from_entries": 0,
+    "notes": "Page total shows 3714 miles. Amount forward 18887 matches page 30's total. New total to date: 22,601 miles. All individual mileages blank. NOTE: Visible corrections show multiple overwrites - appears to read '9797' corrected to '3714', and total shows '5797' or '6341' corrected to '22601'.",
+    "correction_visible": true,
+    "correction_notes": "Heavy corrections visible: Page Total shows '9797' crossed out, changed to '3714'. Total to Date shows multiple corrections with '5797', '6341', and final '22601'.",
+    "validation_status": "cannot_validate_individual_mileages",
+    "heavy_corrections": {
+      "original_page_total": "9797",
+      "corrected_to": "3714",
+      "total_to_date_corrections": [
+        "5797",
+        "6341",
+        "22601"
+      ],
+      "amount_forward_matches_prev_page": true,
+      "prev_page_total": 18887,
+      "this_page_amount_forward": 18887
+    }
+  },
+  "pilot_signature": {
+    "name": "David Rodgers",
+    "confidence": "high",
+    "notes": "Same pilot signature as page 30"
+  },
+  "page_metadata": {
+    "total_flights": 19,
+    "date_range": {
+      "start": "10/15/1994",
+      "end": "1994-11-22",
+      "span_days": 39
+    },
+    "aircraft_used": [
+      {
+        "type": "G1159B",
+        "tail": "N908JE",
+        "flights": 19,
+        "notes": "Exclusively Gulfstream - all flights use this aircraft. Required for international range."
+      }
+    ],
+    "airports_visited": [
+      "PBI (Palm Beach, FL) - 9 flights",
+      "TEB (Teterboro, NJ) - 9 flights",
+      "CMH (Columbus, OH) - 4 flights",
+      "DCA (Washington DC) - 2 flights",
+      "IAD (Dulles, VA) - 2 flights",
+      "SAV (Savannah, GA) - 2 flights",
+      "SBGL (Rio de Janeiro, Brazil) - 3 flights",
+      "SAZL (Argentina) - 1 flight"
+    ],
+    "notable_passengers": [
+      {
+        "name": "Jeffrey Epstein (JE)",
+        "appearances": 18,
+        "flight_numbers": "602-618",
+        "notes": "Present on all passenger flights. First international trip to South America."
+      },
+      {
+        "name": "GM",
+        "appearances": 11,
+        "flight_numbers": "602, 604-606, 609-610, 613-618",
+        "notes": "Most frequent companion - travels to South America with JE"
+      },
+      {
+        "name": "Sophie Biddle",
+        "appearances": 1,
+        "flight_numbers": "607",
+        "notes": "Brief appearance after 3-month Santa Fe stay"
+      },
+      {
+        "name": "Frances Robert",
+        "appearances": 1,
+        "flight_numbers": "608",
+        "notes": "Possibly same person as 'Frances Jardine' from page 30"
+      },
+      {
+        "name": "Jerry",
+        "appearances": 1,
+        "flight_numbers": "602",
+        "notes": "First name only"
+      }
+    ],
+    "recurring_passengers": [
+      "GM (11 appearances - dominant companion)",
+      "1 FEMALE (1 appearance)"
+    ],
+    "cryptic_notations": [],
+    "special_dates": [
+      {
+        "date": "10/15/1994",
+        "note": "Test flight for vibration issue + repositioning after maintenance"
+      },
+      {
+        "date": "10/31/1994",
+        "note": "Halloween - flight with Frances Robert"
+      },
+      {
+        "date": "11/11/1994",
+        "note": "Veterans Day (US) - flight to Columbus"
+      },
+      {
+        "date": "11/19-27/1994",
+        "note": "CRITICAL: First international trip - 8 days in South America (Brazil & Argentina)"
+      }
+    ],
+    "missing_data": [
+      "All individual flight mileages blank",
+      "Flight numbers 598-599 missing (gap from page 30 ending at 597)",
+      "Specific dates for flights within Brazil/Argentina unclear"
+    ],
+    "international_travel": {
+      "first_occurrence": "11/19/1994",
+      "destinations": [
+        "Brazil (SBGL - Rio de Janeiro)",
+        "Argentina (SAZL)"
+      ],
+      "duration": "8 days (Nov 19-27)",
+      "notes": "CRITICAL: First international travel documented in these logs. South America trip with GM. 7-day stay in Rio, then to Argentina."
+    }
+  },
+  "validation": {
+    "date_progression": {
+      "status": "valid_with_small_gaps",
+      "notes": "Mostly sequential: Oct 15, 18, 20-21, 23, 27, 31, Nov 3, 6, 11-12, 14, 17, 19-20, 27. Small gaps normal for this operational pattern."
+    },
+    "flight_number_sequence": {
+      "status": "has_gap",
+      "range": "600-618",
+      "missing": "598-599",
+      "total_flights": 19,
+      "notes": "Flights 598-599 missing between page 30 (ending at 597) and this page (starting at 600). Otherwise sequential."
+    },
+    "mileage_validation": {
+      "status": "cannot_validate",
+      "notes": "ALL individual mileage fields blank. Only page totals visible."
+    },
+    "page_total_validation": {
+      "status": "heavily_corrected",
+      "recorded_total": 3714,
+      "original_total": "9797",
+      "calculated_total": "Cannot calculate - no individual mileages",
+      "notes": "CRITICAL: Page total shows HEAVY corrections - '9797' crossed out, changed to '3714'. Total to Date shows multiple corrections ('5797', '6341' visible under final '22601'). Math errors continue from previous pages."
+    },
+    "passenger_consistency": {
+      "status": "consistent",
+      "notes": "JE and GM travel together consistently. Passenger names stable across flights."
+    },
+    "aircraft_consistency": {
+      "status": "valid",
+      "notes": "Exclusively G1159B (Gulfstream) - appropriate for international range requirements."
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "codes": [
+          "JE"
+        ],
+        "confidence": "high",
+        "appearances": 18,
+        "notes": "Primary passenger - first international trip documented"
+      },
+      {
+        "name": "GM",
+        "codes": [
+          "GM"
+        ],
+        "confidence": "high",
+        "appearances": 11,
+        "notes": "Most frequent companion - travels to South America"
+      },
+      {
+        "name": "Sophie Biddle",
+        "confidence": "high",
+        "appearances": 1,
+        "notes": "Brief reappearance after Santa Fe stay"
+      },
+      {
+        "name": "Frances Robert",
+        "confidence": "high",
+        "appearances": 1,
+        "notes": "Possibly 'Frances Jardine' with different surname transcription"
+      },
+      {
+        "name": "Jerry",
+        "confidence": "high",
+        "appearances": 1,
+        "notes": "First name only - Oct 18"
+      },
+      {
+        "name": "David Rodgers",
+        "confidence": "high",
+        "role": "Pilot",
+        "appearances": 1,
+        "notes": "Pilot signature - continues from page 30"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Palm Beach, Florida (PBI) - primary US base",
+      "Teterboro, New Jersey (TEB) - secondary US base",
+      "Washington DC area (DCA, IAD) - frequent business destination",
+      "Columbus, Ohio (CMH) - connecting hub",
+      "Savannah, Georgia (SAV) - maintenance facility",
+      "Rio de Janeiro, Brazil (SBGL) - first international destination",
+      "Argentina (SAZL) - second international destination"
+    ]
+  },
+  "cross_references": {
+    "previous_pages": [
+      "Page 30: Ended Oct 10, 1994 at flight 597 - this page starts Oct 15 at flight 600 (flights 598-599 missing)",
+      "Page 30: Sophie Biddle in Santa Fe - reappears here Oct 27",
+      "Page 30: Frances Jardine frequent flyer - possibly same as 'Frances Robert' here"
+    ],
+    "related_entries": [
+      "Aircraft N908JE: Exclusively used - all 19 flights",
+      "GM passenger: Dramatic increase in appearances (11 of 19 flights)",
+      "South America trip: First international travel in logs",
+      "Maintenance: Oct 15 test flight for vibration at SAV"
+    ]
+  },
+  "insights": [
+    "1. FIRST INTERNATIONAL TRAVEL: Nov 19-27 marks the FIRST international trip documented in these flight logs. Destination: South America (Brazil and Argentina). This 8-day trip represents a significant expansion of operations beyond US domestic flights. JE and GM travel together throughout.",
+    "2. BRAZIL WEEK-LONG STAY: 7-day stay in Rio de Janeiro (Nov 20-27) before continuing to Argentina. This extended international stay mirrors the 3-month Santa Fe pattern from page 30, suggesting JE maintains long-term bases/residences in multiple locations globally.",
+    "3. GULFSTREAM EXCLUSIVITY: ALL 19 flights use N908JE (Gulfstream). No HS125 flights at all. This contrasts with page 30's mixed aircraft use. Gulfstream exclusivity suggests: (a) international range requirements, (b) longer distances, (c) passenger comfort priority, (d) HS125 possibly in maintenance.",
+    "4. GM DOMINANCE: GM appears on 11 of 19 flights (58%) - highest frequency yet. Previously sporadic passenger now becomes primary travel companion, especially for international trip. This suggests: (a) business relationship intensified, (b) trusted associate for international travel, (c) specific role in South America operations.",
+    "5. FRANCES NAME VARIATION: 'Frances Robert' on Oct 31 may be same person as 'Frances Jardine' from page 30. Name inconsistency suggests: (a) transcription error, (b) married name change, (c) two different people, (d) intentional name variation. Both travel with JE to similar destinations.",
+    "6. MAINTENANCE EVENT: Oct 15 'TEST FLIGHT FOR VIBRATION AFTER' at Savannah followed by repositioning to Palm Beach. This indicates: (a) recent maintenance work, (b) vibration issue detected and repaired, (c) test flight required before passenger operations, (d) FlightSafety Savannah facility used.",
+    "7. WASHINGTON DC PATTERN CONTINUES: Two DC-area flights (Oct 27 DCA, Nov 17 IAD) maintain pattern from previous pages. Consistent DC presence suggests: (a) ongoing political/business connections, (b) regular meetings requiring physical presence, (c) lobbying or consulting activities.",
+    "8. COLUMBUS HUB UTILIZATION: CMH appears 4 times as connecting point between East Coast and other destinations. Consistent pattern establishes Columbus as: (a) preferred refueling stop, (b) passenger pickup/dropoff, (c) strategic geographic midpoint, (d) possibly business/personal connections there.",
+    "9. SOPHIE BIDDLE BRIEF RETURN: Sophie Biddle appears only once (Oct 27) after 3-month Santa Fe absence. Single appearance suggests: (a) end of relationship/association, (b) specific one-time trip, (c) different logging practices, (d) returned to previous life after extended stay.",
+    "10. HALLOWEEN FLIGHT: Oct 31 (Halloween) flight with Frances Robert from PBI to TEB. No indication of holiday disruption. Consistent pattern of flying on US holidays (previously: Independence Day, Veterans Day).",
+    "11. VETERANS DAY OPERATIONS: Nov 11 (Veterans Day) flight from TEB to CMH with JE solo. Another US federal holiday with normal operations, reinforcing pattern of business-first schedule regardless of holidays.",
+    "12. ARGENTINA DESTINATION AMBIGUITY: SAZL airport code unclear - possibly Santa Rosa, Argentina, but could be other Argentine location. Limited documentation of Argentine destinations suggests: (a) less common routing, (b) private/small airport, (c) specific business destination.",
+    "13. TOTALS MATH BREAKDOWN CONTINUES: Heavy corrections visible in page totals - '9797' crossed out, changed to '3714'. Total to Date shows '5797', '6341' under final '22601'. This indicates: (a) ongoing calculation errors, (b) multiple correction attempts, (c) possible confusion about running totals vs page totals.",
+    "14. MISSING FLIGHTS 598-599: Gap between page 30 (ending at 597) and this page (starting at 600). Two missing flight numbers suggest: (a) flights logged elsewhere, (b) cancelled flights, (c) page missing from sequence, (d) flights on different aircraft.",
+    "15. BLANK MILEAGE PERSISTENCE: Continues pattern from page 30 - ALL individual mileages blank. Only totals provided. This two-page pattern suggests: (a) deliberate policy change in logging practices, (b) incomplete record transfer, (c) summary format rather than primary log.",
+    "16. INTERNATIONAL FLIGHT PREPARATION: Departure for Brazil on Nov 19 follows pattern of Oct 15-Nov 17 domestic positioning flights. Suggests careful planning: (a) aircraft inspection/maintenance before international, (b) crew rest requirements, (c) customs/documentation prep, (d) passenger staging.",
+    "17. BRAZIL-ARGENTINA ROUTE: SBGL (Rio) to SAZL (Argentina) on Nov 27 represents intra-South America travel. This suggests: (a) multi-country business tour, (b) regional connections established, (c) South American network development, (d) investment/property interests in multiple countries.",
+    "18. NO CRYPTIC NOTATIONS: Unlike previous pages with WRNCE, AL GATTO, JIM WOLDEN, GO AT P TRU A SC 335 - this page has NO margin notations visible. This suggests: (a) different logging person, (b) international flights don't use notation system, (c) more formal record-keeping for international operations.",
+    "19. TEB-PBI SHUTTLE DOMINANCE: 9 flights each at TEB and PBI (47% of all flights). Perfect dual-base balance suggests: (a) seasonal migration pattern (approaching winter = more Florida time), (b) business in NYC area (TEB), (c) residence in Palm Beach, (d) equal operational importance.",
+    "20. SINGLE AIRCRAFT OPERATIONAL RISK: Exclusive use of N908JE means NO backup aircraft. If Gulfstream requires maintenance, operations cease. This suggests: (a) high aircraft reliability confidence, (b) cost considerations, (c) not yet at scale requiring fleet, (d) international trips too valuable to delay for aircraft issues."
+  ],
+  "date_header": {
+    "original": "1994",
+    "notes": "Page continues from October 1994 into November. Date field shows '1994' without specific month designation."
+  }
+}

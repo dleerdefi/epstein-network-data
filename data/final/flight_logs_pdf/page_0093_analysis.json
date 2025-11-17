@@ -1,0 +1,883 @@
+{
+  "page_number": 93,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:56.833253",
+  "chunk": "chunk_051-060",
+  "flights": [
+    {
+      "date": {
+        "original": "11/09/2001",
+        "parsed": "2001-11-09",
+        "display": "11/09/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LCQ",
+        "to": "PBI",
+        "from_codes": [
+          "LCQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Lake City, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1554",
+        "iidd": "3753",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie Shay",
+          "code": "JS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0004"
+    },
+    {
+      "date": {
+        "original": "11/12/2001",
+        "parsed": "2001-11-12",
+        "display": "11/12/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1555",
+        "iidd": "3757",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Joel Pashcow",
+          "code": "JP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie Shay",
+          "code": "JS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0008"
+    },
+    {
+      "date": {
+        "original": "11/15/2001",
+        "parsed": "2001-11-15",
+        "display": "11/15/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1556",
+        "iidd": "3762",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Mglindallns E?",
+          "code": "ME",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0013"
+    },
+    {
+      "date": {
+        "original": "11/17/2001",
+        "parsed": "2001-11-17",
+        "display": "11/17/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LCQ",
+        "to": "PBI",
+        "from_codes": [
+          "LCQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Lake City, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "25",
+        "iidd": "3767",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Reposition",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0018"
+    },
+    {
+      "date": {
+        "original": "11/18/2001",
+        "parsed": "2001-11-18",
+        "display": "11/18/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "CYQX",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "CYQX"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Gander, Canada",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "26",
+        "iidd": "3768",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0019"
+    },
+    {
+      "date": {
+        "original": "11/18/2001",
+        "parsed": "2001-11-18",
+        "display": "11/18/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CYQX",
+        "to": "LFPB",
+        "from_codes": [
+          "CYQX"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "Gander, Canada",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "27",
+        "iidd": "3771",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0022"
+    },
+    {
+      "date": {
+        "original": "11/23/2001",
+        "parsed": "2001-11-23",
+        "display": "11/23/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "LIML",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "LIML"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Milan, Italy",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "28",
+        "iidd": "3774",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0025"
+    },
+    {
+      "date": {
+        "original": "11/23/2001",
+        "parsed": "2001-11-23",
+        "display": "11/23/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LIML",
+        "to": "LIPR",
+        "from_codes": [
+          "LIML"
+        ],
+        "to_codes": [
+          "LIPR"
+        ],
+        "from_full": "Milan, Italy",
+        "to_full": "Rimini, Italy",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "29",
+        "iidd": "3777",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Edwardo ?",
+          "code": "E?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0028"
+    },
+    {
+      "date": {
+        "original": "11/23/2001",
+        "parsed": "2001-11-23",
+        "display": "11/23/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LIPR",
+        "to": "LIML",
+        "from_codes": [
+          "LIPR"
+        ],
+        "to_codes": [
+          "LIML"
+        ],
+        "from_full": "Rimini, Italy",
+        "to_full": "Milan, Italy",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "30",
+        "iidd": "3779",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Edwardo ?",
+          "code": "E?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0030"
+    },
+    {
+      "date": {
+        "original": "11/24/2001",
+        "parsed": "2001-11-24",
+        "display": "11/24/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LIML",
+        "to": "EGGW",
+        "from_codes": [
+          "LIML"
+        ],
+        "to_codes": [
+          "EGGW"
+        ],
+        "from_full": "Milan, Italy",
+        "to_full": "London, England",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "31",
+        "iidd": "3781",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0032"
+    },
+    {
+      "date": {
+        "original": "11/24/2001",
+        "parsed": "2001-11-24",
+        "display": "11/24/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LIML",
+        "to": "EGGW",
+        "from_codes": [
+          "LIML"
+        ],
+        "to_codes": [
+          "EGGW"
+        ],
+        "from_full": "Milan, Italy",
+        "to_full": "London, England",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-001",
+        "iidd": "3992",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0035"
+    },
+    {
+      "date": {
+        "original": "11/26/2001",
+        "parsed": "2001-11-26",
+        "display": "11/26/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGGW",
+        "to": "HPN",
+        "from_codes": [
+          "EGGW"
+        ],
+        "to_codes": [
+          "HPN"
+        ],
+        "from_full": "London, England",
+        "to_full": "Westchester County, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "32",
+        "iidd": "3784",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0036"
+    },
+    {
+      "date": {
+        "original": "11/26/2001",
+        "parsed": "2001-11-26",
+        "display": "11/26/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGGW",
+        "to": "HPN",
+        "from_codes": [
+          "EGGW"
+        ],
+        "to_codes": [
+          "HPN"
+        ],
+        "from_full": "London, England",
+        "to_full": "Westchester County, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-001",
+        "iidd": "3993",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0039"
+    },
+    {
+      "date": {
+        "original": "11/26/2001",
+        "parsed": "2001-11-26",
+        "display": "11/26/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGBB",
+        "to": "EWR",
+        "from_codes": [
+          "EGBB"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Birmingham, England",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-051",
+        "iidd": "4000",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0040"
+    },
+    {
+      "date": {
+        "original": "11/30/2001",
+        "parsed": "2001-11-30",
+        "display": "11/30/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HPN",
+        "to": "PBI",
+        "from_codes": [
+          "HPN"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Westchester County, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "33",
+        "iidd": "3787",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gwendolyn Beck",
+          "code": "GB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gary Blackwell",
+          "code": "GB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joel Pashcow",
+          "code": "JP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joel Pashcow",
+          "code": "JP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Karen Casey",
+          "code": "KC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Karen Casey",
+          "code": "KC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p005_r0041"
+    }
+  ]
+}

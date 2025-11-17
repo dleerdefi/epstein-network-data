@@ -1,0 +1,219 @@
+{
+  "profile_name": "Sarah Lynelle Kellen",
+  "source_lines": "64",
+  "extraction_date": "2025-11-14",
+  "primary_person": {
+    "entity_id": "person_067",
+    "name": "Sarah Lynelle Kellen",
+    "aliases": [
+      "Sarah Kensington",
+      "Sarah Lynnelle",
+      "Sarah Bonk"
+    ],
+    "birth_year": 1979,
+    "occupations": [
+      "JE personal assistant",
+      "co-conspirator",
+      "interior designer"
+    ],
+    "summary": "Born 1979. Began working for Epstein circa 1990 when she was a minor (~11 years old). Personal assistant and alleged co-conspirator. Deposed March 24 2010. Now married to NASCAR driver Brian Vickers, works as interior designer. Ran company SLK Designs LLC."
+  },
+  "associates": [
+    {
+      "entity_id": "person_001",
+      "name": "Jeffrey Edward Epstein",
+      "relationship": "employer/alleged co-conspirator",
+      "relationship_context": "Began working for Epstein circa 1990 when she was minor. Personal assistant and co-conspirator.",
+      "relationship_start": "circa 1990",
+      "confidence": 0.87,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "5",
+        "20",
+        "24",
+        "27",
+        "7",
+        "16",
+        "29",
+        "47",
+        "28",
+        "35",
+        "26",
+        "19",
+        "34",
+        "65",
+        "6",
+        "38",
+        "21",
+        "32",
+        "44",
+        "30",
+        "40",
+        "9",
+        "2",
+        "39",
+        "67",
+        "51",
+        "33",
+        "45",
+        "66",
+        "63",
+        "41",
+        "68",
+        "61",
+        "43",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_068",
+      "name": "Story Cowles",
+      "aliases": [
+        "STORY COWLES"
+      ],
+      "relationship": "lived together at one point",
+      "relationship_context": "Kellen lived with Story Cowles at one point",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_069",
+      "name": "Brian Vickers",
+      "occupations": [
+        "NASCAR driver"
+      ],
+      "relationship": "husband",
+      "relationship_to": "person_067",
+      "relationship_context": "Married to Kellen. Her past is known to NASCAR community.",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_070",
+      "name": "Mr. Goldsmith",
+      "relationship": "unknown connection",
+      "relationship_context": "Shown photo for identification during March 24 2010 deposition",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "organizations": [
+    {
+      "entity_id": "org_077",
+      "name": "SLK Designs LLC",
+      "org_type": "interior design company",
+      "location": "301 E 66th St",
+      "relationship": "owner/operator",
+      "description": "Interior design company run by Kellen",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "locations": [
+    {
+      "entity_id": "location_035",
+      "name": "2644 Peter Street",
+      "location_type": "residence",
+      "address": "2644 Peter Street",
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "country": "USA",
+      "description": "Residence address"
+    },
+    {
+      "entity_id": "location_036",
+      "name": "301 E 66th St Apt 10N",
+      "location_type": "residence/business",
+      "address": "301 E 66th St Apt 10N",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "description": "Residence and SLK Designs LLC business address. Phone: 917-855-3363"
+    }
+  ],
+  "legal_cases": [
+    {
+      "entity_id": "legal_037",
+      "case_name": "Kellen deposition",
+      "filed_date": "2010-03-24",
+      "description": "Deposed March 24 2010. Shown photo for identification of 'Mr. Goldsmith'.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_010",
+      "case_name": "Dianya Nida (Jane Doe II) v. Epstein and Kellen",
+      "note": "Already extracted in Epstein profile - Kellen named as co-defendant",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    }
+  ],
+  "events": [
+    {
+      "entity_id": "event_103",
+      "name": "Born",
+      "event_date": "1979",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_104",
+      "name": "Began working for Epstein",
+      "event_date": "circa 1990",
+      "description": "Started working for Epstein as a minor (approximately age 11)",
+      "confidence": 0.7,
+      "date_confidence": 0.5,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_105",
+      "name": "Deposed",
+      "event_date": "2010-03-24",
+      "description": "Deposition, shown photo of 'Mr. Goldsmith'",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_106",
+      "name": "Married Brian Vickers",
+      "event_date": "unknown",
+      "description": "Married NASCAR driver, past known to NASCAR community",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_107",
+      "name": "Had twin sons",
+      "event_date": "unknown",
+      "description": "Note says 'Had twin sons?' - unconfirmed",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    }
+  ],
+  "extracted_stats": {
+    "persons": 4,
+    "organizations": 1,
+    "locations": 2,
+    "legal_cases": 2,
+    "events": 5,
+    "total_entities": 14
+  },
+  "notes": [
+    "Began working for Epstein at extremely young age (circa 11 years old in 1990)",
+    "Uses multiple aliases",
+    "Now has conventional life as interior designer married to NASCAR driver",
+    "Twin sons mentioned but uncertain",
+    "NASCAR community aware of her past"
+  ]
+}

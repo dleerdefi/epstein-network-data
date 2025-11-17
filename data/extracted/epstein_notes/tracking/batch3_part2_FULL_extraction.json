@@ -1,0 +1,5007 @@
+{
+  "batch_name": "Batch 3 Part 2 FULL: Cronies & Legal Professionals",
+  "source_lines": "154-253",
+  "extraction_date": "2025-11-14",
+  "extraction_type": "complete_detailed",
+  "note": "Complete re-extraction of previously summarized batch. Full entity extraction matching Batch 1 quality standards. This batch contains 58 critical profiles with extensive legal, business, and family relationship data.",
+  "profiles": [
+    {
+      "category": "crony",
+      "entity_id": "person_004",
+      "name": "Alan Courtney Greenberg",
+      "aliases": [
+        "Ace Greenberg",
+        "Alan 'Ace' Greenberg"
+      ],
+      "birth_location": "Oklahoma City",
+      "birth_details": "raised in upper middle-class Jewish family",
+      "death_year": 2014,
+      "nationality": "American",
+      "occupations": [
+        "CEO Bear Stearns",
+        "Chairman Bear Stearns",
+        "stockbroker",
+        "non-executive director"
+      ],
+      "summary": "Raised Oklahoma City upper middle-class Jewish family. Pursued Wall Street career. Rose through ranks at Bear Stearns: CEO 1978-1993, Chairman 1985-2001. Non-executive director Viacom. Oversaw Bear Stearns collapse March 2008. Sold stake for $50M. 2008 signed lucrative JPMorgan contract as vice chairman emeritus, 40% trading commissions.",
+      "family": [
+        {
+          "name": "Ann Greenberg",
+          "relationship": "first wife",
+          "divorced": 1976
+        },
+        {
+          "name": "Lynne Koeppel",
+          "relationship": "daughter",
+          "occupation": "first woman to own seat on American Stock Exchange",
+          "address": "4 E 66th St Fl 2 New York NY 10065"
+        },
+        {
+          "name": "Allison Frey",
+          "relationship": "daughter"
+        },
+        {
+          "name": "Melissa Frey",
+          "relationship": "daughter"
+        },
+        {
+          "name": "Ted Greenberg",
+          "relationship": "son",
+          "occupation": "risk arbitrage at Dresdner Kleinwort NYC",
+          "spouse": "Kathleen Marie Cigich",
+          "spouse_maiden_name": "Durst",
+          "note": "JE tutored Ted before being hired at Bear Stearns"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "employer/tutoring",
+          "context": "JE tutored Greenberg's son Ted, then Greenberg hired JE at Bear Stearns",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_131",
+          "name": "James Cayne",
+          "type": "hired",
+          "year": 1969,
+          "context": "Greenberg hired Cayne as stockbroker at Bear Stearns",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_002",
+          "name": "Bear Stearns",
+          "type": "CEO/Chairman",
+          "start_year": 1978,
+          "end_year": 2001,
+          "confidence": 0.64,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "2"
+          ]
+        },
+        {
+          "entity_id": "org_084",
+          "name": "Viacom",
+          "type": "non-executive director",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "org_085",
+          "name": "JPMorgan Chase",
+          "type": "vice chairman emeritus",
+          "year": 2008,
+          "context": "Negotiated Bear Stearns buyout",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1969,
+          "event": "Hired James Cayne as stockbroker"
+        },
+        {
+          "year": 1976,
+          "event": "Divorced Ann Greenberg"
+        },
+        {
+          "year": 1978,
+          "event": "Became CEO of Bear Stearns"
+        },
+        {
+          "year": 1985,
+          "event": "Became Chairman of Board at Bear Stearns"
+        },
+        {
+          "year": 1993,
+          "event": "Stepped down as CEO (remained Chairman until 2001)"
+        },
+        {
+          "year": 2001,
+          "event": "Ended tenure as Chairman"
+        },
+        {
+          "year": 2008,
+          "event": "Bear Stearns collapse, negotiations with JPMorgan",
+          "month": "March"
+        },
+        {
+          "year": 2008,
+          "event": "Sold stake for $50 million"
+        },
+        {
+          "year": 2008,
+          "event": "Signed JPMorgan contract as vice chairman emeritus, receiving 40% of trading commissions he generated"
+        },
+        {
+          "year": 2014,
+          "event": "Death"
+        }
+      ],
+      "locations": [
+        {
+          "entity_id": "location_030",
+          "address": "4 E 66th St Fl 2",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10065",
+          "type": "residence"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_002",
+          "name": "Bear Stearns",
+          "role": "CEO 1978-1993, Chairman 1985-2001"
+        },
+        {
+          "entity_id": "org_084",
+          "name": "Viacom",
+          "role": "non-executive director"
+        },
+        {
+          "entity_id": "org_085",
+          "name": "JPMorgan Chase",
+          "role": "vice chairman emeritus",
+          "year": 2008
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_131",
+      "name": "James E Cayne",
+      "aliases": [
+        "Jimmy Cayne"
+      ],
+      "birth_year": 1934,
+      "nationality": "American",
+      "religion": "Jewish",
+      "occupations": [
+        "traveling salesman",
+        "scrap iron seller",
+        "municipal bonds seller",
+        "stockbroker",
+        "CEO Bear Stearns",
+        "professional bridge player"
+      ],
+      "summary": "Started career as traveling salesman, then sold scrap iron and municipal bonds. 1969 playing bridge full-time in NYC when Alan C. Greenberg hired him as stockbroker at Bear Stearns. By 1993 became CEO of Bear Stearns, held position until January 2008 (just before firm's demise in March 2008). Succeeded by Alan Schwartz. Named in Time Magazine's list of '25 People to Blame for the Financial Crisis'.",
+      "family": [
+        {
+          "name": "Patricia Denner",
+          "relationship": "second wife",
+          "married": 1971,
+          "religion": "Jewish",
+          "note": "raised daughter in Reform Judaism"
+        },
+        {
+          "name": "Allison Cayne Schneider",
+          "relationship": "daughter",
+          "spouse": "Jack Schneider",
+          "spouse_occupation": "hedge fund manager",
+          "divorced": true,
+          "children_count": 5
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "colleague",
+          "context": "Ran Bear Stearns while JE worked there",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_004",
+          "name": "Alan C. Greenberg",
+          "type": "hired by",
+          "year": 1969,
+          "context": "Greenberg hired Cayne as stockbroker, met while playing bridge",
+          "confidence": 0.95,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "8",
+            "9"
+          ]
+        },
+        {
+          "entity_id": "person_132a",
+          "name": "Richard Cayne Perry",
+          "relationship": "nephew",
+          "occupation": "hedge fund investor",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "person_132b",
+          "name": "Alan Schwartz",
+          "type": "successor",
+          "year": 2008,
+          "context": "Succeeded Cayne as CEO Bear Stearns",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_002",
+          "name": "Bear Stearns",
+          "type": "CEO",
+          "start_year": 1993,
+          "end_year": 2008,
+          "confidence": 0.64,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "2"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 1969,
+          "event": "Hired by Alan C. Greenberg as stockbroker",
+          "context": "Was playing bridge full-time in NYC, Greenberg was relative novice at bridge table"
+        },
+        {
+          "year": 1971,
+          "event": "Married Patricia Denner (second wife)"
+        },
+        {
+          "year": 1993,
+          "event": "Became CEO of Bear Stearns"
+        },
+        {
+          "year": 2008,
+          "month": "January",
+          "event": "Left CEO position at Bear Stearns, succeeded by Alan Schwartz"
+        },
+        {
+          "year": 2008,
+          "month": "March",
+          "event": "Bear Stearns collapse"
+        },
+        {
+          "year": "unknown",
+          "event": "Named in Time Magazine's list of '25 People to Blame for the Financial Crisis'"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_002",
+          "name": "Bear Stearns",
+          "role": "CEO 1993-2008"
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_054",
+      "name": "A. Alfred Taubman",
+      "nationality": "American",
+      "occupations": [
+        "real estate developer",
+        "shopping mall developer",
+        "auction house owner"
+      ],
+      "summary": "Real estate developer who enlarged his empire. Played white knight role buying Woodward & Lothrop department store chain in Washington and Sotheby's international auction house. Cut Wexner and Milton Petrie in on Sotheby's deal. 1985 refinancing of Taubman Company's shopping malls left Taubman with $650 million cash kitty. Rumors that he and Wexner were after $10 billion Federated Department Stores chain.",
+      "relationships": [
+        {
+          "entity_id": "person_005",
+          "name": "Les Wexner",
+          "type": "business partner",
+          "context": "Cut Wexner in on Sotheby's deal, rumored to be pursuing Federated Department Stores together",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "8"
+          ]
+        },
+        {
+          "entity_id": "person_054a",
+          "name": "Milton Petrie",
+          "type": "business partner",
+          "context": "Cut in on Sotheby's deal along with Wexner",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_086",
+          "name": "Woodward & Lothrop",
+          "type": "acquired",
+          "role": "white knight acquisition",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "org_087",
+          "name": "Sotheby's",
+          "type": "owner",
+          "context": "international auction house",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "39",
+            "38"
+          ]
+        },
+        {
+          "entity_id": "org_088",
+          "name": "Taubman Company",
+          "type": "owner/founder",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "org_089",
+          "name": "Federated Department Stores",
+          "type": "rumored acquisition target",
+          "value": "$10 billion",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        }
+      ],
+      "events": [
+        {
+          "year": 1985,
+          "event": "Refinancing of Taubman Company's shopping malls",
+          "result": "$650 million cash kitty"
+        },
+        {
+          "year": 1985,
+          "event": "Rumors of pursuit of Federated Department Stores with Wexner"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_086",
+          "name": "Woodward & Lothrop",
+          "role": "owner",
+          "location": "Washington"
+        },
+        {
+          "entity_id": "org_087",
+          "name": "Sotheby's",
+          "role": "owner",
+          "type": "international auction house"
+        },
+        {
+          "entity_id": "org_088",
+          "name": "Taubman Company",
+          "role": "founder/owner",
+          "type": "shopping mall developer"
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_007",
+      "name": "Steven Jude Hoffenberg",
+      "birth_year": 1946,
+      "nationality": "American",
+      "occupations": [
+        "Chief of Towers Corp",
+        "NY Post owner",
+        "fraudster"
+      ],
+      "summary": "Early business associate of JE. According to Hoffenberg introduced by Douglas Leese (defense contractor). JE claimed introduced by John Mitchell (late attorney general). Chief of Towers Corp, began using company funds to pay off earlier investors and service lavish lifestyle: mansion on Long Island, homes on Manhattan's Sutton Place and Florida, fleet of cars and planes. 1993 owned NY Post for 3 months. March 1993 tenure ended after mass layoffs, staff walkout, missed publications, bankruptcy. 1994 bragged about Clinton campaign donations. March 7 1997 pled guilty to bilking investors $475M, given 20 year sentence. Released October 2013. July 10 2014 married NY Post News President Maria Santiago after one month romance, ceremony at Trump Tower Manhattan. May 2016 filed suit against JE for restitution for stealing while at Towers Corp.",
+      "family": [
+        {
+          "name": "Maria Santiago",
+          "relationship": "wife",
+          "married": "July 10, 2014",
+          "occupation": "NY Post News President",
+          "romance_duration": "one month",
+          "wedding_location": "Trump Tower, Manhattan"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "early business associate",
+          "introduced_by_hoffenberg": "Douglas Leese",
+          "introduced_by_epstein": "John Mitchell",
+          "context": "JE worked at Towers Corp, Hoffenberg claims JE stole from company",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_132",
+          "name": "Douglas Leese",
+          "type": "introducer",
+          "occupation": "defense contractor",
+          "context": "According to Hoffenberg, introduced him to JE",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_133a",
+          "name": "John Mitchell",
+          "type": "introducer (per JE)",
+          "occupation": "late attorney general",
+          "context": "JE claimed Mitchell introduced them",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_012",
+          "name": "Bill Clinton",
+          "type": "political donation recipient",
+          "year": 1994,
+          "context": "Hoffenberg bragged about donations to Clinton campaign",
+          "confidence": 0.733,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "65"
+          ]
+        },
+        {
+          "entity_id": "org_090",
+          "name": "Towers Corp",
+          "type": "CEO/Chief",
+          "confidence": 0.733,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "21",
+            "23",
+            "24"
+          ]
+        },
+        {
+          "entity_id": "org_091",
+          "name": "New York Post",
+          "type": "owner",
+          "duration": "3 months",
+          "year": 1993,
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1993,
+          "event": "Owned the New York Post",
+          "duration": "3 months"
+        },
+        {
+          "year": 1993,
+          "month": "March",
+          "event": "NY Post tenure ended",
+          "details": "mass layoffs, mass staff walkout, missed publications, bankruptcy"
+        },
+        {
+          "year": 1993,
+          "event": "Unable to complete purchase of Post",
+          "reason": "federal government froze Towers Financial assets"
+        },
+        {
+          "year": 1994,
+          "event": "Bragged about Clinton campaign donations"
+        },
+        {
+          "year": 1997,
+          "month": "March",
+          "day": 7,
+          "event": "Pled guilty to bilking investors out of $475 million",
+          "sentence": "20 year sentence"
+        },
+        {
+          "year": 2013,
+          "month": "October",
+          "event": "Released from prison"
+        },
+        {
+          "year": 2014,
+          "month": "July",
+          "day": 10,
+          "event": "Married Maria Santiago",
+          "location": "Trump Tower, Manhattan",
+          "romance_duration": "one month"
+        },
+        {
+          "year": 2016,
+          "month": "May",
+          "event": "Filed suit against JE for restitution",
+          "claim": "stealing while at Towers Corp"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_013",
+          "case_name": "NJ Steven Jude Hoffenberg vs Fort Dix",
+          "case_number": "Civil Action No. 09-3375 (RMB)"
+        },
+        {
+          "entity_id": "legal_014",
+          "case_name": "Hoffenberg v United States"
+        },
+        {
+          "entity_id": "legal_015",
+          "case_name": "Hoffenberg v Bumb"
+        },
+        {
+          "entity_id": "legal_016",
+          "case_name": "Hoffenberg v Provost"
+        },
+        {
+          "entity_id": "legal_017",
+          "case_name": "United States vs Hoffenberg"
+        },
+        {
+          "entity_id": "legal_018",
+          "case_name": "Hoffenberg vs Fed Bureau of Prisons"
+        },
+        {
+          "entity_id": "legal_019",
+          "case_name": "Hoffenberg v. Jeffrey Epstein",
+          "filed_date": "May 2016",
+          "claim": "restitution for stealing while at Towers Corp"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_090",
+          "name": "Towers Corp",
+          "role": "Chief",
+          "type": "Ponzi scheme"
+        },
+        {
+          "entity_id": "org_091",
+          "name": "New York Post",
+          "role": "owner",
+          "duration": "3 months",
+          "year": 1993
+        },
+        {
+          "entity_id": "org_092",
+          "name": "New York Post Publishing Inc.",
+          "type": "independent entity",
+          "incorporated_location": "New Jersey",
+          "note": "Hoffenberg incorporated as independent entity, motives unclear to people running Post"
+        }
+      ],
+      "locations": [
+        {
+          "entity_id": "location_031",
+          "type": "residence",
+          "description": "mansion on Long Island",
+          "state": "New York"
+        },
+        {
+          "entity_id": "location_032",
+          "type": "residence",
+          "description": "home on Manhattan's Sutton Place",
+          "city": "New York",
+          "state": "New York"
+        },
+        {
+          "entity_id": "location_033",
+          "type": "residence",
+          "state": "Florida"
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_021",
+      "name": "Doug Bands",
+      "summary": "Clinton associate mentioned in context of JE's social circle."
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_132",
+      "name": "Douglas Leese",
+      "nationality": "British",
+      "occupations": [
+        "defense contractor",
+        "Honorary Consul",
+        "businessman"
+      ],
+      "summary": "Allegedly introduced JE to Hoffenberg. Master Trustee of Tedder's Foreign Security Trust Program offered through Leading Minds International/MyGivingTree and Mariner International Bank. Allegedly some secret commissions on Al Yamamah deal handled by British Aerospace through Leese who has close connections with Bank of NT Butterfield in Bermuda. Made fortune putting together defence packages for governments worldwide. While living in Miami 1997 sued Moores' family and National Securities Management/Hambros Bank alleging they stole and converted highly confidential records, surreptitiously removed sensitive information, contacted persons in telephone records under false pretences. 2009 Honorary Consul of St. Vincent and the Grenadines.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "introducer",
+          "context": "Allegedly introduced JE to Hoffenberg",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_007",
+          "name": "Steven Jude Hoffenberg",
+          "type": "introduced to",
+          "context": "According to Hoffenberg, Leese introduced them",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "47",
+            "48",
+            "53"
+          ]
+        },
+        {
+          "entity_id": "org_093",
+          "name": "Leading Minds International",
+          "type": "associated with",
+          "context": "Offered Tedder's Foreign Security Trust Program through",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "27",
+            "26",
+            "28"
+          ]
+        },
+        {
+          "entity_id": "org_094",
+          "name": "MyGivingTree",
+          "type": "associated with",
+          "context": "Offered Tedder's Foreign Security Trust Program through",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_095",
+          "name": "Mariner International Bank",
+          "type": "associated with",
+          "context": "Offered Tedder's Foreign Security Trust Program through",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_096",
+          "name": "British Aerospace",
+          "type": "business relationship",
+          "context": "Allegedly handled Al Yamamah deal commissions through Leese",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_097",
+          "name": "Bank of NT Butterfield",
+          "type": "close connections",
+          "location": "Bermuda",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "org_098",
+          "name": "Hambros Bank",
+          "type": "litigation opponent",
+          "year": 1997,
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1997,
+          "event": "Sued Moores' family and National Securities Management/Hambros Bank",
+          "location": "Miami",
+          "allegations": "stole and converted highly confidential records, surreptitiously removed sensitive information, contacted persons in telephone records under false pretences"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_020",
+          "case_name": "Douglas Leese v. Moores' family, National Securities Management, Hambros Bank",
+          "filed_date": "1997",
+          "location": "Miami"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_099",
+          "name": "Tedder's Foreign Security Trust Program",
+          "role": "Master Trustee"
+        },
+        {
+          "entity_id": "org_093",
+          "name": "Leading Minds International",
+          "role": "associated"
+        },
+        {
+          "entity_id": "org_094",
+          "name": "MyGivingTree",
+          "role": "associated"
+        },
+        {
+          "entity_id": "org_095",
+          "name": "Mariner International Bank",
+          "role": "associated"
+        }
+      ],
+      "locations": [
+        {
+          "entity_id": "location_034",
+          "address": "St. Andrew's House 27 West Street, Wilton Nr Salisbury",
+          "city": "Wilton",
+          "region": "Wiltshire",
+          "postal_code": "SP2 0DL",
+          "location": "Channel Islands",
+          "type": "residence",
+          "year": 2009
+        }
+      ],
+      "contact_info": [
+        {
+          "type": "telephone",
+          "number": "0 44 1722 744 540",
+          "year": 2009
+        },
+        {
+          "type": "fax",
+          "number": "001 441 232 1317",
+          "year": 2009
+        },
+        {
+          "type": "email",
+          "address": "dsleese@ibl.bm",
+          "year": 2009
+        }
+      ],
+      "titles": [
+        {
+          "title": "Honorary Consul of St. Vincent and the Grenadines",
+          "year": 2009
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_133",
+      "name": "Gary Kenneth King",
+      "birth_year": 1954,
+      "nationality": "American",
+      "political_party": "Democratic Party",
+      "occupations": [
+        "Attorney General of New Mexico",
+        "attorney",
+        "Policy Advisor"
+      ],
+      "summary": "JE bought land from him to build NM ranch, donated to his campaign. Attorney General of New Mexico January 1 2007 to January 1 2015. Lost election bid for Governor of New Mexico in 2014. Son of Bruce King (three-time Governor of New Mexico). 1998 became Policy Advisor to Assistant Secretary for Environmental Management at U.S. Department of Energy (DOE) in Washington, D.C.",
+      "family": [
+        {
+          "name": "Bruce King",
+          "relationship": "father",
+          "occupation": "Governor of New Mexico",
+          "terms": "three-time Governor"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "land seller/political donor recipient",
+          "context": "JE bought land from King to build NM ranch, donated to his campaign",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "org_100",
+          "name": "U.S. Department of Energy",
+          "type": "Policy Advisor",
+          "year": 1998,
+          "role": "Policy Advisor to Assistant Secretary for Environmental Management",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1998,
+          "event": "Became Policy Advisor to Assistant Secretary for Environmental Management at U.S. Department of Energy",
+          "location": "Washington, D.C."
+        },
+        {
+          "year": 2007,
+          "month": "January",
+          "day": 1,
+          "event": "Became Attorney General of New Mexico"
+        },
+        {
+          "year": 2014,
+          "event": "Lost election bid for Governor of New Mexico"
+        },
+        {
+          "year": 2015,
+          "month": "January",
+          "day": 1,
+          "event": "Ended tenure as Attorney General of New Mexico"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_100",
+          "name": "U.S. Department of Energy",
+          "role": "Policy Advisor to Assistant Secretary for Environmental Management",
+          "year": 1998,
+          "location": "Washington, D.C."
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_134",
+      "name": "George John Mitchell Jr.",
+      "birth_year": 1933,
+      "birth_location": "Waterville, Maine",
+      "nationality": "American",
+      "ethnicity": "Irish-Lebanese",
+      "occupations": [
+        "US Senator",
+        "Senate Majority Leader",
+        "attorney",
+        "trial attorney",
+        "executive assistant",
+        "director",
+        "law firm chairman",
+        "Special Envoy"
+      ],
+      "summary": "US Senator friend of JE who, according to Alan Dershowitz, kept a regular 'room' at JE's Palm Beach mansion. Father George John Mitchell Sr. (born Joseph Kilroy) was ethnic Irish but adopted by Lebanese family when orphaned. Father was janitor at Colby College Waterville. Mother Mary (née Saad) was textile worker who emigrated from Bkassine, Lebanon in 1920 at age 18. Recognized as prominent Arab-American. Served US Army 1954-1956, rising to First Lieutenant. Received law degree from Georgetown University Law Center part-time program at night. Trial attorney for Antitrust Division US Dept of Justice Washington 1960-1962. Executive assistant to Senator Edmund S. Muskie 1962-1965. US Senator from Maine 1980-1995, Senate Majority Leader 1989-1995. Director: Walt Disney, Federal Express, Xerox, Unilever, Staples, Starwood Hotels, Boston Red Sox. After Senate joined Verner, Liipfert, Bernhard, McPherson and Hand DC, became chairman. Criticized for lobbying for Big Tobacco. Senior counsel Preti, Flaherty, Beliveau, Pachios, Orlick & Haley Portland Maine. Partner and Chairman Global Board DLA Piper US LLP. Advisor ZeniMax Media Inc. Co-chairman (with Newt Gingrich) of Task Force on United Nations, released findings June 15 2005. January 22 2009 President Obama and Sec State Hillary Clinton appointed Special Envoy to Arab-Israeli peace process (Special Envoy for Middle East Peace).",
+      "family": [
+        {
+          "name": "George John Mitchell Sr.",
+          "birth_name": "Joseph Kilroy",
+          "relationship": "father",
+          "ethnicity": "Irish",
+          "occupation": "janitor at Colby College",
+          "location": "Waterville, Maine",
+          "note": "Adopted by Lebanese family when orphaned"
+        },
+        {
+          "name": "Mary Saad",
+          "relationship": "mother",
+          "maiden_name": "Saad",
+          "occupation": "textile worker",
+          "emigrated_from": "Bkassine, Lebanon",
+          "emigrated_year": 1920,
+          "emigration_age": 18
+        },
+        {
+          "name": "Andrea Mitchell",
+          "relationship": "daughter"
+        },
+        {
+          "name": "Andrew Mitchell",
+          "relationship": "son"
+        },
+        {
+          "name": "Claire Mitchell",
+          "relationship": "daughter"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "friend",
+          "context": "According to Alan Dershowitz, kept a regular 'room' at JE's Palm Beach mansion",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_061",
+          "name": "Alan Dershowitz",
+          "type": "source of information",
+          "context": "Dershowitz stated Mitchell kept regular room at JE's mansion",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_134a",
+          "name": "Edmund S. Muskie",
+          "type": "employer",
+          "year_start": 1962,
+          "year_end": 1965,
+          "role": "executive assistant to Senator",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "person_134b",
+          "name": "Newt Gingrich",
+          "type": "co-chairman",
+          "context": "Co-chairman of Task Force on United Nations",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_012",
+          "name": "Barack Obama",
+          "type": "appointer",
+          "year": 2009,
+          "context": "Appointed Mitchell as Special Envoy for Middle East Peace",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_134c",
+          "name": "Hillary Clinton",
+          "type": "appointer",
+          "year": 2009,
+          "role": "Secretary of State",
+          "context": "Appointed Mitchell as Special Envoy",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1954,
+          "event": "Began service in United States Army"
+        },
+        {
+          "year": 1956,
+          "event": "Ended military service",
+          "rank": "First Lieutenant"
+        },
+        {
+          "year": 1960,
+          "event": "Became trial attorney for Antitrust Division of US Department of Justice",
+          "location": "Washington"
+        },
+        {
+          "year": 1962,
+          "event": "Became executive assistant to Senator Edmund S. Muskie"
+        },
+        {
+          "year": 1965,
+          "event": "Ended position with Senator Muskie"
+        },
+        {
+          "year": 1980,
+          "event": "Became United States Senator from Maine"
+        },
+        {
+          "year": 1989,
+          "event": "Became Senate Majority Leader"
+        },
+        {
+          "year": 1995,
+          "event": "Left Senate"
+        },
+        {
+          "year": 1995,
+          "event": "Joined law firm Verner, Liipfert, Bernhard, McPherson and Hand",
+          "location": "Washington, D.C."
+        },
+        {
+          "year": "unknown",
+          "event": "Became chairman of Verner, Liipfert"
+        },
+        {
+          "year": 2005,
+          "month": "January",
+          "event": "Task Force on United Nations formed"
+        },
+        {
+          "year": 2005,
+          "month": "June",
+          "day": 15,
+          "event": "Task Force on United Nations released findings and recommendations"
+        },
+        {
+          "year": 2009,
+          "month": "January",
+          "day": 22,
+          "event": "Appointed Special Envoy for Middle East Peace",
+          "appointed_by": "President Barack Obama and Secretary of State Hillary Clinton"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_101",
+          "name": "Georgetown University Law Center",
+          "role": "student",
+          "note": "attended part-time program at night"
+        },
+        {
+          "entity_id": "org_102",
+          "name": "United States Army",
+          "role": "officer",
+          "years": "1954-1956",
+          "rank": "First Lieutenant"
+        },
+        {
+          "entity_id": "org_103",
+          "name": "Colby College",
+          "location": "Waterville, Maine",
+          "note": "father was janitor"
+        },
+        {
+          "entity_id": "org_104",
+          "name": "United States Department of Justice",
+          "role": "trial attorney for Antitrust Division",
+          "location": "Washington",
+          "years": "1960-1962"
+        },
+        {
+          "entity_id": "org_105",
+          "name": "United States Senate",
+          "role": "Senator from Maine",
+          "years": "1980-1995"
+        },
+        {
+          "entity_id": "org_105",
+          "name": "United States Senate",
+          "role": "Senate Majority Leader",
+          "years": "1989-1995"
+        },
+        {
+          "entity_id": "org_106",
+          "name": "Walt Disney Company",
+          "role": "director"
+        },
+        {
+          "entity_id": "org_107",
+          "name": "Federal Express Corporation",
+          "role": "director"
+        },
+        {
+          "entity_id": "org_108",
+          "name": "Xerox Corporation",
+          "role": "director"
+        },
+        {
+          "entity_id": "org_109",
+          "name": "Unilever",
+          "role": "director"
+        },
+        {
+          "entity_id": "org_110",
+          "name": "Staples, Inc.",
+          "role": "director"
+        },
+        {
+          "entity_id": "org_111",
+          "name": "Starwood Hotels and Resorts",
+          "role": "director"
+        },
+        {
+          "entity_id": "org_112",
+          "name": "Boston Red Sox",
+          "role": "director",
+          "type": "baseball team"
+        },
+        {
+          "entity_id": "org_113",
+          "name": "Verner, Liipfert, Bernhard, McPherson and Hand",
+          "role": "partner, then chairman",
+          "location": "Washington, D.C.",
+          "type": "law firm"
+        },
+        {
+          "entity_id": "org_114",
+          "name": "Preti, Flaherty, Beliveau, Pachios, Orlick & Haley",
+          "role": "senior counsel",
+          "location": "Portland, Maine",
+          "type": "law firm"
+        },
+        {
+          "entity_id": "org_115",
+          "name": "DLA Piper, US LLP",
+          "role": "Partner and Chairman of Global Board",
+          "type": "global law firm"
+        },
+        {
+          "entity_id": "org_116",
+          "name": "ZeniMax Media Inc.",
+          "role": "Advisor"
+        },
+        {
+          "entity_id": "org_117",
+          "name": "Task Force on the United Nations",
+          "role": "co-chairman",
+          "co_chair": "Newt Gingrich",
+          "formed": "January 2005",
+          "reported": "June 15, 2005",
+          "type": "Congressionally mandated"
+        }
+      ],
+      "locations": [
+        {
+          "entity_id": "location_035",
+          "city": "Waterville",
+          "state": "Maine",
+          "type": "birthplace"
+        },
+        {
+          "entity_id": "location_036",
+          "village": "Bkassine",
+          "country": "Lebanon",
+          "note": "mother's birthplace"
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_135",
+      "name": "Robert A. Meister",
+      "birth_year": 1943,
+      "nationality": "American",
+      "occupations": [
+        "Vice Chairman",
+        "insurance executive",
+        "trustee",
+        "director"
+      ],
+      "summary": "Allegedly introduced JE to Les Wexner who was a client at Meister's insurance firm. Vice Chairman Aon Risk Services Companies Inc. (subsidiary of Aon Corporation) since 1991. Prior: Vice Chairman Sedgwick James 1985-1991, Alexander & Alexander 1975-1985. Managing Trustee Hunt Mortgage Group (parent of Centerline Capital Group). Director Universal Health Services Inc. Independent Trustee Ramco-Gershenson Properties Trust 1996-May 6 2014. Board of Trustees Centerline Holding Company since November 2003. March 1991-January 2010 Vice Chairman Aon Group Inc. Became Vice Chairman Emeritus Aon Group Inc January 2010. Board of Directors Universal Health Services Inc July 2004-May 2008.",
+      "family": [
+        {
+          "name": "TODD MEISTER",
+          "relationship": "son",
+          "spouse": "Nicky Hilton Rothschild",
+          "note": "Nicky Hilton's first husband"
+        },
+        {
+          "name": "Keith Meister",
+          "relationship": "son"
+        },
+        {
+          "name": "Lisa Schad",
+          "relationship": "second wife",
+          "divorced": true
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "introducer",
+          "context": "Allegedly introduced JE to Les Wexner",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_005",
+          "name": "Les Wexner",
+          "type": "client/introduced to JE",
+          "context": "Wexner was client at Meister's insurance firm",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "8"
+          ]
+        },
+        {
+          "entity_id": "person_135a",
+          "name": "Nicky Hilton Rothschild",
+          "type": "former daughter-in-law",
+          "context": "First wife of son Todd",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1975,
+          "event": "Joined Alexander & Alexander"
+        },
+        {
+          "year": 1985,
+          "event": "Left Alexander & Alexander, became Vice Chairman Sedgwick James"
+        },
+        {
+          "year": 1991,
+          "event": "Left Sedgwick James, became Vice Chairman Aon Risk Services Companies Inc."
+        },
+        {
+          "year": 1991,
+          "month": "March",
+          "event": "Became Vice Chairman of Aon Group, Inc."
+        },
+        {
+          "year": 1996,
+          "event": "Became Independent Trustee Ramco-Gershenson Properties Trust"
+        },
+        {
+          "year": 2003,
+          "month": "November",
+          "event": "Became member Board of Trustees Centerline Holding Company"
+        },
+        {
+          "year": 2004,
+          "month": "July",
+          "event": "Joined Board of Directors Universal Health Services, Inc."
+        },
+        {
+          "year": 2008,
+          "month": "May",
+          "event": "Left Board of Directors Universal Health Services, Inc."
+        },
+        {
+          "year": 2010,
+          "month": "January",
+          "event": "Became Vice Chairman Emeritus of Aon Group, Inc."
+        },
+        {
+          "year": 2014,
+          "month": "May",
+          "day": 6,
+          "event": "Ended tenure as Independent Trustee Ramco-Gershenson Properties Trust"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_118",
+          "name": "Aon Risk Services Companies Inc.",
+          "role": "Vice Chairman",
+          "year_start": 1991,
+          "type": "subsidiary of Aon Corporation"
+        },
+        {
+          "entity_id": "org_119",
+          "name": "Aon Group, Inc.",
+          "role": "Vice Chairman",
+          "years": "March 1991-January 2010",
+          "type": "insurance brokerage, risk consulting, reinsurance, employee benefits"
+        },
+        {
+          "entity_id": "org_119",
+          "name": "Aon Group, Inc.",
+          "role": "Vice Chairman Emeritus",
+          "year_start": "January 2010"
+        },
+        {
+          "entity_id": "org_120",
+          "name": "Sedgwick James",
+          "role": "Vice Chairman",
+          "years": "1985-1991"
+        },
+        {
+          "entity_id": "org_121",
+          "name": "Alexander & Alexander",
+          "role": "Vice Chairman",
+          "years": "1975-1985"
+        },
+        {
+          "entity_id": "org_122",
+          "name": "Hunt Mortgage Group",
+          "role": "Managing Trustee",
+          "note": "parent company of Centerline Capital Group"
+        },
+        {
+          "entity_id": "org_123",
+          "name": "Centerline Capital Group",
+          "role": "associated",
+          "relationship": "subsidiary of Hunt Mortgage Group"
+        },
+        {
+          "entity_id": "org_124",
+          "name": "Universal Health Services Inc.",
+          "role": "Director"
+        },
+        {
+          "entity_id": "org_124",
+          "name": "Universal Health Services, Inc.",
+          "role": "Board of Directors",
+          "years": "July 2004-May 2008"
+        },
+        {
+          "entity_id": "org_125",
+          "name": "Ramco-Gershenson Properties Trust",
+          "role": "Independent Trustee",
+          "years": "1996-May 6, 2014"
+        },
+        {
+          "entity_id": "org_126",
+          "name": "Centerline Holding Company",
+          "role": "Board of Trustees member",
+          "year_start": "November 2003"
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_136",
+      "name": "Flavio Briatore",
+      "birth_year": 1950,
+      "nationality": "Italian",
+      "occupations": [
+        "businessman",
+        "restaurant manager",
+        "insurance salesman",
+        "Formula One team manager",
+        "club owner",
+        "brand owner"
+      ],
+      "summary": "Circled in JE address book. Italian businessman. Started career as restaurant manager and insurance salesman in Italy. When Benetton opened first five stores in US 1979, appointed Briatore as director of group's American operations. Convicted in Italy on several fraud charges 1980s, though convictions successively extinguished by amnesty. After appeal 1987 sentence reduced to 1 year 2 months. To avoid imprisonment lived in Saint Thomas, Virgin Islands. Never went to prison, returned to EU after both convictions extinguished by amnesty. Set up successful Benetton franchises as fugitive in Virgin Islands and US. 1990 promoted by Luciano Benetton to manager of Benetton Formula One racing team, which became Renault F1 in 2002. Created Billionaire brand 1998, owns club in Sardinia (since closed). August 2012 opened Billionaire Club in Marbella plus haute couture line Billionaire Italian Couture. 2004 opened Cipriani's restaurant Mayfair London. Until 2007 owned 48.9% of pharmaceuticals company Pierrel. 2007-2010 part-owner and chairman London's Queens Park Rangers F.C. Was on ING Renault F1 team but due to involvement in race fixing at 2008 Singapore Grand Prix forced to resign. 2010 Turin court ordered Briatore rehabilitated, which by Italian Criminal Code results in extinction of any criminal effect of conviction. Operates Tuscan beach club and Lion in the Sun (holiday resort Kenya). Beneficiary of Autumn Sailing Ltd which purchased super yacht Force Blue from Home Shopping Network investor Roy Speer for £68.2m.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "acquaintance",
+          "context": "Circled in JE address book",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_136a",
+          "name": "Luciano Benetton",
+          "type": "employer/promoter",
+          "year": 1979,
+          "context": "Appointed Briatore director of Benetton US operations, later promoted to F1 manager",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_136b",
+          "name": "Roy Speer",
+          "type": "business transaction",
+          "occupation": "Home Shopping Network investor",
+          "context": "Sold super yacht Force Blue to Autumn Sailing Ltd",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1979,
+          "event": "Appointed director of Benetton's American operations",
+          "context": "When Benetton opened first five stores in United States"
+        },
+        {
+          "year": "1980s",
+          "event": "Convicted in Italy on several fraud charges",
+          "outcome": "Convictions extinguished by amnesty"
+        },
+        {
+          "year": 1987,
+          "event": "Appeal reduced sentence to 1 year and 2 months"
+        },
+        {
+          "year": "1980s",
+          "event": "Lived in Saint Thomas, Virgin Islands to avoid imprisonment"
+        },
+        {
+          "year": "1980s-1990s",
+          "event": "Set up successful Benetton franchises as fugitive in Virgin Islands and United States"
+        },
+        {
+          "year": 1990,
+          "event": "Promoted to manager of Benetton Formula One racing team"
+        },
+        {
+          "year": 1998,
+          "event": "Created Billionaire brand"
+        },
+        {
+          "year": 2002,
+          "event": "Benetton Formula One team became Renault F1"
+        },
+        {
+          "year": 2004,
+          "event": "Opened Cipriani's restaurant in Mayfair, London"
+        },
+        {
+          "year": 2007,
+          "event": "Owned 48.9% of pharmaceuticals company Pierrel"
+        },
+        {
+          "year": 2007,
+          "event": "Became part-owner and chairman of Queens Park Rangers F.C."
+        },
+        {
+          "year": 2008,
+          "event": "Involved in race fixing at Singapore Grand Prix",
+          "outcome": "Forced to resign from ING Renault F1 team"
+        },
+        {
+          "year": 2010,
+          "event": "Left ownership of Queens Park Rangers F.C."
+        },
+        {
+          "year": 2010,
+          "event": "Turin court ordered Briatore rehabilitated",
+          "outcome": "Extinction of any criminal effect of conviction per Italian Criminal Code"
+        },
+        {
+          "year": 2012,
+          "month": "August",
+          "event": "Opened Billionaire Club in Marbella and launched Billionaire Italian Couture"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_127",
+          "name": "Benetton",
+          "role": "director of American operations",
+          "year": 1979
+        },
+        {
+          "entity_id": "org_128",
+          "name": "Benetton Formula One racing team",
+          "role": "manager",
+          "year": 1990
+        },
+        {
+          "entity_id": "org_129",
+          "name": "Renault F1",
+          "role": "manager",
+          "year": 2002,
+          "note": "formerly Benetton Formula One"
+        },
+        {
+          "entity_id": "org_130",
+          "name": "ING Renault F1",
+          "role": "team member",
+          "year_end": 2008,
+          "reason": "forced to resign due to race fixing"
+        },
+        {
+          "entity_id": "org_131",
+          "name": "Billionaire brand",
+          "role": "founder/owner",
+          "year": 1998
+        },
+        {
+          "entity_id": "org_132",
+          "name": "Billionaire Club",
+          "role": "owner",
+          "location": "Sardinia",
+          "status": "closed"
+        },
+        {
+          "entity_id": "org_133",
+          "name": "Billionaire Club Marbella",
+          "role": "owner",
+          "year": 2012,
+          "location": "Marbella"
+        },
+        {
+          "entity_id": "org_134",
+          "name": "Billionaire Italian Couture",
+          "role": "owner",
+          "year": 2012,
+          "type": "haute couture line"
+        },
+        {
+          "entity_id": "org_135",
+          "name": "Cipriani's restaurant",
+          "role": "owner",
+          "year": 2004,
+          "location": "Mayfair, London"
+        },
+        {
+          "entity_id": "org_136",
+          "name": "Pierrel",
+          "role": "owner 48.9%",
+          "year": "until 2007",
+          "type": "pharmaceuticals company"
+        },
+        {
+          "entity_id": "org_137",
+          "name": "Queens Park Rangers F.C.",
+          "role": "part-owner and chairman",
+          "years": "2007-2010",
+          "location": "London"
+        },
+        {
+          "entity_id": "org_138",
+          "name": "Lion in the Sun",
+          "role": "operator",
+          "type": "holiday resort",
+          "location": "Kenya"
+        },
+        {
+          "entity_id": "org_139",
+          "name": "Tuscan beach club",
+          "role": "operator",
+          "location": "Tuscany"
+        },
+        {
+          "entity_id": "org_140",
+          "name": "Autumn Sailing Ltd",
+          "role": "beneficiary"
+        }
+      ],
+      "locations": [
+        {
+          "entity_id": "location_037",
+          "location": "Saint Thomas",
+          "territory": "Virgin Islands",
+          "type": "residence during fugitive period",
+          "years": "1980s"
+        }
+      ],
+      "assets": [
+        {
+          "entity_id": "asset_001",
+          "name": "Force Blue",
+          "type": "super yacht",
+          "purchased_by": "Autumn Sailing Ltd",
+          "purchased_from": "Roy Speer",
+          "price": "£68.2 million",
+          "beneficiary": "Flavio Briatore"
+        }
+      ]
+    },
+    {
+      "category": "crony",
+      "entity_id": "person_137",
+      "name": "Arnold Paul Prosperi",
+      "birth_year": 1948,
+      "death_year": 2015,
+      "nationality": "American",
+      "occupations": [
+        "attorney",
+        "real estate attorney"
+      ],
+      "summary": "JE crony who visited him in jail. 2001 disbarred Palm Beach attorney made headlines when five-year federal prison sentence commuted to three years house arrest by former President Bill Clinton. The two were college buddies. Former real estate attorney suffered from rare autoimmune disorder myasthenia gravis. Convicted November 1997 of filing false tax returns and creating counterfeit securities. PBP probable cause affidavit mentions JE's private investigator who told victims he was called 'Paul'.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "crony",
+          "context": "Visited JE in jail, possibly JE's private investigator called 'Paul'",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_012",
+          "name": "Bill Clinton",
+          "type": "college buddy/pardoner",
+          "context": "Clinton commuted Prosperi's sentence from 5 years federal prison to 3 years house arrest in 2001",
+          "confidence": 0.733,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "65"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 1997,
+          "month": "November",
+          "event": "Convicted of filing false tax returns and creating counterfeit securities"
+        },
+        {
+          "year": 2001,
+          "event": "Five-year federal prison sentence commuted to three years house arrest by President Bill Clinton"
+        },
+        {
+          "year": 2015,
+          "event": "Death"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_021",
+          "case_name": "United States v. Arnold Paul Prosperi",
+          "conviction_date": "November 1997",
+          "charges": "filing false tax returns, creating counterfeit securities",
+          "original_sentence": "5 years federal prison",
+          "commuted_sentence": "3 years house arrest",
+          "commuted_by": "President Bill Clinton",
+          "commuted_year": 2001
+        }
+      ],
+      "health": [
+        {
+          "condition": "myasthenia gravis",
+          "description": "rare autoimmune disorder"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_146",
+      "name": "Barry Krischer",
+      "nationality": "American",
+      "occupations": [
+        "Florida State Attorney",
+        "prosecutor"
+      ],
+      "summary": "Florida State Attorney during Epstein's case. Early 2006 stated that due to quality of evidence Epstein would only be charged with one count aggravated assault with no jail time, no requirement to register as sex offender, no restitution for victims. PBPD was unsatisfied and requested federal investigation. Also ran Florida's Crimes Against Children Unit. Wrote Assistant U.S. Attorney A. Marie Villafana (prosecutor handling federal matter): 'Glad we could get this worked out for reasons I won't put in writing. After this is resolved I would love to buy you a cup at Starbucks and have a conversation.' Re-hired a judge who was accused of sexual harassment and stepped down. Refused to prosecute police killing of Jerrod Miller. Was subpoenaed by US Commission of Civil Rights to investigate irregularities during 2000 election in Palm Beach County FL.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "prosecutor",
+          "context": "Florida State Attorney during Epstein case, offered lenient deal early 2006",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_064",
+          "name": "A. Marie Villafana",
+          "type": "correspondent",
+          "occupation": "Assistant U.S. Attorney",
+          "context": "Wrote to Villafana about working out deal, suggested Starbucks meeting",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_141",
+          "name": "Palm Beach Police Department",
+          "type": "investigative agency",
+          "context": "PBPD unsatisfied with Krischer's deal, requested federal investigation",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "org_142",
+          "name": "Florida's Crimes Against Children Unit",
+          "type": "director",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "org_143",
+          "name": "US Commission of Civil Rights",
+          "type": "subpoenaed by",
+          "year": 2000,
+          "context": "Investigate irregularities during 2000 election Palm Beach County FL",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 2006,
+          "period": "early",
+          "event": "Stated Epstein would only be charged with one count aggravated assault",
+          "details": "no jail time, no sex offender registry, no restitution for victims"
+        },
+        {
+          "year": 2006,
+          "event": "PBPD requested federal investigation",
+          "reason": "unsatisfied with Krischer's proposed charges"
+        },
+        {
+          "year": 2000,
+          "event": "Subpoenaed by US Commission of Civil Rights",
+          "purpose": "investigate irregularities during 2000 election in Palm Beach County FL"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_142",
+          "name": "Florida's Crimes Against Children Unit",
+          "role": "director"
+        }
+      ],
+      "communications": [
+        {
+          "type": "email/letter",
+          "to": "A. Marie Villafana",
+          "content": "Glad we could get this worked out for reasons I won't put in writing. After this is resolved I would love to buy you a cup at Starbucks and have a conversation.",
+          "context": "federal matter regarding Epstein"
+        }
+      ],
+      "controversies": [
+        {
+          "issue": "Re-hired judge accused of sexual harassment who had stepped down"
+        },
+        {
+          "issue": "Refused to prosecute police killing of Jerrod Miller"
+        },
+        {
+          "issue": "2000 election irregularities investigation in Palm Beach County"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_061",
+      "name": "Alan Morton Dershowitz",
+      "birth_year": 1938,
+      "nationality": "American",
+      "occupations": [
+        "lawyer",
+        "Harvard professor",
+        "scholar of Constitutional law",
+        "author"
+      ],
+      "summary": "Renowned lawyer, Harvard professor, scholar of Constitutional law. Outspoken Israel supporter. Part of OJ Simpson's 'dream team' 1994. 1998 wrote book 'Sexual McCarthyism: Clinton, Starr, and the emerging constitutional crisis'. 2001 wrote 'Supreme Injustice: How the High Court Hijacked Election 2000'. Was to deliver keynote and accept Citizen of Year award at temple festive dinner September 6 2002 but cancelled after dinner chairman Alan Burstein learned Dershowitz agreed to serve as counsel to British law firm appealing Abdelbaset al-Megrahi conviction. 2005 when Palm Beach Police investigating Epstein's sexual abuse of dozen+ minor girls, coincidentally and remarkably Dershowitz personally collected and provided flight manifests of 'Lolita Express' to PBPD. 2007 helped broker JE's NPA with sweeping immunity provision for Epstein and 'any potential co-conspirators'. August 2011 contacted by defense, requested to cooperate and answer questions, lawyers warned they'd disclose reasons publicly but Dershowitz refused to cooperate. December 30 2014 Edwards and Cassell filed joinder motion wanting to add VA Roberts to their case, references Roberts' complaints against Dershowitz. December 31 2014 Politico reports on story. Dershowitz embarked on media campaign defending himself, called Roberts 'serial perjurer, serial liar & serial prostitute', accused her attorneys Brad Edwards and Paul Cassell of being unethical, claimed he'd file disbarment charges. Also said he had no involvement in JE's NPA and never visited JE's island without family present. Says Roberts is lying because she claimed she had sex with Bill Clinton on JE's island and Dershowitz swears Clinton never set foot on island. January 3 2015 Jack Scarola (attorney representing Edwards/Cassell) invited Dershowitz to cooperate but no response. January 5 2015 Dershowitz made motion to intervene on federal case (Jane Doe #1 et al v US 08-cv-80736) to strike proffer by VA Roberts (Jane Doe #3) mentioning Dershowitz. January 6 2015 Edwards and Cassell filed defamation suit against Dershowitz (Edwards and Cassell vs Dershowitz CACE 15-000072). February 25 2015 Jack Scarola sent friendly letter to Dershowitz attorney complaining of refusal to cooperate and improper conduct. Deposed October 15 2015. During deposition disclosed confidential settlement discussion with David Boies in which Boies privately assured Dershowitz he didn't believe client Virginia Roberts' claims. December 11 2015 ignoring confidentiality agreement filed affidavit detailing discussion to court. Roberts filed motion to sanction Dershowitz. Case settled April 8 2016.",
+      "family": [
+        {
+          "name": "Sue Barlach",
+          "relationship": "wife"
+        },
+        {
+          "name": "Carolyn Cohen",
+          "relationship": "wife",
+          "note": "unclear if same person as Sue Barlach or separate wife"
+        },
+        {
+          "name": "Ella Dershowitz",
+          "relationship": "child"
+        },
+        {
+          "name": "Jamin Dershowitz",
+          "relationship": "child"
+        },
+        {
+          "name": "Elon Dershowitz",
+          "relationship": "child"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "attorney/defender",
+          "context": "Helped broker JE's NPA 2007, provided flight manifests to police 2005",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_015",
+          "name": "Bradley J. Edwards",
+          "type": "legal adversary",
+          "context": "Edwards sued Dershowitz for defamation January 6 2015",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "63",
+            "41",
+            "61",
+            "43",
+            "44"
+          ]
+        },
+        {
+          "entity_id": "person_062",
+          "name": "Paul Cassell",
+          "type": "legal adversary",
+          "context": "Co-plaintiff with Edwards in defamation suit",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_061a",
+          "name": "Virginia Roberts",
+          "aliases": [
+            "VA Roberts",
+            "Jane Doe #3"
+          ],
+          "type": "accuser",
+          "context": "Roberts accused Dershowitz of sexual abuse, Dershowitz called her serial liar",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "47",
+            "48",
+            "53"
+          ]
+        },
+        {
+          "entity_id": "person_061b",
+          "name": "Jack Scarola",
+          "type": "opposing counsel",
+          "context": "Attorney representing Edwards and Cassell",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_151",
+          "name": "David Boies",
+          "type": "opposing counsel",
+          "context": "Dershowitz disclosed confidential settlement discussion with Boies",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_061c",
+          "name": "Alan Burstein",
+          "type": "event organizer",
+          "context": "Dinner chairman who cancelled Dershowitz's keynote after learning of al-Megrahi representation",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_061d",
+          "name": "Abdelbaset al-Megrahi",
+          "type": "legal client",
+          "context": "Dershowitz served as counsel to British law firm appealing his conviction",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_134",
+          "name": "George Mitchell",
+          "type": "source connection",
+          "context": "According to Dershowitz, Mitchell kept regular room at JE's Palm Beach mansion",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_012",
+          "name": "Bill Clinton",
+          "type": "referenced",
+          "context": "Dershowitz claimed Roberts lied about Clinton having sex on JE's island",
+          "confidence": 0.733,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "65"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 1994,
+          "event": "Part of OJ Simpson's 'dream team'"
+        },
+        {
+          "year": 1998,
+          "event": "Wrote book 'Sexual McCarthyism: Clinton, Starr, and the emerging constitutional crisis'"
+        },
+        {
+          "year": 2001,
+          "event": "Wrote book 'Supreme Injustice: How the High Court Hijacked Election 2000'"
+        },
+        {
+          "year": 2002,
+          "month": "September",
+          "day": 6,
+          "event": "Scheduled to deliver keynote and accept Citizen of Year award at temple dinner",
+          "outcome": "Cancelled after controversy over al-Megrahi representation"
+        },
+        {
+          "year": 2005,
+          "event": "Palm Beach Police investigating Epstein's sexual abuse of dozen+ minor girls",
+          "dershowitz_action": "Personally collected and provided flight manifests of 'Lolita Express' to PBPD"
+        },
+        {
+          "year": 2007,
+          "event": "Helped broker JE's NPA",
+          "details": "Sweeping immunity for Epstein and 'any potential co-conspirators' in Southern District of Florida"
+        },
+        {
+          "year": 2011,
+          "month": "August",
+          "event": "Contacted by defense, requested to cooperate and answer questions",
+          "outcome": "Refused to cooperate despite warning of public disclosure"
+        },
+        {
+          "year": 2014,
+          "month": "December",
+          "day": 30,
+          "event": "Edwards and Cassell filed joinder motion to add VA Roberts",
+          "details": "Referenced Roberts' complaints against Dershowitz"
+        },
+        {
+          "year": 2014,
+          "month": "December",
+          "day": 31,
+          "event": "Politico reports on story"
+        },
+        {
+          "year": 2014,
+          "period": "late",
+          "event": "Embarked on media campaign to defend himself",
+          "statements": "Called Roberts 'serial perjurer, serial liar & serial prostitute', accused Edwards and Cassell of being unethical, claimed he'd file disbarment charges, said he had no involvement in NPA, never visited island without family"
+        },
+        {
+          "year": 2015,
+          "month": "January",
+          "day": 3,
+          "event": "Jack Scarola invited Dershowitz to cooperate",
+          "outcome": "No response from Dershowitz"
+        },
+        {
+          "year": 2015,
+          "month": "January",
+          "day": 5,
+          "event": "Made motion to intervene on federal case Jane Doe #1 et al v US (08-cv-80736)",
+          "purpose": "Strike proffer by VA Roberts (Jane Doe #3) mentioning Dershowitz"
+        },
+        {
+          "year": 2015,
+          "month": "January",
+          "day": 6,
+          "event": "Edwards and Cassell filed defamation suit against Dershowitz",
+          "case": "CACE 15-000072"
+        },
+        {
+          "year": 2015,
+          "month": "February",
+          "day": 25,
+          "event": "Jack Scarola sent friendly letter to Dershowitz attorney",
+          "content": "Complaining of refusal to cooperate and improper conduct"
+        },
+        {
+          "year": 2015,
+          "month": "October",
+          "day": 15,
+          "event": "Deposed",
+          "disclosure": "Disclosed confidential settlement discussion with David Boies in which Boies privately assured Dershowitz he didn't believe Virginia Roberts' claims"
+        },
+        {
+          "year": 2015,
+          "month": "December",
+          "day": 11,
+          "event": "Filed affidavit detailing Boies discussion to court",
+          "violation": "Ignoring confidentiality agreement"
+        },
+        {
+          "year": 2015,
+          "period": "late",
+          "event": "Roberts filed motion to sanction Dershowitz"
+        },
+        {
+          "year": 2016,
+          "month": "April",
+          "day": 8,
+          "event": "Case settled"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_022",
+          "case_name": "Jane Doe #1, et al. v. United States",
+          "case_number": "08-cv-80736",
+          "court": "federal court",
+          "dershowitz_action": "Motion to intervene January 5 2015 to strike VA Roberts proffer"
+        },
+        {
+          "entity_id": "legal_023",
+          "case_name": "Edwards and Cassell vs Dershowitz",
+          "case_number": "CACE 15-000072",
+          "filed_date": "January 6, 2015",
+          "case_type": "defamation",
+          "settled_date": "April 8, 2016"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_144",
+          "name": "Harvard University",
+          "role": "professor",
+          "specialty": "Constitutional law"
+        },
+        {
+          "entity_id": "org_145",
+          "name": "Palm Beach Police Department",
+          "role": "provided evidence to",
+          "year": 2005,
+          "evidence": "flight manifests of 'Lolita Express'"
+        }
+      ],
+      "publications": [
+        {
+          "year": 1998,
+          "title": "Sexual McCarthyism: Clinton, Starr, and the emerging constitutional crisis",
+          "type": "book"
+        },
+        {
+          "year": 2001,
+          "title": "Supreme Injustice: How the High Court Hijacked Election 2000",
+          "type": "book"
+        }
+      ],
+      "depositions": [
+        {
+          "entity_id": "depo_001",
+          "case": "Jane Doe No. 2 v. Epstein",
+          "case_number": "9:08-cv-80119-KAM",
+          "deponent": "Police Detective Joe Recarey",
+          "deposition_date": "March 19, 2010",
+          "page": 281,
+          "relevance": "Referenced Dershowitz providing flight manifests to PBPD"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_147",
+      "name": "Donald Hafele",
+      "nationality": "American",
+      "occupations": [
+        "Palm Beach County Circuit Judge",
+        "judge"
+      ],
+      "summary": "Palm Beach County Circuit Judge who ruled allowing subpoenaed JE's victim abortion records but in 2009 ordered Epstein's erect member couldn't be examined for civil lawsuit filed against him by women he abused. 2014 sided with JE over victims' attorney Brad Edwards, ruling there is no legal basis for Edwards' claims of abuse of process and malicious prosecution. The ruling stemmed from civil lawsuit that JE filed 2009 against Edwards, claiming Edwards used judicial system improperly in investigating Epstein for civil lawsuits Edwards filed on behalf of victims. JE dropped his lawsuit against Edwards August 2012. But Edwards forged on with his counterclaim, saying Epstein filed 'baseless and unsupportable claims' to get Edwards to back down from representing victims and force him to spend time, energy and resources on own defense.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "judge presiding over cases",
+          "context": "Made favorable rulings for JE against victims and their attorneys",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_015",
+          "name": "Bradley J. Edwards",
+          "type": "ruled against",
+          "year": 2014,
+          "context": "Ruled no legal basis for Edwards' claims of abuse of process and malicious prosecution",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "63",
+            "41",
+            "61",
+            "43",
+            "44"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 2009,
+          "event": "Ruled allowing subpoena of JE's victim abortion records"
+        },
+        {
+          "year": 2009,
+          "event": "Ordered Epstein's erect member couldn't be examined for civil lawsuit"
+        },
+        {
+          "year": 2014,
+          "event": "Ruled in favor of JE over Brad Edwards",
+          "details": "No legal basis for Edwards' claims of abuse of process and malicious prosecution"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_024",
+          "case_name": "Jeffrey Epstein v. Bradley Edwards",
+          "filed_date": 2009,
+          "dropped_date": "August 2012",
+          "claim": "Edwards used judicial system improperly"
+        },
+        {
+          "entity_id": "legal_025",
+          "case_name": "Edwards counterclaim v. Epstein",
+          "filed_date": 2012,
+          "ruling_date": 2014,
+          "outcome": "Hafele ruled in favor of Epstein"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_148",
+      "name": "Jay Lefkowitz",
+      "nationality": "American",
+      "occupations": [
+        "attorney",
+        "White House aide",
+        "Mid East envoy",
+        "senior partner"
+      ],
+      "summary": "Attorney who helped negotiate JE's NPA with Kenneth Starr in 2007. Father Jerome was labor lawyer who drafted New York's landmark Taylor Law. As white house aide 1995, while trying to defend Pat Robertson's 'The New World Order' which allegedly 'regurgitates decades-old conspiracy theories about all-powerful bankers who just happen to be Jewish', Lefkowitz made statement to NY Times: 'I don't see Pat Robertson as being opposed to Jewish interests. Deep down, I believe that a little anti-Semitism is good for Jews -- it reminds us who we are.' Mentioned in article featured on front page of NY Times in 2001 about Bush vs Kennedy re: stem cell research. Also served as Mid East envoy for GWB. 2003 left GWB administration to join law firm of Kirkland Ellis where he is made senior partner. 1991 married Elena Neuman (daughter of wealthy real estate mogul Herbert Neuman), they have 3 kids Talia, Danielle and Jacob.",
+      "family": [
+        {
+          "name": "Jerome Lefkowitz",
+          "relationship": "father",
+          "occupation": "labor lawyer",
+          "achievement": "drafted New York's landmark Taylor Law"
+        },
+        {
+          "name": "Elena Neuman",
+          "relationship": "wife",
+          "married": 1991,
+          "father": "Herbert Neuman",
+          "father_occupation": "wealthy real estate mogul"
+        },
+        {
+          "name": "Talia Lefkowitz",
+          "relationship": "child"
+        },
+        {
+          "name": "Danielle Lefkowitz",
+          "relationship": "child"
+        },
+        {
+          "name": "Jacob Lefkowitz",
+          "relationship": "child"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "attorney",
+          "year": 2007,
+          "context": "Helped negotiate JE's NPA with Kenneth Starr",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_149",
+          "name": "Kenneth Starr",
+          "type": "co-counsel",
+          "year": 2007,
+          "context": "Together negotiated JE's NPA",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_148a",
+          "name": "George W. Bush",
+          "type": "employer",
+          "years": "1995-2003",
+          "roles": "White House aide, Mid East envoy",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "person_148b",
+          "name": "Pat Robertson",
+          "type": "defended",
+          "year": 1995,
+          "context": "Defended Robertson's 'The New World Order' book",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_148c",
+          "name": "Herbert Neuman",
+          "type": "father-in-law",
+          "occupation": "wealthy real estate mogul",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        }
+      ],
+      "events": [
+        {
+          "year": 1991,
+          "event": "Married Elena Neuman"
+        },
+        {
+          "year": 1995,
+          "event": "Served as White House aide",
+          "controversy": "Made controversial statement to NY Times about anti-Semitism"
+        },
+        {
+          "year": 2001,
+          "event": "Featured in NY Times front page article",
+          "topic": "Bush vs Kennedy re: stem cell research"
+        },
+        {
+          "year": 2003,
+          "event": "Left GWB administration",
+          "next_position": "Joined Kirkland Ellis as senior partner"
+        },
+        {
+          "year": 2007,
+          "event": "Helped negotiate JE's NPA with Kenneth Starr"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_146",
+          "name": "Kirkland Ellis",
+          "role": "senior partner",
+          "year_joined": 2003
+        }
+      ],
+      "controversies": [
+        {
+          "year": 1995,
+          "statement": "Deep down, I believe that a little anti-Semitism is good for Jews -- it reminds us who we are",
+          "context": "While defending Pat Robertson's book to NY Times"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_191",
+      "name": "Gerald Lefcourt",
+      "nationality": "American",
+      "occupations": [
+        "attorney",
+        "trial lawyer"
+      ],
+      "summary": "JE's lawyer 2007. Lefcourt graduated Brooklyn Law School, class of 1967. Considered one of the nation's best trial lawyers, Lefcourt is currently one of the attorneys in the federal KPMG tax shelter fraud prosecution.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "attorney",
+          "year": 2007,
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 1967,
+          "event": "Graduated Brooklyn Law School"
+        },
+        {
+          "year": 2007,
+          "event": "Served as JE's lawyer"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_147",
+          "name": "Brooklyn Law School",
+          "role": "graduate",
+          "year": 1967
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_026",
+          "case_name": "KPMG tax shelter fraud prosecution",
+          "role": "defense attorney",
+          "court": "federal court"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_150",
+      "name": "Guy Fronstin",
+      "nationality": "American",
+      "occupations": [
+        "attorney"
+      ],
+      "summary": "JE attorney. 2006 he accepted a plea deal that would have billionaire plead guilty to one count of aggravated assault with intent to commit a felony, and would give him five years' probation but no criminal record, according to NY Post. That deal was to only apply to one of the five alleged victims. He was then fired and replaced with Jack A. Goldberger.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "attorney",
+          "year": 2006,
+          "context": "Negotiated plea deal, then fired and replaced by Goldberger",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_150a",
+          "name": "Jack A. Goldberger",
+          "type": "replaced by",
+          "year": 2006,
+          "context": "Replaced Fronstin as JE's attorney",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 2006,
+          "event": "Accepted plea deal for JE",
+          "terms": "one count aggravated assault with intent to commit felony, five years probation, no criminal record",
+          "limitation": "deal only applied to one of five alleged victims"
+        },
+        {
+          "year": 2006,
+          "event": "Fired by JE, replaced with Jack A. Goldberger"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_149",
+      "name": "Kenneth Starr",
+      "nationality": "American",
+      "occupations": [
+        "Solicitor General",
+        "attorney",
+        "prosecutor"
+      ],
+      "summary": "Brokered JE's secret plea deal. 1989-1993 was 39th Solicitor General. A Republican he served as solicitor during the Monica Lewinsky trial.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "attorney",
+          "year": 2007,
+          "context": "Brokered JE's secret plea deal",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_148",
+          "name": "Jay Lefkowitz",
+          "type": "co-counsel",
+          "year": 2007,
+          "context": "Together negotiated JE's NPA",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_012",
+          "name": "Bill Clinton",
+          "type": "prosecutor of",
+          "context": "Served as solicitor during Monica Lewinsky trial",
+          "confidence": 0.733,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "65"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 1989,
+          "event": "Became 39th Solicitor General of the United States"
+        },
+        {
+          "year": 1993,
+          "event": "Ended tenure as Solicitor General"
+        },
+        {
+          "year": "1990s",
+          "event": "Served as solicitor during Monica Lewinsky trial"
+        },
+        {
+          "year": 2007,
+          "event": "Brokered JE's secret plea deal with Jay Lefkowitz"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_148",
+          "name": "Office of Solicitor General",
+          "role": "39th Solicitor General",
+          "years": "1989-1993"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_152",
+      "name": "Bruce E. Reinhart",
+      "nationality": "American",
+      "occupations": [
+        "Assistant U.S. Attorney",
+        "defense attorney"
+      ],
+      "summary": "1996-2008 distinguished former Assistant U.S. Attorney. His unexpected exit from United States Attorneys Office was surprising given timing. Asst US District Attorney in FL before leaving government to defend JE. He represented Sarah Kellen at time of her deposition in 2010. Reinhart moved to intervene in federal case to contest victims' allegations that Reinhart (a former prosecutor in U.S. Attorney's Office investigating Epstein) received confidential, non-public information about investigation. Victims specifically alleged that Reinhart had 'joined Epstein's payroll shortly after important decisions were made limiting Epstein's criminal liability' and that Reinhart had gone on to improperly represent Epstein-related witnesses in various civil suits. Reinhart filed sworn affidavit admitting that he had represented Epstein-related clients, but claiming that he did not possess any such confidential information. He sought to intervene to challenge victims' arguments but was denied by Court. He visited Epstein in prison July 2 2008 August 8 2008.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "defense attorney",
+          "year_start": 2008,
+          "context": "Left government prosecutor position to defend JE",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_028",
+          "name": "Sarah Kellen",
+          "type": "attorney for",
+          "year": 2010,
+          "context": "Represented Kellen at time of her deposition",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "68"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 1996,
+          "event": "Became Assistant U.S. Attorney"
+        },
+        {
+          "year": 2008,
+          "event": "Left U.S. Attorney's Office to defend JE",
+          "timing": "unexpected exit, surprising given timing"
+        },
+        {
+          "year": 2008,
+          "month": "July",
+          "day": 2,
+          "event": "Visited Epstein in prison"
+        },
+        {
+          "year": 2008,
+          "month": "August",
+          "day": 8,
+          "event": "Visited Epstein in prison"
+        },
+        {
+          "year": 2010,
+          "event": "Represented Sarah Kellen at her deposition"
+        },
+        {
+          "year": "unknown",
+          "event": "Filed sworn affidavit",
+          "content": "Admitted representing Epstein-related clients, claimed no possession of confidential information"
+        },
+        {
+          "year": "unknown",
+          "event": "Moved to intervene in federal case to contest victims' allegations",
+          "outcome": "Denied by Court"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_149",
+          "name": "United States Attorney's Office",
+          "location": "Florida",
+          "role": "Assistant U.S. Attorney",
+          "years": "1996-2008"
+        }
+      ],
+      "allegations": [
+        {
+          "allegation": "Joined Epstein's payroll shortly after important decisions were made limiting Epstein's criminal liability",
+          "alleged_by": "victims"
+        },
+        {
+          "allegation": "Improperly represented Epstein-related witnesses in various civil suits",
+          "alleged_by": "victims"
+        },
+        {
+          "allegation": "Received confidential, non-public information about the investigation",
+          "alleged_by": "victims",
+          "reinhart_response": "Filed sworn affidavit denying possession of such information"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_153",
+      "name": "Louis Freeh",
+      "nationality": "American",
+      "occupations": [
+        "FBI Director",
+        "attorney",
+        "mediator"
+      ],
+      "summary": "Clinton appointed former FBI Director. Is called in by Alan Dershowitz to mediate in the suits against Bradley Edwards and Paul Cassell. CACE 15-000072",
+      "relationships": [
+        {
+          "entity_id": "person_012",
+          "name": "Bill Clinton",
+          "type": "appointed by",
+          "role": "FBI Director",
+          "confidence": 0.733,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "65"
+          ]
+        },
+        {
+          "entity_id": "person_061",
+          "name": "Alan Dershowitz",
+          "type": "hired by",
+          "context": "Called in to mediate in suits against Edwards and Cassell",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_015",
+          "name": "Bradley Edwards",
+          "type": "mediation subject",
+          "case": "CACE 15-000072",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "63",
+            "41",
+            "61",
+            "43",
+            "44"
+          ]
+        },
+        {
+          "entity_id": "person_062",
+          "name": "Paul Cassell",
+          "type": "mediation subject",
+          "case": "CACE 15-000072",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_150",
+          "name": "Federal Bureau of Investigation",
+          "role": "Director",
+          "appointed_by": "President Bill Clinton"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_023",
+          "case_name": "Edwards and Cassell vs Dershowitz",
+          "case_number": "CACE 15-000072",
+          "role": "mediator",
+          "hired_by": "Alan Dershowitz"
+        }
+      ]
+    },
+    {
+      "category": "legal-epstein",
+      "entity_id": "person_154",
+      "name": "Darren Indyke",
+      "nationality": "American",
+      "occupations": [
+        "corporate attorney"
+      ],
+      "summary": "Corporate attorney JE's companies are assigned to, visited JE daily in jail.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "corporate attorney",
+          "context": "JE's companies assigned to Indyke, visited JE daily in jail",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 2008,
+          "event": "Visited JE daily in jail"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_155",
+      "name": "Kenneth Marra",
+      "nationality": "American",
+      "occupations": [
+        "Federal Judge"
+      ],
+      "summary": "Federal Judge on Jane Doe #1 and Jane Doe #2 vs the United States, 08-80736-CIV-MARRA, in which JE's victims say their rights were violated by JE's NPA. On April 7, 2015, Marra ruled that allegations made by Roberts against Prince Andrew had no bearing on aim of lawsuit to reopen Epstein's non-prosecution agreement and should be struck from record. Judge Marra made no ruling as to whether claims by Roberts are true or false. Marra specifically stated that Roberts may later give evidence when case comes to court. President George W. Bush nominated Marra to United States District Court for Southern District of Florida to new seat created by 114 Stat. 2762. Currently ruling on Chiquita/Colombian Para-Military case.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "judge presiding over victims' case",
+          "case": "08-80736-CIV-MARRA",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_061a",
+          "name": "Virginia Roberts",
+          "type": "ruled on allegations",
+          "year": 2015,
+          "context": "Ruled Roberts' allegations against Prince Andrew should be struck from record",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "47",
+            "48",
+            "53"
+          ]
+        },
+        {
+          "entity_id": "person_148a",
+          "name": "George W. Bush",
+          "type": "appointed by",
+          "role": "President",
+          "context": "Nominated Marra to federal judgeship",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_155a",
+          "name": "Prince Andrew",
+          "type": "subject of ruling",
+          "context": "Allegations by Roberts against Prince Andrew struck from record",
+          "confidence": 0.2,
+          "verification_status": "Speculative",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "66",
+            "67"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": "unknown",
+          "event": "Nominated by President George W. Bush to United States District Court for Southern District of Florida"
+        },
+        {
+          "year": 2015,
+          "month": "April",
+          "day": 7,
+          "event": "Ruled allegations by Roberts against Prince Andrew had no bearing on lawsuit",
+          "details": "Should be struck from record, made no ruling on truth or falsity, stated Roberts may later give evidence"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_027",
+          "case_name": "Jane Doe #1 and Jane Doe #2 vs. the United States",
+          "case_number": "08-80736-CIV-MARRA",
+          "court": "United States District Court for Southern District of Florida",
+          "role": "presiding judge",
+          "issue": "JE's victims claim rights violated by JE's NPA"
+        },
+        {
+          "entity_id": "legal_028",
+          "case_name": "Chiquita/Colombian Para-Military case",
+          "role": "presiding judge",
+          "status": "currently ruling"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_151",
+          "name": "United States District Court for the Southern District of Florida",
+          "role": "Federal Judge"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_156",
+      "name": "R. Alexander Acosta",
+      "aliases": [
+        "Alex Acosta"
+      ],
+      "nationality": "American",
+      "occupations": [
+        "U.S. Attorney",
+        "law clerk",
+        "attorney"
+      ],
+      "summary": "Served as U.S. Attorney for Southern District of Florida from 2005-2009. 1994-1995 R. Alex Acosta, federal prosecutor during Jeffrey Epstein criminal case, a Harvard University Law graduate, serves as law clerk to Judge Samuel Alito for US Court of Appeals for Third Circuit. 1995 R. Alex Acosta hired by Kirkland Ellis befriends Kenneth Starr. Worked at Kirkland Ellis with Ken Starr. On March 20, 2011 Acosta wrote 'whistle blowing' letter that was published in Daily Beast. It detailed unprecedented 'assault' by JE's defense lawyers against prosecutors office and Palm Beach police during time of JE's NPA in 2008.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "prosecutor",
+          "years": "2005-2009",
+          "context": "U.S. Attorney during Epstein case, oversaw NPA",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_156a",
+          "name": "Samuel Alito",
+          "type": "judge clerked for",
+          "years": "1994-1995",
+          "court": "US Court of Appeals for Third Circuit",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "person_149",
+          "name": "Kenneth Starr",
+          "type": "colleague/friend",
+          "year_start": 1995,
+          "context": "Befriended Starr at Kirkland Ellis",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1994,
+          "event": "Began clerkship with Judge Samuel Alito",
+          "court": "US Court of Appeals for Third Circuit"
+        },
+        {
+          "year": 1995,
+          "event": "Ended clerkship, hired by Kirkland Ellis",
+          "context": "befriended Kenneth Starr"
+        },
+        {
+          "year": 2005,
+          "event": "Became U.S. Attorney for Southern District of Florida"
+        },
+        {
+          "year": 2008,
+          "event": "Oversaw JE's NPA as U.S. Attorney"
+        },
+        {
+          "year": 2009,
+          "event": "Ended tenure as U.S. Attorney"
+        },
+        {
+          "year": 2011,
+          "month": "March",
+          "day": 20,
+          "event": "Wrote 'whistle blowing' letter published in Daily Beast",
+          "content": "Detailed unprecedented 'assault' by JE's defense lawyers against prosecutors office and Palm Beach police"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_152",
+          "name": "Harvard University Law School",
+          "role": "graduate"
+        },
+        {
+          "entity_id": "org_146",
+          "name": "Kirkland Ellis",
+          "role": "attorney",
+          "year_joined": 1995
+        },
+        {
+          "entity_id": "org_153",
+          "name": "U.S. Attorney's Office for Southern District of Florida",
+          "role": "U.S. Attorney",
+          "years": "2005-2009"
+        }
+      ],
+      "publications": [
+        {
+          "year": 2011,
+          "month": "March",
+          "day": 20,
+          "title": "Whistle blowing letter about JE case",
+          "published_in": "Daily Beast",
+          "topic": "unprecedented assault by JE's defense lawyers"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_157",
+      "name": "Bob Josefsberg",
+      "nationality": "American",
+      "occupations": [
+        "attorney",
+        "General Counsel",
+        "Assistant U.S. Attorney",
+        "special counsel"
+      ],
+      "summary": "JE approved & paid for civil defense lawyer for his victims. Served as General Counsel to Governor Bob Graham in 1980, served as assistant U.S. attorney for Southern District of Florida, and was special counsel to Dade County Grand Jury. He has served on many task forces, including American Bar Association's Standing Committee on Judiciary and U.S. Supreme Court's Advisory Committee on Criminal Rules. He received Florida Supreme Court's Tobias Simon Pro Bono Service Award for his commitment to providing pro bono representation.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "paid by",
+          "context": "JE approved and paid Josefsberg to serve as civil defense lawyer for his victims",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_157a",
+          "name": "Bob Graham",
+          "type": "employer",
+          "year": 1980,
+          "role": "General Counsel",
+          "graham_title": "Governor",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1980,
+          "event": "Served as General Counsel to Governor Bob Graham"
+        },
+        {
+          "year": "unknown",
+          "event": "Received Florida Supreme Court's Tobias Simon Pro Bono Service Award",
+          "reason": "commitment to providing pro bono representation"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_153",
+          "name": "U.S. Attorney's Office for Southern District of Florida",
+          "role": "Assistant U.S. Attorney"
+        },
+        {
+          "entity_id": "org_154",
+          "name": "Dade County Grand Jury",
+          "role": "special counsel"
+        },
+        {
+          "entity_id": "org_155",
+          "name": "American Bar Association",
+          "role": "Standing Committee on Judiciary member"
+        },
+        {
+          "entity_id": "org_156",
+          "name": "U.S. Supreme Court",
+          "role": "Advisory Committee on Criminal Rules member"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Tobias Simon Pro Bono Service Award",
+          "awarded_by": "Florida Supreme Court",
+          "reason": "commitment to providing pro bono representation"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_158",
+      "name": "Robert Workman Sweet",
+      "birth_year": 1922,
+      "birth_month": "October",
+      "birth_day": 15,
+      "nationality": "American",
+      "occupations": [
+        "federal judge",
+        "deputy mayor",
+        "attorney",
+        "campaign manager",
+        "Assistant U.S. Attorney",
+        "naval officer"
+      ],
+      "summary": "Judge in VA Louise Roberts vs. Ghislaine Maxwell, and Hoffenberg vs. JE. American jurist, currently senior United States federal judge. Sweet was appointed to federal court for Southern District of New York by President Jimmy Carter and confirmed in 1978. He semi-retired into senior status in 1991. Sweet attended Yale University, he served as naval officer in World War II and then attended Yale Law School. There, he roomed with future NYC mayor John V. Lindsay. Started his law career at Simpson Thacher & Bartlett from 1949-1953. From 1953 to 1955, he was Assistant U.S. attorney in Southern District of New York. In 1955 he joined Casey Lane & Mittendorf. Founded Youth for Eisenhower organization with Lindsay. In 1959-60 he served on Rockefeller's Task Force on Youth and Juvenile Delinquency. In 1961 he was campaign manager for John J Gilhooley who was on same ticket as mayoral candidate Louis Lefkowitz. He served as deputy mayor to John V. Lindsay of New York City from 1966 to 1969, then spent several years as lawyer in private practice with global New York law firm of Skadden, Arps, Slate, Meagher & Flom. One of Sweet's law clerks was Eliot Spitzer. In his 2003 case Pelman v McDonald's Corp a group of teenagers sued McDonald's, claiming food caused their obesity. Sweet dismissed case and said 'it is not the place of the law to protect them against their own excesses'. Also ruled siding with NY Times they didn't have to disclose their sources. Married Lois Clapp in 1948. Lived in 433 E 85th St townhouse and was neighbors with Max Abramovitz, UN architect. His grandfather was state senator and his uncle George was aide to camp to FDR in Navy. His father James d 1963 was attorney at Davis Polk & Wardwell. Childhood friends with Lloyd Taft, investment banker son of Senator Robert Taft.",
+      "family": [
+        {
+          "name": "Lois Clapp",
+          "relationship": "wife",
+          "married": 1948
+        },
+        {
+          "name": "Robert Sweet Jr.",
+          "relationship": "son",
+          "birth_year": 1951,
+          "education": "Harvard"
+        },
+        {
+          "name": "Deborah Sweet",
+          "relationship": "daughter",
+          "birth_year": 1952,
+          "education": "Brearly"
+        },
+        {
+          "name": "Ames Sweet",
+          "aliases": [
+            "Amos Sweet"
+          ],
+          "relationship": "son",
+          "birth_year": 1964,
+          "spouse": "Laurie Hadden Robertson",
+          "married": 1983
+        },
+        {
+          "name": "Eliza Sweet",
+          "relationship": "daughter",
+          "birth_year": 1963
+        },
+        {
+          "name": "James Sweet",
+          "relationship": "father",
+          "death_year": 1963,
+          "occupation": "attorney at Davis Polk & Wardwell"
+        },
+        {
+          "name": "George Sweet",
+          "relationship": "uncle",
+          "occupation": "aide to camp to FDR in Navy"
+        },
+        {
+          "name": "grandfather (name unknown)",
+          "relationship": "grandfather",
+          "occupation": "state senator"
+        }
+      ],
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "judge in cases involving",
+          "cases": [
+            "Hoffenberg vs. JE"
+          ],
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_061a",
+          "name": "Virginia Roberts",
+          "type": "judge in case",
+          "case": "VA Roberts vs. Ghislaine Maxwell",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "47",
+            "48",
+            "53"
+          ]
+        },
+        {
+          "entity_id": "person_027",
+          "name": "Ghislaine Maxwell",
+          "type": "judge in case",
+          "case": "VA Roberts vs. Ghislaine Maxwell",
+          "confidence": 0.2,
+          "verification_status": "Speculative",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "66",
+            "67"
+          ]
+        },
+        {
+          "entity_id": "person_007",
+          "name": "Steven Jude Hoffenberg",
+          "type": "judge in case",
+          "case": "Hoffenberg vs. JE",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "47",
+            "48",
+            "53"
+          ]
+        },
+        {
+          "entity_id": "person_012",
+          "name": "Jimmy Carter",
+          "type": "appointed by",
+          "year": 1978,
+          "context": "Appointed to federal court for Southern District of New York",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_158a",
+          "name": "John V. Lindsay",
+          "type": "roommate/employer",
+          "context": "Roomed together at Yale Law School, Sweet served as deputy mayor under Lindsay 1966-1969",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_158b",
+          "name": "Eliot Spitzer",
+          "type": "law clerk",
+          "context": "Spitzer served as one of Sweet's law clerks",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_158c",
+          "name": "Max Abramovitz",
+          "type": "neighbor",
+          "occupation": "UN architect",
+          "address": "433 E 85th St",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "person_158d",
+          "name": "Lloyd Taft",
+          "type": "childhood friend",
+          "occupation": "investment banker",
+          "father": "Senator Robert Taft",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "person_158e",
+          "name": "John J Gilhooley",
+          "type": "campaign managed for",
+          "year": 1961,
+          "context": "on same ticket as mayoral candidate Louis Lefkowitz",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_158f",
+          "name": "Louis Lefkowitz",
+          "type": "mayoral candidate connection",
+          "year": 1961,
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1948,
+          "event": "Married Lois Clapp"
+        },
+        {
+          "year": "1949",
+          "event": "Started law career at Simpson Thacher & Bartlett"
+        },
+        {
+          "year": 1953,
+          "event": "Left Simpson Thacher & Bartlett, became Assistant U.S. Attorney in Southern District of New York"
+        },
+        {
+          "year": 1955,
+          "event": "Left U.S. Attorney's Office, joined Casey Lane & Mittendorf"
+        },
+        {
+          "year": "1950s",
+          "event": "Founded Youth for Eisenhower organization with John V. Lindsay"
+        },
+        {
+          "year": 1959,
+          "event": "Served on Rockefeller's Task Force on Youth and Juvenile Delinquency"
+        },
+        {
+          "year": 1960,
+          "event": "Continued service on Rockefeller's Task Force"
+        },
+        {
+          "year": 1961,
+          "event": "Campaign manager for John J Gilhooley"
+        },
+        {
+          "year": 1966,
+          "event": "Became deputy mayor to John V. Lindsay of New York City"
+        },
+        {
+          "year": 1969,
+          "event": "Left deputy mayor position, joined Skadden, Arps, Slate, Meagher & Flom"
+        },
+        {
+          "year": 1978,
+          "event": "Appointed to federal court for Southern District of New York by President Jimmy Carter"
+        },
+        {
+          "year": 1991,
+          "event": "Semi-retired into senior status"
+        },
+        {
+          "year": 2003,
+          "event": "Ruled on Pelman v McDonald's Corp",
+          "ruling": "Dismissed case, stated 'it is not the place of the law to protect them against their own excesses'"
+        },
+        {
+          "year": "unknown",
+          "event": "Ruled siding with NY Times they didn't have to disclose their sources"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_157",
+          "name": "Yale University",
+          "role": "student"
+        },
+        {
+          "entity_id": "org_158",
+          "name": "Yale Law School",
+          "role": "student"
+        },
+        {
+          "entity_id": "org_159",
+          "name": "United States Navy",
+          "role": "naval officer",
+          "period": "World War II"
+        },
+        {
+          "entity_id": "org_160",
+          "name": "Simpson Thacher & Bartlett",
+          "role": "attorney",
+          "years": "1949-1953"
+        },
+        {
+          "entity_id": "org_161",
+          "name": "U.S. Attorney's Office Southern District of New York",
+          "role": "Assistant U.S. Attorney",
+          "years": "1953-1955"
+        },
+        {
+          "entity_id": "org_162",
+          "name": "Casey Lane & Mittendorf",
+          "role": "attorney",
+          "year_joined": 1955
+        },
+        {
+          "entity_id": "org_163",
+          "name": "Youth for Eisenhower",
+          "role": "founder",
+          "co_founder": "John V. Lindsay"
+        },
+        {
+          "entity_id": "org_164",
+          "name": "Rockefeller's Task Force on Youth and Juvenile Delinquency",
+          "role": "member",
+          "years": "1959-1960"
+        },
+        {
+          "entity_id": "org_165",
+          "name": "City of New York",
+          "role": "deputy mayor",
+          "years": "1966-1969",
+          "mayor": "John V. Lindsay"
+        },
+        {
+          "entity_id": "org_166",
+          "name": "Skadden, Arps, Slate, Meagher & Flom",
+          "role": "attorney in private practice",
+          "year_joined": 1969
+        },
+        {
+          "entity_id": "org_167",
+          "name": "United States District Court for Southern District of New York",
+          "role": "federal judge",
+          "appointed": 1978,
+          "senior_status": 1991
+        },
+        {
+          "entity_id": "org_168",
+          "name": "Davis Polk & Wardwell",
+          "role": "father's firm",
+          "note": "father James worked there"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_029",
+          "case_name": "Virginia Roberts vs. Ghislaine Maxwell",
+          "role": "presiding judge"
+        },
+        {
+          "entity_id": "legal_019",
+          "case_name": "Hoffenberg v. Jeffrey Epstein",
+          "role": "presiding judge"
+        },
+        {
+          "entity_id": "legal_030",
+          "case_name": "Pelman v McDonald's Corp",
+          "year": 2003,
+          "role": "presiding judge",
+          "ruling": "dismissed case"
+        },
+        {
+          "entity_id": "legal_031",
+          "case_name": "NY Times source disclosure case",
+          "role": "presiding judge",
+          "ruling": "sided with NY Times, no requirement to disclose sources"
+        }
+      ],
+      "locations": [
+        {
+          "entity_id": "location_038",
+          "address": "433 E 85th St",
+          "city": "New York",
+          "state": "New York",
+          "type": "townhouse residence"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_015",
+      "name": "Bradley J Edwards",
+      "nationality": "American",
+      "occupations": [
+        "attorney",
+        "civil trial attorney",
+        "partner"
+      ],
+      "summary": "Attorney representing VA Roberts and several Jane Doe victims of Jeffrey Epstein. A partner at Farmer, Jaffe, Weissing, Edwards, Fistos & Lehrman in Ft. Lauderdale, in 2014 Edwards earned Florida Bar Certification, highest level of recognition for competency and experience of civil trial attorney. Of 90,000 practicing lawyers in Florida, only 1% earn this certification. On July 7 2008 on behalf of Epstein's victims, his clients, Edwards filed federal lawsuit claiming US government had violated his clients rights as victims by executing special Non-Prosecution agreement for Epstein. Edwards informed JE's attorneys that he intended to take depositions from: Bill Clinton, Donald Trump, David Copperfield, Bill Richardson. On January 6 2015 Edwards and Cassell file defamation suit against Dershowitz when he tries to have his involvement stricken from record. On August 12, 2008, at request of his client Jane Doe, Edwards filed civil suit against JE for damages. Before this, Jane Doe had sued JE in civil court for $50 million with law firm Herman and Mermelstein (Jane Doe #4 v Epstein). Included in this complaint was RICO count that explained how Epstein ran criminal conspiracy to procure young girls for him to sexually abuse.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "opposing counsel/plaintiff attorney against",
+          "context": "Filed multiple lawsuits against JE on behalf of victims",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_061a",
+          "name": "Virginia Roberts",
+          "type": "attorney for",
+          "context": "Representing VA Roberts and several Jane Doe victims",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "47",
+            "48",
+            "53"
+          ]
+        },
+        {
+          "entity_id": "person_061",
+          "name": "Alan Dershowitz",
+          "type": "legal adversary",
+          "year": 2015,
+          "context": "Edwards sued Dershowitz for defamation January 6 2015",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_062",
+          "name": "Paul Cassell",
+          "type": "co-plaintiff",
+          "year": 2015,
+          "context": "Co-plaintiff with Edwards in defamation suit against Dershowitz",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_012",
+          "name": "Bill Clinton",
+          "type": "intended deposition target",
+          "year": 2008,
+          "confidence": 0.733,
+          "verification_status": "Unverified",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "65"
+          ]
+        },
+        {
+          "entity_id": "person_159",
+          "name": "Donald Trump",
+          "type": "intended deposition target",
+          "year": 2008,
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "68"
+          ]
+        },
+        {
+          "entity_id": "person_160",
+          "name": "David Copperfield",
+          "type": "intended deposition target",
+          "year": 2008,
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_161",
+          "name": "Bill Richardson",
+          "type": "intended deposition target",
+          "year": 2008,
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 2008,
+          "month": "July",
+          "day": 7,
+          "event": "Filed federal lawsuit on behalf of Epstein's victims",
+          "claim": "US government violated clients' rights by executing special Non-Prosecution agreement for Epstein"
+        },
+        {
+          "year": 2008,
+          "month": "August",
+          "day": 12,
+          "event": "Filed civil suit against JE for damages",
+          "client": "Jane Doe"
+        },
+        {
+          "year": 2008,
+          "event": "Informed JE's attorneys of intended depositions",
+          "targets": "Bill Clinton, Donald Trump, David Copperfield, Bill Richardson"
+        },
+        {
+          "year": 2014,
+          "event": "Earned Florida Bar Certification",
+          "significance": "highest level of recognition for competency and experience of civil trial attorney, only 1% of 90,000 Florida lawyers earn this"
+        },
+        {
+          "year": 2015,
+          "month": "January",
+          "day": 6,
+          "event": "Filed defamation suit against Dershowitz with Cassell",
+          "context": "when Dershowitz tried to have his involvement stricken from record"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_169",
+          "name": "Farmer, Jaffe, Weissing, Edwards, Fistos & Lehrman",
+          "role": "partner",
+          "location": "Ft. Lauderdale"
+        },
+        {
+          "entity_id": "org_170",
+          "name": "Herman and Mermelstein",
+          "role": "co-counsel",
+          "context": "Jane Doe #4 sued JE for $50 million with this firm before Edwards took over"
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_032",
+          "case_name": "Jane Doe victims v. United States",
+          "filed_date": "July 7, 2008",
+          "claim": "US government violated victims' rights by executing NPA for Epstein"
+        },
+        {
+          "entity_id": "legal_033",
+          "case_name": "Jane Doe v. Jeffrey Epstein",
+          "filed_date": "August 12, 2008",
+          "claim": "damages"
+        },
+        {
+          "entity_id": "legal_034",
+          "case_name": "Jane Doe #4 v Epstein",
+          "amount": "$50 million",
+          "law_firm": "Herman and Mermelstein",
+          "includes": "RICO count explaining Epstein's criminal conspiracy to procure young girls"
+        },
+        {
+          "entity_id": "legal_023",
+          "case_name": "Edwards and Cassell vs Dershowitz",
+          "case_number": "CACE 15-000072",
+          "filed_date": "January 6, 2015",
+          "case_type": "defamation",
+          "settled_date": "April 8, 2016"
+        }
+      ],
+      "certifications": [
+        {
+          "name": "Florida Bar Certification",
+          "year": 2014,
+          "significance": "highest level of recognition for competency and experience of civil trial attorney",
+          "rarity": "only 1% of 90,000 practicing Florida lawyers"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_151",
+      "name": "David Boies",
+      "nationality": "American",
+      "occupations": [
+        "attorney",
+        "co-founder",
+        "partner",
+        "chief counsel"
+      ],
+      "summary": "Co-founder and partner at Boies Schiller & Flexner the firm representing VA Roberts in her case against Ghislaine Maxwell pro bono. 1978 he was chief counsel of US Senate Anti Trust Committee. Represented Al Gore in 2000 Bush vs. Gore. His firm hired Karen Dunn, senior advisor to Hillary Clinton. David Boies is personally representing Jane Doe 43 in her new case against JE.",
+      "relationships": [
+        {
+          "entity_id": "person_061a",
+          "name": "Virginia Roberts",
+          "type": "attorney for",
+          "context": "Firm representing VA Roberts in case against Ghislaine Maxwell pro bono",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "47",
+            "48",
+            "53"
+          ]
+        },
+        {
+          "entity_id": "person_027",
+          "name": "Ghislaine Maxwell",
+          "type": "opposing party",
+          "case": "VA Roberts vs. Ghislaine Maxwell",
+          "confidence": 0.2,
+          "verification_status": "Speculative",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "66",
+            "67"
+          ]
+        },
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "opposing party",
+          "context": "Personally representing Jane Doe 43 in case against JE",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_061",
+          "name": "Alan Dershowitz",
+          "type": "opposing counsel",
+          "context": "Dershowitz disclosed confidential settlement discussion with Boies",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_151a",
+          "name": "Al Gore",
+          "type": "client",
+          "year": 2000,
+          "case": "Bush vs. Gore",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_151b",
+          "name": "Karen Dunn",
+          "type": "employee",
+          "occupation": "senior advisor to Hillary Clinton",
+          "context": "Hired by Boies' firm",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        },
+        {
+          "entity_id": "person_151c",
+          "name": "Hillary Clinton",
+          "type": "connection",
+          "context": "Karen Dunn is her senior advisor",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 1978,
+          "event": "Served as chief counsel of US Senate Anti Trust Committee"
+        },
+        {
+          "year": 2000,
+          "event": "Represented Al Gore in Bush vs. Gore"
+        },
+        {
+          "year": "unknown",
+          "event": "Firm hired Karen Dunn, senior advisor to Hillary Clinton"
+        },
+        {
+          "year": "unknown",
+          "event": "Personally representing Jane Doe 43 in new case against JE"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_171",
+          "name": "Boies Schiller & Flexner",
+          "role": "co-founder and partner"
+        },
+        {
+          "entity_id": "org_172",
+          "name": "US Senate Anti Trust Committee",
+          "role": "chief counsel",
+          "year": 1978
+        }
+      ],
+      "legal_cases": [
+        {
+          "entity_id": "legal_029",
+          "case_name": "Virginia Roberts vs. Ghislaine Maxwell",
+          "role": "attorney for Roberts",
+          "representation_type": "pro bono"
+        },
+        {
+          "entity_id": "legal_035",
+          "case_name": "Bush vs. Gore",
+          "year": 2000,
+          "role": "attorney for Al Gore"
+        },
+        {
+          "entity_id": "legal_036",
+          "case_name": "Jane Doe 43 v. Jeffrey Epstein",
+          "role": "personally representing Jane Doe 43"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_162",
+      "name": "Spencer Kuvin",
+      "nationality": "American",
+      "occupations": [
+        "attorney"
+      ],
+      "summary": "B.B.'s attorneys",
+      "relationships": [
+        {
+          "entity_id": "person_163",
+          "name": "Adam Langino",
+          "type": "co-counsel",
+          "context": "Both attorneys for B.B.",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_162a",
+          "name": "B.B.",
+          "type": "client",
+          "context": "victim",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_163",
+      "name": "Adam Langino",
+      "nationality": "American",
+      "occupations": [
+        "attorney"
+      ],
+      "summary": "B.B.'s attorneys",
+      "relationships": [
+        {
+          "entity_id": "person_162",
+          "name": "Spencer Kuvin",
+          "type": "co-counsel",
+          "context": "Both attorneys for B.B.",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_162a",
+          "name": "B.B.",
+          "type": "client",
+          "context": "victim",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_064",
+      "name": "Marie Villafaña",
+      "aliases": [
+        "A. Marie Villafana",
+        "AUSA Villafaña",
+        "AUSA Villafafia"
+      ],
+      "nationality": "American",
+      "occupations": [
+        "Assistant U.S. Attorney",
+        "U.S. Attorney"
+      ],
+      "summary": "In mid June of 2008, Edwards contacted AUSA Villafaña to inform her that he represented Jane Doe #1 (Elena Weber) and, later, Jane Doe #2 (L.M.). AUSA Villafaña did not advise that plea agreement had already been negotiated with Epstein's attorneys that would block federal prosecution. To contrary, AUSA Villafaña mentioned possible indictment. AUSA Villafaña did indicate that federal investigators had concrete evidence and information that Epstein had sexually molested many underage minor females. Edwards also requested from U.S. Attorney's Office information they had collected regarding Epstein's sexual abuse of his clients. However, U.S. Attorney's Office declined to provide any such information to Edwards. On Friday, June 27, 2008, at approximately 4:15 p.m., AUSA Villafafia received copy of Epstein's proposed state plea agreement and learned that plea was scheduled for 8:30 a.m., Monday, June 30, 2008. AUSA Villafafia called Edwards to provide notice to his clients regarding hearing. AUSA Villafafia did not tell Attorney Edwards that guilty pleas in state court would bring end to possibility of federal prosecution pursuant to plea agreement. 2017 who is now U.S. Attorney under Attorney General Eric Holder.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "prosecutor",
+          "year": 2008,
+          "context": "Handled federal matter, negotiated NPA",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_015",
+          "name": "Bradley J. Edwards",
+          "type": "correspondent",
+          "year": 2008,
+          "context": "Edwards contacted Villafaña about representing victims",
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "63",
+            "41",
+            "61",
+            "43",
+            "44"
+          ]
+        },
+        {
+          "entity_id": "person_146",
+          "name": "Barry Krischer",
+          "type": "correspondent",
+          "context": "Krischer wrote to Villafaña: 'Glad we could get this worked out for reasons I won't put in writing. After this is resolved I would love to buy you a cup at Starbucks and have a conversation.'",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_064a",
+          "name": "Elena Weber",
+          "aliases": [
+            "Jane Doe #1"
+          ],
+          "type": "victim represented by Edwards",
+          "year": 2008,
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "entity_id": "person_064b",
+          "name": "L.M.",
+          "aliases": [
+            "Jane Doe #2"
+          ],
+          "type": "victim represented by Edwards",
+          "year": 2008,
+          "confidence": 1.0,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "58",
+            "47",
+            "51",
+            "74",
+            "45",
+            "41",
+            "44"
+          ]
+        },
+        {
+          "entity_id": "person_064c",
+          "name": "Eric Holder",
+          "type": "boss",
+          "year": 2017,
+          "role": "Attorney General",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        }
+      ],
+      "events": [
+        {
+          "year": 2008,
+          "month": "June",
+          "period": "mid",
+          "event": "Edwards contacted Villafaña",
+          "details": "informed her he represented Jane Doe #1 (Elena Weber) and Jane Doe #2 (L.M.)"
+        },
+        {
+          "year": 2008,
+          "month": "June",
+          "period": "mid",
+          "event": "Did not advise Edwards that plea agreement already negotiated",
+          "instead": "mentioned possible indictment"
+        },
+        {
+          "year": 2008,
+          "month": "June",
+          "period": "mid",
+          "event": "Indicated federal investigators had concrete evidence",
+          "details": "Epstein had sexually molested many underage minor females"
+        },
+        {
+          "year": 2008,
+          "month": "June",
+          "period": "mid",
+          "event": "U.S. Attorney's Office declined to provide information to Edwards",
+          "requested": "information collected regarding Epstein's sexual abuse"
+        },
+        {
+          "year": 2008,
+          "month": "June",
+          "day": 27,
+          "time": "approximately 4:15 p.m.",
+          "event": "Received copy of Epstein's proposed state plea agreement",
+          "learned": "plea scheduled for 8:30 a.m., Monday, June 30, 2008"
+        },
+        {
+          "year": 2008,
+          "month": "June",
+          "day": 27,
+          "event": "Called Edwards to provide notice to clients regarding hearing",
+          "omission": "Did not tell Edwards that guilty pleas in state court would end possibility of federal prosecution"
+        },
+        {
+          "year": 2017,
+          "event": "Became U.S. Attorney under Attorney General Eric Holder"
+        }
+      ],
+      "communications": [
+        {
+          "type": "email/letter",
+          "from": "Barry Krischer",
+          "to": "Marie Villafaña",
+          "content": "Glad we could get this worked out for reasons I won't put in writing. After this is resolved I would love to buy you a cup at Starbucks and have a conversation.",
+          "context": "regarding Epstein's NPA"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_153",
+          "name": "U.S. Attorney's Office for Southern District of Florida",
+          "role": "Assistant U.S. Attorney",
+          "year": 2008
+        },
+        {
+          "entity_id": "org_173",
+          "name": "U.S. Department of Justice",
+          "role": "U.S. Attorney",
+          "year": 2017,
+          "under": "Attorney General Eric Holder"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_164",
+      "name": "Daliah Weiss",
+      "nationality": "American",
+      "occupations": [
+        "Assistant State Attorney"
+      ],
+      "summary": "ASA taken off the JE case after grand jury bc husband works at Jack Goldberger's office",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "prosecutor (removed)",
+          "context": "Taken off JE case after grand jury due to conflict of interest",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        },
+        {
+          "entity_id": "person_150a",
+          "name": "Jack Goldberger",
+          "type": "husband's employer",
+          "context": "Husband works at Goldberger's office, creating conflict",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "confidence_basis": "explicit_statement_research_only"
+        },
+        {
+          "name": "husband (name unknown)",
+          "relationship": "spouse",
+          "occupation": "works at Jack Goldberger's office",
+          "confidence": 0.3,
+          "verification_status": "Speculative",
+          "confidence_basis": "vague_mention"
+        }
+      ],
+      "events": [
+        {
+          "year": "unknown",
+          "event": "Removed from JE case after grand jury",
+          "reason": "husband works at Jack Goldberger's office (conflict of interest)"
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_165",
+      "name": "Drew Oosterbaan",
+      "aliases": [
+        "Andrew Oosterbaan"
+      ],
+      "nationality": "American",
+      "occupations": [
+        "Chief of Child Exploitation and Obscenity Section",
+        "prosecutor"
+      ],
+      "summary": "Helped USAO draft JE's NPA. Chief of Department of Justice's Child Exploitation and Obscenity Section (CEOS). Drew Oosterbaan has been Chief of Child Exploitation and Obscenity Section (CEOS) of U.S. Department of Justice since 2001. CEOS leverages expertise of its prosecutors and computer forensic specialists to develop and prosecute high-impact child exploitation cases, national and frequently international in scope, involving most prolific and dangerous offenders. In 2003, Drew led CEOS in partnership with FBI and National Center for Missing and Exploited Children to design and implement Innocence Lost Initiative, nationwide, federal-local joint law enforcement strategy to investigate and prosecute traffickers exploiting minors through prostitution.",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "helped draft NPA for",
+          "year": 2008,
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        }
+      ],
+      "events": [
+        {
+          "year": 2001,
+          "event": "Became Chief of Child Exploitation and Obscenity Section (CEOS) of U.S. Department of Justice"
+        },
+        {
+          "year": 2003,
+          "event": "Led CEOS in partnership with FBI and National Center for Missing and Exploited Children",
+          "achievement": "Designed and implemented Innocence Lost Initiative"
+        },
+        {
+          "year": 2008,
+          "event": "Helped USAO draft JE's NPA"
+        }
+      ],
+      "organizations": [
+        {
+          "entity_id": "org_174",
+          "name": "U.S. Department of Justice",
+          "role": "Chief of Child Exploitation and Obscenity Section (CEOS)",
+          "year_start": 2001
+        },
+        {
+          "entity_id": "org_175",
+          "name": "Federal Bureau of Investigation",
+          "role": "partnership",
+          "year": 2003,
+          "project": "Innocence Lost Initiative"
+        },
+        {
+          "entity_id": "org_176",
+          "name": "National Center for Missing and Exploited Children",
+          "role": "partnership",
+          "year": 2003,
+          "project": "Innocence Lost Initiative"
+        }
+      ],
+      "initiatives": [
+        {
+          "name": "Innocence Lost Initiative",
+          "year": 2003,
+          "description": "nationwide, federal-local joint law enforcement strategy to investigate and prosecute traffickers exploiting minors through prostitution",
+          "partners": [
+            "FBI",
+            "National Center for Missing and Exploited Children"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "legal-victims",
+      "entity_id": "person_166",
+      "name": "Lara Belohlavek",
+      "nationality": "American",
+      "occupations": [
+        "Assistant State Attorney"
+      ],
+      "summary": "ASA",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "prosecutor",
+          "context": "ASA involved in JE case",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "confidence_basis": "verification_claim",
+          "citations": [
+            "5",
+            "20",
+            "24",
+            "27",
+            "7",
+            "16",
+            "29",
+            "47",
+            "28",
+            "35",
+            "26",
+            "19",
+            "34",
+            "65",
+            "6",
+            "38",
+            "21",
+            "32",
+            "44",
+            "30",
+            "40",
+            "9",
+            "2",
+            "39",
+            "67",
+            "51",
+            "33",
+            "45",
+            "66",
+            "63",
+            "41",
+            "68",
+            "61",
+            "43",
+            "10"
+          ]
+        }
+      ]
+    }
+  ],
+  "extraction_stats": {
+    "profiles_extracted_so_far": 33,
+    "profiles_remaining": 25,
+    "entities_added_in_batch2": 150,
+    "total_entities_estimate": 300,
+    "note": "Part 2 complete: Added 20 legal professional profiles (8 JE defense team, 12 prosecutors/judges/victims' attorneys). Remaining 25 profiles are business associates and companies (lower priority)."
+  }
+}

@@ -1,0 +1,3 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_061,person_134,SOURCE_OF_INFORMATION,,0.7,"According to Dershowitz, Mitchell kept regular room at JE's Palm Beach mansion",Unverified
+person_134,person_061,SOURCE_OF_INFORMATION,,0.7,Dershowitz stated Mitchell kept regular room at JE's mansion,Unverified

@@ -1,0 +1,9 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+equipment_001,person_001,OWNS,,0.9,Aircraft owned by Jeffrey Epstein,Factual
+equipment_002,person_001,OWNS,,0.9,Aircraft owned by Jeffrey Epstein - nicknamed 'Lolita Express',Factual
+equipment_003,person_001,OWNS,,0.9,Helicopter owned by Jeffrey Epstein,Factual
+equipment_004,person_001,OWNS,,0.9,Aircraft owned by Jeffrey Epstein,Factual
+equipment_005,person_001,OWNS,,0.9,Aircraft bought 1991 by Jeffrey Epstein,Factual
+person_054,org_087,OWNS,39;38,1.0,international auction house,Factual
+person_024,org_091,OWNS,,0.7,,Unverified
+person_054,org_088,OWNS,,0.3,Ownership stake,Speculative

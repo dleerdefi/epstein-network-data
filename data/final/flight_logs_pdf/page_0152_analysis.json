@@ -1,0 +1,1562 @@
+{
+  "page_number": 152,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:56.255731",
+  "chunk": "chunk_111-116",
+  "flights": [
+    {
+      "date": {
+        "original": "06/12/2007",
+        "parsed": "2007-06-12",
+        "display": "06/12/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "EWR",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4180",
+        "iidd": "4180",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0001"
+    },
+    {
+      "date": {
+        "original": "06/19/2007",
+        "parsed": "2007-06-19",
+        "display": "06/19/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "TIST",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4181",
+        "iidd": "4181",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0002"
+    },
+    {
+      "date": {
+        "original": "06/22/2007",
+        "parsed": "2007-06-22",
+        "display": "06/22/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "CMH",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Columbus, OH, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4182",
+        "iidd": "4182",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0003"
+    },
+    {
+      "date": {
+        "original": "06/23/2007",
+        "parsed": "2007-06-23",
+        "display": "06/23/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "EWR",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Columbus, OH, United States",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4183",
+        "iidd": "4183",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0004"
+    },
+    {
+      "date": {
+        "original": "06/25/2007",
+        "parsed": "2007-06-25",
+        "display": "06/25/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "MIA",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "MIA"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Miami, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4184",
+        "iidd": "4184",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0005"
+    },
+    {
+      "date": {
+        "original": "06/26/2007",
+        "parsed": "2007-06-26",
+        "display": "06/26/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MIA",
+        "to": "EWR",
+        "from_codes": [
+          "MIA"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Miami, FL, United States",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4185",
+        "iidd": "4185",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0006"
+    },
+    {
+      "date": {
+        "original": "06/28/2007",
+        "parsed": "2007-06-28",
+        "display": "06/28/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "ABQ",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "ABQ"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Albuquerque, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4186",
+        "iidd": "4186",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0007"
+    },
+    {
+      "date": {
+        "original": "07/02/2007",
+        "parsed": "2007-07-02",
+        "display": "07/02/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ABQ",
+        "to": "TIST",
+        "from_codes": [
+          "ABQ"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Albuquerque, NM, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4187",
+        "iidd": "4187",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0008"
+    },
+    {
+      "date": {
+        "original": "07/09/2007",
+        "parsed": "2007-07-09",
+        "display": "07/09/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "EWR",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4188",
+        "iidd": "4188",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0009"
+    },
+    {
+      "date": {
+        "original": "07/12/2007",
+        "parsed": "2007-07-12",
+        "display": "07/12/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "TIST",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4189",
+        "iidd": "4189",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0010"
+    },
+    {
+      "date": {
+        "original": "07/17/2007",
+        "parsed": "2007-07-17",
+        "display": "07/17/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "EWR",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4190",
+        "iidd": "4190",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0011"
+    },
+    {
+      "date": {
+        "original": "07/21/2007",
+        "parsed": "2007-07-21",
+        "display": "07/21/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "TIST",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4191",
+        "iidd": "4191",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0012"
+    },
+    {
+      "date": {
+        "original": "07/22/2007",
+        "parsed": "2007-07-22",
+        "display": "07/22/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "TIST",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4192",
+        "iidd": "4192",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0013"
+    },
+    {
+      "date": {
+        "original": "07/22/2007",
+        "parsed": "2007-07-22",
+        "display": "07/22/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "MIA",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "MIA"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Miami, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4193",
+        "iidd": "4193",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0014"
+    },
+    {
+      "date": {
+        "original": "07/31/2007",
+        "parsed": "2007-07-31",
+        "display": "07/31/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MIA",
+        "to": "EWR",
+        "from_codes": [
+          "MIA"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Miami, FL, United States",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4194",
+        "iidd": "4194",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0015"
+    },
+    {
+      "date": {
+        "original": "08/04/2007",
+        "parsed": "2007-08-04",
+        "display": "08/04/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "TIST",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4195",
+        "iidd": "4195",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0016"
+    },
+    {
+      "date": {
+        "original": "08/13/2007",
+        "parsed": "2007-08-13",
+        "display": "08/13/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "EWR",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4196",
+        "iidd": "4196",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0017"
+    },
+    {
+      "date": {
+        "original": "08/16/2007",
+        "parsed": "2007-08-16",
+        "display": "08/16/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "VNY",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "VNY"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Van Nuys, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4197",
+        "iidd": "4197",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0018"
+    },
+    {
+      "date": {
+        "original": "08/17/2007",
+        "parsed": "2007-08-17",
+        "display": "08/17/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VNY",
+        "to": "ABQ",
+        "from_codes": [
+          "VNY"
+        ],
+        "to_codes": [
+          "ABQ"
+        ],
+        "from_full": "Van Nuys, CA, United States",
+        "to_full": "Albuquerque, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4198",
+        "iidd": "4198",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0019"
+    },
+    {
+      "date": {
+        "original": "08/21/2007",
+        "parsed": "2007-08-21",
+        "display": "08/21/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ABQ",
+        "to": "MIA",
+        "from_codes": [
+          "ABQ"
+        ],
+        "to_codes": [
+          "MIA"
+        ],
+        "from_full": "Albuquerque, NM, United States",
+        "to_full": "Miami, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4199",
+        "iidd": "4199",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0020"
+    },
+    {
+      "date": {
+        "original": "08/22/2007",
+        "parsed": "2007-08-22",
+        "display": "08/22/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MIA",
+        "to": "TIST",
+        "from_codes": [
+          "MIA"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Miami, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4200",
+        "iidd": "4200",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0021"
+    },
+    {
+      "date": {
+        "original": "08/27/2007",
+        "parsed": "2007-08-27",
+        "display": "08/27/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "EWR",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4201",
+        "iidd": "4201",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0022"
+    },
+    {
+      "date": {
+        "original": "09/06/2007",
+        "parsed": "2007-09-06",
+        "display": "09/06/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "PBI",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4202",
+        "iidd": "4202",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0023"
+    },
+    {
+      "date": {
+        "original": "09/08/2007",
+        "parsed": "2007-09-08",
+        "display": "09/08/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "EWR",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4203",
+        "iidd": "4203",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0024"
+    },
+    {
+      "date": {
+        "original": "09/25/2007",
+        "parsed": "2007-09-25",
+        "display": "09/25/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "TIST",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4204",
+        "iidd": "4204",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0025"
+    },
+    {
+      "date": {
+        "original": "09/30/2007",
+        "parsed": "2007-09-30",
+        "display": "09/30/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "EWR",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4205",
+        "iidd": "4205",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0026"
+    },
+    {
+      "date": {
+        "original": "10/05/2007",
+        "parsed": "2007-10-05",
+        "display": "10/05/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "LFPB",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4206",
+        "iidd": "4206",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0027"
+    },
+    {
+      "date": {
+        "original": "10/12/2007",
+        "parsed": "2007-10-12",
+        "display": "10/12/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LPAZ",
+        "to": "TIST",
+        "from_codes": [
+          "LPAZ"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Santa Maria, Portugal",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4207",
+        "iidd": "4207",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0028"
+    },
+    {
+      "date": {
+        "original": "10/15/2007",
+        "parsed": "2007-10-15",
+        "display": "10/15/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "EWR",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4208",
+        "iidd": "4208",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0029"
+    },
+    {
+      "date": {
+        "original": "10/26/2007",
+        "parsed": "2007-10-26",
+        "display": "10/26/2007",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "VQQ",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "VQQ"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "Jacksonville, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4209",
+        "iidd": "4209",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0030"
+    },
+    {
+      "date": {
+        "original": "03/06/2008",
+        "parsed": "2008-03-06",
+        "display": "03/06/2008",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VQQ",
+        "to": "VQQ",
+        "from_codes": [
+          "VQQ"
+        ],
+        "to_codes": [
+          "VQQ"
+        ],
+        "from_full": "Jacksonville, FL, United States",
+        "to_full": "Jacksonville, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4210",
+        "iidd": "4210",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0031"
+    },
+    {
+      "date": {
+        "original": "03/10/2008",
+        "parsed": "2008-03-10",
+        "display": "03/10/2008",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VQQ",
+        "to": "LCQ",
+        "from_codes": [
+          "VQQ"
+        ],
+        "to_codes": [
+          "LCQ"
+        ],
+        "from_full": "Jacksonville, FL, United States",
+        "to_full": "Lake City, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4211",
+        "iidd": "4211",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0032"
+    },
+    {
+      "date": {
+        "original": "04/28/2008",
+        "parsed": "2008-04-28",
+        "display": "04/28/2008",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LCQ",
+        "to": "PBI",
+        "from_codes": [
+          "LCQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Lake City, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4212",
+        "iidd": "4212",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0033"
+    },
+    {
+      "date": {
+        "original": "05/29/2008",
+        "parsed": "2008-05-29",
+        "display": "05/29/2008",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "LCQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "LCQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Lake City, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4213",
+        "iidd": "4213",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0034"
+    },
+    {
+      "date": {
+        "original": "05/31/2008",
+        "parsed": "2008-05-31",
+        "display": "05/31/2008",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LCQ",
+        "to": "VQQ",
+        "from_codes": [
+          "LCQ"
+        ],
+        "to_codes": [
+          "VQQ"
+        ],
+        "from_full": "Lake City, FL, United States",
+        "to_full": "Jacksonville, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4214",
+        "iidd": "4214",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0035"
+    },
+    {
+      "date": {
+        "original": "07/02/2008",
+        "parsed": "2008-07-02",
+        "display": "07/02/2008",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VQQ",
+        "to": "PBI",
+        "from_codes": [
+          "VQQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Jacksonville, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4215",
+        "iidd": "4215",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0036"
+    },
+    {
+      "date": {
+        "original": "12/09/2008",
+        "parsed": "2008-12-09",
+        "display": "12/09/2008",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "LCQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "LCQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Lake City, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4216",
+        "iidd": "4216",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0037"
+    },
+    {
+      "date": {
+        "original": "02/28/2009",
+        "parsed": "2009-02-28",
+        "display": "02/28/2009",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LCQ",
+        "to": "PBI",
+        "from_codes": [
+          "LCQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Lake City, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4217",
+        "iidd": "4217",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0038"
+    },
+    {
+      "date": {
+        "original": "05/07/2009",
+        "parsed": "2009-05-07",
+        "display": "05/07/2009",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4218",
+        "iidd": "4218",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0039"
+    },
+    {
+      "date": {
+        "original": "10/19/2009",
+        "parsed": "2009-10-19",
+        "display": "10/19/2009",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "VQQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "VQQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Jacksonville, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4219",
+        "iidd": "4219",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0040"
+    },
+    {
+      "date": {
+        "original": "02/27/2010",
+        "parsed": "2010-02-27",
+        "display": "02/27/2010",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VQQ",
+        "to": "PBI",
+        "from_codes": [
+          "VQQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Jacksonville, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4220",
+        "iidd": "4220",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0041"
+    },
+    {
+      "date": {
+        "original": "05/06/2010",
+        "parsed": "2010-05-06",
+        "display": "05/06/2010",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4221",
+        "iidd": "4221",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p004_r0042"
+    }
+  ]
+}

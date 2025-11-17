@@ -1,0 +1,776 @@
+{
+  "page_number": 45,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:03.062698",
+  "chunk": "chunk_001-010",
+  "flights": [
+    {
+      "date": {
+        "original": "10/19/1996",
+        "parsed": "1996-10-19",
+        "display": "10/19/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "906",
+        "iidd": "4551",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Didier Cazaudumec",
+          "code": "DC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0002"
+    },
+    {
+      "date": {
+        "original": "10/22/1996",
+        "parsed": "1996-10-22",
+        "display": "10/22/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "907",
+        "iidd": "4554",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Didier Cazaudumec",
+          "code": "DC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0005"
+    },
+    {
+      "date": {
+        "original": "10/24/1996",
+        "parsed": "1996-10-24",
+        "display": "10/24/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAF",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "908",
+        "iidd": "4557",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry ?",
+          "code": "L?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0008"
+    },
+    {
+      "date": {
+        "original": "10/25/1996",
+        "parsed": "1996-10-25",
+        "display": "10/25/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "PBI",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "909",
+        "iidd": "4560",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shannon ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0011"
+    },
+    {
+      "date": {
+        "original": "10/27/1996",
+        "parsed": "1996-10-27",
+        "display": "10/27/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "910",
+        "iidd": "4563",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joel Pashcow",
+          "code": "JP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sharon ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0014"
+    },
+    {
+      "date": {
+        "original": "10/30/1996",
+        "parsed": "1996-10-30",
+        "display": "10/30/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DCA",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "DCA"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Washington Dc, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "911",
+        "iidd": "4567",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andy Stewart",
+          "code": "AS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Leslie Gelb",
+          "code": "LG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brian Mathis",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Lester Pollack",
+          "code": "LP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Stephen ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0018"
+    },
+    {
+      "date": {
+        "original": "10/30/1996",
+        "parsed": "1996-10-30",
+        "display": "10/30/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "TEB",
+        "from_codes": [
+          "DCA"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Washington Dc, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "912",
+        "iidd": "4573",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andy Stewart",
+          "code": "AS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Leslie Gelb",
+          "code": "LG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Passenger (3)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0024"
+    },
+    {
+      "date": {
+        "original": "10/31/1996",
+        "parsed": "1996-10-31",
+        "display": "10/31/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "913",
+        "iidd": "4577",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Didier Cazaudumec",
+          "code": "DC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0028"
+    },
+    {
+      "date": {
+        "original": "11/04/1996",
+        "parsed": "1996-11-04",
+        "display": "11/04/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "914",
+        "iidd": "4580",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Didier Cazaudumec",
+          "code": "DC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0031"
+    },
+    {
+      "date": {
+        "original": "11/07/1996",
+        "parsed": "1996-11-07",
+        "display": "11/07/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "915",
+        "iidd": "4583",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Schantz",
+          "code": "JS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Passenger (4)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Dubin",
+          "code": "ED",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Glenn Dubin",
+          "code": "GD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nanny (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Dubin",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0034"
+    },
+    {
+      "date": {
+        "original": "11/11/1996",
+        "parsed": "1996-11-11",
+        "display": "11/11/1996",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "916",
+        "iidd": "4592",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Passenger (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Schantz",
+          "code": "JS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Passenger (4)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Dubin",
+          "code": "ED",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Dubin",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nanny (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "001-010",
+      "v3_flight_id": "chunk_001-010_p007_r0043"
+    }
+  ]
+}

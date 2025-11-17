@@ -1,0 +1,578 @@
+{
+  "page_number": 95,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:56.833253",
+  "chunk": "chunk_051-060",
+  "flights": [
+    {
+      "date": {
+        "original": "12/15/2001",
+        "parsed": "2001-12-15",
+        "display": "12/15/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HPN",
+        "to": "CMH",
+        "from_codes": [
+          "HPN"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "from_full": "Westchester County, NY, United States",
+        "to_full": "Columbus, OH, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "38",
+        "iidd": "3807",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Male (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Male (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0001"
+    },
+    {
+      "date": {
+        "original": "12/15/2001",
+        "parsed": "2001-12-15",
+        "display": "12/15/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Columbus, OH, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "39",
+        "iidd": "3811",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0009"
+    },
+    {
+      "date": {
+        "original": "12/16/2001",
+        "parsed": "2001-12-16",
+        "display": "12/16/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Columbus, OH, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "39",
+        "iidd": "3840",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0010"
+    },
+    {
+      "date": {
+        "original": "12/17/2001",
+        "parsed": "2001-12-17",
+        "display": "12/17/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "40",
+        "iidd": "3841",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0011"
+    },
+    {
+      "date": {
+        "original": "12/26/2001",
+        "parsed": "2001-12-26",
+        "display": "12/26/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "TLPL",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "TLPL"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Vieux-Fort, St. Lucia",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "41",
+        "iidd": "3845",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Fleur PerryLang",
+          "code": "FP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bob Breslen",
+          "code": "BB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0015"
+    },
+    {
+      "date": {
+        "original": "12/26/2001",
+        "parsed": "2001-12-26",
+        "display": "12/26/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TLPL",
+        "to": "PBI",
+        "from_codes": [
+          "TLPL"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Vieux-Fort, St. Lucia",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "42",
+        "iidd": "3851",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Fleur PerryLang",
+          "code": "FP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bob Breslen",
+          "code": "BB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0021"
+    },
+    {
+      "date": {
+        "original": "12/30/2001",
+        "parsed": "2001-12-30",
+        "display": "12/30/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "43",
+        "iidd": "3857",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0027"
+    },
+    {
+      "date": {
+        "original": "01/01/2002",
+        "parsed": "2002-01-01",
+        "display": "01/01/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "716",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ryan Dionne",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Magale Blachou",
+          "code": "MB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Michael Liffman",
+          "code": "ML",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Evelyn Boulet",
+          "code": "EB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p007_r0032"
+    }
+  ]
+}

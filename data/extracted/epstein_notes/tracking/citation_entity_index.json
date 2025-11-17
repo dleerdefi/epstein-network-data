@@ -1,0 +1,2827 @@
+{
+  "metadata": {
+    "created": "2025-11-14",
+    "purpose": "Bidirectional mapping: entities \u2194 verification claims for confidence scoring",
+    "total_entities_with_claims": 38,
+    "total_claims": 53,
+    "avg_confidence_factual": 0.983,
+    "avg_confidence_speculative": 0.35,
+    "avg_confidence_contested": 0.25,
+    "total_citations_used": 43,
+    "total_entities_without_claims": 17,
+    "entity_id_resolution_applied": "Yes - person_062\u2192person_142 (Reinhart), person_075\u2192person_096 (Rodriguez)"
+  },
+  "entity_to_claims": {
+    "person_001": {
+      "canonical_name": "Jeffrey Edward Epstein",
+      "total_claims": 41,
+      "verification_claims": [
+        {
+          "claim_id": "1.1.1",
+          "claim_text": "Jeffrey Epstein was born in 1953",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.2",
+          "claim_text": "Epstein graduated from Lafayette High School in 1969, at age 16, having skipped two grades",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.3",
+          "claim_text": "Epstein attended Cooper Union from 1969 to 1971",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.4",
+          "claim_text": "Epstein transferred to Courant Institute at NYU 1971-1974 but did not complete degree",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.5",
+          "claim_text": "Despite lack of college degree, Epstein taught physics and mathematics at Dalton School 1974-1976",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.6",
+          "claim_text": "Epstein sexually abused minors while a teacher at Dalton",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.7",
+          "claim_text": "Epstein was hired by Bear Stearns in 1976",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.8",
+          "claim_text": "Epstein was brought on by CEO Alan 'Ace' Greenberg after tutoring Greenberg's son",
+          "verification_status": "Speculative",
+          "confidence": 0.5,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.9",
+          "claim_text": "Epstein's tenure at Bear Stearns lasted until 1981",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.10",
+          "claim_text": "Epstein left Bear Stearns due to mysterious circumstances surrounding insider trading issue",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.11",
+          "claim_text": "Epstein was a Member of the Trilateral Commission and CFR",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "5",
+            "6",
+            "7"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.4",
+          "claim_text": "Maxwell moved to New York City in 1992 following death of father in November 1991 and subsequently met Epstein",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "9"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.6",
+          "claim_text": "The TerraMar Project announced closure on July 12, 2019, shortly after Epstein's arrest by NY federal prosecutors",
+          "verification_status": "Factual",
+          "confidence": 0.95,
+          "citations": [
+            "10"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.3.1",
+          "claim_text": "Leslie H. 'Les' Wexner was close friend & mentor to Epstein who managed Wexner's money",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "16"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.3.2",
+          "claim_text": "In 1991, Wexner made Epstein trustee of Ohio Higher Education Trust ($230M philanthropic fund), Wexner Foundation, and Wexner Heritage Foundation",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "16"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.3.3",
+          "claim_text": "Epstein and Wexner met at Bear Stearns where Epstein worked 1976-1981",
+          "verification_status": "Speculative",
+          "confidence": 0.4,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.4.2",
+          "claim_text": "Brunel established MC2 Model Management in 2005 with $1 million line of credit from Epstein",
+          "verification_status": "Factual with nuance",
+          "confidence": 0.95,
+          "citations": [
+            "19"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "2.1.1",
+          "claim_text": "After leaving Bear Stearns, Epstein started International Assets Group Inc. (I.A.G.) out of his apartment in 1982",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "2"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.1.2",
+          "claim_text": "In 1982, Michael Stroll filed lawsuit against Epstein. Case is Stroll v. Epstein, 818 F. Supp. 640 (S.D.N.Y. 1993)",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "20"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.1.3",
+          "claim_text": "Stroll lost the suit against Epstein personally",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "20"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.1.4",
+          "claim_text": "I.A.G. received $450,000 investment from Stroll which Epstein put into oil. Epstein claimed money was for a horse he'd bought from Stroll",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.2.1",
+          "claim_text": "In early 80's Epstein met Steven Hoffenberg. In 1987 Hoffenberg and Epstein partnered up",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "21"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.2.3",
+          "claim_text": "Epstein was Hoffenberg's 'uncharged co-conspirator' and 'architect of the scam'. Millions stolen served as 'seed capital' for Epstein's hedge fund",
+          "verification_status": "Contested",
+          "confidence": 0.3,
+          "citations": [
+            "21",
+            "24"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.3.1",
+          "claim_text": "In 1993 Epstein bought Zorro Ranch in New Mexico from Bruce King with Zorro Development Corp",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "26"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.3.2",
+          "claim_text": "In 2008, Epstein's company Zorro Trust won over $29 million in Oklahoma state lottery",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "27",
+            "28"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.4.1",
+          "claim_text": "In 2004 Epstein d/b/a Financial Trust Co of St. Thomas, VI, sues Citibank",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "29"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "3.1.1",
+          "claim_text": "In March 2005 Palm Beach Police first start investigating Epstein based on call from upset parent",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "30",
+            "32"
+          ],
+          "section": "III. The Florida Criminal Case: 2005-2008"
+        },
+        {
+          "claim_id": "3.1.2",
+          "claim_text": "In 2006, PB police alerted FBI who began to investigate Epstein",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "30",
+            "33"
+          ],
+          "section": "III. The Florida Criminal Case: 2005-2008"
+        },
+        {
+          "claim_id": "3.2.1",
+          "claim_text": "Epstein enters guilty plea for one count 'procuring a minor for prostitution' and 'soliciting prostitution'",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "34",
+            "35"
+          ],
+          "section": "III. The Florida Criminal Case: 2005-2008"
+        },
+        {
+          "claim_id": "3.2.2",
+          "claim_text": "Epstein served 13 months of 18-month state sentence in vacant wing at Palm Beach County Stockade with work release 8am-8pm 6 days/week",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "38",
+            "39"
+          ],
+          "section": "III. The Florida Criminal Case: 2005-2008"
+        },
+        {
+          "claim_id": "4.1.1",
+          "claim_text": "NPA guarantees federal government will not prosecute Epstein",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "30"
+          ],
+          "section": "IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA)"
+        },
+        {
+          "claim_id": "4.1.2",
+          "claim_text": "NPA grants immunity to all Epstein's alleged co-conspirators",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "40",
+            "41"
+          ],
+          "section": "IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA)"
+        },
+        {
+          "claim_id": "4.2.1",
+          "claim_text": "NPA requires Epstein consent to allow victims to seek damages. Epstein must offer to pay plaintiff's attorney fees but must be allowed to choose which attorneys plaintiffs use. Plaintiffs allowed to use non-Epstein lawyers but then must cover cost themselves",
+          "verification_status": "Factual",
+          "confidence": 0.95,
+          "citations": [
+            "30",
+            "41",
+            "43",
+            "44"
+          ],
+          "section": "IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA)"
+        },
+        {
+          "claim_id": "4.3.1",
+          "claim_text": "Bruce E. Reinhart was Asst US District Attorney before leaving government to defend Epstein. He represented Sarah Kellen at time of her 2010 deposition",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "45",
+            "47"
+          ],
+          "section": "IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA)"
+        },
+        {
+          "claim_id": "5.1.1",
+          "claim_text": "L.M. aka Jane Doe #1 hires Edwards to represent her in federal suit claiming her rights as victim violated by terms of Epstein's NPA. Case is ongoing",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "41",
+            "44"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.3.1",
+          "claim_text": "Sarah Kellen, Nadia Marcinkova, and Jeffrey Epstein invoked Fifth Amendment when asked about trafficking girls",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "51"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.5.1",
+          "claim_text": "On March 8 and 9 2010 Epstein was deposed for lawsuit he filed against Bradley J. Edwards and Scott Rothstein",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "61",
+            "63"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "6.1.1",
+          "claim_text": "Epstein met Clinton as early as 1995 when he paid tens of thousands to join him at intimate fund-raising dinner in Palm Beach",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "65"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        },
+        {
+          "claim_id": "6.1.2",
+          "claim_text": "Epstein and Clinton first met in 1993 at White House donors' reception",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "65"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        },
+        {
+          "claim_id": "6.2.1",
+          "claim_text": "Epstein traveled in 2001 with Prince Andrew to Thailand",
+          "verification_status": "Unverified and Contested",
+          "confidence": 0.2,
+          "citations": [
+            "66",
+            "67"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        },
+        {
+          "claim_id": "6.3.1",
+          "claim_text": "In 2004 Epstein bid on residential estate at 513 N. Country Road in Palm Beach but was outbid by Donald Trump",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "68"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.87,
+        "factual_claims": 34,
+        "speculative_claims": 5,
+        "contested_claims": 2,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.2
+      }
+    },
+    "org_003": {
+      "canonical_name": "UNKNOWN_org_003",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.1.4",
+          "claim_text": "Epstein transferred to Courant Institute at NYU 1971-1974 but did not complete degree",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "org_001": {
+      "canonical_name": "Dalton School",
+      "total_claims": 2,
+      "verification_claims": [
+        {
+          "claim_id": "1.1.5",
+          "claim_text": "Despite lack of college degree, Epstein taught physics and mathematics at Dalton School 1974-1976",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.6",
+          "claim_text": "Epstein sexually abused minors while a teacher at Dalton",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.65,
+        "factual_claims": 1,
+        "speculative_claims": 1,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.3
+      }
+    },
+    "org_002": {
+      "canonical_name": "Bear Stearns",
+      "total_claims": 5,
+      "verification_claims": [
+        {
+          "claim_id": "1.1.7",
+          "claim_text": "Epstein was hired by Bear Stearns in 1976",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.8",
+          "claim_text": "Epstein was brought on by CEO Alan 'Ace' Greenberg after tutoring Greenberg's son",
+          "verification_status": "Speculative",
+          "confidence": 0.5,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.9",
+          "claim_text": "Epstein's tenure at Bear Stearns lasted until 1981",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.1.10",
+          "claim_text": "Epstein left Bear Stearns due to mysterious circumstances surrounding insider trading issue",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.3.3",
+          "claim_text": "Epstein and Wexner met at Bear Stearns where Epstein worked 1976-1981",
+          "verification_status": "Speculative",
+          "confidence": 0.4,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.64,
+        "factual_claims": 2,
+        "speculative_claims": 3,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.3
+      }
+    },
+    "person_010": {
+      "canonical_name": "Alan Courtney 'Ace' Greenberg",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.1.8",
+          "claim_text": "Epstein was brought on by CEO Alan 'Ace' Greenberg after tutoring Greenberg's son",
+          "verification_status": "Speculative",
+          "confidence": 0.5,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.5,
+        "factual_claims": 0,
+        "speculative_claims": 1,
+        "contested_claims": 0,
+        "highest_confidence": 0.5,
+        "lowest_confidence": 0.5
+      }
+    },
+    "org_005": {
+      "canonical_name": "Trilateral Commission",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.1.11",
+          "claim_text": "Epstein was a Member of the Trilateral Commission and CFR",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "5",
+            "6",
+            "7"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "org_006": {
+      "canonical_name": "Council on Foreign Relations",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.1.11",
+          "claim_text": "Epstein was a Member of the Trilateral Commission and CFR",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "5",
+            "6",
+            "7"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_002": {
+      "canonical_name": "Ghislaine Noelle Maxwell",
+      "total_claims": 10,
+      "verification_claims": [
+        {
+          "claim_id": "1.2.1",
+          "claim_text": "Ghislaine Noelle Maxwell was born in 1961",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "8"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.2",
+          "claim_text": "Ghislaine Maxwell is youngest child of Robert Maxwell and Elisabeth 'Betty' Maxwell",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "8"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.3",
+          "claim_text": "Ghislaine Maxwell was educated at Oxford University",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "9"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.4",
+          "claim_text": "Maxwell moved to New York City in 1992 following death of father in November 1991 and subsequently met Epstein",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "9"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.5",
+          "claim_text": "Maxwell founded The TerraMar Project in 2012",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "9"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.6",
+          "claim_text": "The TerraMar Project announced closure on July 12, 2019, shortly after Epstein's arrest by NY federal prosecutors",
+          "verification_status": "Factual",
+          "confidence": 0.95,
+          "citations": [
+            "10"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "5.2.1",
+          "claim_text": "September 21 2015 Roberts sued Ghislaine Maxwell for slander: Virginia L Giuffre vs. Ghislaine Maxwell",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "48",
+            "47"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.3.1",
+          "claim_text": "Sarah Kellen, Nadia Marcinkova, and Jeffrey Epstein invoked Fifth Amendment when asked about trafficking girls",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "51"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "6.1.1",
+          "claim_text": "Epstein met Clinton as early as 1995 when he paid tens of thousands to join him at intimate fund-raising dinner in Palm Beach",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "65"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        },
+        {
+          "claim_id": "6.1.2",
+          "claim_text": "Epstein and Clinton first met in 1993 at White House donors' reception",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "65"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.975,
+        "factual_claims": 10,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.9
+      }
+    },
+    "person_004": {
+      "canonical_name": "Ian Robert Maxwell",
+      "total_claims": 2,
+      "verification_claims": [
+        {
+          "claim_id": "1.2.2",
+          "claim_text": "Ghislaine Maxwell is youngest child of Robert Maxwell and Elisabeth 'Betty' Maxwell",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "8"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.4",
+          "claim_text": "Maxwell moved to New York City in 1992 following death of father in November 1991 and subsequently met Epstein",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "9"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.95,
+        "factual_claims": 2,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.9
+      }
+    },
+    "person_005": {
+      "canonical_name": "Elisabeth Maxwell",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.2.2",
+          "claim_text": "Ghislaine Maxwell is youngest child of Robert Maxwell and Elisabeth 'Betty' Maxwell",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "8"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "org_011": {
+      "canonical_name": "The TerraMar Project",
+      "total_claims": 2,
+      "verification_claims": [
+        {
+          "claim_id": "1.2.5",
+          "claim_text": "Maxwell founded The TerraMar Project in 2012",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "9"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.2.6",
+          "claim_text": "The TerraMar Project announced closure on July 12, 2019, shortly after Epstein's arrest by NY federal prosecutors",
+          "verification_status": "Factual",
+          "confidence": 0.95,
+          "citations": [
+            "10"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.975,
+        "factual_claims": 2,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.95
+      }
+    },
+    "person_003": {
+      "canonical_name": "Leslie H. Wexner",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "1.3.1",
+          "claim_text": "Leslie H. 'Les' Wexner was close friend & mentor to Epstein who managed Wexner's money",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "16"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.3.2",
+          "claim_text": "In 1991, Wexner made Epstein trustee of Ohio Higher Education Trust ($230M philanthropic fund), Wexner Foundation, and Wexner Heritage Foundation",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "16"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.3.3",
+          "claim_text": "Epstein and Wexner met at Bear Stearns where Epstein worked 1976-1981",
+          "verification_status": "Speculative",
+          "confidence": 0.4,
+          "citations": [],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.767,
+        "factual_claims": 2,
+        "speculative_claims": 1,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.4
+      }
+    },
+    "org_013": {
+      "canonical_name": "UNKNOWN_org_013",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.3.2",
+          "claim_text": "In 1991, Wexner made Epstein trustee of Ohio Higher Education Trust ($230M philanthropic fund), Wexner Foundation, and Wexner Heritage Foundation",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "16"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.9,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 0.9,
+        "lowest_confidence": 0.9
+      }
+    },
+    "person_011": {
+      "canonical_name": "Jean-Luc Brunel",
+      "total_claims": 2,
+      "verification_claims": [
+        {
+          "claim_id": "1.4.1",
+          "claim_text": "Jean-Luc Brunel began career at Karin Models in 1976, later purchased it",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "17"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        },
+        {
+          "claim_id": "1.4.2",
+          "claim_text": "Brunel established MC2 Model Management in 2005 with $1 million line of credit from Epstein",
+          "verification_status": "Factual with nuance",
+          "confidence": 0.95,
+          "citations": [
+            "19"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.925,
+        "factual_claims": 2,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 0.95,
+        "lowest_confidence": 0.9
+      }
+    },
+    "org_014": {
+      "canonical_name": "UNKNOWN_org_014",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.4.1",
+          "claim_text": "Jean-Luc Brunel began career at Karin Models in 1976, later purchased it",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "17"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.9,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 0.9,
+        "lowest_confidence": 0.9
+      }
+    },
+    "org_015": {
+      "canonical_name": "MC2 Model Management",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "1.4.2",
+          "claim_text": "Brunel established MC2 Model Management in 2005 with $1 million line of credit from Epstein",
+          "verification_status": "Factual with nuance",
+          "confidence": 0.95,
+          "citations": [
+            "19"
+          ],
+          "section": "I. Verification of Foundational Timelines and Biographies"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.95,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 0.95,
+        "lowest_confidence": 0.95
+      }
+    },
+    "org_016": {
+      "canonical_name": "International Assets Group Inc.",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "2.1.1",
+          "claim_text": "After leaving Bear Stearns, Epstein started International Assets Group Inc. (I.A.G.) out of his apartment in 1982",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "2"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.1.3",
+          "claim_text": "Stroll lost the suit against Epstein personally",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "20"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.1.4",
+          "claim_text": "I.A.G. received $450,000 investment from Stroll which Epstein put into oil. Epstein claimed money was for a horse he'd bought from Stroll",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.733,
+        "factual_claims": 2,
+        "speculative_claims": 1,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.3
+      }
+    },
+    "person_023": {
+      "canonical_name": "Michael Stroll",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "2.1.2",
+          "claim_text": "In 1982, Michael Stroll filed lawsuit against Epstein. Case is Stroll v. Epstein, 818 F. Supp. 640 (S.D.N.Y. 1993)",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "20"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.1.3",
+          "claim_text": "Stroll lost the suit against Epstein personally",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "20"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.1.4",
+          "claim_text": "I.A.G. received $450,000 investment from Stroll which Epstein put into oil. Epstein claimed money was for a horse he'd bought from Stroll",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.767,
+        "factual_claims": 2,
+        "speculative_claims": 1,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.3
+      }
+    },
+    "person_024": {
+      "canonical_name": "Steven Jude Hoffenberg",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "2.2.1",
+          "claim_text": "In early 80's Epstein met Steven Hoffenberg. In 1987 Hoffenberg and Epstein partnered up",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "21"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.2.2",
+          "claim_text": "Towers Financial was one of largest Ponzi schemes in US history. Hoffenberg convicted and sentenced to 20 years for bilking investors of $475 million",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "23",
+            "24"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.2.3",
+          "claim_text": "Epstein was Hoffenberg's 'uncharged co-conspirator' and 'architect of the scam'. Millions stolen served as 'seed capital' for Epstein's hedge fund",
+          "verification_status": "Contested",
+          "confidence": 0.3,
+          "citations": [
+            "21",
+            "24"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.733,
+        "factual_claims": 2,
+        "speculative_claims": 0,
+        "contested_claims": 1,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.3
+      }
+    },
+    "org_017": {
+      "canonical_name": "Towers Financial Corporation",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "2.2.1",
+          "claim_text": "In early 80's Epstein met Steven Hoffenberg. In 1987 Hoffenberg and Epstein partnered up",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "21"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.2.2",
+          "claim_text": "Towers Financial was one of largest Ponzi schemes in US history. Hoffenberg convicted and sentenced to 20 years for bilking investors of $475 million",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "23",
+            "24"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.2.3",
+          "claim_text": "Epstein was Hoffenberg's 'uncharged co-conspirator' and 'architect of the scam'. Millions stolen served as 'seed capital' for Epstein's hedge fund",
+          "verification_status": "Contested",
+          "confidence": 0.3,
+          "citations": [
+            "21",
+            "24"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.733,
+        "factual_claims": 2,
+        "speculative_claims": 0,
+        "contested_claims": 1,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.3
+      }
+    },
+    "org_093": {
+      "canonical_name": "Zorro Trust",
+      "total_claims": 2,
+      "verification_claims": [
+        {
+          "claim_id": "2.3.1",
+          "claim_text": "In 1993 Epstein bought Zorro Ranch in New Mexico from Bruce King with Zorro Development Corp",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "26"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        },
+        {
+          "claim_id": "2.3.2",
+          "claim_text": "In 2008, Epstein's company Zorro Trust won over $29 million in Oklahoma state lottery",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "27",
+            "28"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 2,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_045": {
+      "canonical_name": "UNKNOWN_person_045",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "2.3.1",
+          "claim_text": "In 1993 Epstein bought Zorro Ranch in New Mexico from Bruce King with Zorro Development Corp",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "26"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "location_006": {
+      "canonical_name": "UNKNOWN_location_006",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "2.3.1",
+          "claim_text": "In 1993 Epstein bought Zorro Ranch in New Mexico from Bruce King with Zorro Development Corp",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "26"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "org_020": {
+      "canonical_name": "Financial Trust Company, Inc.",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "2.4.1",
+          "claim_text": "In 2004 Epstein d/b/a Financial Trust Co of St. Thomas, VI, sues Citibank",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "29"
+          ],
+          "section": "II. Analysis of Core Financial and Corporate Structures"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "org_087": {
+      "canonical_name": "UNKNOWN_org_087",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "3.2.2",
+          "claim_text": "Epstein served 13 months of 18-month state sentence in vacant wing at Palm Beach County Stockade with work release 8am-8pm 6 days/week",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "38",
+            "39"
+          ],
+          "section": "III. The Florida Criminal Case: 2005-2008"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_142": {
+      "canonical_name": "Bruce E. Reinhart",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "4.3.1",
+          "claim_text": "Bruce E. Reinhart was Asst US District Attorney before leaving government to defend Epstein. He represented Sarah Kellen at time of her 2010 deposition",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "45",
+            "47"
+          ],
+          "section": "IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA)"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_072": {
+      "canonical_name": "Sarah Kellen",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "4.3.1",
+          "claim_text": "Bruce E. Reinhart was Asst US District Attorney before leaving government to defend Epstein. He represented Sarah Kellen at time of her 2010 deposition",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "45",
+            "47"
+          ],
+          "section": "IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA)"
+        },
+        {
+          "claim_id": "5.3.1",
+          "claim_text": "Sarah Kellen, Nadia Marcinkova, and Jeffrey Epstein invoked Fifth Amendment when asked about trafficking girls",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "51"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.3.2",
+          "claim_text": "Kellen and Marcinkova used aliases (Sarah Kensington, Nadia Marcinko) and ran businesses (SLK, Aviloop) from Manhattan property linked to Epstein",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "58",
+            "74"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 3,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_073": {
+      "canonical_name": "L.M.",
+      "total_claims": 4,
+      "verification_claims": [
+        {
+          "claim_id": "4.3.1",
+          "claim_text": "Bruce E. Reinhart was Asst US District Attorney before leaving government to defend Epstein. He represented Sarah Kellen at time of her 2010 deposition",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "45",
+            "47"
+          ],
+          "section": "IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA)"
+        },
+        {
+          "claim_id": "5.1.1",
+          "claim_text": "L.M. aka Jane Doe #1 hires Edwards to represent her in federal suit claiming her rights as victim violated by terms of Epstein's NPA. Case is ongoing",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "41",
+            "44"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.3.1",
+          "claim_text": "Sarah Kellen, Nadia Marcinkova, and Jeffrey Epstein invoked Fifth Amendment when asked about trafficking girls",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "51"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.3.2",
+          "claim_text": "Kellen and Marcinkova used aliases (Sarah Kensington, Nadia Marcinko) and ran businesses (SLK, Aviloop) from Manhattan property linked to Epstein",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "58",
+            "74"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 4,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_059": {
+      "canonical_name": "Bradley J. Edwards",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "5.1.1",
+          "claim_text": "L.M. aka Jane Doe #1 hires Edwards to represent her in federal suit claiming her rights as victim violated by terms of Epstein's NPA. Case is ongoing",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "41",
+            "44"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.1.2",
+          "claim_text": "E.W. aka Courtney Wild hired Edwards for CVRA case",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "43"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.5.1",
+          "claim_text": "On March 8 and 9 2010 Epstein was deposed for lawsuit he filed against Bradley J. Edwards and Scott Rothstein",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "61",
+            "63"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 3,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_074": {
+      "canonical_name": "UNKNOWN_person_074",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "5.1.2",
+          "claim_text": "E.W. aka Courtney Wild hired Edwards for CVRA case",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "43"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_007": {
+      "canonical_name": "Virginia Louise Roberts Giuffre",
+      "total_claims": 2,
+      "verification_claims": [
+        {
+          "claim_id": "5.2.1",
+          "claim_text": "September 21 2015 Roberts sued Ghislaine Maxwell for slander: Virginia L Giuffre vs. Ghislaine Maxwell",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "48",
+            "47"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        },
+        {
+          "claim_id": "5.2.2",
+          "claim_text": "Giuffre testified in May 2016 deposition she was 'lent out for purposes of sex to foreign person president' and 'was with Tom Pritzker once'",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "53"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 2,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_096": {
+      "canonical_name": "Alfredo Rodriguez",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "5.4.1",
+          "claim_text": "Alfredo Rodriguez, house manager, after deposition attempted to sell 97-page document (Epstein's telephone directory). FBI arrested Rodriguez for obstruction of justice",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "2",
+            "60"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_060": {
+      "canonical_name": "UNKNOWN_person_060",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "5.5.1",
+          "claim_text": "On March 8 and 9 2010 Epstein was deposed for lawsuit he filed against Bradley J. Edwards and Scott Rothstein",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "61",
+            "63"
+          ],
+          "section": "V. A Compendium of Verified Civil Litigation and Testimonial Evidence"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "person_025": {
+      "canonical_name": "William Jefferson Clinton",
+      "total_claims": 3,
+      "verification_claims": [
+        {
+          "claim_id": "6.1.1",
+          "claim_text": "Epstein met Clinton as early as 1995 when he paid tens of thousands to join him at intimate fund-raising dinner in Palm Beach",
+          "verification_status": "Factual",
+          "confidence": 0.9,
+          "citations": [
+            "65"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        },
+        {
+          "claim_id": "6.1.2",
+          "claim_text": "Epstein and Clinton first met in 1993 at White House donors' reception",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "65"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        },
+        {
+          "claim_id": "6.1.3",
+          "claim_text": "Introduction to Clinton was made via Doug Bands",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "VI. Verification of Prominent Associations"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.733,
+        "factual_claims": 2,
+        "speculative_claims": 1,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 0.3
+      }
+    },
+    "person_026": {
+      "canonical_name": "UNKNOWN_person_026",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "6.1.3",
+          "claim_text": "Introduction to Clinton was made via Doug Bands",
+          "verification_status": "Speculative",
+          "confidence": 0.3,
+          "citations": [],
+          "section": "VI. Verification of Prominent Associations"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.3,
+        "factual_claims": 0,
+        "speculative_claims": 1,
+        "contested_claims": 0,
+        "highest_confidence": 0.3,
+        "lowest_confidence": 0.3
+      }
+    },
+    "person_027": {
+      "canonical_name": "Prince Andrew",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "6.2.1",
+          "claim_text": "Epstein traveled in 2001 with Prince Andrew to Thailand",
+          "verification_status": "Unverified and Contested",
+          "confidence": 0.2,
+          "citations": [
+            "66",
+            "67"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 0.2,
+        "factual_claims": 0,
+        "speculative_claims": 0,
+        "contested_claims": 1,
+        "highest_confidence": 0.2,
+        "lowest_confidence": 0.2
+      }
+    },
+    "person_028": {
+      "canonical_name": "Donald Trump",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "6.3.1",
+          "claim_text": "In 2004 Epstein bid on residential estate at 513 N. Country Road in Palm Beach but was outbid by Donald Trump",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "68"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    },
+    "location_007": {
+      "canonical_name": "UNKNOWN_location_007",
+      "total_claims": 1,
+      "verification_claims": [
+        {
+          "claim_id": "6.3.1",
+          "claim_text": "In 2004 Epstein bid on residential estate at 513 N. Country Road in Palm Beach but was outbid by Donald Trump",
+          "verification_status": "Factual",
+          "confidence": 1.0,
+          "citations": [
+            "68"
+          ],
+          "section": "VI. Verification of Prominent Associations"
+        }
+      ],
+      "confidence_summary": {
+        "avg_confidence": 1.0,
+        "factual_claims": 1,
+        "speculative_claims": 0,
+        "contested_claims": 0,
+        "highest_confidence": 1.0,
+        "lowest_confidence": 1.0
+      }
+    }
+  },
+  "claim_to_entities": {
+    "1.1.1": {
+      "claim_text": "Jeffrey Epstein was born in 1953",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "1.1.2": {
+      "claim_text": "Epstein graduated from Lafayette High School in 1969, at age 16, having skipped two grades",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "1.1.3": {
+      "claim_text": "Epstein attended Cooper Union from 1969 to 1971",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "1.1.4": {
+      "claim_text": "Epstein transferred to Courant Institute at NYU 1971-1974 but did not complete degree",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_003"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "1.1.5": {
+      "claim_text": "Despite lack of college degree, Epstein taught physics and mathematics at Dalton School 1974-1976",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_001"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "1.1.6": {
+      "claim_text": "Epstein sexually abused minors while a teacher at Dalton",
+      "verification_status": "Speculative",
+      "confidence": 0.3,
+      "entities_mentioned": [
+        "person_001",
+        "org_001"
+      ],
+      "citations": []
+    },
+    "1.1.7": {
+      "claim_text": "Epstein was hired by Bear Stearns in 1976",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_002"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "1.1.8": {
+      "claim_text": "Epstein was brought on by CEO Alan 'Ace' Greenberg after tutoring Greenberg's son",
+      "verification_status": "Speculative",
+      "confidence": 0.5,
+      "entities_mentioned": [
+        "person_001",
+        "person_010",
+        "org_002"
+      ],
+      "citations": []
+    },
+    "1.1.9": {
+      "claim_text": "Epstein's tenure at Bear Stearns lasted until 1981",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_002"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "1.1.10": {
+      "claim_text": "Epstein left Bear Stearns due to mysterious circumstances surrounding insider trading issue",
+      "verification_status": "Speculative",
+      "confidence": 0.3,
+      "entities_mentioned": [
+        "person_001",
+        "org_002"
+      ],
+      "citations": []
+    },
+    "1.1.11": {
+      "claim_text": "Epstein was a Member of the Trilateral Commission and CFR",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_005",
+        "org_006"
+      ],
+      "citations": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "1.2.1": {
+      "claim_text": "Ghislaine Noelle Maxwell was born in 1961",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_002"
+      ],
+      "citations": [
+        "8"
+      ]
+    },
+    "1.2.2": {
+      "claim_text": "Ghislaine Maxwell is youngest child of Robert Maxwell and Elisabeth 'Betty' Maxwell",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_002",
+        "person_004",
+        "person_005"
+      ],
+      "citations": [
+        "8"
+      ]
+    },
+    "1.2.3": {
+      "claim_text": "Ghislaine Maxwell was educated at Oxford University",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_002"
+      ],
+      "citations": [
+        "9"
+      ]
+    },
+    "1.2.4": {
+      "claim_text": "Maxwell moved to New York City in 1992 following death of father in November 1991 and subsequently met Epstein",
+      "verification_status": "Factual",
+      "confidence": 0.9,
+      "entities_mentioned": [
+        "person_002",
+        "person_004",
+        "person_001"
+      ],
+      "citations": [
+        "9"
+      ]
+    },
+    "1.2.5": {
+      "claim_text": "Maxwell founded The TerraMar Project in 2012",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_002",
+        "org_011"
+      ],
+      "citations": [
+        "9"
+      ]
+    },
+    "1.2.6": {
+      "claim_text": "The TerraMar Project announced closure on July 12, 2019, shortly after Epstein's arrest by NY federal prosecutors",
+      "verification_status": "Factual",
+      "confidence": 0.95,
+      "entities_mentioned": [
+        "org_011",
+        "person_001",
+        "person_002"
+      ],
+      "citations": [
+        "10"
+      ]
+    },
+    "1.3.1": {
+      "claim_text": "Leslie H. 'Les' Wexner was close friend & mentor to Epstein who managed Wexner's money",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_003",
+        "person_001"
+      ],
+      "citations": [
+        "16"
+      ]
+    },
+    "1.3.2": {
+      "claim_text": "In 1991, Wexner made Epstein trustee of Ohio Higher Education Trust ($230M philanthropic fund), Wexner Foundation, and Wexner Heritage Foundation",
+      "verification_status": "Factual",
+      "confidence": 0.9,
+      "entities_mentioned": [
+        "person_003",
+        "person_001",
+        "org_013"
+      ],
+      "citations": [
+        "16"
+      ]
+    },
+    "1.3.3": {
+      "claim_text": "Epstein and Wexner met at Bear Stearns where Epstein worked 1976-1981",
+      "verification_status": "Speculative",
+      "confidence": 0.4,
+      "entities_mentioned": [
+        "person_001",
+        "person_003",
+        "org_002"
+      ],
+      "citations": []
+    },
+    "1.4.1": {
+      "claim_text": "Jean-Luc Brunel began career at Karin Models in 1976, later purchased it",
+      "verification_status": "Factual",
+      "confidence": 0.9,
+      "entities_mentioned": [
+        "person_011",
+        "org_014"
+      ],
+      "citations": [
+        "17"
+      ]
+    },
+    "1.4.2": {
+      "claim_text": "Brunel established MC2 Model Management in 2005 with $1 million line of credit from Epstein",
+      "verification_status": "Factual with nuance",
+      "confidence": 0.95,
+      "entities_mentioned": [
+        "person_011",
+        "org_015",
+        "person_001"
+      ],
+      "citations": [
+        "19"
+      ]
+    },
+    "2.1.1": {
+      "claim_text": "After leaving Bear Stearns, Epstein started International Assets Group Inc. (I.A.G.) out of his apartment in 1982",
+      "verification_status": "Factual",
+      "confidence": 0.9,
+      "entities_mentioned": [
+        "person_001",
+        "org_016"
+      ],
+      "citations": [
+        "2"
+      ]
+    },
+    "2.1.2": {
+      "claim_text": "In 1982, Michael Stroll filed lawsuit against Epstein. Case is Stroll v. Epstein, 818 F. Supp. 640 (S.D.N.Y. 1993)",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_023",
+        "person_001"
+      ],
+      "citations": [
+        "20"
+      ]
+    },
+    "2.1.3": {
+      "claim_text": "Stroll lost the suit against Epstein personally",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_023",
+        "person_001",
+        "org_016"
+      ],
+      "citations": [
+        "20"
+      ]
+    },
+    "2.1.4": {
+      "claim_text": "I.A.G. received $450,000 investment from Stroll which Epstein put into oil. Epstein claimed money was for a horse he'd bought from Stroll",
+      "verification_status": "Speculative",
+      "confidence": 0.3,
+      "entities_mentioned": [
+        "person_023",
+        "person_001",
+        "org_016"
+      ],
+      "citations": []
+    },
+    "2.2.1": {
+      "claim_text": "In early 80's Epstein met Steven Hoffenberg. In 1987 Hoffenberg and Epstein partnered up",
+      "verification_status": "Factual",
+      "confidence": 0.9,
+      "entities_mentioned": [
+        "person_001",
+        "person_024",
+        "org_017"
+      ],
+      "citations": [
+        "21"
+      ]
+    },
+    "2.2.2": {
+      "claim_text": "Towers Financial was one of largest Ponzi schemes in US history. Hoffenberg convicted and sentenced to 20 years for bilking investors of $475 million",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "org_017",
+        "person_024"
+      ],
+      "citations": [
+        "23",
+        "24"
+      ]
+    },
+    "2.2.3": {
+      "claim_text": "Epstein was Hoffenberg's 'uncharged co-conspirator' and 'architect of the scam'. Millions stolen served as 'seed capital' for Epstein's hedge fund",
+      "verification_status": "Contested",
+      "confidence": 0.3,
+      "entities_mentioned": [
+        "person_001",
+        "person_024",
+        "org_017"
+      ],
+      "citations": [
+        "21",
+        "24"
+      ]
+    },
+    "2.3.1": {
+      "claim_text": "In 1993 Epstein bought Zorro Ranch in New Mexico from Bruce King with Zorro Development Corp",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_093",
+        "person_045",
+        "location_006"
+      ],
+      "citations": [
+        "26"
+      ]
+    },
+    "2.3.2": {
+      "claim_text": "In 2008, Epstein's company Zorro Trust won over $29 million in Oklahoma state lottery",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_093"
+      ],
+      "citations": [
+        "27",
+        "28"
+      ]
+    },
+    "2.4.1": {
+      "claim_text": "In 2004 Epstein d/b/a Financial Trust Co of St. Thomas, VI, sues Citibank",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_020"
+      ],
+      "citations": [
+        "29"
+      ]
+    },
+    "3.1.1": {
+      "claim_text": "In March 2005 Palm Beach Police first start investigating Epstein based on call from upset parent",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "30",
+        "32"
+      ]
+    },
+    "3.1.2": {
+      "claim_text": "In 2006, PB police alerted FBI who began to investigate Epstein",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "30",
+        "33"
+      ]
+    },
+    "3.2.1": {
+      "claim_text": "Epstein enters guilty plea for one count 'procuring a minor for prostitution' and 'soliciting prostitution'",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "34",
+        "35"
+      ]
+    },
+    "3.2.2": {
+      "claim_text": "Epstein served 13 months of 18-month state sentence in vacant wing at Palm Beach County Stockade with work release 8am-8pm 6 days/week",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "org_087"
+      ],
+      "citations": [
+        "38",
+        "39"
+      ]
+    },
+    "4.1.1": {
+      "claim_text": "NPA guarantees federal government will not prosecute Epstein",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "30"
+      ]
+    },
+    "4.1.2": {
+      "claim_text": "NPA grants immunity to all Epstein's alleged co-conspirators",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "40",
+        "41"
+      ]
+    },
+    "4.2.1": {
+      "claim_text": "NPA requires Epstein consent to allow victims to seek damages. Epstein must offer to pay plaintiff's attorney fees but must be allowed to choose which attorneys plaintiffs use. Plaintiffs allowed to use non-Epstein lawyers but then must cover cost themselves",
+      "verification_status": "Factual",
+      "confidence": 0.95,
+      "entities_mentioned": [
+        "person_001"
+      ],
+      "citations": [
+        "30",
+        "41",
+        "43",
+        "44"
+      ]
+    },
+    "4.3.1": {
+      "claim_text": "Bruce E. Reinhart was Asst US District Attorney before leaving government to defend Epstein. He represented Sarah Kellen at time of her 2010 deposition",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_142",
+        "person_001",
+        "person_072",
+        "person_073"
+      ],
+      "citations": [
+        "45",
+        "47"
+      ]
+    },
+    "5.1.1": {
+      "claim_text": "L.M. aka Jane Doe #1 hires Edwards to represent her in federal suit claiming her rights as victim violated by terms of Epstein's NPA. Case is ongoing",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_073",
+        "person_059",
+        "person_001"
+      ],
+      "citations": [
+        "41",
+        "44"
+      ]
+    },
+    "5.1.2": {
+      "claim_text": "E.W. aka Courtney Wild hired Edwards for CVRA case",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_074",
+        "person_059"
+      ],
+      "citations": [
+        "43"
+      ]
+    },
+    "5.2.1": {
+      "claim_text": "September 21 2015 Roberts sued Ghislaine Maxwell for slander: Virginia L Giuffre vs. Ghislaine Maxwell",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_007",
+        "person_002"
+      ],
+      "citations": [
+        "48",
+        "47"
+      ]
+    },
+    "5.2.2": {
+      "claim_text": "Giuffre testified in May 2016 deposition she was 'lent out for purposes of sex to foreign person president' and 'was with Tom Pritzker once'",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_007"
+      ],
+      "citations": [
+        "53"
+      ]
+    },
+    "5.3.1": {
+      "claim_text": "Sarah Kellen, Nadia Marcinkova, and Jeffrey Epstein invoked Fifth Amendment when asked about trafficking girls",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_072",
+        "person_073",
+        "person_001",
+        "person_002"
+      ],
+      "citations": [
+        "51"
+      ]
+    },
+    "5.3.2": {
+      "claim_text": "Kellen and Marcinkova used aliases (Sarah Kensington, Nadia Marcinko) and ran businesses (SLK, Aviloop) from Manhattan property linked to Epstein",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_072",
+        "person_073"
+      ],
+      "citations": [
+        "58",
+        "74"
+      ]
+    },
+    "5.4.1": {
+      "claim_text": "Alfredo Rodriguez, house manager, after deposition attempted to sell 97-page document (Epstein's telephone directory). FBI arrested Rodriguez for obstruction of justice",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_096"
+      ],
+      "citations": [
+        "2",
+        "60"
+      ]
+    },
+    "5.5.1": {
+      "claim_text": "On March 8 and 9 2010 Epstein was deposed for lawsuit he filed against Bradley J. Edwards and Scott Rothstein",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "person_059",
+        "person_060"
+      ],
+      "citations": [
+        "61",
+        "63"
+      ]
+    },
+    "6.1.1": {
+      "claim_text": "Epstein met Clinton as early as 1995 when he paid tens of thousands to join him at intimate fund-raising dinner in Palm Beach",
+      "verification_status": "Factual",
+      "confidence": 0.9,
+      "entities_mentioned": [
+        "person_001",
+        "person_002",
+        "person_025"
+      ],
+      "citations": [
+        "65"
+      ]
+    },
+    "6.1.2": {
+      "claim_text": "Epstein and Clinton first met in 1993 at White House donors' reception",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "person_025",
+        "person_002"
+      ],
+      "citations": [
+        "65"
+      ]
+    },
+    "6.1.3": {
+      "claim_text": "Introduction to Clinton was made via Doug Bands",
+      "verification_status": "Speculative",
+      "confidence": 0.3,
+      "entities_mentioned": [
+        "person_025",
+        "person_026"
+      ],
+      "citations": []
+    },
+    "6.2.1": {
+      "claim_text": "Epstein traveled in 2001 with Prince Andrew to Thailand",
+      "verification_status": "Unverified and Contested",
+      "confidence": 0.2,
+      "entities_mentioned": [
+        "person_001",
+        "person_027"
+      ],
+      "citations": [
+        "66",
+        "67"
+      ]
+    },
+    "6.3.1": {
+      "claim_text": "In 2004 Epstein bid on residential estate at 513 N. Country Road in Palm Beach but was outbid by Donald Trump",
+      "verification_status": "Factual",
+      "confidence": 1.0,
+      "entities_mentioned": [
+        "person_001",
+        "person_028",
+        "location_007"
+      ],
+      "citations": [
+        "68"
+      ]
+    }
+  },
+  "citation_usage_stats": {
+    "2": {
+      "citation_id": "2",
+      "times_used": 9,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_003",
+        "org_001",
+        "org_002",
+        "org_016",
+        "person_096"
+      ]
+    },
+    "5": {
+      "citation_id": "5",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_005",
+        "org_006"
+      ]
+    },
+    "6": {
+      "citation_id": "6",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_005",
+        "org_006"
+      ]
+    },
+    "7": {
+      "citation_id": "7",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_005",
+        "org_006"
+      ]
+    },
+    "8": {
+      "citation_id": "8",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_002",
+        "person_004",
+        "person_005"
+      ]
+    },
+    "9": {
+      "citation_id": "9",
+      "times_used": 3,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_002",
+        "person_004",
+        "person_001",
+        "org_011"
+      ]
+    },
+    "10": {
+      "citation_id": "10",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "org_011",
+        "person_001",
+        "person_002"
+      ]
+    },
+    "16": {
+      "citation_id": "16",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_003",
+        "person_001",
+        "org_013"
+      ]
+    },
+    "17": {
+      "citation_id": "17",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_011",
+        "org_014"
+      ]
+    },
+    "19": {
+      "citation_id": "19",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_011",
+        "org_015",
+        "person_001"
+      ]
+    },
+    "20": {
+      "citation_id": "20",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_023",
+        "person_001",
+        "org_016"
+      ]
+    },
+    "21": {
+      "citation_id": "21",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_024",
+        "org_017"
+      ]
+    },
+    "23": {
+      "citation_id": "23",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "org_017",
+        "person_024"
+      ]
+    },
+    "24": {
+      "citation_id": "24",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "org_017",
+        "person_024",
+        "person_001"
+      ]
+    },
+    "26": {
+      "citation_id": "26",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_093",
+        "person_045",
+        "location_006"
+      ]
+    },
+    "27": {
+      "citation_id": "27",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_093"
+      ]
+    },
+    "28": {
+      "citation_id": "28",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_093"
+      ]
+    },
+    "29": {
+      "citation_id": "29",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_020"
+      ]
+    },
+    "30": {
+      "citation_id": "30",
+      "times_used": 4,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001"
+      ]
+    },
+    "32": {
+      "citation_id": "32",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001"
+      ]
+    },
+    "33": {
+      "citation_id": "33",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001"
+      ]
+    },
+    "34": {
+      "citation_id": "34",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001"
+      ]
+    },
+    "35": {
+      "citation_id": "35",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001"
+      ]
+    },
+    "38": {
+      "citation_id": "38",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_087"
+      ]
+    },
+    "39": {
+      "citation_id": "39",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "org_087"
+      ]
+    },
+    "40": {
+      "citation_id": "40",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001"
+      ]
+    },
+    "41": {
+      "citation_id": "41",
+      "times_used": 3,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_073",
+        "person_059"
+      ]
+    },
+    "43": {
+      "citation_id": "43",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_074",
+        "person_059"
+      ]
+    },
+    "44": {
+      "citation_id": "44",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_073",
+        "person_059"
+      ]
+    },
+    "45": {
+      "citation_id": "45",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_142",
+        "person_001",
+        "person_072",
+        "person_073"
+      ]
+    },
+    "47": {
+      "citation_id": "47",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_142",
+        "person_001",
+        "person_072",
+        "person_073",
+        "person_007",
+        "person_002"
+      ]
+    },
+    "48": {
+      "citation_id": "48",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_007",
+        "person_002"
+      ]
+    },
+    "53": {
+      "citation_id": "53",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_007"
+      ]
+    },
+    "51": {
+      "citation_id": "51",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_072",
+        "person_073",
+        "person_001",
+        "person_002"
+      ]
+    },
+    "58": {
+      "citation_id": "58",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_072",
+        "person_073"
+      ]
+    },
+    "74": {
+      "citation_id": "74",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_072",
+        "person_073"
+      ]
+    },
+    "60": {
+      "citation_id": "60",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_096"
+      ]
+    },
+    "61": {
+      "citation_id": "61",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_059",
+        "person_060"
+      ]
+    },
+    "63": {
+      "citation_id": "63",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_059",
+        "person_060"
+      ]
+    },
+    "65": {
+      "citation_id": "65",
+      "times_used": 2,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_002",
+        "person_025"
+      ]
+    },
+    "66": {
+      "citation_id": "66",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_027"
+      ]
+    },
+    "67": {
+      "citation_id": "67",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_027"
+      ]
+    },
+    "68": {
+      "citation_id": "68",
+      "times_used": 1,
+      "reliability_score": 1.0,
+      "entities_supported": [
+        "person_001",
+        "person_028",
+        "location_007"
+      ]
+    }
+  },
+  "unverified_entities": {
+    "note": "Entities that appear in biographical JSON files but have NO verification claims",
+    "person_ids": [
+      "person_061",
+      "person_062",
+      "person_064",
+      "person_066",
+      "person_131",
+      "person_134",
+      "person_138",
+      "person_147",
+      "person_150",
+      "person_201",
+      "person_202",
+      "person_203",
+      "person_207"
+    ],
+    "org_ids": [
+      "org_012",
+      "org_084",
+      "org_085",
+      "org_086"
+    ],
+    "default_confidence": 0.7,
+    "confidence_basis": "explicit_statement_research_only"
+  },
+  "data_quality_notes": {
+    "entity_id_resolution": {
+      "person_062": "Resolved to person_142 (Bruce E. Reinhart) - ID mismatch between verification doc and canonical entities",
+      "person_075": "Resolved to person_096 (Alfredo Rodriguez) - ID mismatch between verification doc and canonical entities"
+    },
+    "missing_from_canonical_entities": {
+      "person_023": "Michael Stroll - Entity appears in verification document but missing from canonical_entities.json. Name inferred from claim text."
+    },
+    "verification_coverage": {
+      "total_canonical_entities": 55,
+      "entities_with_claims": 38,
+      "coverage_percentage": 69.1
+    }
+  }
+}

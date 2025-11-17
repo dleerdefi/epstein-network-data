@@ -1,0 +1,706 @@
+{
+  "page_number": 139,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:47.269292",
+  "chunk": "chunk_101-110",
+  "flights": [
+    {
+      "date": {
+        "original": "12/29/2004",
+        "parsed": "2004-12-29",
+        "display": "12/29/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TNCM",
+        "to": "TIST",
+        "from_codes": [
+          "TNCM"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Philipsburg, Netherlands Antilles",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1747",
+        "iidd": "1851",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0001"
+    },
+    {
+      "date": {
+        "original": "12/30/2004",
+        "parsed": "2004-12-30",
+        "display": "12/30/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "BHT-407",
+        "tail_number": "N491GM",
+        "type": "Helicopter",
+        "seats": 7,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST-LSJ",
+        "to": "TIST",
+        "from_codes": [
+          "TIST-LSJ"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Water Island, St. Thomas, United States Virgin Islands",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "1854",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0004"
+    },
+    {
+      "date": {
+        "original": "12/30/2004",
+        "parsed": "2004-12-30",
+        "display": "12/30/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "BHT-407",
+        "tail_number": "N491GM",
+        "type": "Helicopter",
+        "seats": 7,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LSJ",
+        "to": "TIST",
+        "from_codes": [
+          "LSJ"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Water Island, St. Thomas, United States Virgin Islands",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "1855",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0005"
+    },
+    {
+      "date": {
+        "original": "01/01/2005",
+        "parsed": "2005-01-01",
+        "display": "01/01/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "TQPF",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "TQPF"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "The Valley, Anguilla",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1748",
+        "iidd": "1856",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Mullen",
+          "code": "DM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Zina Broukis",
+          "code": "ZB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0006"
+    },
+    {
+      "date": {
+        "original": "01/01/2005",
+        "parsed": "2005-01-01",
+        "display": "01/01/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TPQF",
+        "to": "PBI",
+        "from_codes": [
+          "TPQF"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "The Valley, Anguilla",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1749",
+        "iidd": "1863",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Mullen",
+          "code": "DM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Zina Broukis",
+          "code": "ZB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0013"
+    },
+    {
+      "date": {
+        "original": "01/03/2005",
+        "parsed": "2005-01-03",
+        "display": "01/03/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1750",
+        "iidd": "1870",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Mullen",
+          "code": "DM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0020"
+    },
+    {
+      "date": {
+        "original": "01/06/2005",
+        "parsed": "2005-01-06",
+        "display": "01/06/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1751",
+        "iidd": "1876",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dana Burns",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0026"
+    },
+    {
+      "date": {
+        "original": "01/07/2005",
+        "parsed": "2005-01-07",
+        "display": "01/07/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "RSW",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "RSW"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Fort Myers, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1752",
+        "iidd": "1879",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0029"
+    },
+    {
+      "date": {
+        "original": "01/08/2005",
+        "parsed": "2005-01-08",
+        "display": "01/08/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "RSW",
+        "to": "PBI",
+        "from_codes": [
+          "RSW"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Fort Myers, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1753",
+        "iidd": "1880",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0030"
+    },
+    {
+      "date": {
+        "original": "01/11/2005",
+        "parsed": "2005-01-11",
+        "display": "01/11/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "310",
+        "iidd": "1881",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0031"
+    },
+    {
+      "date": {
+        "original": "01/14/2005",
+        "parsed": "2005-01-14",
+        "display": "01/14/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "311",
+        "iidd": "1886",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p001_r0036"
+    }
+  ]
+}

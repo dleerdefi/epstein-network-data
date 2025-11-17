@@ -1,0 +1,467 @@
+{
+  "profile_name": "Leslie H. 'Les' Wexner",
+  "source_lines": "56-59",
+  "extraction_date": "2025-11-14",
+  "primary_person": {
+    "entity_id": "person_005",
+    "name": "Leslie H. Wexner",
+    "aliases": [
+      "LES WEXNER",
+      "Les Wexner",
+      "Les"
+    ],
+    "birth_year": 1937,
+    "nationality": "American",
+    "birth_location": "Dayton, Ohio",
+    "occupations": [
+      "retailer",
+      "businessman",
+      "philanthropist",
+      "close friend & mentor to JE"
+    ],
+    "education": "Ohio State University (business administration)",
+    "summary": "Born 1937 to Russian Jewish immigrants in Dayton, Ohio. Founded The Limited 1963 with $5k loan from aunt. Built retailing empire including Victoria's Secret, Bath & Body Works, Abercrombie & Fitch. Epstein managed his money and served as trustee of his foundations. Allegedly fired Epstein in 2005. Married Abigail S. Koppel 1993, has four children. Ties to mob and Arthur Shapiro murder 1985."
+  },
+  "family_members": [
+    {
+      "entity_id": "person_048",
+      "name": "Abigail S. Koppel",
+      "birth_year": 1962,
+      "occupations": [
+        "lawyer"
+      ],
+      "relationship": "wife",
+      "relationship_to": "person_005",
+      "relationship_context": "Married January 23, 1993 when Wexner was 55, Koppel was 31",
+      "relationship_start": "1993-01-23",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_049",
+      "name": "Harry Wexner",
+      "relationship": "child",
+      "relationship_to": "person_005",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_050",
+      "name": "Hannah Wexner",
+      "relationship": "child",
+      "relationship_to": "person_005",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_051",
+      "name": "David Wexner",
+      "relationship": "child",
+      "relationship_to": "person_005",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_052",
+      "name": "Sarah Wexner",
+      "relationship": "child",
+      "relationship_to": "person_005",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_053",
+      "name": "Susan Wexner",
+      "relationship": "younger sister",
+      "relationship_to": "person_005",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    }
+  ],
+  "associates": [
+    {
+      "entity_id": "person_001",
+      "name": "Jeffrey Edward Epstein",
+      "relationship": "money manager/protege",
+      "relationship_context": "Met at Bear Stearns 1976-1981. Epstein became Wexner's money manager. In 1991 Wexner made Epstein trustee of Ohio Higher Education Trust ($230M) and Wexner Foundation. Allegedly fired Epstein in 2005 after Palm Beach investigation started, replaced with Dennis Hersch.",
+      "relationship_start": "1976-1981",
+      "relationship_end": "2005",
+      "relationship_type": "patron/client",
+      "confidence": 0.87,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "5",
+        "20",
+        "24",
+        "27",
+        "7",
+        "16",
+        "29",
+        "47",
+        "28",
+        "35",
+        "26",
+        "19",
+        "34",
+        "65",
+        "6",
+        "38",
+        "21",
+        "32",
+        "44",
+        "30",
+        "40",
+        "9",
+        "2",
+        "39",
+        "67",
+        "51",
+        "33",
+        "45",
+        "66",
+        "63",
+        "41",
+        "68",
+        "61",
+        "43",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_054",
+      "name": "A. Alfred Taubman",
+      "occupations": [
+        "Detroit real estate baron"
+      ],
+      "relationship": "mentor",
+      "relationship_context": "In late 1960s Wexner found mentor in Taubman",
+      "relationship_start": "late 1960s",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_055",
+      "name": "Ariel Sharon",
+      "occupations": [
+        "Israeli Prime Minister"
+      ],
+      "relationship": "business associate",
+      "relationship_context": "Has relationship with Sharon, does business in Israel",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_056",
+      "name": "Martin Trust",
+      "occupations": [
+        "chief of Limited's overseas clothes-buying wing"
+      ],
+      "relationship": "business associate/employee",
+      "relationship_context": "Sold 200,000 Limited shares in March for $9.2M, holds 4.76M shares worth $199M",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_057",
+      "name": "Dennis Hersch",
+      "aliases": [
+        "DENNIS HERSCH"
+      ],
+      "relationship": "replacement for Epstein",
+      "relationship_context": "Replaced Epstein as money manager in 2005",
+      "relationship_start": "2005",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_058",
+      "name": "Arthur Shapiro",
+      "death_year": 1985,
+      "relationship": "murder victim (alleged connection)",
+      "relationship_context": "Wexner has ties to Shapiro's murder in 1985",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "organizations": [
+    {
+      "entity_id": "org_063",
+      "name": "The Limited",
+      "org_type": "retail company",
+      "founded_year": 1963,
+      "relationship": "founder/chairman",
+      "description": "Founded with $5,000 loan from aunt. Named because store focused on limited amount of merchandise with high turnover and profit margin.",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_064",
+      "name": "Victoria's Secret",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_065",
+      "name": "Bath & Body Works",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_066",
+      "name": "Henri Bendel",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_067",
+      "name": "Lane Bryant",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_068",
+      "name": "Abercrombie & Fitch",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_069",
+      "name": "Lerner New York",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_070",
+      "name": "The Limited Too",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_071",
+      "name": "Express",
+      "org_type": "retail brand",
+      "relationship": "owner (part of Limited brands conglomerate)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_012",
+      "name": "Ohio Higher Education Trust",
+      "note": "Already extracted in Epstein profile"
+    },
+    {
+      "entity_id": "org_013",
+      "name": "Wexner Foundation",
+      "note": "Already extracted in Epstein profile"
+    },
+    {
+      "entity_id": "org_014",
+      "name": "Wexner Heritage Foundation",
+      "note": "Already extracted in Epstein profile"
+    },
+    {
+      "entity_id": "org_072",
+      "name": "Mast Industries",
+      "org_type": "global production company",
+      "founded_year": 1978,
+      "relationship": "acquired January 1978 for $30.9M",
+      "description": "Far East production arm for Limited",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "locations": [
+    {
+      "entity_id": "location_029",
+      "name": "Dayton, Ohio",
+      "location_type": "city",
+      "state": "Ohio",
+      "country": "USA",
+      "relationship": "birthplace"
+    },
+    {
+      "entity_id": "location_030",
+      "name": "New Albany, Ohio",
+      "location_type": "city",
+      "state": "Ohio",
+      "country": "USA",
+      "relationship": "residence",
+      "description": "Current residence, corporate headquarters location"
+    },
+    {
+      "entity_id": "location_031",
+      "name": "Columbus, Ohio",
+      "location_type": "city",
+      "state": "Ohio",
+      "country": "USA",
+      "description": "Built vast distribution center here in 1978"
+    },
+    {
+      "entity_id": "location_032",
+      "name": "Foxcote House",
+      "location_type": "estate",
+      "address": "Warwickshire, England",
+      "country": "England",
+      "relationship": "property owned since 1997",
+      "description": "Mid-18th century house"
+    },
+    {
+      "entity_id": "location_013",
+      "name": "8000 Walton Parkway, New Albany OH",
+      "note": "Already extracted in Epstein profile as business address"
+    }
+  ],
+  "events": [
+    {
+      "entity_id": "event_073",
+      "name": "Born in Dayton",
+      "event_date": "1937",
+      "location": "location_029",
+      "description": "Born to Russian Jewish immigrants",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_074",
+      "name": "Founded The Limited",
+      "event_date": "1963",
+      "description": "Loaned $5,000 from aunt to start retail company",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_075",
+      "name": "Found mentor A. Alfred Taubman",
+      "event_date": "late 1960s",
+      "description": "Detroit real estate baron became mentor",
+      "confidence": 1.0,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_076",
+      "name": "Met/hired Epstein",
+      "event_date": "1976-1981",
+      "description": "Met Epstein at Bear Stearns, became money manager",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_077",
+      "name": "Acquired Mast Industries",
+      "event_date": "1978-01",
+      "description": "Borrowed $30.9M to acquire Far East production arm",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_078",
+      "name": "Sales slump, inventory crisis",
+      "event_date": "1978-1981",
+      "description": "Sales slumped, inventories piled up, cash flow slowed. Halted expansion, tightened operations. Debt reduced from $30.9M to $16.6M by January 1981.",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_079",
+      "name": "Made Epstein trustee of foundations",
+      "event_date": "1991",
+      "description": "Appointed Epstein trustee of Ohio Higher Education Trust ($230M) and Wexner Foundation",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_080",
+      "name": "Married Abigail S. Koppel",
+      "event_date": "1993-01-23",
+      "description": "Age 55, married 31-year-old lawyer",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_081",
+      "name": "Purchased Foxcote House",
+      "event_date": "1997",
+      "location": "location_032",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_082",
+      "name": "Sold large stock block",
+      "event_date": "March (year unspecified)",
+      "description": "Sold 314,900 Limited shares at $48.48 each for $15.3M (still held 49.54M shares worth $2.1B)",
+      "confidence": 1.0,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_083",
+      "name": "Allegedly fired Epstein",
+      "event_date": "2005",
+      "description": "After Palm Beach investigation started, allegedly fired Epstein and replaced with Dennis Hersch",
+      "confidence": 1.0,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    }
+  ],
+  "extracted_stats": {
+    "persons": 12,
+    "organizations": 13,
+    "locations": 5,
+    "events": 11,
+    "total_entities": 41
+  },
+  "notes": [
+    "Corporate culture described as cult-like ('like Moonies') with strong employee loyalty/conformity",
+    "Major philanthropist with focus on Jewish causes",
+    "Ties to Israeli PM Ariel Sharon, does business in Israel",
+    "Alleged ties to mob and Arthur Shapiro murder 1985",
+    "Employees called 'associates' at corporate HQ where he's known as 'Les'",
+    "Relationship with Epstein lasted ~24-29 years (1976-2005)"
+  ]
+}

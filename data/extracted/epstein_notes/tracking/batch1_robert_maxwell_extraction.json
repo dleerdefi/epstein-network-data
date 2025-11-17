@@ -1,0 +1,687 @@
+{
+  "profile_name": "Robert Maxwell",
+  "source_lines": "21-54",
+  "extraction_date": "2025-11-14",
+  "primary_person": {
+    "entity_id": "person_019",
+    "name": "Robert Maxwell",
+    "aliases": [
+      "Ian Robert Maxwell",
+      "Jan Ludwig Hoch",
+      "Captain Maxwell",
+      "Wallace Chesterton",
+      "Enian Robert Maxwell",
+      "IS-R",
+      "GE",
+      "Jan Ludvik Binyamin Hoch"
+    ],
+    "birth_year": 1923,
+    "death_year": 1991,
+    "death_date": "1991-07",
+    "nationality": "British (originally Czechoslovakian)",
+    "birth_name": "Jan Ludvik Binyamin Hoch",
+    "birth_location": "Czechoslovakia",
+    "occupations": [
+      "media mogul",
+      "British PM (Member of Parliament)",
+      "publisher",
+      "polymath"
+    ],
+    "summary": "Media mogul born Jan Ludvik Binyamin Hoch in Czechoslovakia 1923. Fled Nazis, arrived Liverpool 1940. War hero awarded Military Cross. Founded Pergamon Press 1951. Member of Parliament 1964. Built media empire including Daily Mirror, Macmillan Publishers. Died mysteriously off yacht Lady Ghislaine July 1991. Pension fraud scandal discovered posthumously ($670M missing). Father of Ghislaine Maxwell."
+  },
+  "family_members": [
+    {
+      "entity_id": "person_020",
+      "name": "Elisabeth Maxwell",
+      "relationship": "wife",
+      "relationship_to": "person_019",
+      "relationship_context": "Met in Paris 1944, married after Maxwell changed his name",
+      "note": "Described as belittled by Maxwell",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "8"
+      ]
+    },
+    {
+      "entity_id": "person_018",
+      "name": "Ghislaine Noelle Maxwell",
+      "relationship": "daughter",
+      "relationship_to": "person_019",
+      "note": "Yacht 'Lady Ghislaine' named after her",
+      "confidence": 0.975,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "9",
+        "8",
+        "47",
+        "48",
+        "51",
+        "65",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_039",
+      "name": "Ian Maxwell",
+      "relationship": "son",
+      "relationship_to": "person_019",
+      "relationship_context": "Tried for pension fraud 1995-1996, acquitted",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_040",
+      "name": "Kevin Maxwell",
+      "relationship": "son",
+      "relationship_to": "person_019",
+      "relationship_context": "Tried for pension fraud 1995-1996, acquitted",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "associates": [
+    {
+      "entity_id": "person_041",
+      "name": "Herr Springer",
+      "occupations": [
+        "publisher"
+      ],
+      "location": "Heidelberg",
+      "relationship": "business connection",
+      "relationship_context": "Contact from well-known publishing family provided entry into publishing business (per 1954 FBI interview of Robert Hallandale)",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_042",
+      "name": "Robert Hallandale",
+      "relationship": "FBI interviewee",
+      "relationship_context": "Interviewed by FBI in 1954, provided information about Maxwell's Springer connection",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_043",
+      "name": "Rupert Murdoch",
+      "occupations": [
+        "media mogul"
+      ],
+      "relationship": "business rival",
+      "relationship_context": "Battled Maxwell in 1968 over News of the World and The Sun. Maxwell lost both.",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_044",
+      "name": "Saul Sternberg",
+      "occupations": [
+        "CEO of Leasco"
+      ],
+      "relationship": "attempted business partner",
+      "relationship_context": "Maxwell attempted partnership 1969 with Leasco (computer leasing), but Leasco nervous about Pergamon finances, led to Board of Trade inquiry",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_045",
+      "name": "Conchita Sarnoff",
+      "occupations": [
+        "investigator"
+      ],
+      "relationship": "investigator",
+      "relationship_context": "During her investigation, former Mossad agent suggested Mossad killed Maxwell",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "26"
+      ]
+    },
+    {
+      "entity_id": "person_046",
+      "name": "Larry Trachtenberg",
+      "occupations": [
+        "American financial advisor"
+      ],
+      "relationship": "partner of Maxwell sons",
+      "relationship_context": "Partner rescued by Lehman Brothers, Goldman Sachs, Coopers & Lybrand alongside Ian and Kevin",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_047",
+      "name": "Adnan Khashoggi",
+      "occupations": [
+        "international arms dealer"
+      ],
+      "relationship": "yacht seller",
+      "relationship_context": "Maxwell bought yacht Lady Ghislaine from Khashoggi's brother",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "organizations": [
+    {
+      "entity_id": "org_041",
+      "name": "Hambro's Bank London",
+      "org_type": "bank",
+      "location": "London",
+      "relationship": "financier",
+      "relationship_context": "Financed Maxwell after the war",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_042",
+      "name": "Butterworth's",
+      "org_type": "publisher",
+      "founded_year": 1951,
+      "relationship": "purchased May 1951, renamed to Pergamon Press",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_043",
+      "name": "Pergamon Press",
+      "org_type": "scientific journal publisher",
+      "founded_year": 1951,
+      "dissolved_year": 1991,
+      "relationship": "founder/owner",
+      "description": "Scientific journal with German bent. Sold March 1991 for $500 million.",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_044",
+      "name": "Lange Maxwell & Springer Inc",
+      "org_type": "publishing company",
+      "relationship": "controlled company",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_045",
+      "name": "Simpkin Marshall",
+      "org_type": "company",
+      "relationship": "controlled company",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_046",
+      "name": "British Parliament",
+      "org_type": "government body",
+      "relationship": "elected member 1964",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_047",
+      "name": "Leasco",
+      "org_type": "computer leasing company",
+      "relationship": "attempted partnership 1969 (failed due to financial concerns)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_048",
+      "name": "Board of Trade",
+      "org_type": "UK government agency",
+      "relationship": "launched inquiry into Pergamon finances 1969",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_049",
+      "name": "Price Waterhouse",
+      "org_type": "accounting firm",
+      "relationship": "conducted audit of Pergamon 1969",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_050",
+      "name": "British Printing and Communications Corporation",
+      "aliases": [
+        "BPCC"
+      ],
+      "org_type": "media company",
+      "founded_year": 1981,
+      "relationship": "took over February 1981, later renamed to MCC",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_051",
+      "name": "Daily Mirror",
+      "org_type": "newspaper",
+      "relationship": "took over 1984",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_052",
+      "name": "Sunday Mirror",
+      "org_type": "newspaper",
+      "relationship": "took over 1984",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_053",
+      "name": "Macmillan Publishers",
+      "org_type": "publisher",
+      "relationship": "bought 1987",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_054",
+      "name": "Maxwell Communications Corporation",
+      "aliases": [
+        "MCC"
+      ],
+      "org_type": "media conglomerate",
+      "founded_year": 1987,
+      "relationship": "renamed from BPCC in 1987",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_055",
+      "name": "Daily News",
+      "org_type": "newspaper",
+      "relationship": "made bid for in 1991",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_056",
+      "name": "Mossad",
+      "org_type": "Israeli intelligence agency",
+      "relationship": "alleged to have killed Maxwell (per former agent interviewed by Conchita Sarnoff)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_057",
+      "name": "Lehman Brothers",
+      "org_type": "investment bank",
+      "relationship": "financial adviser, involved in pension fund settlements and rescue of Maxwell sons",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_058",
+      "name": "Goldman Sachs",
+      "org_type": "investment bank",
+      "relationship": "financial adviser, involved in pension fund settlements and rescue of Maxwell sons",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_059",
+      "name": "Coopers & Lybrand",
+      "org_type": "accounting firm",
+      "relationship": "financial adviser, involved in pension fund settlements and rescue of Maxwell sons",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_060",
+      "name": "FBI",
+      "org_type": "US federal law enforcement",
+      "relationship": "interviewed Robert Hallandale in 1954 about Maxwell",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_061",
+      "name": "News of the World",
+      "org_type": "newspaper",
+      "relationship": "lost bidding war to Rupert Murdoch 1968",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_062",
+      "name": "The Sun",
+      "org_type": "newspaper",
+      "relationship": "lost bidding war to Rupert Murdoch 1968",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    }
+  ],
+  "locations": [
+    {
+      "entity_id": "location_020",
+      "name": "Czechoslovakia",
+      "location_type": "country",
+      "relationship": "birthplace"
+    },
+    {
+      "entity_id": "location_021",
+      "name": "Marseille",
+      "location_type": "city",
+      "country": "France",
+      "relationship": "departed Europe from here May 1940"
+    },
+    {
+      "entity_id": "location_022",
+      "name": "Liverpool",
+      "location_type": "city",
+      "country": "England",
+      "relationship": "arrived May 1940 by ship from Marseille"
+    },
+    {
+      "entity_id": "location_023",
+      "name": "Paris",
+      "location_type": "city",
+      "country": "France",
+      "relationship": "met future wife in 1944"
+    },
+    {
+      "entity_id": "location_024",
+      "name": "Berlin",
+      "location_type": "city",
+      "country": "Germany",
+      "relationship": "location in 1947 at end of war"
+    },
+    {
+      "entity_id": "location_025",
+      "name": "Heidelberg",
+      "location_type": "city",
+      "country": "Germany",
+      "relationship": "location of Herr Springer publishing family"
+    },
+    {
+      "entity_id": "location_026",
+      "name": "Headington Hill Hall",
+      "location_type": "property",
+      "location": "England",
+      "relationship": "leased 1959"
+    },
+    {
+      "entity_id": "location_027",
+      "name": "Canary Islands",
+      "location_type": "region",
+      "country": "Spain",
+      "relationship": "disappeared off yacht here July 1991"
+    },
+    {
+      "entity_id": "location_028",
+      "name": "Israel",
+      "location_type": "country",
+      "relationship": "buried here 1991"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Lady Ghislaine",
+      "asset_type": "yacht",
+      "description": "Yacht Maxwell disappeared from July 1991. Purchased from brother of Adnan Khashoggi. Named after daughter Ghislaine."
+    }
+  ],
+  "legal_cases": [
+    {
+      "entity_id": "legal_019",
+      "case_name": "Board of Trade inquiry into Pergamon finances",
+      "filed_date": "1969",
+      "description": "Launched after Leasco partnership concerns. Price Waterhouse audit conducted.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_020",
+      "case_name": "Pension fund fraud investigation",
+      "filed_date": "1991-11",
+      "description": "November 1991 auditors discovered ~$670M missing from Maxwell companies' pension funds. All but ~$50M recovered through settlements.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_021",
+      "case_name": "Ian and Kevin Maxwell fraud trial",
+      "filed_date": "1995",
+      "description": "Trial for sons regarding pension funds illegally used as security. 8-month trial 1995-1996, both acquitted.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    }
+  ],
+  "events": [
+    {
+      "entity_id": "event_053",
+      "name": "Born Jan Ludvik Binyamin Hoch",
+      "event_date": "1923",
+      "location": "location_020",
+      "description": "Born in Czechoslovakia",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_054",
+      "name": "Fled Europe to escape Nazis",
+      "event_date": "1940-05",
+      "location": "location_021",
+      "description": "Departed Marseille by ship, arrived Liverpool",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_055",
+      "name": "Met future wife",
+      "event_date": "1944",
+      "location": "location_023",
+      "description": "Met Elisabeth in Paris, changed name before marriage",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_056",
+      "name": "Made captain, awarded Military Cross",
+      "event_date": "1945",
+      "description": "Promoted to captain and awarded Military Cross for bravery in war",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_057",
+      "name": "In Berlin at war's end",
+      "event_date": "1947",
+      "location": "location_024",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_058",
+      "name": "Purchased Butterworth's, renamed Pergamon Press",
+      "event_date": "1951-05",
+      "description": "Bought Butterworth's and changed name to Pergamon Press",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_059",
+      "name": "Leased Headington Hill Hall",
+      "event_date": "1959",
+      "location": "location_026",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_060",
+      "name": "Elected to Parliament",
+      "event_date": "1964",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_061",
+      "name": "Lost bidding wars to Murdoch",
+      "event_date": "1968",
+      "description": "Battled Rupert Murdoch over News of the World and The Sun, lost both",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_062",
+      "name": "Attempted Leasco partnership",
+      "event_date": "1969",
+      "description": "Partnership attempt with Saul Sternberg's Leasco failed, led to Board of Trade inquiry",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_063",
+      "name": "Took over BPCC",
+      "event_date": "1981-02",
+      "description": "Took over British Printing and Communications Corporation",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_064",
+      "name": "Took over Daily Mirror and Sunday Mirror",
+      "event_date": "1984",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_065",
+      "name": "Bought Macmillan Publishers, renamed BPCC to MCC",
+      "event_date": "1987",
+      "description": "Acquired Macmillan Publishers and changed BPCC to Maxwell Communications Corporation",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_066",
+      "name": "Made bid for Daily News",
+      "event_date": "1991",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_067",
+      "name": "Sold Pergamon",
+      "event_date": "1991-03",
+      "description": "Sold Pergamon Press for $500 million",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_068",
+      "name": "Disappeared off yacht, died",
+      "event_date": "1991-07",
+      "location": "location_027",
+      "description": "Age 68, disappeared off Canary Islands from yacht Lady Ghislaine. Capsized. Circumstances remain mystery. Possible Mossad assassination.",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_069",
+      "name": "Buried in Israel",
+      "event_date": "1991",
+      "location": "location_028",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_070",
+      "name": "Pension fraud discovered",
+      "event_date": "1991-11",
+      "description": "Auditors discovered ~$670M missing from pension funds",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_071",
+      "name": "Sons' fraud trial",
+      "event_date": "1995",
+      "description": "Ian and Kevin Maxwell tried for pension fraud",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_072",
+      "name": "Sons acquitted",
+      "event_date": "1996",
+      "description": "After 8-month trial, Ian and Kevin acquitted. Lehman Brothers, Goldman Sachs, Coopers & Lybrand interceded on their behalf.",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    }
+  ],
+  "extracted_stats": {
+    "persons": 9,
+    "organizations": 22,
+    "locations": 9,
+    "assets": 1,
+    "legal_cases": 3,
+    "events": 20,
+    "total_entities": 64
+  },
+  "notes": [
+    "Described as despot who belittled wife and lashed children with tongue and belt",
+    "Multiple aliases throughout life",
+    "War hero (Military Cross) turned media mogul",
+    "Mysterious death - possible Mossad assassination per former agent",
+    "$670M pension fraud discovered posthumously",
+    "Sons acquitted with help from same financial institutions that aided in settlements"
+  ]
+}

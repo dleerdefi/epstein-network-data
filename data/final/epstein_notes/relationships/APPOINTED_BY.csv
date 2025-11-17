@@ -1,0 +1,6 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_153,person_012,APPOINTED_BY,65,0.733,,Unverified
+person_155,person_148a,APPOINTED_BY,,0.7,Nominated Marra to federal judgeship,Unverified
+person_150,person_012,APPOINTED_BY,,0.7,Appointed to federal court for Southern District of New York,Unverified
+person_134,person_012,APPOINTED_BY,,0.7,Appointed Mitchell as Special Envoy for Middle East Peace,Unverified
+person_134,person_134c,APPOINTED_BY,,0.7,Appointed Mitchell as Special Envoy,Unverified

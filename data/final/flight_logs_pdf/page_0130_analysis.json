@@ -1,0 +1,717 @@
+{
+  "page_number": 130,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:37.300380",
+  "chunk": "chunk_091-100",
+  "flights": [
+    {
+      "date": {
+        "original": "05/08/2004",
+        "parsed": "2004-05-08",
+        "display": "05/08/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "EGGW",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "EGGW"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "London, England",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "267",
+        "iidd": "1583",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0002"
+    },
+    {
+      "date": {
+        "original": "05/10/2004",
+        "parsed": "2004-05-10",
+        "display": "05/10/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGGW",
+        "to": "LKPR",
+        "from_codes": [
+          "EGGW"
+        ],
+        "to_codes": [
+          "LKPR"
+        ],
+        "from_full": "London, England",
+        "to_full": "Prague, Czech Republic",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "268",
+        "iidd": "1589",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0008"
+    },
+    {
+      "date": {
+        "original": "05/12/2004",
+        "parsed": "2004-05-12",
+        "display": "05/12/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LKPR",
+        "to": "LFPB",
+        "from_codes": [
+          "LKPR"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "Prague, Czech Republic",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "269",
+        "iidd": "1595",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0014"
+    },
+    {
+      "date": {
+        "original": "05/14/2004",
+        "parsed": "2004-05-14",
+        "display": "05/14/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "CYQX",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "CYQX"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Gander, Canada",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "270",
+        "iidd": "1601",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0020"
+    },
+    {
+      "date": {
+        "original": "05/14/2004",
+        "parsed": "2004-05-14",
+        "display": "05/14/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CYQX",
+        "to": "PBI",
+        "from_codes": [
+          "CYQX"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Gander, Canada",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "271",
+        "iidd": "1606",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0025"
+    },
+    {
+      "date": {
+        "original": "05/15/2004",
+        "parsed": "2004-05-15",
+        "display": "05/15/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1707",
+        "iidd": "1611",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "RON ?",
+          "code": "R?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0030"
+    },
+    {
+      "date": {
+        "original": "05/17/2004",
+        "parsed": "2004-05-17",
+        "display": "05/17/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1708",
+        "iidd": "1614",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Teala Davies",
+          "code": "TD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0033"
+    },
+    {
+      "date": {
+        "original": "06/11/2004",
+        "parsed": "2004-06-11",
+        "display": "06/11/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "MDW",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "MDW"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Chicago, IL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1717",
+        "iidd": "1618",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Illegible",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0037"
+    },
+    {
+      "date": {
+        "original": "06/11/2004",
+        "parsed": "2004-06-11",
+        "display": "06/11/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MDW",
+        "to": "PBI",
+        "from_codes": [
+          "MDW"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Chicago, IL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1718",
+        "iidd": "1621",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0040"
+    },
+    {
+      "date": {
+        "original": "06/13/2004",
+        "parsed": "2004-06-13",
+        "display": "06/13/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "272",
+        "iidd": "1624",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A D",
+          "code": "AD",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "GOSMAN ?",
+          "code": "G?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p002_r0043"
+    }
+  ]
+}

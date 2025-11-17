@@ -1,0 +1,717 @@
+{
+  "page_number": 103,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:05.974310",
+  "chunk": "chunk_061-070",
+  "flights": [
+    {
+      "date": {
+        "original": "06/16/2002",
+        "parsed": "2002-06-16",
+        "display": "06/16/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "JFK",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "115",
+        "iidd": "280",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Laura Hames",
+          "code": "LH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0001"
+    },
+    {
+      "date": {
+        "original": "06/19/2002",
+        "parsed": "2002-06-19",
+        "display": "06/19/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1568",
+        "iidd": "285",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Reposition",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0006"
+    },
+    {
+      "date": {
+        "original": "06/19/2002",
+        "parsed": "2002-06-19",
+        "display": "06/19/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1569",
+        "iidd": "287",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0008"
+    },
+    {
+      "date": {
+        "original": "06/21/2002",
+        "parsed": "2002-06-21",
+        "display": "06/21/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MYEF",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "MYEF"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Great Exuma, Bahamas",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1570",
+        "iidd": "292",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Virginia Roberts",
+          "code": "VR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0013"
+    },
+    {
+      "date": {
+        "original": "06/21/2002",
+        "parsed": "2002-06-21",
+        "display": "06/21/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MYEF",
+        "to": "PBI",
+        "from_codes": [
+          "MYEF"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Great Exuma, Bahamas",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1571",
+        "iidd": "299",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Reposition",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0020"
+    },
+    {
+      "date": {
+        "original": "06/23/2002",
+        "parsed": "2002-06-23",
+        "display": "06/23/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MYEF",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "MYEF"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Great Exuma, Bahamas",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1572",
+        "iidd": "301",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Reposition",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0022"
+    },
+    {
+      "date": {
+        "original": "06/23/2002",
+        "parsed": "2002-06-23",
+        "display": "06/23/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MYEF",
+        "to": "TEB",
+        "from_codes": [
+          "MYEF"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Great Exuma, Bahamas",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1573",
+        "iidd": "303",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julian Borees",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Melissa Stahl",
+          "code": "MS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0024"
+    },
+    {
+      "date": {
+        "original": "06/23/2002",
+        "parsed": "2002-06-23",
+        "display": "06/23/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1574",
+        "iidd": "311",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Reposition",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0032"
+    },
+    {
+      "date": {
+        "original": "06/27/2002",
+        "parsed": "2002-06-27",
+        "display": "06/27/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "LFPB",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "116",
+        "iidd": "313",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Frederic Fekkai",
+          "code": "FF",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alexander Fekkai",
+          "code": "AF",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Isering Yangkey",
+          "code": "IY",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0034"
+    },
+    {
+      "date": {
+        "original": "06/29/2002",
+        "parsed": "2002-06-29",
+        "display": "06/29/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "LFTH",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "LFTH"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Hyeres, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "117",
+        "iidd": "320",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Frederic Fekkai",
+          "code": "FF",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alexander Fekkai",
+          "code": "AF",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Isering Yangkey",
+          "code": "IY",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p005_r0041"
+    }
+  ]
+}

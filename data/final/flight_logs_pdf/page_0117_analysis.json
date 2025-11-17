@@ -1,0 +1,756 @@
+{
+  "page_number": 117,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:16.473676",
+  "chunk": "chunk_071-080",
+  "flights": [
+    {
+      "date": {
+        "original": "04/24/2003",
+        "parsed": "2003-04-24",
+        "display": "04/24/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SBA",
+        "to": "VNY",
+        "from_codes": [
+          "SBA"
+        ],
+        "to_codes": [
+          "VNY"
+        ],
+        "from_full": "Santa Barbara, CA, United States",
+        "to_full": "Van Nuys, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1634",
+        "iidd": "926",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Chauntae Davies",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Diane Fleetwood",
+          "code": "DF",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Kelly Bovino",
+          "code": "KB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0004"
+    },
+    {
+      "date": {
+        "original": "04/26/2003",
+        "parsed": "2003-04-26",
+        "display": "04/26/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VNY",
+        "to": "TEB",
+        "from_codes": [
+          "VNY"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Van Nuys, CA, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1635",
+        "iidd": "932",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0010"
+    },
+    {
+      "date": {
+        "original": "05/03/2003",
+        "parsed": "2003-05-03",
+        "display": "05/03/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "IAD",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "IAD"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Washington Dc, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1636",
+        "iidd": "934",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0012"
+    },
+    {
+      "date": {
+        "original": "05/03/2003",
+        "parsed": "2003-05-03",
+        "display": "05/03/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "IAD",
+        "to": "PBI",
+        "from_codes": [
+          "IAD"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Washington Dc, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1637",
+        "iidd": "937",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0015"
+    },
+    {
+      "date": {
+        "original": "05/05/2003",
+        "parsed": "2003-05-05",
+        "display": "05/05/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-194",
+        "iidd": "4043",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0019"
+    },
+    {
+      "date": {
+        "original": "05/12/2003",
+        "parsed": "2003-05-12",
+        "display": "05/12/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "JFK",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "195",
+        "iidd": "941",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Teala Davies",
+          "code": "TD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Tatiana Espinosa",
+          "code": "TE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gabriame Pacheco",
+          "code": "GP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0020"
+    },
+    {
+      "date": {
+        "original": "05/16/2003",
+        "parsed": "2003-05-16",
+        "display": "05/16/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "LFPB",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-196",
+        "iidd": "4044",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0027"
+    },
+    {
+      "date": {
+        "original": "05/20/2003",
+        "parsed": "2003-05-20",
+        "display": "05/20/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LIRA",
+        "to": "LEMD",
+        "from_codes": [
+          "LIRA"
+        ],
+        "to_codes": [
+          "LEMD"
+        ],
+        "from_full": "Rome, Italy",
+        "to_full": "Madrid, Spain",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "198",
+        "iidd": "948",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "E M",
+          "code": "EM",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "J K",
+          "code": "JK",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0028"
+    },
+    {
+      "date": {
+        "original": "05/21/2003",
+        "parsed": "2003-05-21",
+        "display": "05/21/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LEMD",
+        "to": "JFK",
+        "from_codes": [
+          "LEMD"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Madrid, Spain",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "199",
+        "iidd": "954",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jean-Luc Brunel",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0034"
+    },
+    {
+      "date": {
+        "original": "05/22/2003",
+        "parsed": "2003-05-22",
+        "display": "05/22/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "200",
+        "iidd": "957",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joel Pashcow",
+          "code": "JP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Todd Meistor",
+          "code": "TM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0037"
+    },
+    {
+      "date": {
+        "original": "05/26/2003",
+        "parsed": "2003-05-26",
+        "display": "05/26/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1638",
+        "iidd": "961",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie K",
+          "code": "JK",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0041"
+    },
+    {
+      "date": {
+        "original": "05/30/2003",
+        "parsed": "2003-05-30",
+        "display": "05/30/2003",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "TIST",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1639",
+        "iidd": "964",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie K",
+          "code": "JK",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p009_r0044"
+    }
+  ]
+}

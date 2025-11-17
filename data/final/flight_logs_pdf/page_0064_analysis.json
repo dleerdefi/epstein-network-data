@@ -1,0 +1,578 @@
+{
+  "page_number": 64,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:25.407056",
+  "chunk": "chunk_021-030",
+  "flights": [
+    {
+      "date": {
+        "original": "03/25/1999",
+        "parsed": "1999-03-25",
+        "display": "03/25/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1215",
+        "iidd": "3942",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Dubin",
+          "code": "ED",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Dubin",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jordan Dubin",
+          "code": "JD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nanny (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0003"
+    },
+    {
+      "date": {
+        "original": "03/27/1999",
+        "parsed": "1999-03-27",
+        "display": "03/27/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1216",
+        "iidd": "3950",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0011"
+    },
+    {
+      "date": {
+        "original": "03/29/1999",
+        "parsed": "1999-03-29",
+        "display": "03/29/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1217",
+        "iidd": "3954",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Tiffany Gramza",
+          "code": "TG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0015"
+    },
+    {
+      "date": {
+        "original": "03/30/1999",
+        "parsed": "1999-03-30",
+        "display": "03/30/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1218",
+        "iidd": "3956",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Reposition",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0017"
+    },
+    {
+      "date": {
+        "original": "03/31/1999",
+        "parsed": "1999-03-31",
+        "display": "03/31/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "TIST",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1219",
+        "iidd": "3957",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alberto Pinto",
+          "code": "AP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Linda Pinto",
+          "code": "LP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Phillipe Mugnier",
+          "code": "PM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Francois Verenia",
+          "code": "FV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0018"
+    },
+    {
+      "date": {
+        "original": "03/31/1999",
+        "parsed": "1999-03-31",
+        "display": "03/31/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1220",
+        "iidd": "3962",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alberto Pinto",
+          "code": "AP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Linda Pinto",
+          "code": "LP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Phillipe Mugnier",
+          "code": "PM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Francois Verenia",
+          "code": "FV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0023"
+    },
+    {
+      "date": {
+        "original": "04/02/1999",
+        "parsed": "1999-04-02",
+        "display": "04/02/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "ABQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "ABQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Albuquerque, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1221",
+        "iidd": "3970",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Alberto Pinto",
+          "code": "AP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Linda Pinto",
+          "code": "LP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Phillipe Mugnier",
+          "code": "PM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Francois Verenia",
+          "code": "FV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Male (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0031"
+    },
+    {
+      "date": {
+        "original": "04/04/1999",
+        "parsed": "1999-04-04",
+        "display": "04/04/1999",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ABQ",
+        "to": "TEB",
+        "from_codes": [
+          "ABQ"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Albuquerque, NM, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1222",
+        "iidd": "3977",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Clare Hazell- Iveagh",
+          "code": "CH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "021-030",
+      "v3_flight_id": "chunk_021-030_p006_r0038"
+    }
+  ]
+}

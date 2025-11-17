@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_061,person_012,REFERENCED,65,0.733,Dershowitz claimed Roberts lied about Clinton having sex on JE's island,Unverified

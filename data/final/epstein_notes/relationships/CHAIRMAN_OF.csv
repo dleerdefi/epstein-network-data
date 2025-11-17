@@ -1,0 +1,3 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_004,org_002,CHAIRMAN_OF,2,0.64,Chairman role,Unverified
+person_004,org_085,CHAIRMAN_OF,,0.7,Negotiated Bear Stearns buyout,Unverified

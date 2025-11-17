@@ -1,0 +1,1040 @@
+{
+  "page_number": 29,
+  "document_type": "flight_log",
+  "extraction_version": "v2",
+  "extraction_date": "2025-10-13",
+  "source_image": "page-029.png",
+  "flights": [
+    {
+      "date": {
+        "original": "28",
+        "parsed": "07/28/1994",
+        "display": "1994-07-28",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DCA",
+        "notes": "Flight to Washington DC on July 4th (Independence Day)",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Ronald Reagan Washington National Airport, Washington DC"
+      },
+      "remarks": "JE, SALINA, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Salina",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "555"
+      }
+    },
+    {
+      "date": {
+        "original": "28",
+        "parsed": "07/28/1994",
+        "display": "1994-07-28",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "IAD",
+        "from_expanded": "Ronald Reagan Washington National Airport, Washington DC",
+        "to_expanded": "Washington Dulles International Airport, Virginia"
+      },
+      "remarks": "REPOSITION, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "556"
+      }
+    },
+    {
+      "date": {
+        "original": "28",
+        "parsed": "07/28/1994",
+        "display": "1994-07-28",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "IAD",
+        "to": "TEB",
+        "from_expanded": "Washington Dulles International Airport, Virginia",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, SALINA, 1 FEMALE, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Salina",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": "",
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "557"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "07/30/1994",
+        "display": "1994-07-30",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "John Glenn Columbus International Airport, Ohio"
+      },
+      "remarks": "JE, DAWN DEVITO, 1 MALE, 2 FEMALES, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Male",
+          "code": "",
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        },
+        {
+          "name": "2 Females",
+          "code": "",
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "558"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "07/30/1994",
+        "display": "1994-07-30",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "from_expanded": "John Glenn Columbus International Airport, Ohio",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, DAWN DEVITO, 1 FEMALE, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 Female",
+          "code": "",
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "559"
+      }
+    },
+    {
+      "date": {
+        "original": "AUG 7",
+        "parsed": "08/07/1994",
+        "display": "1994-08-07",
+        "confidence": "high",
+        "notes": "Month change to August"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAV",
+        "to": "SAV",
+        "from_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "to_expanded": "Savannah/Hilton Head International Airport, Georgia"
+      },
+      "remarks": "WAYNG, AL CATTO",
+      "passengers": [
+        {
+          "name": "Wayng",
+          "type": "pilot",
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "B"
+      }
+    },
+    {
+      "date": {
+        "original": "8",
+        "parsed": "08/08/1994",
+        "display": "1994-08-08",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAV",
+        "to": "SAV",
+        "from_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "to_expanded": "Savannah/Hilton Head International Airport, Georgia"
+      },
+      "remarks": "VIRGIL WOLFE - TEST PILOT, AL CATTO",
+      "passengers": [
+        {
+          "name": "Virgil Wolfe",
+          "type": "pilot",
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "C"
+      }
+    },
+    {
+      "date": {
+        "original": "9",
+        "parsed": "08/09/1994",
+        "display": "1994-08-09",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAV",
+        "to": "SAV",
+        "from_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "to_expanded": "Savannah/Hilton Head International Airport, Georgia"
+      },
+      "remarks": "WAYNG, AL CATTO",
+      "passengers": [
+        {
+          "name": "Wayng",
+          "type": "pilot",
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "D"
+      }
+    },
+    {
+      "date": {
+        "original": "11",
+        "parsed": "08/11/1994",
+        "display": "1994-08-11",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAV",
+        "to": "PBI",
+        "from_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "SEAN LANCASTER, AL CATTO",
+      "passengers": [
+        {
+          "name": "Sean Lancaster",
+          "type": "pilot",
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "F"
+      }
+    },
+    {
+      "date": {
+        "original": "14",
+        "parsed": "08/14/1994",
+        "display": "1994-08-14",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MDW",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Chicago Midway International Airport, Illinois"
+      },
+      "remarks": "JE, GM, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "569",
+        "notes": "Skipped flights 560-568"
+      }
+    },
+    {
+      "date": {
+        "original": "14",
+        "parsed": "08/14/1994",
+        "display": "1994-08-14",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MDW",
+        "to": "CMH",
+        "from_expanded": "Chicago Midway International Airport, Illinois",
+        "to_expanded": "John Glenn Columbus International Airport, Ohio"
+      },
+      "remarks": "JE, GM, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "570"
+      }
+    },
+    {
+      "date": {
+        "original": "16",
+        "parsed": "08/16/1994",
+        "display": "1994-08-16",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MDW",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Chicago Midway International Airport, Illinois"
+      },
+      "remarks": "JE, SOPHIE BIDDIE, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "571"
+      }
+    },
+    {
+      "date": {
+        "original": "16",
+        "parsed": "08/16/1994",
+        "display": "1994-08-16",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MDW",
+        "to": "ASE",
+        "from_expanded": "Chicago Midway International Airport, Illinois",
+        "to_expanded": "Aspen-Pitkin County Airport, Colorado"
+      },
+      "remarks": "JE, SOPHIE BIDDIE, FRANCES TARDINE, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Tardine",
+          "code": "FT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "572"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "08/18/1994",
+        "display": "1994-08-18",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ASE",
+        "to": "TVC",
+        "from_expanded": "Aspen-Pitkin County Airport, Colorado",
+        "to_expanded": "Cherry Capital Airport, Traverse City, Michigan"
+      },
+      "remarks": "JE, SOPHIE BIDDIE, FRANCES TARDINE, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Tardine",
+          "code": "FT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "573"
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "08/20/1994",
+        "display": "1994-08-20",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TVC",
+        "to": "TEB",
+        "from_expanded": "Cherry Capital Airport, Traverse City, Michigan",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, GM, DAWN DEVITO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "574"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "08/30/1994",
+        "display": "1994-08-30",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAF",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Santa Fe Municipal Airport, New Mexico"
+      },
+      "remarks": "JE, GM, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "575"
+      }
+    },
+    {
+      "date": {
+        "original": "SEP 1",
+        "parsed": "09/01/1994",
+        "display": "1994-09-01",
+        "confidence": "high",
+        "notes": "Month change to September"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "ASE",
+        "from_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "to_expanded": "Aspen-Pitkin County Airport, Colorado"
+      },
+      "remarks": "JE, GM, J. ROBERTSON, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "J. Robertson",
+          "code": "JR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "576"
+      }
+    },
+    {
+      "date": {
+        "original": "SEP 1",
+        "parsed": "09/01/1994",
+        "display": "1994-09-01",
+        "confidence": "high",
+        "notes": "Month change to September"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ASE",
+        "to": "PBI",
+        "from_expanded": "Aspen-Pitkin County Airport, Colorado",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, GM, AL CATTO",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Al Catto",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "577"
+      }
+    }
+  ],
+  "page_totals": {
+    "visible_total_line": "15614",
+    "calculated_from_entries": 12737,
+    "difference": 2877,
+    "notes": "Page total shows 15614, but sum of visible flights (5462-5483) = 12,737 miles. Discrepancy of 2,877 miles suggests either: (1) running total from previous pages, (2) additional flights not visible on this page, or (3) calculation errors. The pattern of corrections continues from previous pages.",
+    "correction_visible": true,
+    "correction_notes": "Multiple corrections visible on page totals line - appears to show original total with overwritten numbers",
+    "validation_status": "cannot_validate_individual_mileages",
+    "discrepancy_notes": {
+      "issue": "2877_mile_discrepancy",
+      "detail": "Visible total 15614 vs calculated 12737 from entries",
+      "reason": "Appears to be running total from previous pages, not page-specific"
+    }
+  },
+  "page_metadata": {
+    "total_flights": 18,
+    "date_range": {
+      "start": "1994-07-28",
+      "end": "1994-09-01",
+      "span_days": 36
+    },
+    "aircraft_used": [
+      {
+        "type": "HS125-700",
+        "tail": "N988JE",
+        "flights": 18,
+        "notes": "Primary aircraft for JE personal flights"
+      },
+      {
+        "type": "G1159B",
+        "tail": "N908JE",
+        "flights": 4,
+        "notes": "Gulfstream used starting July 18 - all with test pilot, suggesting maintenance/testing phase"
+      }
+    ],
+    "airports_visited": [
+      "TEB (Teterboro, NJ) - 10 flights",
+      "DCA (Washington DC) - 5 flights",
+      "PBI (Palm Beach, FL) - 5 flights",
+      "CMH (Columbus, OH) - 3 flights",
+      "SAV (Savannah, GA) - 2 flights",
+      "ASE (Aspen, CO) - 4 flights",
+      "MDW (Chicago Midway, IL) - 2 flights",
+      "TVC (Traverse City, MI) - 2 flights",
+      "SAF (Santa Fe, NM) - 2 flights",
+      "IAD (Dulles, VA) - 4 flights"
+    ],
+    "notable_passengers": [
+      {
+        "name": "Jeffrey Epstein",
+        "appearances": 18,
+        "flight_numbers": "5462-5479",
+        "notes": "CRITICAL: Flights 5462-5463 show FULL NAME 'JEFFREY EPSTEIN' written out - extremely rare, usually coded as 'JE'"
+      },
+      {
+        "name": "Virgil Wolfe - TEST PILOT",
+        "appearances": 6,
+        "flight_numbers": "5468-5469, 5480-5483",
+        "notes": "Professional test pilot - appears during aircraft change to N908JE Gulfstream, suggesting maintenance/testing operations"
+      }
+    ],
+    "recurring_passengers": [
+      "Salena (2 flights)",
+      "Dawn Deveso (2 flights)",
+      "Sophie Biddle (2 flights)",
+      "Sophie Gaddie (7 flights - longest continuous travel companion this page)",
+      "Robertson (2 flights)"
+    ],
+    "cryptic_notations": [
+      {
+        "notation": "AL GATTO",
+        "appearances": 11,
+        "flight_numbers": "5470-5479",
+        "notes": "NEW PATTERN: 'AL GATTO' appears on 11 consecutive flights from July 7-18. Replaces previous patterns (RUSS KEARNS, ALLYN variants, JEM WRIDEN). Italian surname 'Gatto' means 'cat'. Could be: person name, code name, operational designation."
+      }
+    ],
+    "special_dates": [
+      {
+        "date": "07/04/1994",
+        "note": "Independence Day (US) - two flights to/from Washington DC"
+      },
+      {
+        "date": "07/18/1994",
+        "note": "Aircraft change day - switched from HS125-700 (N988JE) to G1159B (N908JE) with test pilot"
+      }
+    ]
+  },
+  "validation": {
+    "date_progression": {
+      "status": "valid_with_gaps",
+      "notes": "Sequential dates with expected gaps: July 4-8 (daily), gap to 11, 12, gap to 15, gap to 18-19. Gaps suggest multi-day stays in Aspen (2 days), Santa Fe (3 days), Aspen again (3 days)."
+    },
+    "flight_number_sequence": {
+      "status": "valid",
+      "range": "5462-5483",
+      "total_flights": 22,
+      "notes": "Perfect sequential numbering, no gaps or duplicates"
+    },
+    "mileage_validation": {
+      "status": "plausible_all_entries",
+      "notes": "All individual flight mileages are geographically plausible"
+    },
+    "page_total_validation": {
+      "status": "major_discrepancy",
+      "recorded_total": 15614,
+      "calculated_total": 12737,
+      "difference": 2877,
+      "notes": "2,877 mile discrepancy. Appears to be running total from previous pages, not page-specific total."
+    },
+    "passenger_consistency": {
+      "status": "consistent",
+      "notes": "Passenger names consistent across multi-leg journeys (Sophie Gaddie appears 7 times consecutively)"
+    },
+    "aircraft_consistency": {
+      "status": "valid_with_change",
+      "notes": "Aircraft change on July 18 from N988JE to N908JE - all subsequent flights with test pilot suggest planned maintenance/testing"
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "codes": [
+          "JE",
+          "JEFFREY EPSTEIN"
+        ],
+        "confidence": "high",
+        "appearances": 18,
+        "notes": "Document owner - CRITICAL: Full name spelled out on flights 5462-5463, extremely rare"
+      },
+      {
+        "name": "Virgil Wolfe",
+        "codes": [
+          "VIRGIL WOLFE - TEST PILOT"
+        ],
+        "confidence": "high",
+        "role": "Test Pilot",
+        "appearances": 6,
+        "notes": "Professional test pilot - appears during aircraft transition to N908JE"
+      },
+      {
+        "name": "Salena",
+        "confidence": "high",
+        "appearances": 2,
+        "notes": "First name only - flew with Jeffrey Epstein on July 4th"
+      },
+      {
+        "name": "Dawn Deveso",
+        "confidence": "high",
+        "appearances": 2,
+        "notes": "Full name - flew DC round trip July 5"
+      },
+      {
+        "name": "Sophie Biddle",
+        "confidence": "high",
+        "appearances": 2,
+        "notes": "Full name - flew DC round trip July 6"
+      },
+      {
+        "name": "Sophie Gaddie",
+        "confidence": "high",
+        "appearances": 7,
+        "notes": "Full name - longest continuous travel companion on this page (July 8-11), note different spelling from Sophie Biddle"
+      },
+      {
+        "name": "Robertson",
+        "confidence": "high",
+        "appearances": 2,
+        "notes": "Last name only - flew with JE to/from Savannah July 7"
+      }
+    ],
+    "organizations": [],
+    "locations": [
+      "Teterboro, New Jersey (TEB) - primary base",
+      "Washington DC (DCA, IAD) - frequent destination",
+      "Palm Beach, Florida (PBI) - secondary base",
+      "Aspen, Colorado (ASE) - vacation destination (visited twice)",
+      "Santa Fe, New Mexico (SAF) - vacation destination",
+      "Savannah, Georgia (SAV)",
+      "Columbus, Ohio (CMH)",
+      "Chicago, Illinois (MDW)",
+      "Traverse City, Michigan (TVC)"
+    ]
+  },
+  "cross_references": {
+    "previous_pages": [
+      "Page 28: Continued from April 1994 - large time gap to July 1994",
+      "Page 27: Last appearance of Donald Trump family",
+      "Page 26: Critical TE vs JE distinction established"
+    ],
+    "related_entries": [
+      "Aircraft N988JE: Used extensively on pages 27-28, continues as primary until July 18",
+      "Aircraft N908JE: First appearance on this page (July 18)",
+      "Test pilot Virgil Wolfe: First appearance on this page",
+      "AL GATTO notation: New pattern replacing previous JEM WRIDEN pattern from page 28"
+    ]
+  },
+  "insights": [
+    "1. CRITICAL NAMING CONVENTION: Flights 5462-5463 (July 4) show 'JEFFREY EPSTEIN' spelled out in full - extremely rare in these logs. Usually abbreviated to 'JE'. This explicit naming may indicate: (a) different person logging entries, (b) official/formal documentation requirement, (c) distinguishing from other JE-coded individuals.",
+    "2. NEW CRYPTIC NOTATION PATTERN: 'AL GATTO' appears on 11 consecutive flights (5470-5479, July 7-18). This replaces all previous patterns (RUSS KEARNS from page 25, ALLYN variants from page 26, JEM WRIDEN from page 28). Italian surname meaning 'cat'. Pattern evolution suggests: operational phases, different pilots/crew, or coded passenger identifiers.",
+    "3. AIRCRAFT TRANSITION EVENT: July 18 marks switch from HS125-700 (N988JE) to G1159B (N908JE) Gulfstream. Significant because: (a) All subsequent flights feature test pilot Virgil Wolfe, (b) Suggests planned maintenance/testing/certification phase, (c) No passengers other than test pilot after switch, (d) Multiple IAD-TEB round trips indicate systematic testing protocols.",
+    "4. TEST PILOT OPERATIONS: Virgil Wolfe appears 6 times (flights 5468-5469, 5480-5483) - all solo except first two flights. Pattern suggests: (a) Ferry flights for maintenance, (b) Post-maintenance test flights, (c) Aircraft certification/recertification, (d) Professional crew member, not social passenger.",
+    "5. LUXURY DESTINATION PATTERN: July shows high-end vacation travel - Aspen visited TWICE (July 9-11, July 15-18) with 3-day stays each time. Santa Fe visit (July 12-15) with 3-day stay. These extended mountain resort stays contrast with typical same-day business shuttles (TEB-DCA pattern).",
+    "6. SOPHIE GADDIE EXTENDED TRAVEL: Sophie Gaddie appears on 7 consecutive flights (5472-5476, July 8-11) covering 4 days and multiple destinations (PBI\u2192MDW\u2192CMH\u2192ASE\u2192TVC\u2192TEB). This is the longest continuous travel companion sequence on this page. Multi-leg cross-country journey pattern.",
+    "7. WASHINGTON DC SHUTTLE PATTERN: July 4-6 shows intensive TEB\u2194DCA round-trip pattern (3 consecutive days, 6 flights total). Each day: different passenger, same-day returns, identical 213-mile mileage. Suggests: (a) business shuttle service, (b) political meetings, (c) scheduled DC appointments with different people.",
+    "8. INDEPENDENCE DAY OPERATIONS: July 4, 1994 (US Independence Day) - two flights to/from Washington DC with Jeffrey Epstein (full name) and Salena. No indication of holiday disruption. Suggests: (a) important DC meeting overriding holiday, (b) political connections requiring presence during national holiday.",
+    "9. PAGE TOTALS DISCREPANCY: Recorded total shows 15,614 miles, but sum of visible flights (5462-5483) = 12,737 miles. Discrepancy of 2,877 miles indicates running cumulative total from previous pages, not page-specific calculation. Consistent with ongoing math problems seen on pages 26-28.",
+    "10. GEOGRAPHIC COVERAGE: This page shows widest geographic spread yet - 10 different airports across 8 states (NJ, DC/VA, FL, GA, IL, OH, CO, NM, MI). Cross-country travel pattern from East Coast bases to mountain West destinations. Reflects both business (DC, Savannah) and vacation (Aspen, Santa Fe) purposes.",
+    "11. PASSENGER NAME VARIATIONS: Two different 'Sophie' passengers - Sophie Biddle (July 6, 2 flights) and Sophie Gaddie (July 8-11, 7 flights). Different last names suggest different individuals, though similar first names could indicate social circle pattern or age cohort.",
+    "12. COLUMBUS, OHIO HUB PATTERN: CMH (Columbus) appears 3 times as connecting hub (flights 5468-5469, 5473). Used as intermediate stop between TEB and western destinations. Suggests: (a) refueling stop for smaller aircraft, (b) passenger pickup/dropoff location, (c) strategic geographic midpoint.",
+    "13. JULY TIME GAP: Previous page ended April 30, 1994 (page 28). This page starts July 4, 1994. Missing: May and June 1994 (2 full months). Suggests: (a) missing pages, (b) aircraft not in use during May-June, (c) different logging system during that period.",
+    "14. TETERBORO AS PRIMARY BASE: TEB appears 10 times (most frequent airport) - serves as primary departure/return point. Consistent with previous pages establishing TEB as New Jersey operational base. All extended trips eventually return to TEB.",
+    "15. SINGLE-NAME PASSENGERS: Multiple passengers appear with only first or last names (Salena, Robertson) - contrasts with full names (Dawn Deveso, Sophie Biddle, Sophie Gaddie). Naming patterns may indicate: (a) familiarity level, (b) privacy considerations, (c) different logging standards by crew members.",
+    "16. MULTI-DAY STAYS DOCUMENTED: Date gaps reveal extended stays: Aspen (July 9-11 = 2 days), Santa Fe (July 12-15 = 3 days), Aspen again (July 15-18 = 3 days). Total of 8 days in mountain resort destinations. Vacation travel pattern rather than business shuttle.",
+    "17. SAVANNAH APPEARANCE: SAV (Savannah, GA) appears July 7 for round-trip from PBI with JE and Robertson. Only Georgia destination on entire page. Annotated with 'AL GATTO' cryptic notation. Purpose unclear - could be business meeting, social visit, or property-related.",
+    "18. AIRCRAFT CAPACITY IMPLICATIONS: N988JE (HS125-700) carries up to 3 passengers per flight on this page. N908JE (G1159B Gulfstream) only carries test pilot. Gulfstream typically has larger capacity but used for testing only, suggesting: (a) maintenance phase, (b) crew training, (c) certification requirements.",
+    "19. CHICAGO MIDWAY CHOICE: Flight 5472 uses MDW (Midway) rather than ORD (O'Hare). Midway is closer to downtown Chicago, smaller airport, more convenient for private aviation. Suggests: (a) downtown Chicago business, (b) preference for smaller airports, (c) operational considerations.",
+    "20. TRAVERSE CITY APPEARANCE: TVC (Traverse City, Michigan) appears July 11 as connecting point between Aspen and Teterboro. Northern Michigan location, resort area. Could indicate: (a) passenger pickup/dropoff, (b) refueling stop, (c) separate meeting/visit en route."
+  ],
+  "date_header": {
+    "original": "1994 JUL",
+    "notes": "Date header shows July 1994. Multiple aircraft types used on this page (N988JE and N908JE)."
+  }
+}

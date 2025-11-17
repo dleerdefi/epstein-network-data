@@ -1,0 +1,860 @@
+{
+  "page_number": 141,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:47.269292",
+  "chunk": "chunk_101-110",
+  "flights": [
+    {
+      "date": {
+        "original": "02/19/2005",
+        "parsed": "2005-02-19",
+        "display": "02/19/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1756",
+        "iidd": "1928",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Dubin",
+          "code": "ED",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Dubin",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Maya Dubin",
+          "code": "MD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cresencia Valdez",
+          "code": "CV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gary Roxburgh",
+          "code": "GR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0002"
+    },
+    {
+      "date": {
+        "original": "02/21/2005",
+        "parsed": "2005-02-21",
+        "display": "02/21/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-323",
+        "iidd": "4078",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0008"
+    },
+    {
+      "date": {
+        "original": "02/24/2005",
+        "parsed": "2005-02-24",
+        "display": "02/24/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "324",
+        "iidd": "1934",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Bill Hammond",
+          "code": "BH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0009"
+    },
+    {
+      "date": {
+        "original": "03/01/2005",
+        "parsed": "2005-03-01",
+        "display": "03/01/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "325",
+        "iidd": "1937",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Adriana Mucinska",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dana Burns",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Mullen",
+          "code": "DM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0012"
+    },
+    {
+      "date": {
+        "original": "03/05/2005",
+        "parsed": "2005-03-05",
+        "display": "03/05/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-326",
+        "iidd": "4079",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0019"
+    },
+    {
+      "date": {
+        "original": "03/08/2005",
+        "parsed": "2005-03-08",
+        "display": "03/08/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "SAN",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "SAN"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "San Diego, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1754",
+        "iidd": "1944",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Murphy",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0020"
+    },
+    {
+      "date": {
+        "original": "03/08/2005",
+        "parsed": "2005-03-08",
+        "display": "03/08/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-327",
+        "iidd": "4080",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0022"
+    },
+    {
+      "date": {
+        "original": "03/11/2005",
+        "parsed": "2005-03-11",
+        "display": "03/11/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "TNCM",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "TNCM"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Philipsburg, Netherlands Antilles",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-328",
+        "iidd": "4081",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0023"
+    },
+    {
+      "date": {
+        "original": "03/11/2005",
+        "parsed": "2005-03-11",
+        "display": "03/11/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TNCM",
+        "to": "TIST",
+        "from_codes": [
+          "TNCM"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Philipsburg, Netherlands Antilles",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-329",
+        "iidd": "4082",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0024"
+    },
+    {
+      "date": {
+        "original": "03/13/2005",
+        "parsed": "2005-03-13",
+        "display": "03/13/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAN",
+        "to": "MDW",
+        "from_codes": [
+          "SAN"
+        ],
+        "to_codes": [
+          "MDW"
+        ],
+        "from_full": "San Diego, CA, United States",
+        "to_full": "Chicago, IL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1760",
+        "iidd": "1946",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Murphy",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0025"
+    },
+    {
+      "date": {
+        "original": "03/14/2005",
+        "parsed": "2005-03-14",
+        "display": "03/14/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MDW",
+        "to": "TEB",
+        "from_codes": [
+          "MDW"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Chicago, IL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1761",
+        "iidd": "1948",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Murphy",
+          "code": "BM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0027"
+    },
+    {
+      "date": {
+        "original": "03/14/2005",
+        "parsed": "2005-03-14",
+        "display": "03/14/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "JFK",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-330",
+        "iidd": "4083",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0029"
+    },
+    {
+      "date": {
+        "original": "03/18/2005",
+        "parsed": "2005-03-18",
+        "display": "03/18/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-331",
+        "iidd": "4084",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0030"
+    },
+    {
+      "date": {
+        "original": "03/22/2005",
+        "parsed": "2005-03-22",
+        "display": "03/22/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-332",
+        "iidd": "4085",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0031"
+    },
+    {
+      "date": {
+        "original": "03/24/2005",
+        "parsed": "2005-03-24",
+        "display": "03/24/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "TIST",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "333",
+        "iidd": "1950",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dana Burns",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Mullen",
+          "code": "DM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Hammond",
+          "code": "BH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0032"
+    },
+    {
+      "date": {
+        "original": "03/29/2005",
+        "parsed": "2005-03-29",
+        "display": "03/29/2005",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "JFK",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "334",
+        "iidd": "1957",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Mullen",
+          "code": "DM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dana Burns",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Hammond",
+          "code": "BH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "101-110",
+      "v3_flight_id": "chunk_101-110_p003_r0039"
+    }
+  ]
+}

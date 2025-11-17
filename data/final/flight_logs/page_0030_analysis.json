@@ -1,0 +1,1083 @@
+{
+  "page_number": 30,
+  "document_type": "flight_log",
+  "extraction_version": "v2",
+  "extraction_date": "2025-10-13",
+  "source_image": "page-030.png",
+  "flights": [
+    {
+      "date": {
+        "original": "SEP 5",
+        "parsed": "09/05/1994",
+        "display": "1994-09-05",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "notes": "Same origin/destination - local training or test flight",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JOE WARNER",
+      "passengers": [
+        {
+          "name": "Joe Warner",
+          "code": "JW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "578"
+      }
+    },
+    {
+      "date": {
+        "original": "6",
+        "parsed": "09/06/1994",
+        "display": "1994-09-06",
+        "confidence": "high"
+      },
+      "remarks": "JE, FRANCES JARDINE",
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "notes": "Palm Beach to Teterboro",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "579"
+      }
+    },
+    {
+      "date": {
+        "original": "9",
+        "parsed": "09/09/1994",
+        "display": "1994-09-09",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "notes": "Teterboro to Columbus",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "John Glenn Columbus International Airport, Columbus, Ohio"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "580"
+      }
+    },
+    {
+      "date": {
+        "original": "10",
+        "parsed": "09/10/1994",
+        "display": "1994-10-09",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "notes": "Columbus to Palm Beach",
+        "from_expanded": "John Glenn Columbus International Airport, Columbus, Ohio",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "code_only",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "581"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "09/18/1994",
+        "display": "1994-18-09",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "notes": "Local flight at Palm Beach",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "TEST FLIGHT",
+      "passengers": [],
+      "flight_data": {
+        "flight_number": "583"
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "09/22/1994",
+        "display": "1994-09-22",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DCA",
+        "notes": "Teterboro to Washington DC",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Ronald Reagan Washington National Airport, Washington DC"
+      },
+      "remarks": "JE, GM, MANDY MILROY, 1 MALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "code_only",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Mandy Milroy",
+          "code": "MM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 MALE",
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "584"
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "09/22/1994",
+        "display": "1994-09-22",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "TEB",
+        "notes": "Return from Washington DC same day",
+        "from_expanded": "Ronald Reagan Washington National Airport, Washington DC",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, GM, MANDY MILROY, 1 MALE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "code_only",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Mandy Milroy",
+          "code": "MM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 MALE",
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "585"
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "09/22/1994",
+        "display": "1994-09-22",
+        "confidence": "high",
+        "notes": "Third flight on June 22 - very busy day"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "notes": "Teterboro to Palm Beach",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "JE, EVA ANDERSSON",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "586"
+      }
+    },
+    {
+      "date": {
+        "original": "26",
+        "parsed": "09/26/1994",
+        "display": "1994-09-26",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "DCA",
+        "notes": "Palm Beach to Washington DC",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Ronald Reagan Washington National Airport, Washington DC"
+      },
+      "remarks": "JE, EVA ANDERSSON, FRANCES JARDINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "587"
+      }
+    },
+    {
+      "date": {
+        "original": "26",
+        "parsed": "09/26/1994",
+        "display": "1994-09-26",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "TEB",
+        "notes": "Washington DC to Teterboro",
+        "from_expanded": "Ronald Reagan Washington National Airport, Washington DC",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, EVA ANDERSSON, FRANCES JARDINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "588"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "09/30/1994",
+        "display": "1994-09-30",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DEN",
+        "notes": "Teterboro to Denver",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Denver International Airport, Colorado"
+      },
+      "remarks": "JE, SOPHIE BIDDLE, FRANCES JARDINE, JOE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joe",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "589"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "09/30/1994",
+        "display": "1994-09-30",
+        "confidence": "high",
+        "notes": "Same day continuation to Santa Fe"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DEN",
+        "to": "SAF",
+        "notes": "Denver to Santa Fe (note: SAF not SAP as in v1)",
+        "from_expanded": "Denver International Airport, Colorado",
+        "to_expanded": "Santa Fe Municipal Airport, New Mexico"
+      },
+      "remarks": "JE, SOPHIE BIDDLE, FRANCES JARDINE, JOE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joe",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "590"
+      }
+    },
+    {
+      "date": {
+        "original": "JUL 12",
+        "parsed": "07/12/1994",
+        "display": "1994-07-12",
+        "confidence": "high",
+        "notes": "Date indicates simulator occured in JULY despite current month being SEPT"
+      },
+      "remarks": "RECURRING TRAINING HS125-ILG",
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high",
+        "notes": "Simulator training for HS125"
+      },
+      "route": {
+        "from": "SIMULATOR",
+        "to": null,
+        "notes": "Ground-based simulator training",
+        "from_expanded": "Flight simulator training"
+      },
+      "passengers": [],
+      "flight_data": {}
+    },
+    {
+      "date": {
+        "original": "JUL 15",
+        "parsed": "07/15/1994",
+        "display": "1994-07-15",
+        "confidence": "medium",
+        "notes": "Date indicates simulator occured in JULY despite current month being SEPT"
+      },
+      "remarks": "RECURRENT TRAINING G1159-SAV",
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SIMULATOR",
+        "to": null,
+        "notes": "Ground-based simulator training",
+        "from_expanded": "Flight simulator training"
+      },
+      "passengers": [],
+      "flight_data": {}
+    },
+    {
+      "date": {
+        "original": "OCT 1",
+        "parsed": "10/01/1994",
+        "display": "October 1994",
+        "confidence": "high",
+        "notes": "Month change to October"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "ASE",
+        "notes": "Santa Fe to Aspen - continuing from June 30 departure to Santa Fe",
+        "from_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "to_expanded": "Aspen-Pitkin County Airport, Colorado"
+      },
+      "remarks": "JE, SOPHIE BIDDLE, FRANCES JARDINE, JOE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joe",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "591"
+      }
+    },
+    {
+      "date": {
+        "original": "2",
+        "parsed": "10/02/1994",
+        "display": "1994-10-02",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "NEW",
+        "notes": "Palm Beach to NEW - airport code unclear",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "New Orleans Lakefront Airport, Louisiana (or possibly another NEW airport)"
+      },
+      "remarks": "SEAN LANCASTER, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Sean Lancaster",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "592"
+      }
+    },
+    {
+      "date": {
+        "original": "6",
+        "parsed": "10/06/1994",
+        "display": "1994-10-06",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "tail_number": "N988JE",
+        "make_model": "HS125-700",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "NEW",
+        "to": "PBI",
+        "notes": "Return from NEW to Palm Beach",
+        "from_expanded": "New Orleans Lakefront Airport, Louisiana (or possibly another NEW airport)",
+        "to_expanded": "Palm Beach International Airport, Florida"
+      },
+      "remarks": "SEAN LANCASTER, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Sean Lancaster",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "595",
+        "notes": "Missing flight numbers 593-594"
+      }
+    },
+    {
+      "date": {
+        "original": "10",
+        "parsed": "10/10/1994",
+        "display": "1994-10-10",
+        "confidence": "high",
+        "notes": "Flight numbers 594-595 missing from sequence"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "notes": "Palm Beach to Teterboro",
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey"
+      },
+      "remarks": "JE, EVA ANDERSSON, FRANCES JARDINE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Andersson",
+          "code": "EA",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Frances Jardine",
+          "code": "FJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "flight_data": {
+        "flight_number": "596"
+      }
+    },
+    {
+      "date": {
+        "original": "10",
+        "parsed": "10/10/1994",
+        "display": "October 10, 1994",
+        "confidence": "high",
+        "notes": "Same day continuation"
+      },
+      "aircraft": {
+        "tail_number": "N908JE",
+        "make_model": "G1159B",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAV",
+        "notes": "Teterboro to Savannah",
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Savannah/Hilton Head International Airport, Georgia"
+      },
+      "remarks": "TOO AMP TRU ASC 335",
+      "passengers": [],
+      "flight_data": {
+        "flight_number": "597"
+      }
+    }
+  ],
+  "page_totals": {
+    "visible_total_line": "3273",
+    "amount_forward": "15614",
+    "total_to_date": "18887",
+    "calculated_from_entries": 0,
+    "notes": "Page total shows 3273 miles for this page. Amount forward 15614 matches page 29's visible total. Total to date: 18887 miles. All individual flight mileages are blank, making verification impossible.",
+    "correction_visible": true,
+    "correction_notes": "Multiple corrections visible in totals section with overwritten numbers",
+    "validation_status": "cannot_validate_individual_mileages",
+    "reconciliation_status": {
+      "amount_forward_matches_prev_page": true,
+      "prev_page_total": 15614,
+      "this_page_amount_forward": 15614,
+      "note": "Amount forward 15614 matches page 29 total perfectly"
+    }
+  },
+  "pilot_signature": {
+    "name": "David Rodgers",
+    "confidence": "high",
+    "notes": "Signature at bottom of page reads 'David Rodgers' (or similar spelling)"
+  },
+  "page_metadata": {
+    "total_flights": 19,
+    "date_range": {
+      "start": "1994-09-05",
+      "end": "1994-10-10",
+      "span_days": 36
+    },
+    "aircraft_used": [
+      {
+        "type": "HS125-700",
+        "tail": "N988JE",
+        "flights": 5,
+        "notes": "Used for local flights and Sean Lancaster trips"
+      },
+      {
+        "type": "G1159B",
+        "tail": "N908JE",
+        "flights": 11,
+        "notes": "Primary aircraft for long-distance flights"
+      },
+      {
+        "type": "SIMULATOR",
+        "tail": "Various",
+        "flights": 2,
+        "notes": "Two recurrent training sessions in July"
+      }
+    ],
+    "airports_visited": [
+      "PBI (Palm Beach, FL) - 9 flights",
+      "TEB (Teterboro, NJ) - 8 flights",
+      "DCA (Washington DC) - 4 flights",
+      "CMH (Columbus, OH) - 2 flights",
+      "DEN (Denver, CO) - 2 flights",
+      "SAF (Santa Fe, NM) - 2 flights",
+      "ASE (Aspen, CO) - 1 flight",
+      "SAV (Savannah, GA) - 1 flight",
+      "NEW (unclear location) - 2 flights"
+    ],
+    "notable_passengers": [
+      {
+        "name": "Jeffrey Epstein (JE)",
+        "appearances": 13,
+        "flight_numbers": "579-581, 584-591, 596",
+        "notes": "Primary passenger throughout page"
+      },
+      {
+        "name": "Frances Jardine",
+        "appearances": 7,
+        "flight_numbers": "579, 587-591, 596",
+        "notes": "Most frequent travel companion - appears throughout May-October. 3-month stay in Santa Fe."
+      },
+      {
+        "name": "Eva Andersson",
+        "appearances": 4,
+        "flight_numbers": "586-588, 596",
+        "notes": "Swedish spelling with double-s. Multiple appearances in June and October."
+      },
+      {
+        "name": "Sophie Biddle",
+        "appearances": 3,
+        "flight_numbers": "589-591",
+        "notes": "3-month stay in Santa Fe (June 30-Oct)"
+      },
+      {
+        "name": "Sean Lancaster",
+        "appearances": 2,
+        "flight_numbers": "592-593",
+        "notes": "Round trip to NEW in October"
+      }
+    ],
+    "recurring_passengers": [
+      "GM (4 appearances)",
+      "Mandy Mercy (2 appearances - June 22)",
+      "WRNCE (1 appearance - cryptic code)"
+    ],
+    "cryptic_notations": [
+      {
+        "notation": "WRNCE",
+        "appearances": 1,
+        "flight_numbers": "578",
+        "notes": "May 30 - unclear meaning, possibly name or code"
+      },
+      {
+        "notation": "IKE",
+        "appearances": 1,
+        "flight_numbers": "589",
+        "notes": "June 30 - could be person name or code"
+      },
+      {
+        "notation": "JIM WOLDEN",
+        "appearances": 2,
+        "flight_numbers": "592-593",
+        "notes": "October 2-4 - new pattern, possibly person name or code"
+      },
+      {
+        "notation": "GO AT P TRU A SC 335",
+        "appearances": 1,
+        "flight_numbers": "597",
+        "notes": "October 10 - HIGHLY CRYPTIC. Possible interpretations: (a) aircraft registration fragment, (b) coded message, (c) navigation reference, (d) passenger code. 'SC 335' could be South Carolina reference or flight path."
+      }
+    ],
+    "special_dates": [
+      {
+        "date": "06/22/1994",
+        "note": "THREE flights in one day - TEB\u2192DCA\u2192TEB\u2192PBI shuttle pattern"
+      },
+      {
+        "date": "07/12-15/1994",
+        "note": "Multi-day simulator recurrent training for HS125 at ILG (Delaware)"
+      },
+      {
+        "date": "07/??/1994",
+        "note": "Gulfstream simulator recurrent training at SAV (Savannah)"
+      },
+      {
+        "date": "06/30-10/??/1994",
+        "note": "CRITICAL: 3-month stay in Santa Fe, New Mexico (Sophie Biddle, Frances Jardine with JE)"
+      }
+    ],
+    "missing_data": [
+      "All individual flight mileages are blank",
+      "Flight number 582 missing from sequence",
+      "Flight numbers 594-595 missing from sequence",
+      "Large date gaps: July-September minimal activity except simulator training",
+      "Specific dates missing for simulator training entries"
+    ]
+  },
+  "validation": {
+    "date_progression": {
+      "status": "valid_with_large_gaps",
+      "notes": "CRITICAL GAPS: May 30\u2192June 6 (7 days), June 10\u219218 (8 days), June 30\u2192October (3 MONTHS). July-September shows only simulator training. Suggests: (a) aircraft out of service for maintenance, (b) pilot vacation/training, (c) alternative aircraft used not logged here, (d) 3-month Santa Fe stay."
+    },
+    "flight_number_sequence": {
+      "status": "has_gaps",
+      "range": "578-597",
+      "missing": "582, 594-595",
+      "total_flights": 18,
+      "notes": "Three flight numbers missing from sequence. Simulator training has no flight numbers (expected)."
+    },
+    "mileage_validation": {
+      "status": "cannot_validate",
+      "notes": "ALL individual flight mileage fields are blank. Only page totals visible. Impossible to validate individual route distances."
+    },
+    "page_total_validation": {
+      "status": "plausible",
+      "recorded_total": 3273,
+      "calculated_total": "Cannot calculate - no individual mileages",
+      "amount_forward": 15614,
+      "notes": "Page total 3273 miles seems plausible for ~15 long-distance flights. Amount forward 15614 matches page 29's ending total perfectly."
+    },
+    "passenger_consistency": {
+      "status": "consistent",
+      "notes": "Passenger names consistent across multi-day journeys. Frances Jardine and Sophie Biddle stay together for 3-month Santa Fe trip."
+    },
+    "aircraft_consistency": {
+      "status": "valid",
+      "notes": "Both aircraft alternate appropriately - Gulfstream for long distances, HS125 for shorter trips and local flights."
+    }
+  },
+  "entities": {
+    "people": [
+      {
+        "name": "Jeffrey Epstein",
+        "codes": [
+          "JE"
+        ],
+        "confidence": "high",
+        "appearances": 13,
+        "notes": "Primary passenger throughout page"
+      },
+      {
+        "name": "Frances Jardine",
+        "confidence": "high",
+        "appearances": 7,
+        "notes": "Most frequent companion - 3-month Santa Fe stay. Full name consistently spelled 'JARDINE'"
+      },
+      {
+        "name": "Eva Andersson",
+        "confidence": "high",
+        "appearances": 4,
+        "notes": "Swedish spelling with double-s (Andersson not Anderson)"
+      },
+      {
+        "name": "Sophie Biddle",
+        "confidence": "high",
+        "appearances": 3,
+        "notes": "3-month Santa Fe stay with Frances Jardine"
+      },
+      {
+        "name": "Sean Lancaster",
+        "confidence": "high",
+        "appearances": 2,
+        "notes": "Round trip to NEW location"
+      },
+      {
+        "name": "Mandy Mercy",
+        "confidence": "medium",
+        "appearances": 2,
+        "notes": "June 22 DC shuttle flights"
+      },
+      {
+        "name": "GM",
+        "codes": [
+          "GM"
+        ],
+        "confidence": "high",
+        "appearances": 4,
+        "notes": "Recurring coded passenger"
+      },
+      {
+        "name": "David Rodgers",
+        "confidence": "high",
+        "role": "Pilot",
+        "appearances": 1,
+        "notes": "Pilot signature at bottom of page"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "FlightSafety International",
+        "confidence": "high",
+        "notes": "Recurrent training locations: ILG (Delaware) and SAV (Savannah) are FlightSafety training facilities"
+      }
+    ],
+    "locations": [
+      "Palm Beach, Florida (PBI) - primary base",
+      "Teterboro, New Jersey (TEB) - secondary base",
+      "Washington DC (DCA) - frequent destination",
+      "Santa Fe, New Mexico (SAF) - 3-month extended stay",
+      "Aspen, Colorado (ASE) - mountain resort",
+      "Denver, Colorado (DEN) - connecting hub",
+      "Columbus, Ohio (CMH) - connecting hub",
+      "Savannah, Georgia (SAV) - training facility and destination",
+      "New Castle County, Delaware (ILG) - training facility",
+      "NEW (unclear location - possibly New Orleans)"
+    ]
+  },
+  "cross_references": {
+    "previous_pages": [
+      "Page 29: Ended July 19, 1994 - this page starts May 30 (OUT OF SEQUENCE - going backwards in time)",
+      "Page 29: Last saw Sophie Biddle on July 6 - reappears here June 30",
+      "Page 29: Sean Lancaster mentioned - reappears here Oct 2-4"
+    ],
+    "related_entries": [
+      "Aircraft N988JE: Continues use from previous pages",
+      "Aircraft N908JE: Continues as primary long-distance aircraft",
+      "Frances Jardine: New frequent flyer - appears 7 times",
+      "Eva Andersson: New passenger - Swedish connection",
+      "3-month Santa Fe stay: Unprecedented length of stay in one location"
+    ]
+  },
+  "insights": [
+    "1. CRITICAL CHRONOLOGY ISSUE: This page shows May-October 1994, but previous page 29 showed July 1994. This means pages are OUT OF CHRONOLOGICAL ORDER. Page 30 actually covers an EARLIER and LATER time period than page 29, suggesting: (a) logs compiled retroactively, (b) pages inserted out of sequence, (c) multiple aircraft logs merged.",
+    "2. THREE-MONTH SANTA FE STAY: Sophie Biddle and Frances Jardine fly to Santa Fe on June 30 with JE and don't leave until October. This is the LONGEST continuous stay documented in any location (90+ days). Suggests: (a) summer residence, (b) extended vacation, (c) property ownership, (d) business operations.",
+    "3. JULY-SEPTEMBER ACTIVITY GAP: Only simulator training visible for July-September. This 3-month period shows NO passenger flights, only: (a) July 12-15: HS125 training at ILG Delaware, (b) July: Gulfstream training at SAV Savannah. Suggests extended maintenance, pilot training, or use of alternate aircraft.",
+    "4. BLANK MILEAGE PATTERN: Unlike previous pages, ALL individual flight mileages are blank on this page. Only totals provided. This suggests: (a) different logging practice, (b) incomplete record-keeping, (c) data withheld intentionally, (d) page copied from summary document rather than primary log.",
+    "5. FRANCES JARDINE PROMINENCE: Frances Jardine appears 7 times (most frequent named passenger besides JE). Previously unseen on earlier pages. This suggests: (a) new relationship beginning mid-1994, (b) business associate, (c) regular travel companion for summer 1994 period.",
+    "6. EVA ANDERSSON SWEDISH CONNECTION: Swedish spelling (Andersson with double-s) suggests Scandinavian connection. Appears 4 times in June-October. Could indicate: (a) European business interests, (b) international social connections, (c) modeling/entertainment industry (Sweden common source).",
+    "7. JUNE 22 TRIPLE FLIGHT DAY: Three flights in one day following pattern TEB\u2192DCA\u2192TEB\u2192PBI. This Washington DC shuttle + relocation pattern suggests: (a) urgent business meeting, (b) passenger dropoff/pickup, (c) schedule coordination between multiple parties.",
+    "8. SIMULATOR TRAINING PATTERN: TWO recurrent training sessions in July (HS125 and Gulfstream) at different facilities (ILG Delaware, SAV Savannah). This suggests: (a) annual recurrent training requirements, (b) type rating maintenance, (c) insurance requirements, (d) new pilot certification.",
+    "9. MISSING FLIGHT NUMBERS: Three flight numbers missing (582, 594-595). Pattern shows: 578-581 (present), 582 (missing), 583-593 (present), 594-595 (missing), 596-597 (present). Missing flights could be: (a) cancelled, (b) logged elsewhere, (c) intentionally omitted, (d) different aircraft.",
+    "10. NEW AIRPORT CODE AMBIGUITY: Flights 592-593 show destination 'NEW' - unclear airport. Possibilities: (a) NEW = New Orleans Lakefront (KNEW), (b) NEW = Lakefront Airport Louisiana, (c) Abbreviation for different airport, (d) Data entry error. Geographic analysis suggests Louisiana/Gulf Coast location.",
+    "11. CRYPTIC NOTATION EVOLUTION: Four different cryptic patterns on this page: (a) WRNCE (May 30), (b) IKE (June 30), (c) JIM WOLDEN (Oct 2-4), (d) 'GO AT P TRU A SC 335' (Oct 10). This replaces previous AL GATTO pattern from page 29. Suggests: operational phases, different crew, or coded references.",
+    "12. 'GO AT P TRU A SC 335' MYSTERY: Most cryptic notation yet. Possible interpretations: (a) Aircraft tail fragment, (b) Navigation fix/waypoint, (c) Passenger/crew code, (d) 'SC 335' could reference South Carolina, (e) Could be instruction or reminder, (f) Possibly phone number or reference code.",
+    "13. TETERBORO/PALM BEACH DUAL BASE PATTERN: TEB appears 8 times, PBI appears 9 times. This confirms dual-base operation: (a) TEB serves NYC area, (b) PBI serves Florida residence, (c) Seasonal rotation pattern, (d) Business vs. vacation destinations.",
+    "14. WASHINGTON DC FREQUENCY: DCA appears 4 times in June 1994. Concentrated DC travel suggests: (a) Political connections, (b) Business interests in capital area, (c) Lobbying activities, (d) Government meetings, (e) High-level contacts requiring face-to-face meetings.",
+    "15. DENVER AS NEW HUB: DEN (Denver) appears for first time as connecting point to Santa Fe on June 30. Previous pages used other routes to Southwest. Suggests: (a) Route optimization, (b) Passenger connection point, (c) Better fuel efficiency, (d) Alternative to direct routing.",
+    "16. AIRCRAFT ROLE SPECIALIZATION: Clear pattern emerges - N908JE (Gulfstream) handles ALL long-distance flights (1000+ miles), N988JE (HS125) handles shorter trips and local flights. This suggests: (a) Cost optimization, (b) Range limitations of HS125, (c) Passenger comfort for long flights, (d) Operational efficiency.",
+    "17. PASSENGER ANONYMITY PATTERN: Flight 597 shows no named passengers (only cryptic notation). Flight 583 shows 'TEST FLIGHT' with no passengers. Increasing anonymity in remarks field compared to earlier detailed passenger lists. Suggests: (a) Privacy concerns, (b) Different logging standards, (c) Sensitive flights.",
+    "18. MANDY MERCY ONE-DAY APPEARANCE: Mandy Mercy appears only on June 22 for DC shuttle (2 flights) with '1 MALE'. Then never seen again. Single-purpose trip suggests: (a) Specific meeting/event, (b) Transportation service, (c) Introduction/connection facilitation.",
+    "19. ASPEN SINGLE APPEARANCE: Aspen (ASE) appears only once (October flight 591 from Santa Fe). This contrasts with page 29 showing multiple Aspen visits in July. Suggests: (a) Aspen primarily summer/ski season destination, (b) Different aircraft/logs for Aspen trips, (c) October trip was departure from 3-month Southwest stay.",
+    "20. PILOT SIGNATURE CHANGE: Page signed by 'David Rodgers' (different from previous pages' pilots). This indicates: (a) Multiple pilots operating aircraft, (b) Chief pilot signing off on records, (c) Pilot rotation schedule, (d) Different aircraft may have different regular pilots."
+  ],
+  "date_header": {
+    "original": "1994",
+    "notes": "Page shows continuation from previous page through October 1994. Date field shows '1994' without specific month. Multiple month transitions visible."
+  }
+}

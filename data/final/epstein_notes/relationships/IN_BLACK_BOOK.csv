@@ -1,0 +1,67 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_136,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_011,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_circled_003,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_circled_004,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_002,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_circled_006,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_circled_007,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_061,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_076,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_028,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_circled_011,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_003,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_circled_013,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_circled_015,person_001,IN_BLACK_BOOK,true,,0.9,Circled in black book by Alfredo Rodriguez,Factual
+person_blackbook_001,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_021,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_003,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_004,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_005,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_006,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_007,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_008,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_009,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_010,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_011,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_012,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_013,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_014,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_015,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_016,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_017,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_018,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_019,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_020,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_021,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_022,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_023,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_ref_58643,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_025,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_026,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_027,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_028,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_029,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_030,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_031,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_032,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_033,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_034,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_035,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_036,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_037,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_038,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_039,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_040,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_041,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_042,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_043,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_044,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_109,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_046,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_047,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_134,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_049,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_050,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_051,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual
+person_blackbook_052,person_001,IN_BLACK_BOOK,false,,0.8,Listed in Epstein's black book,Factual

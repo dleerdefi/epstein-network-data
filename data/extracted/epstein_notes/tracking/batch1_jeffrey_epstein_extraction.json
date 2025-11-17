@@ -1,0 +1,1134 @@
+{
+  "profile_name": "Jeffrey Edward Epstein",
+  "source_lines": "4-8",
+  "extraction_date": "2025-11-14",
+  "primary_person": {
+    "entity_id": "person_001",
+    "name": "Jeffrey Edward Epstein",
+    "aliases": [
+      "JE",
+      "Epstein",
+      "Jeffrey Epstein"
+    ],
+    "birth_year": 1953,
+    "death_year": 2019,
+    "nationality": "American",
+    "occupations": [
+      "financier",
+      "teacher",
+      "money manager",
+      "convicted sex offender"
+    ],
+    "summary": "Financier and convicted sex offender. Member of Trilateral Commission and CFR. Taught at Dalton School 1974-1975, worked at Bear Stearns 1976-1981, founded International Assets Group 1982. Convicted of sex trafficking crimes, served sentence 2008-2010. Died in federal custody 2019."
+  },
+  "family_members": [
+    {
+      "entity_id": "person_002",
+      "name": "Mark Epstein",
+      "relationship": "brother",
+      "relationship_to": "person_001",
+      "confidence": 0.975,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "9",
+        "8",
+        "47",
+        "48",
+        "51",
+        "65",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_003",
+      "name": "Paula Epstein",
+      "relationship": "mother",
+      "relationship_to": "person_001",
+      "confidence": 0.767,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "16"
+      ]
+    }
+  ],
+  "associates": [
+    {
+      "entity_id": "person_004",
+      "name": "Alan Greenberg",
+      "aliases": [
+        "ALAN 'ACE' GREENBERG",
+        "Ace Greenberg"
+      ],
+      "occupations": [
+        "CEO of Bear Stearns"
+      ],
+      "relationship": "employer/mentor",
+      "relationship_context": "Greenberg brought Epstein on as money manager at Bear Stearns in 1976",
+      "relationship_start": "1976",
+      "confidence": 0.95,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "entity_id": "person_005",
+      "name": "Leslie Wexner",
+      "aliases": [
+        "LES WEXNER",
+        "Les Wexner"
+      ],
+      "relationship": "client/patron",
+      "relationship_context": "Epstein became Wexner's money manager, met at Bear Stearns. In 1991 Wexner made Epstein trustee of Ohio Higher Education Trust ($230M)",
+      "relationship_start": "1976-1981",
+      "relationship_significance": "primary client",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "8"
+      ]
+    },
+    {
+      "entity_id": "person_006",
+      "name": "Michael Stroll",
+      "aliases": [
+        "MICHAEL STROLL"
+      ],
+      "occupations": [
+        "former head of Williams Electronics Inc."
+      ],
+      "relationship": "business dispute",
+      "relationship_context": "Filed lawsuit against Epstein in 1982 over $450,000 investment that was not repaid",
+      "relationship_start": "1982",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_007",
+      "name": "Steven Hoffenberg",
+      "aliases": [
+        "STEVEN HOFFENBERG"
+      ],
+      "relationship": "business partner",
+      "relationship_context": "Met in London early 80s, partnered in 1987. Epstein worked on bids for Pan Am (1987) and Emery Air Freight (1988)",
+      "relationship_start": "1980s",
+      "relationship_formalized": "1987",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "47",
+        "48",
+        "53"
+      ]
+    },
+    {
+      "entity_id": "person_008",
+      "name": "Robert Massey",
+      "aliases": [
+        "ROBERT MASSEY"
+      ],
+      "occupations": [
+        "Office of Foreign Missions official"
+      ],
+      "relationship": "government official involved in property dispute",
+      "relationship_context": "OFM official allegedly gave Epstein permission to sublet seized Iranian property",
+      "relationship_start": "1992",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_009",
+      "name": "Xenophon A. Galinas",
+      "aliases": [
+        "XENOPHON A. GALINAS"
+      ],
+      "relationship": "legal adversary",
+      "relationship_context": "Involved in court case regarding illegal subletting of E 69th St property",
+      "relationship_start": "1996",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_010",
+      "name": "Ivan S. Fisher",
+      "aliases": [
+        "IVAN S. FISHER"
+      ],
+      "relationship": "tenant/co-defendant",
+      "relationship_context": "Epstein subleased E 69th St home to Fisher at $5k/month profit, both sued by feds",
+      "relationship_start": "1996",
+      "confidence": 0.5,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim"
+    },
+    {
+      "entity_id": "person_011",
+      "name": "Bruce King",
+      "aliases": [
+        "BRUCE KING"
+      ],
+      "relationship": "property seller",
+      "relationship_context": "Sold Zorro Ranch in New Mexico to Epstein in 1993",
+      "relationship_start": "1993",
+      "confidence": 0.925,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "19",
+        "17"
+      ]
+    },
+    {
+      "entity_id": "person_012",
+      "name": "Bill Clinton",
+      "aliases": [
+        "Clinton",
+        "BILL CLINTON"
+      ],
+      "occupations": [
+        "US President 1993-2001"
+      ],
+      "relationship": "political associate",
+      "relationship_context": "Met as early as 1995 at Palm Beach fundraising dinner. Became close friends after Clinton left office and moved to NYC",
+      "relationship_start": "1995",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "65"
+      ]
+    },
+    {
+      "entity_id": "person_013",
+      "name": "Prince Andrew",
+      "aliases": [
+        "PRINCE ANDREW"
+      ],
+      "occupations": [
+        "British Royal"
+      ],
+      "relationship": "associate/alleged co-conspirator",
+      "relationship_context": "Traveled together to Thailand in 2001",
+      "relationship_start": "2001",
+      "confidence": 0.2,
+      "verification_status": "Speculative",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "66",
+        "67"
+      ]
+    },
+    {
+      "entity_id": "person_014",
+      "name": "Donald Trump",
+      "aliases": [
+        "DONALD TRUMP"
+      ],
+      "relationship": "business rival",
+      "relationship_context": "Outbid Epstein for residential estate at 513 N. Country Road in Palm Beach in 2004",
+      "relationship_start": "2004",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "68"
+      ]
+    },
+    {
+      "entity_id": "person_015",
+      "name": "Bradley J. Edwards",
+      "aliases": [
+        "BRADLEY J. EDWARDS",
+        "Brad Edwards"
+      ],
+      "occupations": [
+        "attorney"
+      ],
+      "relationship": "legal adversary (victims' attorney)",
+      "relationship_context": "Filed civil suit on behalf of Jane Doe in Aug 2008 with RICO count. Epstein sued Edwards in return",
+      "relationship_start": "2008",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "63",
+        "41",
+        "61",
+        "43",
+        "44"
+      ]
+    },
+    {
+      "entity_id": "person_016",
+      "name": "Scott Rothstein",
+      "aliases": [
+        "SCOTT ROTHSTEIN"
+      ],
+      "occupations": [
+        "attorney"
+      ],
+      "relationship": "legal adversary",
+      "relationship_context": "Co-defendant in lawsuit Epstein filed against Edwards and Rothstein in 2009/2010",
+      "relationship_start": "2009",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_017",
+      "name": "Dianya Nida",
+      "aliases": [
+        "Jane Doe II"
+      ],
+      "relationship": "victim",
+      "relationship_context": "Epstein deposed May 7 2009 for case Dianya Nida v. Epstein and Kellen",
+      "relationship_start": "unknown",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "organizations": [
+    {
+      "entity_id": "org_001",
+      "name": "Trilateral Commission",
+      "org_type": "foreign policy organization",
+      "relationship": "member",
+      "relationship_start": "unknown",
+      "confidence": 0.65,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "2"
+      ]
+    },
+    {
+      "entity_id": "org_002",
+      "name": "Council on Foreign Relations",
+      "aliases": [
+        "CFR"
+      ],
+      "org_type": "foreign policy organization",
+      "relationship": "member",
+      "relationship_verified": "2002 and 2004 annual reports",
+      "confidence": 0.64,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "2"
+      ]
+    },
+    {
+      "entity_id": "org_003",
+      "name": "Lafayette High School",
+      "org_type": "educational institution",
+      "location": "Brooklyn",
+      "relationship": "graduated 1969",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "2"
+      ]
+    },
+    {
+      "entity_id": "org_004",
+      "name": "Cooper Union",
+      "org_type": "university",
+      "relationship": "attended 1969-1971 (2 years physics, no degree)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_005",
+      "name": "Dalton School",
+      "org_type": "private school",
+      "location": "Manhattan",
+      "relationship": "teacher 1974-1975 (taught physics and mathematics)",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "7",
+        "6",
+        "5"
+      ]
+    },
+    {
+      "entity_id": "org_006",
+      "name": "New York University",
+      "aliases": [
+        "N.Y.U."
+      ],
+      "org_type": "university",
+      "relationship": "taught (dates unclear, possibly while at Dalton)",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "7",
+        "6",
+        "5"
+      ]
+    },
+    {
+      "entity_id": "org_007",
+      "name": "Bear Stearns",
+      "aliases": [
+        "BS"
+      ],
+      "org_type": "investment bank",
+      "relationship": "employee 1976-1981 (money manager)",
+      "relationship_end_context": "left under mysterious circumstances, insider trading issue during Seagrams/St. Joe Mineral merger talks",
+      "confidence": 0.64,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "2"
+      ]
+    },
+    {
+      "entity_id": "org_008",
+      "name": "International Assets Group Inc.",
+      "aliases": [
+        "I.A.G."
+      ],
+      "org_type": "financial firm",
+      "founded_year": 1982,
+      "relationship": "founder/owner",
+      "location": "East 66th St apartment",
+      "description": "Founded by Epstein after leaving Bear Stearns",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "20",
+        "2"
+      ]
+    },
+    {
+      "entity_id": "org_009",
+      "name": "Williams Electronics Inc.",
+      "org_type": "company",
+      "relationship": "business dispute (via Michael Stroll lawsuit)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_010",
+      "name": "Pan American World Airways",
+      "org_type": "airline",
+      "relationship": "attempted takeover 1987 (via Hoffenberg)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_011",
+      "name": "Emery Air Freight Corp.",
+      "org_type": "freight company",
+      "relationship": "attempted takeover 1988 (via Hoffenberg)",
+      "confidence": 0.975,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "org_012",
+      "name": "Ohio Higher Education Trust",
+      "org_type": "philanthropic fund",
+      "description": "$230 million fund",
+      "relationship": "trustee (appointed by Wexner in 1991)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_013",
+      "name": "Wexner Foundation",
+      "org_type": "charitable foundation",
+      "relationship": "trustee",
+      "description": "Supports Jewish causes in Israel and North America",
+      "confidence": 0.9,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "16"
+      ]
+    },
+    {
+      "entity_id": "org_014",
+      "name": "Wexner Heritage Foundation",
+      "org_type": "charitable foundation",
+      "relationship": "trustee",
+      "description": "Supports Jewish causes in Israel and North America",
+      "confidence": 0.9,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "17"
+      ]
+    },
+    {
+      "entity_id": "org_015",
+      "name": "Office of Foreign Missions",
+      "aliases": [
+        "OFM"
+      ],
+      "org_type": "US government agency",
+      "relationship": "property landlord 1992-1996",
+      "confidence": 0.95,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "19"
+      ]
+    },
+    {
+      "entity_id": "org_016",
+      "name": "Zorro Development Corp.",
+      "org_type": "real estate company",
+      "relationship": "owner/controller",
+      "description": "Used to purchase Zorro Ranch in 1993",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "20",
+        "2"
+      ]
+    },
+    {
+      "entity_id": "org_017",
+      "name": "Rockefeller University",
+      "org_type": "research university",
+      "relationship": "board member (joined 1995)",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "21",
+        "23",
+        "24"
+      ]
+    },
+    {
+      "entity_id": "org_018",
+      "name": "Harvard University",
+      "org_type": "university",
+      "relationship": "donor ($30 million in 2003 for science research)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_019",
+      "name": "Radar.com",
+      "org_type": "media company",
+      "relationship": "financier (financed relaunch in 2004)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_020",
+      "name": "Financial Trust Co of St. Thomas, VI",
+      "org_type": "financial services company",
+      "location": "St. Thomas, Virgin Islands",
+      "relationship": "owner/operator (d/b/a)",
+      "description": "Sued Citibank in 2004",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "29"
+      ]
+    },
+    {
+      "entity_id": "org_021",
+      "name": "Citibank",
+      "org_type": "bank",
+      "relationship": "business dispute (sued by Epstein's Financial Trust Co in 2004)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_022",
+      "name": "Palm Beach Police",
+      "org_type": "law enforcement",
+      "relationship": "investigating agency (started March 2005)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_023",
+      "name": "FBI",
+      "org_type": "federal law enforcement",
+      "relationship": "investigating agency (alerted by PB Police in 2006)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_024",
+      "name": "Herman and Mermelstein",
+      "org_type": "law firm",
+      "relationship": "opposing counsel (filed first civil action April 14 2008)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_025",
+      "name": "Palm Beach County Stockade",
+      "org_type": "jail facility",
+      "relationship": "served sentence July 2008-July 2010 (13 months of 18-month sentence)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_026",
+      "name": "Zorro Trust",
+      "org_type": "trust/company",
+      "relationship": "owner/beneficiary",
+      "description": "Won $29 million in Oklahoma state lottery in 2008",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "27",
+        "26",
+        "28"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "entity_id": "location_001",
+      "name": "Brooklyn",
+      "location_type": "city",
+      "state": "New York",
+      "country": "USA",
+      "relationship": "birthplace"
+    },
+    {
+      "entity_id": "location_002",
+      "name": "East 66th Street apartment",
+      "location_type": "residence",
+      "address": "East 66th St",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "description": "Location of I.A.G. office in 1982"
+    },
+    {
+      "entity_id": "location_003",
+      "name": "34 East 69th Street",
+      "location_type": "residence",
+      "address": "34 East 69th Street",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "description": "Iranian-seized property rented from OFM 1992-1996, illegally sublet for profit"
+    },
+    {
+      "entity_id": "location_004",
+      "name": "Zorro Ranch",
+      "location_type": "property",
+      "address": "49 Zorro Ranch Road, Stanley",
+      "city": "Stanley",
+      "state": "New Mexico",
+      "country": "USA",
+      "description": "Purchased from Bruce King in 1993 via Zorro Development Corp"
+    },
+    {
+      "entity_id": "location_005",
+      "name": "Little St. James",
+      "location_type": "island/property",
+      "country": "US Virgin Islands",
+      "description": "Private island purchased 1998-1999"
+    },
+    {
+      "entity_id": "location_006",
+      "name": "301 E 66th St",
+      "location_type": "residence",
+      "address": "301 E 66th St",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "description": "NYC residence"
+    },
+    {
+      "entity_id": "location_007",
+      "name": "9 East 71st Street",
+      "location_type": "residence",
+      "address": "9 East 71st Street",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "description": "NYC residence"
+    },
+    {
+      "entity_id": "location_008",
+      "name": "358 El Brillo Way",
+      "location_type": "residence",
+      "address": "358 El Brillo Way",
+      "city": "Palm Beach",
+      "state": "Florida",
+      "country": "USA",
+      "description": "Palm Beach home (purchased 1990)"
+    },
+    {
+      "entity_id": "location_009",
+      "name": "22 Avenue Foch",
+      "location_type": "residence",
+      "address": "22 Avenue Foch",
+      "city": "Paris",
+      "country": "France",
+      "description": "Paris residence"
+    },
+    {
+      "entity_id": "location_010",
+      "name": "457 Madison Ave 4th Floor",
+      "location_type": "business address",
+      "address": "457 Madison Ave 4th Floor 10027",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "description": "Business address"
+    },
+    {
+      "entity_id": "location_011",
+      "name": "6100 Red Hook Quarter B3",
+      "location_type": "business address",
+      "address": "6100 Red Hook Quarter B3",
+      "city": "St. Thomas",
+      "country": "US Virgin Islands",
+      "description": "Business address"
+    },
+    {
+      "entity_id": "location_012",
+      "name": "14 Wall Street",
+      "location_type": "business address",
+      "address": "14 Wall Street",
+      "city": "New York",
+      "state": "New York",
+      "country": "USA",
+      "description": "Business address"
+    },
+    {
+      "entity_id": "location_013",
+      "name": "8000 Walton Parkway",
+      "location_type": "business address",
+      "address": "8000 Walton Parkway",
+      "city": "New Albany",
+      "state": "Ohio",
+      "country": "USA",
+      "description": "Business address"
+    }
+  ],
+  "legal_cases": [
+    {
+      "entity_id": "legal_001",
+      "case_name": "Michael R. Stroll v. Jeffrey Epstein",
+      "filed_date": "1982",
+      "description": "$450,000 investment dispute. Stroll lost the suit. Epstein claimed money was for a horse.",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_002",
+      "case_name": "US v. Jeffrey E. Epstein, Ivan S. Fisher, et al",
+      "filed_date": "1996",
+      "court": "US District Court",
+      "description": "Federal lawsuit over illegal subletting of 34 E 69th St Iranian-seized property",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_003",
+      "case_name": "Zorro Trust vs The County of Santa Fe",
+      "filed_date": "2001-01-05",
+      "court": "civil court",
+      "description": "Claim to lower property tax on New Mexico property",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_004",
+      "case_name": "Financial Trust Company, Inc. and Jeffrey E. Epstein v. Citibank, N.A. et al",
+      "filed_date": "2004",
+      "description": "Epstein d/b/a Financial Trust Co sues Citibank",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_005",
+      "case_name": "Palm Beach Police Investigation",
+      "filed_date": "2005-03",
+      "description": "Investigation started based on upset parent's call. Search warrant executed October 2005.",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_006",
+      "case_name": "Non-Prosecution Agreement (NPA)",
+      "filed_date": "2007",
+      "description": "Spring 2007 negotiated. Grants Epstein immunity from federal prosecution and immunity to all co-conspirators in exchange for allowing victims to seek damages.",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_007",
+      "case_name": "Herman and Mermelstein civil action",
+      "filed_date": "2008-04-14",
+      "description": "First civil action filed on behalf of seven clients who were molested by Epstein",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_008",
+      "case_name": "Epstein criminal conviction",
+      "filed_date": "2008",
+      "description": "Guilty plea for 'procuring a minor for prostitution' and 'soliciting prostitution'. Sentenced to 18 months, served 13 months July 2008-July 2010.",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_009",
+      "case_name": "Jane Doe RICO suit",
+      "filed_date": "2008-08-12",
+      "description": "Bradley J. Edwards files civil suit including RICO count alleging criminal conspiracy to procure young girls",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_010",
+      "case_name": "Dianya Nida (Jane Doe II) v. Epstein and Kellen",
+      "filed_date": "2009",
+      "description": "Epstein deposed May 7 2009",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_011",
+      "case_name": "B.B. v. Epstein",
+      "filed_date": "2009",
+      "description": "Epstein deposed October 8 2009",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "legal_012",
+      "case_name": "Jeffrey Epstein v. Bradley J. Edwards and Scott Rothstein",
+      "filed_date": "2009-2010",
+      "description": "Epstein sues his accusers' attorneys. Epstein deposed March 8-9 2010 and April 14 2010",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    }
+  ],
+  "events": [
+    {
+      "entity_id": "event_001",
+      "name": "Born in Brooklyn",
+      "event_date": "1953",
+      "location": "location_001",
+      "description": "Jeffrey Edward Epstein born",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_002",
+      "name": "Graduated Lafayette High School",
+      "event_date": "1969",
+      "location": "location_001",
+      "description": "Graduated at age 16",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_003",
+      "name": "Hired at Bear Stearns",
+      "event_date": "1976",
+      "description": "Brought on as money manager by Alan Greenberg",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_004",
+      "name": "Met Les Wexner",
+      "event_date": "1976-1981",
+      "description": "Met at Bear Stearns, became his money manager",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_005",
+      "name": "Left Bear Stearns",
+      "event_date": "1981",
+      "description": "Under mysterious circumstances surrounding insider trading issue",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_006",
+      "name": "Founded International Assets Group",
+      "event_date": "1982",
+      "location": "location_002",
+      "description": "Started I.A.G. out of E 66th St apartment",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_007",
+      "name": "Met Steven Hoffenberg",
+      "event_date": "early 1980s",
+      "location": "London",
+      "description": "Met in London, later partnered",
+      "confidence": 0.87,
+      "date_confidence": 0.3,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_008",
+      "name": "Partnered with Hoffenberg",
+      "event_date": "1987",
+      "description": "Formally partnered with Steven Hoffenberg",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_009",
+      "name": "Purchased Palm Beach home",
+      "event_date": "1990",
+      "location": "location_008",
+      "description": "Sued seller in 1990 over $16,000 furnishings dispute",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_010",
+      "name": "Made trustee of Ohio Higher Education Trust",
+      "event_date": "1991",
+      "description": "Wexner made Epstein trustee of $230M fund",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_011",
+      "name": "Rented 34 E 69th St from OFM",
+      "event_date": "1992",
+      "location": "location_003",
+      "description": "Office of Foreign Missions let Iranian-seized building to Epstein",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_012",
+      "name": "Purchased Zorro Ranch",
+      "event_date": "1993",
+      "location": "location_004",
+      "description": "Bought from Bruce King via Zorro Development Corp",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_013",
+      "name": "Met Bill Clinton",
+      "event_date": "1995",
+      "location": "Palm Beach",
+      "description": "Paid tens of thousands for intimate fundraising dinner",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_014",
+      "name": "Joined Rockefeller University board",
+      "event_date": "1995",
+      "description": "Board membership with Kissinger's wife",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_015",
+      "name": "Illegally sublet to Ivan Fisher",
+      "event_date": "1996",
+      "location": "location_003",
+      "description": "Subleased E 69th St at $5k/month profit, sued by feds",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_016",
+      "name": "Purchased Little St. James island",
+      "event_date": "1998-1999",
+      "location": "location_005",
+      "description": "Bought private island in US Virgin Islands",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_017",
+      "name": "Traveled to Thailand with Prince Andrew",
+      "event_date": "2001",
+      "location": "Thailand",
+      "description": "Trip with Prince Andrew",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_018",
+      "name": "Donated to Harvard",
+      "event_date": "2003",
+      "description": "$30 million for science research",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_019",
+      "name": "Outbid by Donald Trump",
+      "event_date": "2004",
+      "location": "Palm Beach",
+      "description": "Trump outbid Epstein for 513 N. Country Road estate",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_020",
+      "name": "Palm Beach Police investigation begins",
+      "event_date": "2005-03",
+      "description": "Call from upset parent triggers investigation",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_021",
+      "name": "Search warrant executed",
+      "event_date": "2005-10",
+      "description": "Palm Beach Police execute search warrant",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_022",
+      "name": "FBI begins investigation",
+      "event_date": "2006",
+      "description": "PB Police alert FBI",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_023",
+      "name": "NPA negotiated",
+      "event_date": "2007",
+      "description": "Spring 2007 lawyers negotiate Non-Prosecution Agreement",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_024",
+      "name": "Guilty plea and sentencing",
+      "event_date": "2008",
+      "description": "Pled guilty to procuring minor for prostitution, sentenced to 18 months",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_025",
+      "name": "Begins prison sentence",
+      "event_date": "2008-07-01",
+      "location": "Palm Beach County Stockade",
+      "description": "Served in vacant wing with work release 8am-8pm, 6 days/week",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_026",
+      "name": "Registered as Level 3 sex offender",
+      "event_date": "2008",
+      "description": "Highest level sex offender registration",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_027",
+      "name": "Zorro Trust lottery win",
+      "event_date": "2008",
+      "description": "Won $29 million in Oklahoma state lottery",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    },
+    {
+      "entity_id": "event_028",
+      "name": "Completed sentence",
+      "event_date": "2010-07-21",
+      "description": "Served 13 months of 18-month sentence plus house arrest",
+      "confidence": 0.87,
+      "date_confidence": 0.8,
+      "verification_status": "Factual"
+    }
+  ],
+  "extracted_stats": {
+    "persons": 17,
+    "organizations": 26,
+    "locations": 13,
+    "legal_cases": 12,
+    "events": 28,
+    "total_entities": 96
+  }
+}

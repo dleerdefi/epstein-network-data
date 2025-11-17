@@ -1,0 +1,589 @@
+{
+  "page_number": 131,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:37.300380",
+  "chunk": "chunk_091-100",
+  "flights": [
+    {
+      "date": {
+        "original": "06/15/2004",
+        "parsed": "2004-06-15",
+        "display": "06/15/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "TIST",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "273",
+        "iidd": "1630",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "M S",
+          "code": "MS",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Teala Davies",
+          "code": "TD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p003_r0001"
+    },
+    {
+      "date": {
+        "original": "06/20/2004",
+        "parsed": "2004-06-20",
+        "display": "06/20/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "274",
+        "iidd": "1637",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jennifer Kalin",
+          "code": "JK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "M S",
+          "code": "MS",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Natalya Malyshov",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gary Roxburgh",
+          "code": "GR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p003_r0008"
+    },
+    {
+      "date": {
+        "original": "06/21/2004",
+        "parsed": "2004-06-21",
+        "display": "06/21/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1719",
+        "iidd": "1645",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Brent Tindall",
+          "code": "BT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "M S",
+          "code": "MS",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p003_r0016"
+    },
+    {
+      "date": {
+        "original": "06/23/2004",
+        "parsed": "2004-06-23",
+        "display": "06/23/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAF",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1720",
+        "iidd": "1650",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p003_r0021"
+    },
+    {
+      "date": {
+        "original": "07/02/2004",
+        "parsed": "2004-07-02",
+        "display": "07/02/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "LAS",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "LAS"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "Las Vegas, NV, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1721",
+        "iidd": "1654",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "M S",
+          "code": "MS",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "SEMOINE ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "FLORA ?",
+          "code": "F?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Gary Roxburgh",
+          "code": "GR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p003_r0025"
+    },
+    {
+      "date": {
+        "original": "07/02/2004",
+        "parsed": "2004-07-02",
+        "display": "07/02/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LAS",
+        "to": "SAF",
+        "from_codes": [
+          "LAS"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Las Vegas, NV, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1722",
+        "iidd": "1661",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "M S",
+          "code": "MS",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "SEMOINE ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "FLORA ?",
+          "code": "F?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Gary Roxburgh",
+          "code": "GR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p003_r0032"
+    },
+    {
+      "date": {
+        "original": "07/04/2004",
+        "parsed": "2004-07-04",
+        "display": "07/04/2004",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "ASE",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "ASE"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "Aspen, CO, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1723",
+        "iidd": "1668",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "M S",
+          "code": "MS",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Nadia Marcinkova",
+          "code": "NM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "SEMOINE ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "FLORA ?",
+          "code": "F?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Gary Roxburgh",
+          "code": "GR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "091-100",
+      "v3_flight_id": "chunk_091-100_p003_r0039"
+    }
+  ]
+}

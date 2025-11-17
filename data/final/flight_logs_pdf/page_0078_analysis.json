@@ -1,0 +1,993 @@
+{
+  "page_number": 78,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:36.115693",
+  "chunk": "chunk_031-040",
+  "flights": [
+    {
+      "date": {
+        "original": "10/30/2000",
+        "parsed": "2000-10-30",
+        "display": "10/30/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1406",
+        "iidd": "2790",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0001"
+    },
+    {
+      "date": {
+        "original": "10/31/2000",
+        "parsed": "2000-10-31",
+        "display": "10/31/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1407",
+        "iidd": "2294",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0004"
+    },
+    {
+      "date": {
+        "original": "11/05/2000",
+        "parsed": "2000-11-05",
+        "display": "11/05/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1408",
+        "iidd": "2296",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jessica Bauer",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0006"
+    },
+    {
+      "date": {
+        "original": "11/07/2000",
+        "parsed": "2000-11-07",
+        "display": "11/07/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "TEB",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1409",
+        "iidd": "2793",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jessica Bauer",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0009"
+    },
+    {
+      "date": {
+        "original": "11/09/2000",
+        "parsed": "2000-11-09",
+        "display": "11/09/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1410",
+        "iidd": "2299",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0012"
+    },
+    {
+      "date": {
+        "original": "11/12/2000",
+        "parsed": "2000-11-12",
+        "display": "11/12/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "CMH",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Columbus, OH, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1411",
+        "iidd": "2301",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0014"
+    },
+    {
+      "date": {
+        "original": "11/12/2000",
+        "parsed": "2000-11-12",
+        "display": "11/12/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Columbus, OH, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1412",
+        "iidd": "2796",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0015"
+    },
+    {
+      "date": {
+        "original": "11/15/2000",
+        "parsed": "2000-11-15",
+        "display": "11/15/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "SAF",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1413",
+        "iidd": "2302",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0016"
+    },
+    {
+      "date": {
+        "original": "11/16/2000",
+        "parsed": "2000-11-16",
+        "display": "11/16/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "VNY",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "VNY"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "Van Nuys, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1414",
+        "iidd": "2797",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0019"
+    },
+    {
+      "date": {
+        "original": "11/17/2000",
+        "parsed": "2000-11-17",
+        "display": "11/17/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VNY",
+        "to": "SAN",
+        "from_codes": [
+          "VNY"
+        ],
+        "to_codes": [
+          "SAN"
+        ],
+        "from_full": "Van Nuys, CA, United States",
+        "to_full": "San Diego, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1415",
+        "iidd": "2305",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0022"
+    },
+    {
+      "date": {
+        "original": "11/17/2000",
+        "parsed": "2000-11-17",
+        "display": "11/17/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAN",
+        "to": "PBI",
+        "from_codes": [
+          "SAN"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "San Diego, CA, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1416",
+        "iidd": "2800",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0024"
+    },
+    {
+      "date": {
+        "original": "11/19/2000",
+        "parsed": "2000-11-19",
+        "display": "11/19/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "BED",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "BED"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Bedford, MA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1417",
+        "iidd": "2307",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0027"
+    },
+    {
+      "date": {
+        "original": "11/19/2000",
+        "parsed": "2000-11-19",
+        "display": "11/19/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BED",
+        "to": "TEB",
+        "from_codes": [
+          "BED"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Bedford, MA, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1418",
+        "iidd": "2803",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0030"
+    },
+    {
+      "date": {
+        "original": "11/22/2000",
+        "parsed": "2000-11-22",
+        "display": "11/22/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DCA",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "DCA"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Washington Dc, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1419",
+        "iidd": "2805",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0032"
+    },
+    {
+      "date": {
+        "original": "11/22/2000",
+        "parsed": "2000-11-22",
+        "display": "11/22/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "PBI",
+        "from_codes": [
+          "DCA"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Washington Dc, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1420",
+        "iidd": "2808",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0035"
+    },
+    {
+      "date": {
+        "original": "11/28/2000",
+        "parsed": "2000-11-28",
+        "display": "11/28/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1421",
+        "iidd": "2310",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0038"
+    },
+    {
+      "date": {
+        "original": "11/30/2000",
+        "parsed": "2000-11-30",
+        "display": "11/30/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1422",
+        "iidd": "2811",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0040"
+    },
+    {
+      "date": {
+        "original": "12/01/2000",
+        "parsed": "2000-12-01",
+        "display": "12/01/2000",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "DFW",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "DFW"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Dallas, TX, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1423",
+        "iidd": "2813",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "031-040",
+      "v3_flight_id": "chunk_031-040_p010_r0042"
+    }
+  ]
+}

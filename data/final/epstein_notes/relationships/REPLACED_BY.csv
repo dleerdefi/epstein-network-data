@@ -1,0 +1,4 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_150,person_150a,REPLACED_BY,,,0.7,Replaced Fronstin as JE's attorney,Unverified
+person_003,person_057,REPLACED_BY,false,,0.7,Replaced Epstein as money manager in 2005,Unverified
+person_131,person_132b,REPLACED_BY,,,0.7,Succeeded Cayne as CEO Bear Stearns,Unverified

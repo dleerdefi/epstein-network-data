@@ -1,0 +1,796 @@
+{
+  "page_number": 110,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:16.473676",
+  "chunk": "chunk_071-080",
+  "flights": [
+    {
+      "date": {
+        "original": "10/06/2002",
+        "parsed": "2002-10-06",
+        "display": "10/06/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1597",
+        "iidd": "611",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ryan Dionne",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0004"
+    },
+    {
+      "date": {
+        "original": "10/11/2002",
+        "parsed": "2002-10-11",
+        "display": "10/11/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1598",
+        "iidd": "616",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ryan Dionne",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "STAFF ?",
+          "code": "S?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0009"
+    },
+    {
+      "date": {
+        "original": "10/14/2002",
+        "parsed": "2002-10-14",
+        "display": "10/14/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI-OFF",
+        "to": "PBI",
+        "from_codes": [
+          "PBI-OFF"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1599",
+        "iidd": "621",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Mark Potter",
+          "code": "MP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0014"
+    },
+    {
+      "date": {
+        "original": "10/15/2002",
+        "parsed": "2002-10-15",
+        "display": "10/15/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1600",
+        "iidd": "622",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ryan Dionne",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0015"
+    },
+    {
+      "date": {
+        "original": "10/17/2002",
+        "parsed": "2002-10-17",
+        "display": "10/17/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "TIST",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1601",
+        "iidd": "626",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0019"
+    },
+    {
+      "date": {
+        "original": "10/21/2002",
+        "parsed": "2002-10-21",
+        "display": "10/21/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1602",
+        "iidd": "629",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Anna Hanks",
+          "code": "AH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Juliette Bryant",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0022"
+    },
+    {
+      "date": {
+        "original": "10/23/2002",
+        "parsed": "2002-10-23",
+        "display": "10/23/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-150",
+        "iidd": "4036",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0027"
+    },
+    {
+      "date": {
+        "original": "10/25/2002",
+        "parsed": "2002-10-25",
+        "display": "10/25/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "VNY",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "VNY"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Van Nuys, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-151",
+        "iidd": "4037",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0028"
+    },
+    {
+      "date": {
+        "original": "10/28/2002",
+        "parsed": "2002-10-28",
+        "display": "10/28/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VNY",
+        "to": "OAK",
+        "from_codes": [
+          "VNY"
+        ],
+        "to_codes": [
+          "OAK"
+        ],
+        "from_full": "Van Nuys, CA, United States",
+        "to_full": "Oakland, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-152",
+        "iidd": "4038",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0029"
+    },
+    {
+      "date": {
+        "original": "10/29/2002",
+        "parsed": "2002-10-29",
+        "display": "10/29/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "OAK",
+        "to": "HNL",
+        "from_codes": [
+          "OAK"
+        ],
+        "to_codes": [
+          "HNL"
+        ],
+        "from_full": "Oakland, CA, United States",
+        "to_full": "Honolulu, HI, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-153",
+        "iidd": "4039",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0030"
+    },
+    {
+      "date": {
+        "original": "10/30/2002",
+        "parsed": "2002-10-30",
+        "display": "10/30/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HNL",
+        "to": "ABQ",
+        "from_codes": [
+          "HNL"
+        ],
+        "to_codes": [
+          "ABQ"
+        ],
+        "from_full": "Honolulu, HI, United States",
+        "to_full": "Albuquerque, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-154",
+        "iidd": "4040",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0031"
+    },
+    {
+      "date": {
+        "original": "11/01/2002",
+        "parsed": "2002-11-01",
+        "display": "11/01/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ABQ",
+        "to": "PBI",
+        "from_codes": [
+          "ABQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Albuquerque, NM, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-155",
+        "iidd": "4041",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0032"
+    },
+    {
+      "date": {
+        "original": "11/03/2002",
+        "parsed": "2002-11-03",
+        "display": "11/03/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1603",
+        "iidd": "634",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0033"
+    },
+    {
+      "date": {
+        "original": "11/10/2002",
+        "parsed": "2002-11-10",
+        "display": "11/10/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "TEB",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1604",
+        "iidd": "637",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Kelly McCarthy",
+          "code": "KM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0036"
+    },
+    {
+      "date": {
+        "original": "11/15/2002",
+        "parsed": "2002-11-15",
+        "display": "11/15/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "TIST",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1605",
+        "iidd": "640",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ryan Dionne",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "071-080",
+      "v3_flight_id": "chunk_071-080_p002_r0039"
+    }
+  ]
+}

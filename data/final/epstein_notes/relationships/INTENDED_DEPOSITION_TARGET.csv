@@ -1,0 +1,5 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_059,person_012,INTENDED_DEPOSITION_TARGET,65,0.733,,Unverified
+person_059,person_159,INTENDED_DEPOSITION_TARGET,68,1.0,,Factual
+person_059,person_160,INTENDED_DEPOSITION_TARGET,,0.7,,Unverified
+person_059,person_161,INTENDED_DEPOSITION_TARGET,,0.7,,Unverified

@@ -1,0 +1,869 @@
+{
+  "page_number": 92,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:56.833253",
+  "chunk": "chunk_051-060",
+  "flights": [
+    {
+      "date": {
+        "original": "10/17/2001",
+        "parsed": "2001-10-17",
+        "display": "10/17/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "BED",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "BED"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Bedford, MA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1541",
+        "iidd": "3710",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bonnie ?",
+          "code": "B?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0002"
+    },
+    {
+      "date": {
+        "original": "10/17/2001",
+        "parsed": "2001-10-17",
+        "display": "10/17/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BED",
+        "to": "TEB",
+        "from_codes": [
+          "BED"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Bedford, MA, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1542",
+        "iidd": "3712",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bonnie ?",
+          "code": "B?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0004"
+    },
+    {
+      "date": {
+        "original": "10/18/2001",
+        "parsed": "2001-10-18",
+        "display": "10/18/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "TIST",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1543",
+        "iidd": "3714",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0006"
+    },
+    {
+      "date": {
+        "original": "10/23/2001",
+        "parsed": "2001-10-23",
+        "display": "10/23/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "TEB",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1544",
+        "iidd": "3719",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sheridan Gibson",
+          "code": "SG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alexia Wallert",
+          "code": "AW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0011"
+    },
+    {
+      "date": {
+        "original": "10/26/2001",
+        "parsed": "2001-10-26",
+        "display": "10/26/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1545",
+        "iidd": "3725",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sheridan Gibson",
+          "code": "SG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sheridan Gibson",
+          "code": "SG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0017"
+    },
+    {
+      "date": {
+        "original": "10/30/2001",
+        "parsed": "2001-10-30",
+        "display": "10/30/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "LCQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "LCQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Lake City, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1546",
+        "iidd": "3732",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie Shay",
+          "code": "JS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0024"
+    },
+    {
+      "date": {
+        "original": "10/30/2001",
+        "parsed": "2001-10-30",
+        "display": "10/30/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LCQ",
+        "to": "TEB",
+        "from_codes": [
+          "LCQ"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Lake City, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1547",
+        "iidd": "3735",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie Shay",
+          "code": "JS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0027"
+    },
+    {
+      "date": {
+        "original": "11/03/2001",
+        "parsed": "2001-11-03",
+        "display": "11/03/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAF",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1548",
+        "iidd": "3738",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0030"
+    },
+    {
+      "date": {
+        "original": "11/04/2001",
+        "parsed": "2001-11-04",
+        "display": "11/04/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ZORRO",
+        "to": "SAF",
+        "from_codes": [
+          "ZORRO"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Stanley, NM, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "3812",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Tatiana Espinosa",
+          "code": "TE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Male (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0033"
+    },
+    {
+      "date": {
+        "original": "11/04/2001",
+        "parsed": "2001-11-04",
+        "display": "11/04/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "ZORRO",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "ZORRO"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "Stanley, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "3814",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Tatiana Espinosa",
+          "code": "TE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Male (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0034"
+    },
+    {
+      "date": {
+        "original": "11/05/2001",
+        "parsed": "2001-11-05",
+        "display": "11/05/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "ASE",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "ASE"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "Aspen, CO, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1549",
+        "iidd": "3741",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0037"
+    },
+    {
+      "date": {
+        "original": "11/05/2001",
+        "parsed": "2001-11-05",
+        "display": "11/05/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ASE",
+        "to": "PBI",
+        "from_codes": [
+          "ASE"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Aspen, CO, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1550",
+        "iidd": "3744",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0040"
+    },
+    {
+      "date": {
+        "original": "11/06/2001",
+        "parsed": "2001-11-06",
+        "display": "11/06/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Columbus, OH, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1552",
+        "iidd": "3747",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0043"
+    },
+    {
+      "date": {
+        "original": "11/09/2001",
+        "parsed": "2001-11-09",
+        "display": "11/09/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "LCQ",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "LCQ"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Lake City, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1553",
+        "iidd": "3749",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie Shay",
+          "code": "JS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p004_r0045"
+    }
+  ]
+}

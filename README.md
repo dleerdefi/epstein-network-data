@@ -1,267 +1,316 @@
-# Epstein Network Analysis Project
+# Epstein Network Analysis - Data Repository
 
-## Project Scope
+**Git LFS data storage for network analysis application**
 
-This project aims to transform three key Epstein network documents (50th Birthday Book, Black Book, and Flight Logs) containing over 340 pages of handwritten and printed text into a fully searchable, queryable knowledge system. Starting with publicly available PDFs, we convert to PNG and use Claude Code's multimodal AI to extract every name, address, phone number, date, and relationship mentioned across these documents. The extracted data is structured into JSON format, validated through community review, and will ultimately be imported into a Neo4j graph database to map the complete network of connections - showing who knew whom, who traveled together, and how frequently they appeared across different contexts.
-
-The goal is to implement a hybrid agentic GraphRAG (Graph Retrieval-Augmented Generation) system that allows anyone to ask questions like "Who flew most frequently in 1995?" or "Show all connections for [person]" and receive accurate, data-driven answers with network visualizations. 
-
-Instead of researchers manually searching through thousands of pages or relying on incomplete summaries, they'll have access to a comprehensive, cross-referenced database where every entity, relationship, and temporal pattern has been extracted, validated, and made queryable. This is purely a data science project focused on making public documents accessible - we do not make claims or conduct investigations, we simply structure the information for analysis.
-
-## Overview
-
-This project makes the Epstein network documents searchable and queryable through modern data science tools. Instead of manually searching through thousands of pages, anyone can ask questions in plain English and receive objective, data-driven responses with network visualizations.
-
-We are analyzing three specific publicly-available documents to map the network:
-- **50th Birthday Book** - Birthday greetings and messages from associates
-- **Black Book** - Address/contact directory
-- **Flight Logs** - Aviation records from private aircraft
-
-This is a **non-partisan, objective data extraction project**. We focus exclusively on these network-mapping documents, NOT on court cases or legal proceedings. The goal is to build a Neo4j knowledge graph and natural language interface so anyone can explore the data without bias or editorializing.
-
-## Project Objectives
-
-1. **Extract** structured data from three document collections using multimodal AI vision
-2. **Validate** and refine extracted data through multiple passes and community review
-3. **Build** a Neo4j knowledge graph representing entities and relationships
-4. **Implement** hybrid agentic GraphRAG for natural language data exploration
-5. **Enable** researchers to query the network using plain English
-
-## Source Documents
-
-### Original Documents (Public Access)
-- **50th Birthday Book** (2003): Album of birthday greetings and messages given to Epstein for his 50th birthday
-  - [View on DocumentCloud](https://www.documentcloud.org/documents/26086390-jeffey-epstein-50th-birthday-book/)
-  - 238 pages of messages, drawings, and photos from associates
-
-- **Black Book**: Personal address/contact directory containing 1,500+ names with phone numbers and addresses
-  - [View on DocumentCloud](https://www.documentcloud.org/documents/1508273-jeffrey-epsteins-little-black-book-redacted/)
-  - 92 pages (redacted version)
-
-- **Flight Logs** (1991-2019): Aviation records from Epstein's private aircraft documenting ~1,000 trips
-  - [View on DocumentCloud](https://www.documentcloud.org/documents/6404379-Epstein-Flight-Logs-Lolita-Express/)
-  - 118 pages of passenger manifests and flight records
-
-### Additional Sources & External Data
-- [House Oversight Committee Releases](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)
-- [Complete Black Book CSV](data/external_sources/black_book/) - Full 95 pages from epsteinsblackbook.com
-- [Unredacted Flight Logs PDF](data/external_sources/flight_logs/) - Pages 39-118
-
-## What This Repository Provides
-
-### Resources Available
-1. **Cropped PNG Images** - Border-removed versions for cleaner extraction (valuable for anyone doing their own analysis)
-2. **Structured JSON Data** - Machine-readable extractions from multimodal AI analysis
-3. **Processing Scripts** - Python and shell scripts for image cropping
-4. **Work-in-Progress Extractions** - Making handwritten and poor-quality scans more accessible
-5. **External Validated Data** - Third-party sources for cross-reference
-
-### Directory Structure
-```
-.
-├── data/
-│   ├── source/
-│   │   ├── pdfs/              # Original PDF documents
-│   │   ├── pngs/              # Converted PNG images (full page)
-│   │   └── cropped/           # Border-removed PNGs (cleaner for extraction)
-│   ├── extracted/
-│   │   ├── v1 - first pass/   # Initial AI extraction (complete)
-│   │   └── v2 - second pass/  # Manual review and refinement (in progress)
-│   └── external_sources/      # Third-party validated data
-├── scripts/                   # Image processing utilities
-│   ├── crop_black_book.sh    # Shell script for Black Book cropping
-│   ├── crop_black_book.py    # Python version with progress bar
-│   └── crop_flight_logs.py   # Flight logs cropping script
-└── requirements.txt           # Python dependencies
-```
-
-### Installation
-
-For Python scripts and future development:
-```bash
-# Install Python dependencies
-pip install -r requirements.txt
-
-# For image processing scripts only
-pip install Pillow tqdm
-```
-
-The handwriting in many documents is extremely difficult to parse. This project works toward making the data clearer and available in formats suitable for analysis, visualization, and querying.
-
-## Current Extraction Status
-
-| Document | V1 Status | V2 Status | Notes |
-|----------|-----------|-----------|-------|
-| **50th Birthday Book** | ✅ 128 pages complete | 🔄 Pages 1-11 manually revised | Handwritten messages challenging to extract |
-| **Black Book** | ✅ 95 pages complete | 🔄 Pages 1-81 extracted | External CSV provides complete 95 pages |
-| **Flight Logs** | ✅ 118 pages complete | 🔄 Pages 1-8 manually revised so far | Pages 39-118 available from unredacted PDF |
-
-### Extraction Challenges
-
-The documents present significant extraction difficulties:
-- Handwritten annotations and messages
-- Mixed print and cursive text
-- Poor scan quality in some sections
-- Character confusion (i/l, 0/O, 6/8, z/s)
-- Partial redactions in public versions
-
-Multimodal AI extraction provides better results than traditional OCR but still requires extensive manual review and community validation to achieve usable accuracy.
-
-## Project Phases
-
-### Phase 1: Data Extraction (Current)
-- Multimodal AI vision analysis of document images
-- Two-pass extraction methodology
-- Community validation and correction
-
-### Phase 2: Data Processing (Upcoming)
-- Entity deduplication and standardization
-- Relationship mapping and validation
-- Timeline construction from temporal data
-
-### Phase 3: Knowledge Graph (Future)
-- Neo4j database implementation
-- Entity and relationship modeling
-- Graph optimization for query performance
-
-### Phase 4: GraphRAG Implementation (Future)
-- Hybrid agentic system development
-- Natural language query interface
-- RAG pipeline with graph traversal
-
-## Technical Approach
-
-### Extraction Methodology
-- **Primary Tool**: Claude's multimodal vision (not traditional OCR)
-- **Image Processing**: Cropped borders for improved accuracy
-- **Validation**: Multi-pass extraction with manual review
-- **External Sources**: Integration of verified third-party data
-
-### Why Multimodal AI?
-Traditional OCR fails on:
-- Handwritten annotations
-- Mixed print/cursive text
-- Complex layouts and tables
-- Poor quality scans
-
-Claude's vision capabilities provide:
-- Context-aware extraction
-- Relationship inference
-- Layout understanding
-- Signature analysis
-
-## Methodology: Data Validation and Importance Weighting
-
-To ensure the highest degree of accuracy and to enable objective, data-driven analysis, this project employs a structured methodology for processing the source documents. Our approach is designed to overcome the challenges of inconsistent data quality—particularly nearly or partially illegible handwritten entries—and to create a non-biased system for evaluating the strength and importance of connections within the network.
-
-This methodology is built on two core concepts: **Cross-Document Validation** and a **Composite Importance Score**.
-
-### Cross-Document Validation
-
-To address the challenge of illegible handwritten entries in the flight logs and birthday book, we utilize the different document types as a system of checks and balances. The typed "Black Book," with its extensive and more legible list of names and contact details, serves as a primary reference lexicon.
-
-When a handwritten name is ambiguous, we perform searches against the Black Book's contents to find probable matches. This strategy allows us to decipher and validate entries with a higher degree of confidence than would be possible from analyzing a single document in isolation.
-
-### The Pyramid of Association & Composite Importance Score
-
-While our primary goal is to present data without opinion, we recognize that not all connections are of equal significance. To quantify the relative importance of individuals in a non-biased manner, we use a multi-faceted weighting system that begins with the **Pyramid of Association**. This pyramid provides a baseline weight based on the nature of the document in which a person is found:
-
-**Tier 3 (Foundation): The Black Book - The Extended Network**
-Represents the broadest and least intimate level of connection. Inclusion here is weighted the lowest.
-
-**Tier 2 (Mid-Tier): The Birthday Book - The Social Circle**
-Represents an acknowledged social or professional relationship that requires personal effort. Inclusion here carries a medium weight.
-
-**Tier 1 (Apex): The Flight Logs - The Inner Circle**
-Represents direct, intimate access and trust. Inclusion on a flight log is the strongest indicator of a close relationship and is weighted the highest.
-
-Building upon this pyramid, we calculate a **Composite Importance Score** for each individual. This score is algorithmically generated based on the following quantitative metrics:
-
-- **Presence**: Points are assigned based on which document(s) an individual appears in, according to the Pyramid of Association.
-- **Frequency**: The score is increased based on the frequency of appearances. The total number of flights an individual took is a critical metric that significantly raises their importance score.
-- **Richness**: The quantity of data associated with a contact contributes to their weight. For instance, a Black Book entry with multiple phone numbers, addresses, and an employment title is scored more highly than a name with a single data point.
-
-This multi-faceted weighting system allows the data to speak for itself, enabling a purely quantitative analysis to identify the most central and active individuals within the network, free from subjective interpretation.
-
-## Data Format
-
-All extracted data is structured JSON with:
-- Complete text preservation (no summaries)
-- Entity identification and relationships
-- Confidence scores where applicable
-- Source page references
-- Validation notes
-
-### Example JSON Structure (Flight Log)
-```json
-{
-  "page_number": 1,
-  "date_header": "1991 JUL",
-  "flights": [{
-    "date": "07/12/1991",
-    "aircraft": "N908JE",
-    "route": {"from": "MIA", "to": "NYF"},
-    "passengers": {
-      "identified": ["Name1", "Name2"],
-      "codes": ["JE", "GM"]
-    }
-  }],
-  "validation": {
-    "confidence": 0.85,
-    "manual_review": true
-  }
-}
-```
-
-## Important Disclaimers
-
-⚠️ **Data Accuracy**: Due to handwriting, scan quality, and redactions, perfect extraction is impossible. This dataset requires continuous refinement through community validation.
-
-⚠️ **Scope**: We analyze ONLY the three network-mapping documents listed above. We do NOT examine court cases, depositions, or make investigative claims.
-
-⚠️ **Objectivity**: This is a non-partisan data project. We extract and structure information for querying without editorializing or making judgments.
-
-⚠️ **Work in Progress**: Extraction and validation are ongoing. Always cross-reference with original sources when accuracy is critical.
-
-## Contributing
-
-We welcome contributions to improve data accuracy and completeness. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
-- How to submit corrections via pull requests
-- Data validation guidelines
-- OSINT research standards
-- Quality requirements
-
-## Future Vision: Natural Language Querying
-
-Once complete, anyone will be able to:
-- Ask questions in plain English about the network
-- Receive data-driven responses with visualizations
-- Explore connections via Neo4j graph database
-- Access information without reading thousands of pages
-
-Example queries:
-- "Who flew most frequently in 1995?"
-- "What addresses are listed for [person]?"
-- "Show network connections for [entity]"
-- "Timeline of flights to specific destinations"
-
-## License
-
-This project processes publicly available documents. All extraction work is released under [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Document sources: Public court records and FOIA releases
-- Extraction technology: Anthropic's Claude AI
-- Community contributors: See [CONTRIBUTORS.md](CONTRIBUTORS.md)
-
-## Contact
-
-For questions, corrections, or contributions:
-- Submit issues via GitHub
-- Review [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
-- Check [DATA_STATUS.md](DATA_STATUS.md) for current progress
+This repository contains source documents, extracted data, and processed datasets for the [Epstein Files AI application](https://github.com/dleerdefi/epstein-files-ai). All large files (PDFs, PNGs) are tracked with Git LFS.
 
 ---
 
-*Making public documents queryable through data science. No more searching through thousands of pages - just ask questions, get objective answers.*
+## Repository Purpose
+
+Pure **data storage repository** providing:
+- 📁 Source documents (1.1GB PNG images, PDFs)
+- 📝 Extracted JSON data (manual + automated extraction)
+- 📊 Final processed CSVs for Neo4j import
+- 📖 Dataset documentation and metadata
+
+**Application repository**: https://github.com/dleerdefi/epstein-files-ai
+*Contains all scripts, Neo4j import, embedding generation, and GraphRAG application*
+
+---
+
+## How to Use This Repository
+
+### As Git Submodule (Recommended)
+
+```bash
+# In your application repository
+git submodule add https://github.com/dleerdefi/epstein-network-data.git data
+cd data
+git checkout main
+
+# Update to latest data
+git submodule update --remote data
+```
+
+### Direct Clone
+
+```bash
+# Requires Git LFS
+git lfs install
+git clone https://github.com/dleerdefi/epstein-network-data.git
+cd epstein-network-data
+```
+
+**Note**: Git LFS is required to download source images (1.1GB).
+
+---
+
+## What's Included
+
+### 📁 Source Documents (1.1GB)
+**Location**: `data/source/`
+
+| Document | Pages | Size | Format | Tracked by LFS |
+|----------|-------|------|--------|----------------|
+| **Birthday Book** | 128 | ~244MB | PNG | ✅ |
+| **Black Book** | 95 | ~79MB | PNG | ✅ |
+| **Flight Logs** | 118 | ~797MB | PNG | ✅ |
+
+**Content**:
+- Birthday Book: Event photos, guest lists, signatures
+- Black Book: Contact directory with addresses, phones, emails
+- Flight Logs: Passenger manifests 1991-2019
+
+### 📦 External Data Sources (11MB)
+**Location**: `data/external_sources/`
+
+- **Black Book CSV** (`complete.json`): 1,252 contacts with full details
+- **Flight Logs PDF** (unredacted): Pages 39-118 from government release
+- **Jeffrey Epstein Research Notes**: Verified background on 286 key individuals
+
+### 📝 Extracted Data (8.1MB)
+**Location**: `data/extracted/`
+
+| Dataset | Status | Format | Purpose |
+|---------|--------|--------|---------|
+| **Birthday Book** | 🔄 In Progress | JSON | Manual extraction + AI verification |
+| **Black Book** | ⏸️ Halted | JSON | External CSV found (more complete) |
+| **Flight Logs** | 🔄 In Progress | JSON | Manual extraction with date inference |
+| **Epstein Notes** | ✅ Complete | JSON | Source for Neo4j production dataset |
+
+### 📊 Final Processed Data (7.3MB)
+**Location**: `data/final/`
+
+#### Epstein Notes - Neo4j Dataset v1.3
+
+**Location**: `data/final/epstein_notes/`
+
+Production-ready knowledge graph for Neo4j GraphRAG:
+
+**Nodes** (514 total):
+- 286 Persons (with occupations, summaries, aliases)
+- 97 Organizations (companies, institutions, agencies)
+- 5 Equipment (aircraft: N908JE, etc.)
+- 53 Claims (verified factual statements with confidence scores)
+- 73 Citations (court filings, news articles, Wikipedia)
+
+**Relationships** (534 total, 65 types):
+- Provenance: CLAIM_ABOUT (113), SUPPORTED_BY (67)
+- Social: IN_BLACK_BOOK (66), FAMILY, ASSOCIATED_WITH
+- Legal: ABUSED (21), SUED_BY, REPRESENTED_BY, PROSECUTED_BY
+- Professional: WORKED_FOR, CEO_OF, FOUNDED, APPOINTED_BY
+
+**Embeddings** (436 vectors):
+- Voyage-3-Large model (1024 dimensions)
+- 286 person embeddings
+- 97 organization embeddings
+- 53 claim embeddings
+
+**Quality Metrics**:
+- ✅ 0 orphaned relationships
+- ✅ 0 duplicate relationships
+- ✅ 3-tier normalization applied (147→65 types, -56% complexity)
+- ✅ All person names in Title Case
+- ✅ Full provenance layer (claims linked to citations + entities)
+
+**Files**:
+- `nodes/` - 5 CSV files (persons.csv, organizations.csv, equipment.csv, claims.csv, citations.csv)
+- `relationships/` - 65 CSV files (one per relationship type)
+- `embeddings/` - 3 CSV files (person, organization, claim embeddings)
+- `README.md` - Dataset overview and use cases
+- `IMPORT_INSTRUCTIONS.md` - Neo4j import reference (scripts in app repo)
+- `EMBEDDING_INSTRUCTIONS.md` - Embedding generation reference (scripts in app repo)
+- `NEO4J_COMPLETE_IMPORT.cypher` - Complete Cypher import script
+
+#### Other Datasets
+
+- **Black Book** (`data/final/black_book/`): Extracted contacts with geocoded data
+- **Flight Logs** (`data/final/flight_logs/`): Passenger manifests with normalized dates
+- **Flight Logs PDF** (`data/final/flight_logs_pdf/`): Pages 39-118 extracted from PDF
+- **Geocoded** (`data/final/geocoded/`): Phone numbers and addresses with lat/lon coordinates
+- **Corrections** (`data/final/corrections/`): Data quality fixes and validations
+
+---
+
+## Data Directory Structure
+
+```
+data/
+├── source/                         # 1.1GB - Original documents (LFS tracked)
+│   ├── birthday_book/             # 128 PNG pages
+│   ├── black_book/                # 95 PNG pages
+│   ├── black_book_cropped/        # 95 PNG pages (border-removed for better OCR)
+│   └── flight_logs/               # 118 PNG pages
+│
+├── external_sources/              # 11MB - Third-party validated data
+│   ├── black_book/
+│   │   └── processed/complete.json  # 1,252 contacts
+│   ├── flight_logs/
+│   │   └── EPSTEIN FLIGHT LOGS UNREDACTED.pdf
+│   └── Jeffrey Epstein Notes/
+│       ├── Jeffrey Epstein Research.md
+│       └── A Report on the Verifiable Factual and Legal Record.md
+│
+├── extracted/                     # 8.1MB - AI extraction outputs (JSON)
+│   ├── birthday_book/            # Manual extraction in progress
+│   ├── black_book/               # Manual extraction halted (external CSV found)
+│   ├── flight_logs/              # Manual extraction in progress
+│   └── epstein_notes/            # Complete (source for Neo4j dataset)
+│
+└── final/                         # 7.3MB - Processed datasets for import
+    ├── epstein_notes/            # ⭐ Production Neo4j dataset v1.3
+    │   ├── nodes/                # 5 CSV files (514 nodes)
+    │   ├── relationships/        # 65 CSV files (534 relationships)
+    │   ├── embeddings/           # 3 CSV files (436 embeddings, 1024d)
+    │   ├── README.md
+    │   ├── IMPORT_INSTRUCTIONS.md
+    │   ├── EMBEDDING_INSTRUCTIONS.md
+    │   └── NEO4J_COMPLETE_IMPORT.cypher
+    ├── black_book/               # Extracted contact data
+    ├── flight_logs/              # Passenger manifests (pages 1-31)
+    ├── flight_logs_pdf/          # Passenger manifests (pages 39-118 from PDF)
+    ├── geocoded/                 # Geocoded phones/addresses
+    └── corrections/              # Data quality fixes
+```
+
+---
+
+## Dataset Documentation
+
+| Document | Purpose |
+|----------|---------|
+| **[DATA_STATUS.md](DATA_STATUS.md)** | Extraction progress across all documents (Birthday Book, Black Book, Flight Logs) |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)** | How to contribute data improvements, corrections, and validations |
+| **[EXAMPLE-CLAUDE.md](EXAMPLE-CLAUDE.md)** | AI extraction guidelines for multimodal document processing |
+| **[data/final/epstein_notes/README.md](data/final/epstein_notes/README.md)** | Neo4j dataset overview, schema, and example queries |
+| **[data/final/epstein_notes/IMPORT_INSTRUCTIONS.md](data/final/epstein_notes/IMPORT_INSTRUCTIONS.md)** | Neo4j import reference (see app repo for scripts) |
+| **[data/final/epstein_notes/EMBEDDING_INSTRUCTIONS.md](data/final/epstein_notes/EMBEDDING_INSTRUCTIONS.md)** | Voyage-3-Large embedding reference (see app repo for scripts) |
+
+**Note**: All import scripts and application code are in the [epstein-files-ai](https://github.com/dleerdefi/epstein-files-ai) repository.
+
+---
+
+## Dataset Versions
+
+### v1.3 (2025-11-16) - Current
+- ✅ Epstein Notes Neo4j dataset (514 nodes, 534 relationships)
+- ✅ Voyage-3-Large embeddings (436 vectors, 1024 dimensions)
+- ✅ Case normalization (all person names in Title Case)
+- ✅ Full provenance layer (claims + citations with CLAIM_ABOUT, SUPPORTED_BY relationships)
+- ✅ 3-tier relationship normalization (147→65 types)
+
+### v1.2 (2025-11-16)
+- ✅ Case normalization applied to all person names and aliases
+- ✅ Initials preserved (JE, GM, IS-R, etc.)
+- ✅ 19 persons normalized from ALL CAPS to Title Case
+
+### v1.1 (2025-11-16)
+- ✅ Claims & citations enhancement (53 claims, 73 citations)
+- ✅ 180 provenance relationships added
+- ✅ Quality report updated with new metrics
+
+### v1.0 (2025-11-16)
+- ✅ Initial release: 3-tier relationship normalization
+- ✅ 388 entity nodes (286 persons + 97 organizations + 5 equipment)
+- ✅ 354 normalized relationships
+- ✅ Complete validation and documentation
+
+---
+
+## Git LFS Configuration
+
+Large files tracked by LFS (see [.gitattributes](.gitattributes)):
+- `*.pdf` - All PDF files
+- `data/source/**/*.png` - All source document images (~1.1GB)
+
+**Total LFS Size**: ~1.1GB (source images)
+
+### LFS Setup
+
+```bash
+# Install Git LFS
+brew install git-lfs  # macOS
+# or: sudo apt-get install git-lfs  # Linux
+# or: Download from https://git-lfs.github.com/  # Windows
+
+# Initialize LFS
+git lfs install
+
+# Clone with LFS
+git clone https://github.com/dleerdefi/epstein-network-data.git
+```
+
+---
+
+## Source Documents
+
+All documents are publicly available government releases and FOIA documents:
+
+- **Black Book**: [DocumentCloud - Jeffrey Epstein's Little Black Book](https://www.documentcloud.org/documents/1508273-jeffrey-epsteins-little-black-book-redacted/) (92 pages redacted version)
+- **Flight Logs**: [DocumentCloud - Epstein Flight Logs](https://www.documentcloud.org/documents/6404379-Epstein-Flight-Logs-Lolita-Express/) (118 pages, 1991-2019)
+- **Birthday Book**: [DocumentCloud - Jeffrey Epstein 50th Birthday Book](https://www.documentcloud.org/documents/26086390-jeffey-epstein-50th-birthday-book/) (238 pages)
+- **House Oversight Committee**: [Epstein Records Release](https://oversight.house.gov/release/oversight-committee-releases-epstein-records-provided-by-the-department-of-justice/)
+
+---
+
+## Data Extraction Progress
+
+| Document | Pages | Manual Extraction Status | Neo4j Integration |
+|----------|-------|--------------------------|-------------------|
+| **Birthday Book** | 128 | 🔄 In Progress (0/128 pages) | ❌ Not yet integrated |
+| **Black Book** | 95 | ✅ Complete (external CSV) | ✅ Partial (66 circled entries) |
+| **Flight Logs** | 118 | 🔄 In Progress (31/38 pages needed) | 🔄 Partial (pages 39-118 available) |
+| **Epstein Notes** | N/A | ✅ Complete (manual research) | ✅ Production ready (v1.3) |
+
+**Current Focus**:
+1. Flight Logs pages 32-38 (7 pages remaining)
+2. Birthday Book manual extraction (128 pages)
+3. Black Book full integration (1,252 contacts → Neo4j)
+
+See [DATA_STATUS.md](DATA_STATUS.md) for detailed progress tracking.
+
+---
+
+## Contributing
+
+We welcome contributions to improve data quality, add missing information, and suggest new data sources.
+
+**How to Contribute**:
+- **Report discrepancies**: Open an issue with `[ERROR]` tag
+- **Submit corrections**: Create a pull request with evidence/sources
+- **Validate data**: Review extracted data against original source images
+- **Suggest new sources**: Propose court cases, emails, or other public documents
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for complete guidelines.
+
+**Planned Future Sources**:
+- Court case documents (depositions, exhibits, filings)
+- Recent email release (newly released communications)
+- Additional public records (property records, business filings)
+
+---
+
+## License
+
+**MIT License** - See [LICENSE](LICENSE)
+
+This repository processes publicly available court records, FOIA releases, and government documents. All extraction work and processed datasets are released under MIT License.
+
+---
+
+## Repository Information
+
+**Primary Use**: Git submodule for [Epstein Files AI Application](https://github.com/dleerdefi/epstein-files-ai)
+
+**Repository Type**: Data storage (Git LFS)
+
+**Maintained By**: [@dleerdefi](https://github.com/dleerdefi)
+
+**Issues & Support**: [GitHub Issues](https://github.com/dleerdefi/epstein-network-data/issues)
+
+---
+
+**Making public documents queryable through structured data storage**
+
+*Transform 341 pages of handwritten documents and 1,252 contacts into a searchable knowledge graph with provenance tracking and semantic search capabilities.*

@@ -1,0 +1,4 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_146,person_064,CORRESPONDED_WITH,,0.7,"Wrote to Villafana about working out deal, suggested Starbucks meeting",Unverified
+person_064,person_015,CORRESPONDED_WITH,63;41;61;43;44,1.0,Edwards contacted Villafaña about representing victims,Factual
+person_064,person_146,CORRESPONDED_WITH,,0.7,Krischer wrote to Villafaña: 'Glad we could get this worked out for reasons I won't put in writing. After this is resolved I would love to buy you a cup at Starbucks and have a conversation.',Unverified

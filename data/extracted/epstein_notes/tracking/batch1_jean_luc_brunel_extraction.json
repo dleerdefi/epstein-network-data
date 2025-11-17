@@ -1,0 +1,493 @@
+{
+  "profile_name": "Jean-Luc Brunel",
+  "source_lines": "14-19",
+  "extraction_date": "2025-11-14",
+  "primary_person": {
+    "entity_id": "person_025",
+    "name": "Jean-Luc Brunel",
+    "aliases": [
+      "JLB",
+      "Jeanluc Brunelle"
+    ],
+    "nationality": "French",
+    "occupations": [
+      "modeling agent",
+      "JE co-conspirator"
+    ],
+    "summary": "French modeling agent, brother of Arnaud Brunel. Began career at Karin Models Paris 1976. Founded MC2 Model Management 2005 with $1M credit from Epstein. Subject of 1988 60 Minutes investigation for sexual assault. Visited Epstein in jail 67 times. Subject of racketeering complaint 2010."
+  },
+  "family_members": [
+    {
+      "entity_id": "person_026",
+      "name": "Arnaud Brunel",
+      "aliases": [
+        "ARNAUD BRUNEL"
+      ],
+      "relationship": "brother",
+      "relationship_to": "person_025",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "verification_claim"
+    }
+  ],
+  "associates": [
+    {
+      "entity_id": "person_001",
+      "name": "Jeffrey Edward Epstein",
+      "relationship": "financier/co-conspirator",
+      "relationship_context": "$1M line of credit in 2005 to establish MC2. Brunel visited Epstein ~67 times in jail. Filed lawsuit against Epstein 2015 for reputational damages.",
+      "relationship_start": "2005",
+      "relationship_type": "business partner/alleged co-conspirator",
+      "confidence": 0.87,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "5",
+        "20",
+        "24",
+        "27",
+        "7",
+        "16",
+        "29",
+        "47",
+        "28",
+        "35",
+        "26",
+        "19",
+        "34",
+        "65",
+        "6",
+        "38",
+        "21",
+        "32",
+        "44",
+        "30",
+        "40",
+        "9",
+        "2",
+        "39",
+        "67",
+        "51",
+        "33",
+        "45",
+        "66",
+        "63",
+        "41",
+        "68",
+        "61",
+        "43",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_027",
+      "name": "Claude Haddad",
+      "aliases": [
+        "CLAUDE HADDAD"
+      ],
+      "occupations": [
+        "modeling agent"
+      ],
+      "relationship": "colleague/fellow agent",
+      "relationship_context": "Fellow agent at Karin Models Paris, subject of same 60 Minutes sexual assault investigation 1988",
+      "confidence": 0.2,
+      "verification_status": "Speculative",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "66",
+        "67"
+      ]
+    },
+    {
+      "entity_id": "person_028",
+      "name": "Jeffrey Fuller",
+      "aliases": [
+        "JEFFREY FULLER"
+      ],
+      "relationship": "business partner",
+      "relationship_context": "Co-founded MC2 Model Management with Brunel in 2005",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "68"
+      ]
+    },
+    {
+      "entity_id": "person_029",
+      "name": "Aline Weber",
+      "relationship": "model represented",
+      "relationship_context": "Model who went on to successful career via Karin/MC2",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_030",
+      "name": "Ginta Lapina",
+      "relationship": "model represented",
+      "relationship_context": "Model who went on to successful career via MC2",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_031",
+      "name": "Rebecca Romijn-Stamos",
+      "aliases": [
+        "Rebecca Romign-Stamos"
+      ],
+      "relationship": "model represented",
+      "occupations": [
+        "model",
+        "actress"
+      ],
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_032",
+      "name": "Estella Warren",
+      "relationship": "model represented",
+      "occupations": [
+        "model"
+      ],
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_033",
+      "name": "Christy Turlington",
+      "relationship": "model discovered",
+      "relationship_context": "Brunel 'discovered' her when she was 14",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_034",
+      "name": "Liu Dan",
+      "relationship": "model represented",
+      "relationship_context": "MC2 model",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_035",
+      "name": "Sessilee Lopez",
+      "relationship": "model represented",
+      "relationship_context": "MC2 model",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_036",
+      "name": "Anastasia Lagune",
+      "relationship": "model represented",
+      "relationship_context": "MC2 model",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_037",
+      "name": "Eve Doll",
+      "relationship": "model represented",
+      "relationship_context": "MC2 model",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "person_038",
+      "name": "Alina Olegnova",
+      "relationship": "model represented",
+      "relationship_context": "MC2 model",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    }
+  ],
+  "organizations": [
+    {
+      "entity_id": "org_033",
+      "name": "Karin Models",
+      "org_type": "modeling agency",
+      "location": "Paris",
+      "founded_year": 1976,
+      "relationship": "employee then owner (purchased from original owner)",
+      "description": "Paris modeling agency, Brunel began career here 1976",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_034",
+      "name": "Karin Models of America",
+      "org_type": "modeling agency",
+      "location": "New York and Miami",
+      "founded_year": 1995,
+      "dissolved_year": 2005,
+      "relationship": "founder (April 1995), became MC2 in 2005",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_035",
+      "name": "MC2 Model Management",
+      "org_type": "modeling agency",
+      "location": "New York, Miami, Tel Aviv",
+      "founded_year": 2005,
+      "relationship": "founder/owner (85% stake)",
+      "description": "Founded with $1M line of credit from Epstein and Jeffrey Fuller. Mid-list agency with worldwide branches.",
+      "confidence": 0.95,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "19"
+      ]
+    },
+    {
+      "entity_id": "org_036",
+      "name": "60 Minutes",
+      "org_type": "news program",
+      "relationship": "investigated Brunel in 1988 for sexual assault claims",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_037",
+      "name": "Next Model Management",
+      "org_type": "modeling agency",
+      "founded_year": 1988,
+      "relationship": "partner (1988-April 1995)",
+      "description": "Powerhouse agency, Brunel took part in launch and remained partner until 1995",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_038",
+      "name": "Scouting I International Co.",
+      "org_type": "company",
+      "location": "Florida",
+      "founded_year": 2011,
+      "dissolved_year": "unknown",
+      "description": "Filed in Florida Jan 13 2011, no longer active. Related to Brunel's operations."
+    },
+    {
+      "entity_id": "org_039",
+      "name": "Daily Beast",
+      "org_type": "news publication",
+      "relationship": "reported 2010 racketeering complaint",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_040",
+      "name": "U.S. District Court for the Southern District of Florida",
+      "org_type": "court",
+      "relationship": "venue for 2010 racketeering complaint",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    }
+  ],
+  "locations": [
+    {
+      "entity_id": "location_017",
+      "name": "1674 Alton Road",
+      "location_type": "residence",
+      "address": "1674 Alton Road",
+      "city": "Miami Beach",
+      "state": "Florida",
+      "country": "USA",
+      "description": "Brunel's residence"
+    },
+    {
+      "entity_id": "location_018",
+      "name": "Paris",
+      "location_type": "city",
+      "country": "France",
+      "description": "Location of Karin Models agency"
+    },
+    {
+      "entity_id": "location_019",
+      "name": "Tel Aviv",
+      "location_type": "city",
+      "country": "Israel",
+      "description": "MC2 agency branch location"
+    }
+  ],
+  "legal_cases": [
+    {
+      "entity_id": "legal_016",
+      "case_name": "60 Minutes sexual assault investigation",
+      "filed_date": "1988-12-18",
+      "description": "Dec 18 1988 episode 'American Models in Paris' featuring Claude Haddad and Jeanluc Brunelle. Over dozen models said they were sexually assaulted by Brunel and Haddad.",
+      "confidence": 0.733,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_017",
+      "case_name": "Racketeering complaint",
+      "filed_date": "2010",
+      "court": "U.S. District Court for the Southern District of Florida",
+      "description": "Alleged victim complaint reported by Daily Beast stating Epstein, Brunel and others 'deliberately engaged in pattern of racketeering involving luring minor children through MC2, mostly girls under 17, to engage in sexual play for money.'",
+      "confidence": 0.733,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_018",
+      "case_name": "Brunel vs Epstein",
+      "filed_date": "2015",
+      "description": "Brunel filed lawsuit against Epstein for damages to his reputation that hurt his business",
+      "confidence": 0.733,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    }
+  ],
+  "events": [
+    {
+      "entity_id": "event_041",
+      "name": "Began career at Karin Models Paris",
+      "event_date": "1976",
+      "location": "location_018",
+      "description": "Started working at Karin Models in Paris",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_042",
+      "name": "Purchased Karin Models from original owner",
+      "event_date": "unknown",
+      "location": "location_018",
+      "confidence": 0.733,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_043",
+      "name": "60 Minutes investigation broadcast",
+      "event_date": "1988-12-18",
+      "description": "Episode aired with over dozen models alleging sexual assault",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_044",
+      "name": "Co-founded Next Model Management",
+      "event_date": "1988",
+      "description": "Took part in launch of powerhouse agency",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_045",
+      "name": "Left Next Model Management",
+      "event_date": "1995-04",
+      "description": "Departed partnership to establish Karin Models in NY/Miami",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_046",
+      "name": "Established Karin Models in New York and Miami",
+      "event_date": "1995-04",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_047",
+      "name": "Received $1M line of credit from Epstein",
+      "event_date": "2005",
+      "description": "Epstein provided $1M line of credit to establish MC2",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_048",
+      "name": "Founded MC2 Model Management",
+      "event_date": "2005",
+      "description": "Karin Models of America became MC2, co-founded with Jeffrey Fuller",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_049",
+      "name": "Visited Epstein in jail repeatedly",
+      "event_date": "2008-2009",
+      "description": "Visited Epstein approximately 67 times while he was serving sentence",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_050",
+      "name": "Racketeering complaint filed",
+      "event_date": "2010",
+      "description": "Alleged victim filed complaint to US District Court",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_051",
+      "name": "Filed Scouting I International Co",
+      "event_date": "2011-01-13",
+      "location": "Florida",
+      "description": "Corporate entity filed in Florida (no longer active)",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_052",
+      "name": "Sued Epstein",
+      "event_date": "2015",
+      "description": "Filed lawsuit for reputational damages",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    }
+  ],
+  "media_references": [
+    {
+      "title": "Bad and Beautiful: Inside the Dazzling and Deadly World of Supermodels",
+      "author": "Ian Halperin",
+      "year": 2001,
+      "description": "Chapter 26 'Straight, No Chaser' details 60 Minutes interview and Brunel's activities with Claude Haddad"
+    }
+  ],
+  "extracted_stats": {
+    "persons": 15,
+    "organizations": 8,
+    "locations": 3,
+    "legal_cases": 3,
+    "events": 12,
+    "media_references": 1,
+    "total_entities": 42
+  },
+  "notes": [
+    "Avoided all summons to appear in court",
+    "French citizen but lives mostly in US to avoid paying taxes",
+    "No criminal charges filed despite multiple accusations",
+    "67 jail visits to Epstein shows extremely close relationship despite later lawsuit"
+  ]
+}

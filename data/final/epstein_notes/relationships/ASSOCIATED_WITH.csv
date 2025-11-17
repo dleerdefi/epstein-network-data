@@ -1,0 +1,32 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_068,person_ref_99460,ASSOCIATED_WITH,,,0.7,Listed in associates,Unverified
+person_068,person_ref_98321,ASSOCIATED_WITH,,,0.7,Listed in associates,Unverified
+person_136,person_001,ASSOCIATED_WITH,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Circled in JE address book,Factual
+person_001,person_027,ASSOCIATED_WITH,false,66;67,0.2,Social/business connection. Traveled together to Thailand in 2001,Speculative
+person_132,org_093,ASSOCIATED_WITH,,27;26;28,1.0,Offered Tedder's Foreign Security Trust Program through,Factual
+person_132,org_094,ASSOCIATED_WITH,,,0.7,Offered Tedder's Foreign Security Trust Program through,Unverified
+person_132,org_095,ASSOCIATED_WITH,,,0.7,Offered Tedder's Foreign Security Trust Program through,Unverified
+person_003,person_055,ASSOCIATED_WITH,false,,0.7,"Has relationship with Sharon, does business in Israel",Unverified
+person_003,person_056,ASSOCIATED_WITH,false,,0.7,"Business partnership. Sold 200,000 Limited shares in March for $9.2M, holds 4.76M shares worth $199M",Unverified
+person_004,person_041,ASSOCIATED_WITH,false,,0.7,Contact from well-known publishing family provided entry into publishing business (per 1954 FBI interview of Robert Hallandale),Unverified
+person_132,org_096,ASSOCIATED_WITH,,,0.7,Allegedly handled Al Yamamah deal commissions through Leese,Unverified
+person_150,person_158d,ASSOCIATED_WITH,,,0.3,,Speculative
+person_132,org_097,ASSOCIATED_WITH,,,0.3,,Speculative
+person_156,person_149,ASSOCIATED_WITH,,,0.7,Personal friendship. Befriended Starr at Kirkland Ellis,Unverified
+person_137,person_012,ASSOCIATED_WITH,,65,0.733,College friends. Clinton commuted Prosperi's sentence from 5 years federal prison to 3 years house arrest in 2001,Unverified
+person_066,person_151c,ASSOCIATED_WITH,,,0.7,Karen Dunn is her senior advisor,Unverified
+person_137,person_001,ASSOCIATED_WITH,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,"Visited JE in jail, possibly JE's private investigator called 'Paul'",Factual
+person_024,person_001,ASSOCIATED_WITH,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,"JE worked at Towers Corp, Hoffenberg claims JE stole from company",Factual
+person_134,person_001,ASSOCIATED_WITH,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,"According to Alan Dershowitz, kept a regular 'room' at JE's Palm Beach mansion",Factual
+person_002,person_025,ASSOCIATED_WITH,false,65,0.733,Friend and business associate. Allegedly introduced Epstein to Clinton. Friends with Clinton's assistant Doug Bands.,Unverified
+person_002,person_021,ASSOCIATED_WITH,false,,0.7,"Direct friendship. Clinton's assistant, friends with Maxwell",Unverified
+person_067,person_068,ASSOCIATED_WITH,false,,0.7,Kellen lived with Story Cowles at one point,Unverified
+person_002,person_001,ASSOCIATED_WITH,false,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Long-time romantic/business partner. Met in NYC in 1992 after father's death. Allegedly intimately involved in all of Epstein's crimes. Helped scout and procure girls since mid-1990s.,Factual
+person_150,person_158c,ASSOCIATED_WITH,,,0.3,,Speculative
+person_150,person_158a,ASSOCIATED_WITH,,,0.7,"Roommates. Roomed together at Yale Law School, Sweet served as deputy mayor under Lindsay 1966-1969",Unverified
+person_002,person_024,ASSOCIATED_WITH,false,21;23;24,0.733,"Maxwell attended Chelsea Clinton's wedding July 31, 2010 in Rhinebeck NY, photographed by OK magazine",Unverified
+person_004,person_044,ASSOCIATED_WITH,false,,0.7,"Maxwell attempted partnership 1969 with Leasco (computer leasing), but Leasco nervous about Pergamon finances, led to Board of Trade inquiry",Unverified
+person_136,person_136b,ASSOCIATED_WITH,,,0.7,Sold super yacht Force Blue to Autumn Sailing Ltd,Unverified
+person_208,person_001,ASSOCIATED_WITH,,,0.8,"Met at Interlochen Music School, Michigan when she was 13",Unverified
+person_203,person_025,ASSOCIATED_WITH,,,0.8,Traveled on Lolita Express with Bill Clinton in 2002,Unverified
+person_067,person_070,ASSOCIATED_WITH,false,,0.7,Shown photo for identification during March 24 2010 deposition,Unverified

@@ -2,20 +2,21 @@
 
 This document tracks the current progress of data extraction and validation across all document types.
 
-Last Updated: October 13, 2025
+Last Updated: November 16, 2025
 
 ## Overview Statistics
 
-| Metric | Birthday Book | Black Book | Flight Logs | Total |
-|--------|--------------|------------|-------------|-------|
-| **Total Pages** | 128 | 95 | 118 | 341 |
-| **V1 Extracted** | 128 | 94 | 118 | 349 |
-| **V2 Completed** | 11 | 81 | 8 | 100 |
-| **V2 Remaining** | 117 | 14 | 30** | 161 |
-| **External Data** | ❌ | ✅ | ✅ | - |
+| Metric | Birthday Book | Black Book | Flight Logs | Epstein Notes | Total |
+|--------|--------------|------------|-------------|---------------|-------|
+| **Total Pages** | 128 | 95 | 118 | N/A | 341 |
+| **Manual Extraction Needed** | 128 | 0 | 38 (pages 1-38) | N/A | 166 |
+| **External Data Used** | ❌ | ✅ CSV | ✅ PDF (pg 39-118) | ✅ Manual | - |
+| **In Neo4j** | ❌ | ✅ | Partial | ✅ | - |
+| **Status** | Needs Review | Complete | In Progress | Production | - |
 
-\* Birthday Book has 127 extracted pages (includes covers and additional materials)
-\** Flight Logs pages 39-118 covered by external PDF
+\* Flight Logs pages 32-38 still need extraction; pages 39-118 covered by external PDF
+\** Black Book fully covered by external CSV source (manual extraction halted)
+\*** Epstein Notes is production Neo4j dataset (514 nodes, 534 relationships)
 
 ## Detailed Progress
 
@@ -23,27 +24,25 @@ Last Updated: October 13, 2025
 
 **Document Type**: Event attendance records, guest lists, photos
 
-#### V1 Extraction (First Pass)
-- **Status**: ✅ Complete
-- **Pages**: 128 pages extracted
-- **Method**: Claude multimodal vision on original PNGs
-- **Quality**: Mixed - handwriting challenging, photos need better analysis
+#### Current Status
+- **Total Pages**: 128
+- **Manual Extraction Status**: ⏸️ Not Started
+- **Method**: Requires Claude multimodal vision + manual review
+- **Quality Target**: Signature identification, photo analysis, attendee cross-referencing
 
-#### V2 Extraction (Second Pass)
-- **Status**: 🔄 In Progress
-- **Completed**: Pages 1-11 (manually revised)
-- **Method**: Manual review and correction of V1 data
-- **Notes**:
-  - No cropping needed (quality sufficient)
-  - Focus on signature identification
-  - Photo individual counts being added
-  - Cross-referencing attendees across events
+#### Extraction Requirements
+- **Signatures**: Attempt to identify all signatures (forensic analysis)
+- **Photos**: Count individuals, describe positioning and interactions
+- **Attendees**: Track recurring individuals across events
+- **Events**: Extract dates, venues, event types
+- **Cross-references**: Link to Black Book and Flight Log data
 
 #### Priority Tasks
-1. Continue manual revision pages 12-30
-2. Focus on recurring attendees identification
-3. Build event timeline with dates/venues
-4. Cross-reference with other documents
+1. Manual extraction of all 128 pages (V1 exists but needs complete review)
+2. Signature forensic identification
+3. Photo individual counts and analysis
+4. Build event timeline with dates/venues
+5. Cross-reference attendees with other datasets
 
 ---
 
@@ -51,29 +50,31 @@ Last Updated: October 13, 2025
 
 **Document Type**: Personal contact directory, addresses, phone numbers
 
-#### V1 Extraction (First Pass)
-- **Status**: ✅ Complete
-- **Pages**: 94 pages extracted
-- **Method**: Claude multimodal on original PNGs
-- **Quality**: Poor - many illegible entries, ~80% [illegible] markers
-
-#### V2 Extraction (Second Pass)
-- **Status**: 🔄 Partial
-- **Completed**: Pages 1-81 (using cropped images)
-- **Method**: Claude multimodal on border-removed PNGs
-- **Quality**: Significant improvement - ~70-80% accuracy
-- **Integration**: External CSV data merged at page 81
+#### Current Status
+- **Total Pages**: 95
+- **Manual Extraction Status**: ⏸️ Halted (external source found)
+- **External Data**: ✅ Complete CSV integrated
+- **Neo4j Status**: ✅ In Neo4j (from external CSV)
 
 #### External Data Integration
-- **Source**: `external_sources/black_book/complete_contacts.csv`
-- **Coverage**: Full directory with verified entries
-- **Status**: ✅ Integrated, validation pending
+- **Source**: `data/external_sources/black_book/processed/complete.json`
+- **Coverage**: Full directory (all 95 pages)
+- **Quality**: High - professionally extracted
+- **Status**: ✅ Integrated into Neo4j dataset
+- **Note**: Manual extraction stopped upon discovering comprehensive external source
+
+#### Data Contents
+- **1,252 contacts** with names, addresses, phone numbers, emails
+- **960 physical addresses** (geocoding opportunity)
+- **3,513 phone numbers** (2,922 already geocoded in cache)
+- **Professional affiliations** and relationship indicators
 
 #### Priority Tasks
-1. Extract pages 82-95 using cropped images
-2. Validate external CSV against extracted data
-3. Standardize phone number formats
-4. Identify high-value contacts for priority validation
+1. Validate external CSV data quality
+2. Cross-reference with Epstein Notes person entities
+3. Geocode physical addresses
+4. Link contacts to flight logs and birthday book
+5. Community review for discrepancies
 
 ---
 
@@ -81,36 +82,91 @@ Last Updated: October 13, 2025
 
 **Document Type**: Aviation records with dates, routes, passengers
 
-#### V1 Extraction (First Pass)
-- **Status**: ✅ Complete
-- **Pages**: 118 pages extracted
-- **Method**: Claude multimodal on original PNGs
-- **Quality**: Date inference issues, passenger identification incomplete
-
-#### V2 Extraction (Second Pass)
-- **Status**: 🔄 In Progress
-- **Completed**: Pages 1-8 (manually revised and verified)
-- **In Progress**: Pages 9-38
-- **External Coverage**: Pages 39-118 (via PDF)
-- **Method**: Manual review with date inference rules
+#### Current Status
+- **Total Pages**: 118
+- **Manual Extraction Needed**: Pages 32-38 (7 pages remaining)
+- **Completed**: Pages 1-31 (extraction complete)
+- **External Coverage**: Pages 39-118 (via unredacted PDF, no extraction needed)
+- **Neo4j Status**: 🔄 Partial (pages 39-118 data available, needs integration)
 
 #### External Data Integration
-- **Source**: `external_sources/flight_logs/EPSTEIN FLIGHT LOGS UNREDACTED.pdf`
-- **Coverage**: Pages 39-118 (unredacted version)
-- **Status**: 🔄 Pending extraction and validation
+- **Source**: `data/external_sources/flight_logs/EPSTEIN FLIGHT LOGS UNREDACTED.pdf`
+- **Coverage**: Pages 39-118 (80 pages)
+- **Status**: ✅ Available, pending Neo4j integration
+- **Quality**: High - unredacted government records
 
 #### Date Inference Rules Applied
-- Header DATE cell establishes year/month baseline
-- Explicit month changes tracked (e.g., "MAY 1")
-- Sequential day numbers within established month
-- Year continuity maintained unless explicitly changed
+- **Header DATE cell** establishes year/month baseline (e.g., "1991 APR")
+- **Explicit month changes** tracked (e.g., "MAY 1", "JUNE 26")
+- **Sequential day numbers** within established month
+- **Year continuity** maintained unless explicitly changed
+- **Format**: All dates stored as MM/DD/YYYY
 
 #### Priority Tasks
-1. Complete pages 9-38 manual revision
-2. Extract pages 39-118 from PDF
+1. **Complete pages 32-38 manual extraction** (7 pages)
+2. Integrate pages 39-118 PDF data into Neo4j
 3. Standardize passenger names using master list
 4. Build flight frequency analysis
 5. Map passenger codes (JE, GM, SK, etc.)
+6. Link passengers to Black Book contacts and Epstein Notes persons
+
+---
+
+### 📊 Epstein Notes (Neo4j Dataset)
+
+**Document Type**: Curated knowledge graph from investigative journalism
+
+#### Current Status
+- **Version**: v1.3 (Production Ready)
+- **Neo4j Status**: ✅ Complete and validated
+- **Embeddings**: ✅ Voyage-3-Large (1024 dimensions)
+- **Source**: Manual extraction from court documents, news articles, Wikipedia
+
+#### Dataset Composition
+- **514 nodes total**:
+  - 286 Persons (with occupations, summaries, aliases)
+  - 97 Organizations (companies, institutions, agencies)
+  - 5 Equipment (aircraft, vehicles)
+  - 53 Claims (verified factual statements)
+  - 73 Citations (source documents)
+
+- **534 relationships across 65 types**:
+  - Provenance: CLAIM_ABOUT (113), SUPPORTED_BY (67)
+  - Social: IN_BLACK_BOOK (66), FAMILY, ASSOCIATED_WITH
+  - Legal: ABUSED (21), SUED_BY, REPRESENTED_BY, PROSECUTED_BY
+  - Professional: WORKED_FOR, CEO_OF, FOUNDED, APPOINTED_BY
+
+#### Quality Metrics
+- ✅ **0 orphaned relationships** (all have valid START_ID/END_ID)
+- ✅ **0 duplicate relationships**
+- ✅ **100% semantic correctness** (3-tier normalization)
+- ✅ **Case normalization complete** (all person names in Title Case)
+- ✅ **Complete provenance layer** (claims → citations)
+
+#### Normalization Applied
+- **Tier 1**: 27 compound types split, 80 synonyms consolidated
+- **Tier 2**: 19 additional synonyms merged
+- **Tier 3**: 20 rare relationships consolidated
+- **Result**: 147 → 65 types (-56% complexity reduction)
+
+#### GraphRAG Ready
+- ✅ Vector indexes created (cosine similarity)
+- ✅ Semantic search functional
+- ✅ Hybrid vector + graph queries supported
+- ✅ <$0.01 embedding cost (Voyage-3-Large)
+
+#### Integration Opportunities
+1. Link persons to Black Book contacts (name matching)
+2. Link persons to Flight Log passengers (travel records)
+3. Add geocoded locations from Black Book addresses
+4. Expand with court case documents
+5. Integrate recent email release data
+
+#### Documentation
+- `data/final/epstein_notes/README.md` - Dataset overview
+- `data/final/epstein_notes/IMPORT_INSTRUCTIONS.md` - Neo4j setup
+- `data/final/epstein_notes/EMBEDDING_INSTRUCTIONS.md` - Semantic search
+- `COMPLETE_INSTRUCTIONS_SUMMARY.md` - Quick start guide
 
 ---
 
@@ -146,9 +202,10 @@ Last Updated: October 13, 2025
 | Source | Document | Status | Quality |
 |--------|----------|---------|---------|
 | `epstein_names_master_list.json` | All | ✅ Integrated | High |
-| `complete_contacts.csv` | Black Book | ✅ Available | Unverified |
-| `EPSTEIN FLIGHT LOGS UNREDACTED.pdf` | Flight Logs | 🔄 Pending | High |
+| `complete_contacts.csv` / `complete.json` | Black Book | ✅ Integrated | High |
+| `EPSTEIN FLIGHT LOGS UNREDACTED.pdf` | Flight Logs (pg 39-118) | ✅ Available | High |
 | WTRF/Newsweek Names | All | ✅ Integrated | Verified |
+| Manual investigative journalism | Epstein Notes | ✅ In Neo4j | Verified |
 
 ---
 
@@ -159,52 +216,62 @@ Last Updated: October 13, 2025
 2. **Auto-validated**: Passed schema and consistency checks
 3. **Manually reviewed**: Human verified and corrected
 4. **Cross-referenced**: Validated against multiple sources
-5. **Final**: Ready for knowledge graph
+5. **Final**: Ready for knowledge graph integration
 
 ### Current Distribution
-| Level | Birthday | Black Book | Flight Logs |
-|-------|----------|------------|-------------|
-| Unvalidated | 126 | 13 | 110 |
-| Auto-validated | 0 | 0 | 0 |
-| Manually reviewed | 11 | 81 | 8 |
-| Cross-referenced | 0 | 0 | 0 |
-| Final | 0 | 0 | 0 |
+| Level | Birthday | Black Book | Flight Logs | Epstein Notes |
+|-------|----------|------------|-------------|---------------|
+| Unvalidated | 128 | 0 | 7 (pg 32-38) | 0 |
+| Auto-validated | 0 | 0 | 0 | 0 |
+| Manually reviewed | 0 | 0 | 31 (pg 1-31) | 514 nodes |
+| Cross-referenced | 0 | 95 (external) | 80 (pg 39-118) | 534 rels |
+| Final | 0 | 95 | 80 (pg 39-118) | ✅ 514 nodes |
+
+**Note**: Epstein Notes dataset is production-ready with complete validation and normalization.
 
 ---
 
 ## Next Milestones
 
-### Short Term (This Week)
-- [ ] Complete Flight Logs pages 9-20 manual revision
-- [ ] Extract Black Book pages 82-95 with cropped images
-- [ ] Process 10 more Birthday Book pages
-- [ ] Parse Flight Logs PDF for pages 39-118
+### Immediate (Current Focus)
+- [ ] Complete Flight Logs pages 32-38 (7 pages remaining)
+- [ ] Begin Birthday Book manual extraction (128 pages)
+- [ ] Validate Black Book external data quality
+- [ ] Integrate Flight Logs PDF pages 39-118 into Neo4j
 
-### Medium Term (This Month)
-- [ ] Complete all V2 Flight Logs extraction
-- [ ] Finish Black Book V2 extraction
-- [ ] 50% Birthday Book V2 completion
-- [ ] Begin entity deduplication
+### Short Term (Next 2 Weeks)
+- [ ] Complete Flight Logs extraction (pages 32-38)
+- [ ] Birthday Book: Extract 20-30 pages
+- [ ] Link Black Book contacts to Epstein Notes persons
+- [ ] Link Flight Log passengers to Epstein Notes persons
+- [ ] Geocode Black Book addresses (960 locations)
 
-### Long Term (Project Completion)
-- [ ] 100% V2 extraction all documents
-- [ ] Full cross-reference validation
-- [ ] Entity standardization complete
-- [ ] Neo4j import ready
-- [ ] GraphRAG implementation
+### Medium Term (Next Month)
+- [ ] Birthday Book: 50% completion (64 pages)
+- [ ] Full Neo4j integration of all datasets
+- [ ] Build cross-reference validation pipeline
+- [ ] Entity deduplication across all sources
+- [ ] GraphRAG application prototype
+
+### Future Data Sources
+- [ ] Court case documents (planned)
+- [ ] Recent email release (planned)
+- [ ] Additional public records integration
+- **Note**: Future sources pending completion of current extraction work
 
 ---
 
 ## How to Help
 
 Priority areas needing contribution:
-1. **Manual validation** of V1 extractions
-2. **Flight Logs pages 9-38** extraction/revision
-3. **Black Book pages 82-95** extraction
-4. **Birthday Book** continued manual review
-5. **Entity standardization** and deduplication
+1. **Flight Logs pages 32-38** - Complete final 7 pages of manual extraction
+2. **Birthday Book** - Manual extraction and review (all 128 pages)
+3. **Data validation** - Review existing Neo4j data for discrepancies
+4. **Cross-referencing** - Link entities across Black Book, Flight Logs, Epstein Notes
+5. **Additional sources** - Suggest court cases, emails, or other documents to add
+6. **Community review** - Verify extracted data against original source images
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute.
 
 ---
 

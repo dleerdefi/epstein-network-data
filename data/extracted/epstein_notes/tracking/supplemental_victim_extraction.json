@@ -1,0 +1,364 @@
+{
+  "extraction_type": "supplemental_victim_profiles_NORMALIZED",
+  "extraction_date": "2025-11-14",
+  "normalization_date": "2025-11-14",
+  "normalization_note": "Added explicit relationships[] arrays extracted from alleged_abusers, legal_representation, recruited_by fields for CSV generation compatibility",
+  "reason": "Quality assurance pass - missed victims scattered throughout document",
+  "source_document": "Jeffrey Epstein Research.md",
+  "total_profiles_added": 8,
+  "missing_profiles": [
+    {
+      "entity_id": "person_201",
+      "name": "E.W.",
+      "full_name": "Courtney Wild",
+      "aliases": [
+        "E.W.",
+        "Courtney Wild"
+      ],
+      "category": "victim",
+      "housing_status": "homeless",
+      "summary": "Homeless JE victim. Received FBI letters Jan 10, 2008 and May 30, 2008 advising case under investigation. Hired Brad Edwards June 13, 2008 to represent her in federal suit claiming victim rights violated by JE's NPA under Crime Victims' Rights Act (CVRA). Also abused by Alan Dershowitz.",
+      "legal_events": [
+        "FBI letter Jan 10, 2008",
+        "FBI letter May 30, 2008",
+        "Hired Brad Edwards June 13, 2008",
+        "Federal CVRA lawsuit"
+      ],
+      "alleged_abusers": [
+        "Jeffrey Epstein",
+        "Alan Dershowitz"
+      ],
+      "legal_representation": "Bradley J. Edwards",
+      "source_line": 444,
+      "entity_count": 8,
+      "verification_cross_ref": {
+        "claim_id": "5.1.2",
+        "verification_status": "Factual",
+        "citations": [
+          "43"
+        ]
+      },
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Homeless JE victim - FBI investigation 2008",
+          "confidence": 0.87,
+          "verification_status": "Factual",
+          "citations": [
+            "43"
+          ]
+        },
+        {
+          "entity_id": "person_ref_dershowitz",
+          "name": "Alan Dershowitz",
+          "type": "ABUSED_BY",
+          "context": "Also abused by Alan Dershowitz",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_edwards",
+          "name": "Bradley J. Edwards",
+          "type": "REPRESENTED_BY",
+          "context": "Hired June 13, 2008 for federal CVRA lawsuit",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [
+            "43"
+          ]
+        }
+      ]
+    },
+    {
+      "entity_id": "person_202",
+      "name": "A.H.",
+      "full_name": "Alexandra Hall",
+      "aliases": [
+        "A.H.",
+        "Jane Doe 3",
+        "Alexandra Hall"
+      ],
+      "category": "victim",
+      "summary": "Epstein sent roses to her after her high school play. Raped her after 3some with Nadia Marcinkova. Critical evidence of criminal activity pattern.",
+      "alleged_abusers": [
+        "Jeffrey Epstein",
+        "Nadia Marcinkova"
+      ],
+      "criminal_evidence": "Roses after high school play, rape after threesome with Marcinkova",
+      "source_line": 446,
+      "entity_count": 5,
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Sent roses after high school play, raped after threesome",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_071",
+          "name": "Nadia Marcinkova",
+          "type": "ABUSED_BY",
+          "context": "Raped after threesome with Marcinkova",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "entity_id": "person_203",
+      "name": "Chauntae Davies",
+      "occupations": [
+        "massage girl",
+        "actress"
+      ],
+      "category": "victim",
+      "summary": "JE California 'massage' girl who traveled on 'Lolita Express' with Bill Clinton in 2002. Actress with credits including HBO's Enlightened. In 2002 landed role as 'lingerie model' in Exposed, movie produced by softcore porn company MRG Entertainment.",
+      "flights": [
+        "Lolita Express with Bill Clinton 2002"
+      ],
+      "acting_credits": [
+        "HBO Enlightened",
+        "Exposed (2002) - lingerie model"
+      ],
+      "production_companies": [
+        "MRG Entertainment"
+      ],
+      "high_profile_connections": [
+        "Bill Clinton"
+      ],
+      "source_line": 448,
+      "entity_count": 8,
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "WORKED_FOR",
+          "context": "JE California 'massage' girl, traveled on Lolita Express",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_bill_clinton",
+          "name": "Bill Clinton",
+          "type": "TRAVELED_WITH",
+          "context": "Traveled on Lolita Express with Bill Clinton in 2002",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "entity_id": "person_204",
+      "name": "Tatiania Kovylinda",
+      "occupations": [
+        "Victoria Secret model"
+      ],
+      "category": "victim",
+      "summary": "Victoria Secret model provided by JE to Alan Dershowitz. Direct evidence of Epstein providing women to associates.",
+      "alleged_recipients": [
+        "Alan Dershowitz"
+      ],
+      "source": "Jeffrey Epstein",
+      "modeling_agency": "Victoria Secret",
+      "source_line": 450,
+      "entity_count": 4,
+      "relationships": [
+        {
+          "entity_id": "person_204",
+          "name": "Tatiania Kovylinda",
+          "type": "PROVIDED_TO",
+          "context": "Victoria Secret model provided by Epstein to Dershowitz",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_dershowitz",
+          "name": "Alan Dershowitz",
+          "type": "PROVIDED_TO",
+          "context": "Provided to Alan Dershowitz by Epstein",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "entity_id": "person_205",
+      "name": "Annie Farmer",
+      "category": "victim",
+      "summary": "Was assaulted by Ghislaine Maxwell and Jeffrey Epstein at Leslie Wexner's property. Connects Wexner directly to assault location.",
+      "alleged_abusers": [
+        "Ghislaine Maxwell",
+        "Jeffrey Epstein"
+      ],
+      "assault_location": "Leslie Wexner's property",
+      "significance": "Direct connection to Wexner estate",
+      "source_line": 452,
+      "entity_count": 4,
+      "relationships": [
+        {
+          "entity_id": "person_002",
+          "name": "Ghislaine Maxwell",
+          "type": "ABUSED_BY",
+          "context": "Assaulted at Leslie Wexner's property",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Assaulted at Leslie Wexner's property",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "entity_id": "person_206",
+      "name": "Natalya Malychev",
+      "category": "recruiter",
+      "summary": "Recruiter for Epstein. Recruited Jane Doe 43 from South Africa.",
+      "role": "recruiter",
+      "recruits": [
+        "Jane Doe 43"
+      ],
+      "source_line": 454,
+      "entity_count": 3,
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "WORKED_FOR",
+          "context": "Recruiter for Epstein",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_207",
+          "name": "Jane Doe 43",
+          "type": "RECRUITED",
+          "context": "Recruited Jane Doe 43 from South Africa",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "entity_id": "person_207",
+      "name": "Jane Doe 43",
+      "nationality": "South African",
+      "category": "victim",
+      "summary": "From South Africa. Claimed JE kept trafficking after his arrest in 2006. Recruited by Natalya Malychev. Critical evidence of post-arrest criminal activity.",
+      "recruited_by": "Natalya Malychev",
+      "significance": "Evidence of continued trafficking AFTER 2006 arrest",
+      "timeline": "Post-2006 arrest",
+      "legal_representation": "David Boies (personally representing)",
+      "source_line": 456,
+      "entity_count": 6,
+      "cross_ref_line": 221,
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Trafficked after 2006 arrest - critical post-arrest evidence",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_206",
+          "name": "Natalya Malychev",
+          "type": "RECRUITED_BY",
+          "context": "Recruited from South Africa by Natalya Malychev",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_david_boies",
+          "name": "David Boies",
+          "type": "REPRESENTED_BY",
+          "context": "Personally represented by David Boies",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "entity_id": "person_208",
+      "name": "Nadia Bjorlin",
+      "occupations": [
+        "opera singer",
+        "actress"
+      ],
+      "category": "victim",
+      "summary": "Opera singer and Days of Our Lives actress whom Epstein met at Interlochen Music School in Michigan when she was 13. Evidence of targeting minors at educational institutions.",
+      "age_at_first_contact": 13,
+      "first_contact_location": "Interlochen Music School, Michigan",
+      "acting_credits": [
+        "Days of Our Lives"
+      ],
+      "occupation_details": "opera singer",
+      "significance": "Pattern of targeting minors at schools",
+      "source_line": 458,
+      "entity_count": 6,
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "MET",
+          "context": "Met at Interlochen Music School, Michigan when she was 13",
+          "confidence": 0.8,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    }
+  ],
+  "entity_count_summary": {
+    "total_entities": 44,
+    "person_nodes": 8,
+    "organizations": 4,
+    "locations": 3,
+    "legal_events": 7,
+    "relationships_extracted": 22
+  },
+  "quality_metrics": {
+    "previously_missing": 8,
+    "now_extracted": 8,
+    "coverage_improvement": "100%",
+    "high_priority_victims_recovered": [
+      "E.W./Courtney Wild",
+      "A.H./Alexandra Hall",
+      "Jane Doe 43"
+    ],
+    "post_arrest_evidence": "Jane Doe 43 - trafficking continued after 2006 arrest",
+    "high_profile_connections": [
+      "Bill Clinton (Chauntae Davies)",
+      "Alan Dershowitz (Tatiania Kovylinda)",
+      "Leslie Wexner (Annie Farmer)"
+    ]
+  },
+  "cross_reference_validation": {
+    "verification_document_claims_matched": 1,
+    "claim_5.1.2_now_has_entity": "person_201 (E.W./Courtney Wild)",
+    "jane_doe_43_david_boies_connection": "Confirmed line 221"
+  }
+}

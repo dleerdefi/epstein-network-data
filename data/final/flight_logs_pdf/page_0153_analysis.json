@@ -1,0 +1,1710 @@
+{
+  "page_number": 153,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:56.255731",
+  "chunk": "chunk_111-116",
+  "flights": [
+    {
+      "date": {
+        "original": "10/27/2010",
+        "parsed": "2010-10-27",
+        "display": "10/27/2010",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4222",
+        "iidd": "4222",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0001"
+    },
+    {
+      "date": {
+        "original": "04/26/2011",
+        "parsed": "2011-04-26",
+        "display": "04/26/2011",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "BQK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "BQK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Brunswick, GA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4223",
+        "iidd": "4223",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0002"
+    },
+    {
+      "date": {
+        "original": "08/03/2011",
+        "parsed": "2011-08-03",
+        "display": "08/03/2011",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BQK",
+        "to": "PBI",
+        "from_codes": [
+          "BQK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Brunswick, GA, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4224",
+        "iidd": "4224",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0003"
+    },
+    {
+      "date": {
+        "original": "12/01/2011",
+        "parsed": "2011-12-01",
+        "display": "12/01/2011",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4225",
+        "iidd": "4225",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0004"
+    },
+    {
+      "date": {
+        "original": "12/03/2011",
+        "parsed": "2011-12-03",
+        "display": "12/03/2011",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4226",
+        "iidd": "4226",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0005"
+    },
+    {
+      "date": {
+        "original": "12/13/2011",
+        "parsed": "2011-12-13",
+        "display": "12/13/2011",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "VQQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "VQQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Jacksonville, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4227",
+        "iidd": "4227",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0006"
+    },
+    {
+      "date": {
+        "original": "03/06/2012",
+        "parsed": "2012-03-06",
+        "display": "03/06/2012",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VQQ",
+        "to": "PBI",
+        "from_codes": [
+          "VQQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Jacksonville, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4228",
+        "iidd": "4228",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0007"
+    },
+    {
+      "date": {
+        "original": "03/16/2012",
+        "parsed": "2012-03-16",
+        "display": "03/16/2012",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4229",
+        "iidd": "4229",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0008"
+    },
+    {
+      "date": {
+        "original": "03/17/2012",
+        "parsed": "2012-03-17",
+        "display": "03/17/2012",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "LFPB",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4230",
+        "iidd": "4230",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0009"
+    },
+    {
+      "date": {
+        "original": "03/19/2012",
+        "parsed": "2012-03-19",
+        "display": "03/19/2012",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "EGHL",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "EGHL"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Lasham, England, United Kingdom",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4231",
+        "iidd": "4231",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0010"
+    },
+    {
+      "date": {
+        "original": "12/07/2012",
+        "parsed": "2012-12-07",
+        "display": "12/07/2012",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGSS",
+        "to": "JFK",
+        "from_codes": [
+          "EGSS"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Essex, England, United Kingdom",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4232",
+        "iidd": "4232",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0011"
+    },
+    {
+      "date": {
+        "original": "12/14/2012",
+        "parsed": "2012-12-14",
+        "display": "12/14/2012",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "TIST",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4233",
+        "iidd": "4233",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0012"
+    },
+    {
+      "date": {
+        "original": "01/10/2013",
+        "parsed": "2013-01-10",
+        "display": "01/10/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4234",
+        "iidd": "4234",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0013"
+    },
+    {
+      "date": {
+        "original": "02/07/2013",
+        "parsed": "2013-02-07",
+        "display": "02/07/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "BQK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "BQK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Brunswick, GA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4235",
+        "iidd": "4235",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0014"
+    },
+    {
+      "date": {
+        "original": "11/02/2013",
+        "parsed": "2013-11-02",
+        "display": "11/02/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BQK",
+        "to": "BQK",
+        "from_codes": [
+          "BQK"
+        ],
+        "to_codes": [
+          "BQK"
+        ],
+        "from_full": "Brunswick, GA, United States",
+        "to_full": "Brunswick, GA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4236",
+        "iidd": "4236",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0015"
+    },
+    {
+      "date": {
+        "original": "12/15/2013",
+        "parsed": "2013-12-15",
+        "display": "12/15/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BQK",
+        "to": "PBI",
+        "from_codes": [
+          "BQK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Brunswick, GA, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4237",
+        "iidd": "4237",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0016"
+    },
+    {
+      "date": {
+        "original": "12/21/2013",
+        "parsed": "2013-12-21",
+        "display": "12/21/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "SWF",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "SWF"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Newburgh, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4238",
+        "iidd": "4238",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0017"
+    },
+    {
+      "date": {
+        "original": "12/21/2013",
+        "parsed": "2013-12-21",
+        "display": "12/21/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SWF",
+        "to": "TIST",
+        "from_codes": [
+          "SWF"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Newburgh, NY, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4239",
+        "iidd": "4239",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0018"
+    },
+    {
+      "date": {
+        "original": "12/26/2013",
+        "parsed": "2013-12-26",
+        "display": "12/26/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "LGB",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "LGB"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Long Beach, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4240",
+        "iidd": "4240",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0019"
+    },
+    {
+      "date": {
+        "original": "12/27/2013",
+        "parsed": "2013-12-27",
+        "display": "12/27/2013",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LGB",
+        "to": "PBI",
+        "from_codes": [
+          "LGB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Long Beach, CA, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4241",
+        "iidd": "4241",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0020"
+    },
+    {
+      "date": {
+        "original": "03/03/2014",
+        "parsed": "2014-03-03",
+        "display": "03/03/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "BQK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "BQK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Brunswick, GA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4242",
+        "iidd": "4242",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0021"
+    },
+    {
+      "date": {
+        "original": "07/23/2014",
+        "parsed": "2014-07-23",
+        "display": "07/23/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BQK",
+        "to": "BQK",
+        "from_codes": [
+          "BQK"
+        ],
+        "to_codes": [
+          "BQK"
+        ],
+        "from_full": "Brunswick, GA, United States",
+        "to_full": "Brunswick, GA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4243",
+        "iidd": "4243",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0022"
+    },
+    {
+      "date": {
+        "original": "08/19/2014",
+        "parsed": "2014-08-19",
+        "display": "08/19/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BQK",
+        "to": "PBI",
+        "from_codes": [
+          "BQK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Brunswick, GA, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4244",
+        "iidd": "4244",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0023"
+    },
+    {
+      "date": {
+        "original": "10/03/2014",
+        "parsed": "2014-10-03",
+        "display": "10/03/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4245",
+        "iidd": "4245",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0024"
+    },
+    {
+      "date": {
+        "original": "10/29/2014",
+        "parsed": "2014-10-29",
+        "display": "10/29/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MYNN",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "MYNN"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Nassau, Bahamas",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4246",
+        "iidd": "4246",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0025"
+    },
+    {
+      "date": {
+        "original": "10/29/2014",
+        "parsed": "2014-10-29",
+        "display": "10/29/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MYNN",
+        "to": "PBI",
+        "from_codes": [
+          "MYNN"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Nassau, Bahamas",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4247",
+        "iidd": "4247",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0026"
+    },
+    {
+      "date": {
+        "original": "11/28/2014",
+        "parsed": "2014-11-28",
+        "display": "11/28/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4248",
+        "iidd": "4248",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0027"
+    },
+    {
+      "date": {
+        "original": "11/30/2014",
+        "parsed": "2014-11-30",
+        "display": "11/30/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "BOS",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "BOS"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Boston, MA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4249",
+        "iidd": "4249",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0028"
+    },
+    {
+      "date": {
+        "original": "12/01/2014",
+        "parsed": "2014-12-01",
+        "display": "12/01/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BOS",
+        "to": "EWR",
+        "from_codes": [
+          "BOS"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Boston, MA, United States",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4250",
+        "iidd": "4250",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0029"
+    },
+    {
+      "date": {
+        "original": "12/05/2014",
+        "parsed": "2014-12-05",
+        "display": "12/05/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR",
+        "to": "PBI",
+        "from_codes": [
+          "EWR"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Newark, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4251",
+        "iidd": "4251",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0030"
+    },
+    {
+      "date": {
+        "original": "12/09/2014",
+        "parsed": "2014-12-09",
+        "display": "12/09/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4252",
+        "iidd": "4252",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0031"
+    },
+    {
+      "date": {
+        "original": "12/24/2014",
+        "parsed": "2014-12-24",
+        "display": "12/24/2014",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4253",
+        "iidd": "4253",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0032"
+    },
+    {
+      "date": {
+        "original": "02/27/2015",
+        "parsed": "2015-02-27",
+        "display": "02/27/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4254",
+        "iidd": "4254",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0033"
+    },
+    {
+      "date": {
+        "original": "02/28/2015",
+        "parsed": "2015-02-28",
+        "display": "02/28/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "LFPB",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4255",
+        "iidd": "4255",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0034"
+    },
+    {
+      "date": {
+        "original": "03/09/2015",
+        "parsed": "2015-03-09",
+        "display": "03/09/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LPAZ",
+        "to": "TIST",
+        "from_codes": [
+          "LPAZ"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Santa Maria, Portugal",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4256",
+        "iidd": "4256",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0035"
+    },
+    {
+      "date": {
+        "original": "03/14/2015",
+        "parsed": "2015-03-14",
+        "display": "03/14/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4257",
+        "iidd": "4257",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0036"
+    },
+    {
+      "date": {
+        "original": "04/09/2015",
+        "parsed": "2015-04-09",
+        "display": "04/09/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "BQK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "BQK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Brunswick, GA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4258",
+        "iidd": "4258",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0037"
+    },
+    {
+      "date": {
+        "original": "04/28/2015",
+        "parsed": "2015-04-28",
+        "display": "04/28/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BQK",
+        "to": "PBI",
+        "from_codes": [
+          "BQK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Brunswick, GA, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4259",
+        "iidd": "4259",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0038"
+    },
+    {
+      "date": {
+        "original": "06/09/2015",
+        "parsed": "2015-06-09",
+        "display": "06/09/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4260",
+        "iidd": "4260",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0039"
+    },
+    {
+      "date": {
+        "original": "06/10/2015",
+        "parsed": "2015-06-10",
+        "display": "06/10/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4261",
+        "iidd": "4261",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0040"
+    },
+    {
+      "date": {
+        "original": "06/17/2015",
+        "parsed": "2015-06-17",
+        "display": "06/17/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4262",
+        "iidd": "4262",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0041"
+    },
+    {
+      "date": {
+        "original": "07/31/2015",
+        "parsed": "2015-07-31",
+        "display": "07/31/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "ABQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "ABQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Albuquerque, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4263",
+        "iidd": "4263",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0042"
+    },
+    {
+      "date": {
+        "original": "08/02/2015",
+        "parsed": "2015-08-02",
+        "display": "08/02/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ABQ",
+        "to": "SJC",
+        "from_codes": [
+          "ABQ"
+        ],
+        "to_codes": [
+          "SJC"
+        ],
+        "from_full": "Albuquerque, NM, United States",
+        "to_full": "San Jose, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4264",
+        "iidd": "4264",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0043"
+    },
+    {
+      "date": {
+        "original": "08/03/2015",
+        "parsed": "2015-08-03",
+        "display": "08/03/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SJC",
+        "to": "BUR",
+        "from_codes": [
+          "SJC"
+        ],
+        "to_codes": [
+          "BUR"
+        ],
+        "from_full": "San Jose, CA, United States",
+        "to_full": "Burbank, CA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4265",
+        "iidd": "4265",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0044"
+    },
+    {
+      "date": {
+        "original": "08/03/2015",
+        "parsed": "2015-08-03",
+        "display": "08/03/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BUR",
+        "to": "ABQ",
+        "from_codes": [
+          "BUR"
+        ],
+        "to_codes": [
+          "ABQ"
+        ],
+        "from_full": "Burbank, CA, United States",
+        "to_full": "Albuquerque, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4266",
+        "iidd": "4266",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0045"
+    },
+    {
+      "date": {
+        "original": "08/19/2015",
+        "parsed": "2015-08-19",
+        "display": "08/19/2015",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ABQ",
+        "to": "EWR",
+        "from_codes": [
+          "ABQ"
+        ],
+        "to_codes": [
+          "EWR"
+        ],
+        "from_full": "Albuquerque, NM, United States",
+        "to_full": "Newark, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "4267",
+        "iidd": "4267",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "111-116",
+      "v3_flight_id": "chunk_111-116_p005_r0046"
+    }
+  ]
+}

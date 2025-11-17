@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_054,org_086,ACQUIRED,,0.3,,Speculative

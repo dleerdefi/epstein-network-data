@@ -1,0 +1,603 @@
+{
+  "page_number": 106,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:05.974310",
+  "chunk": "chunk_061-070",
+  "flights": [
+    {
+      "date": {
+        "original": "09/15/2002",
+        "parsed": "2002-09-15",
+        "display": "09/15/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1596",
+        "iidd": "419",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Diane Fleetwood",
+          "code": "DF",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p008_r0002"
+    },
+    {
+      "date": {
+        "original": "09/16/2002",
+        "parsed": "2002-09-16",
+        "display": "09/16/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-135",
+        "iidd": "4011",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p008_r0005"
+    },
+    {
+      "date": {
+        "original": "09/21/2002",
+        "parsed": "2002-09-21",
+        "display": "09/21/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "LPAZ",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "LPAZ"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Santa Maria, Portugal",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "136",
+        "iidd": "422",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Kevin Spacey",
+          "code": "KS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Chris Tucker",
+          "code": "CT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Chauntae Davies",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Slang",
+          "code": "DS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Kennez",
+          "code": "JK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eric Nonacs",
+          "code": "EN",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Rodey Swater",
+          "code": "RS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Casey Wasserman",
+          "code": "CW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Laura Wasserman",
+          "code": "LW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ron Durkle",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gayle Smith",
+          "code": "GS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ira Magaziner",
+          "code": "IM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p008_r0006"
+    },
+    {
+      "date": {
+        "original": "09/22/2002",
+        "parsed": "2002-09-22",
+        "display": "09/22/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LPAZ",
+        "to": "DGAA",
+        "from_codes": [
+          "LPAZ"
+        ],
+        "to_codes": [
+          "DGAA"
+        ],
+        "from_full": "Santa Maria, Portugal",
+        "to_full": "Accra, Ghana",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "137",
+        "iidd": "441",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Kevin Spacey",
+          "code": "KS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Chris Tucker",
+          "code": "CT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Chauntae Davies",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Slang",
+          "code": "DS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Kennez",
+          "code": "JK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eric Nonacs",
+          "code": "EN",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Rodey Swater",
+          "code": "RS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Casey Wasserman",
+          "code": "CW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Laura Wasserman",
+          "code": "LW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ron Durkle",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gayle Smith",
+          "code": "GS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p008_r0025"
+    },
+    {
+      "date": {
+        "original": "09/23/2002",
+        "parsed": "2002-09-23",
+        "display": "09/23/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DGAA",
+        "to": "DNAA",
+        "from_codes": [
+          "DGAA"
+        ],
+        "to_codes": [
+          "DNAA"
+        ],
+        "from_full": "Accra, Ghana",
+        "to_full": "Abuja, Nigeria",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "138",
+        "iidd": "459",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Kevin Spacey",
+          "code": "KS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Chris Tucker",
+          "code": "CT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Chauntae Davies",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Andrea Mitrovich",
+          "code": "AM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "David Slang",
+          "code": "DS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Kennez",
+          "code": "JK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eric Nonacs",
+          "code": "EN",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Rodey Swater",
+          "code": "RS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Casey Wasserman",
+          "code": "CW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Laura Wasserman",
+          "code": "LW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ron Durkle",
+          "code": "RD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Gayle Smith",
+          "code": "GS",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p008_r0043"
+    }
+  ]
+}

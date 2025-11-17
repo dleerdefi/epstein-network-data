@@ -1,0 +1,543 @@
+{
+  "page_number": 90,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:56.833253",
+  "chunk": "chunk_051-060",
+  "flights": [
+    {
+      "date": {
+        "original": "08/24/2001",
+        "parsed": "2001-08-24",
+        "display": "08/24/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HPN",
+        "to": "PBI",
+        "from_codes": [
+          "HPN"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Westchester County, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "8",
+        "iidd": "3180",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0005"
+    },
+    {
+      "date": {
+        "original": "08/27/2001",
+        "parsed": "2001-08-27",
+        "display": "08/27/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "HPN",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "HPN"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Westchester County, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "9",
+        "iidd": "3183",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0008"
+    },
+    {
+      "date": {
+        "original": "08/29/2001",
+        "parsed": "2001-08-29",
+        "display": "08/29/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HPN",
+        "to": "TIST",
+        "from_codes": [
+          "HPN"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "Westchester County, NY, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "10",
+        "iidd": "3186",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0011"
+    },
+    {
+      "date": {
+        "original": "08/30/2001",
+        "parsed": "2001-08-30",
+        "display": "08/30/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "PBI",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "3191",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Visoski",
+          "code": "LV",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0016"
+    },
+    {
+      "date": {
+        "original": "09/03/2001",
+        "parsed": "2001-09-03",
+        "display": "09/03/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "HPN",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "HPN"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Westchester County, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "11",
+        "iidd": "3192",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alexandria Dixon",
+          "code": "AD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0017"
+    },
+    {
+      "date": {
+        "original": "09/06/2001",
+        "parsed": "2001-09-06",
+        "display": "09/06/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HPN",
+        "to": "PBI",
+        "from_codes": [
+          "HPN"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Westchester County, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "12",
+        "iidd": "3199",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0024"
+    },
+    {
+      "date": {
+        "original": "09/09/2001",
+        "parsed": "2001-09-09",
+        "display": "09/09/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "HPN",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "HPN"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Westchester County, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "13",
+        "iidd": "3204",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0029"
+    },
+    {
+      "date": {
+        "original": "09/15/2001",
+        "parsed": "2001-09-15",
+        "display": "09/15/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "HPN",
+        "to": "PBI",
+        "from_codes": [
+          "HPN"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Westchester County, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "14",
+        "iidd": "3208",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Karen Casey",
+          "code": "KC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Lisa ?",
+          "code": "L?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "051-060",
+      "v3_flight_id": "chunk_051-060_p002_r0033"
+    }
+  ]
+}

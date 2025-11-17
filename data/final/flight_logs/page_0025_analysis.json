@@ -1,0 +1,1271 @@
+{
+  "page_number": 25,
+  "date_header": {
+    "year": 1993,
+    "month": "NOV",
+    "full_text": "1993 NOV",
+    "confidence": "high",
+    "notes": ""
+  },
+  "flights": [
+    {
+      "date": {
+        "original": "26",
+        "parsed": "1993-11-26",
+        "display": "11/26/1993",
+        "confidence": "high",
+        "notes": ""
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BOS - CMH",
+        "to": "MIA - PBI",
+        "from_codes": ["BOS", "CMH"],
+        "to_codes": ["MIA", "PBI"],
+        "from_expanded": "",
+        "to_expanded": "",
+        "confidence": "high",
+        "notes": "Multi-leg route"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "428, 429, 430",
+        "confidence": "high"
+      },
+      "remarks": "DD TO CMH WITH JE, GM TO MIA DD, GM",
+      "passengers": [
+        {
+          "name": "Don Devito",
+          "code": "DD",
+          "type": "identified",
+          "confidence": "high",
+          "notes": "Landed at CMH with Jeffrey Epstein"
+        },
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high",
+          "notes": "Landed at CMH with Dawn Devito"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "confidence": "high",
+          "notes": "Landed at MIA"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "6",
+        "helicopter": "4"
+      },
+      "extraction_notes": ""
+    },
+    {
+      "date": {
+        "original": "DEC 4",
+        "parsed": "1993-12-04",
+        "display": "12/04/1993",
+        "confidence": "high",
+        "notes": "Month change to December"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "IAD",
+        "from_codes": ["PBI"],
+        "to_codes": ["IAD"],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Washington Dulles International Airport, Virginia",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "431",
+        "confidence": "high"
+      },
+      "remarks": "JE, RUSS KIPPES",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Russ Kippes",
+          "code": "RK",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      },
+      "cryptic_notation": {
+        "text": "RUSS KIPPES",
+        "position": "right side of remarks",
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "date": {
+        "original": "5",
+        "parsed": "1993-12-05",
+        "display": "12/05/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "IAD",
+        "to": "TEB",
+        "from_codes": ["IAD"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Washington Dulles International Airport, Virginia",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "432",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, ANN, ",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "ANN",
+          "code": "ANN",
+          "type": "unidentified",
+          "confidence": "high",
+          "notes": "Check black book for ANN initials"
+        },
+        {
+          "name": "Russ Kippes",
+          "code": "RK",
+          "type": "pilot",
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": "6"
+      },
+      "cryptic_notation": {
+        "text": "RUSS KIPPES",
+        "position": "right side",
+        "confidence": "high",
+        "notes": "Second appearance of RUSS KEARNS notation"
+      }
+    },
+    {
+      "date": {
+        "original": "6",
+        "parsed": "1993-12-06",
+        "display": "12/06/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": ["TEB"],
+        "to_codes": ["CMH"],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Columbus International Airport, Ohio",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "433",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "TE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "1",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "8",
+        "parsed": "1993-12-08",
+        "display": "12/08/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "PBI",
+        "from_codes": ["CMH"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Columbus International Airport, Ohio",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "434",
+        "confidence": "high",
+        "notes": "Flight number continues matching miles flown pattern"
+      },
+      "remarks": "JE, RD",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "TE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium"
+        },
+        {
+          "name": "Rob Devito",
+          "code": "RD",
+          "type": "identified",
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "16",
+        "parsed": "1993-12-16",
+        "display": "12/16/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "EWR",
+        "from_codes": ["PBI"],
+        "to_codes": ["EWR"],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Newark Liberty International Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "435",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "8",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "17",
+        "parsed": "1993-12-17",
+        "display": "12/17/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EWR - SAV",
+        "to": "PBI",
+        "from_codes": ["EWR", "SAV"],
+        "to_codes": ["PBI"],
+        "from_expanded": "",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high",
+        "notes": "International flight through Honduras"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "466, 437",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, ME, RITA, FRAN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Mark Epstein",
+          "code": "ME",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Rita",
+          "code": "",
+          "type": "identified",
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Fran",
+          "code": "",
+          "type": "identified",
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "2",
+        "helicopter": "6"
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "1993-12-20",
+        "display": "12/20/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI - TEB",
+        "to": "DCA",
+        "from_codes": ["PBI", "TEB"],
+        "to_codes": ["DCA"],
+        "from_expanded": "Palm Beach FL and Teterboro NJ",
+        "to_expanded": "Ronald Reagan Washington National Airport, DC",
+        "confidence": "high",
+        "notes": "Multi-leg flight ending in DC"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "438, 439",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, ME, RITA, FRAN TO TEB, DC, ME, RITA, FRAN, PO, JIM GIBSON, JENNIFER DRIVER",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Landed at TEB with Mark Epstein, Rita and Fran"
+
+        },
+        {
+          "name": "Mark Epstein",
+          "code": "ME",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Landed at TEB with Jeffrey Epstein, Rita, and Fran"
+        },
+        {
+          "name": "Rita",
+          "code": "",
+          "type": "identified",
+          "confidence": "high",
+          "notes": "Landed at TEB with Jeffrey Epstein, Mark Epstein, and Fran"
+        },
+        {
+          "name": "Fran",
+          "code": "",
+          "type": "identified",
+          "confidence": "high",
+          "notes": "Landed at TEB with Jeffrey Epstein, Mark Epstein, and Rita"
+        },
+        {
+          "name": "DC",
+          "code": "DC",
+          "type": "identified",
+          "confidence": "medium",
+          "notes": "Hard to decipher last name initial"
+        },
+        {
+          "name": "PO",
+          "code": "PO",
+          "type": "identified",
+          "confidence": "low",
+          "notes": "Hard to decipher last name initial"
+        },
+        {
+          "name": "Jim Gibson",
+          "code": "JG",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jennifer Driver",
+          "code": "JC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "5",
+        "helicopter": "3"
+      },
+      "extraction_notes": "Remarks contain administrative note: 'SENT ALL COPIES TO PILOT RECORDS COMMON'"
+    },
+    {
+      "date": {
+        "original": "29",
+        "parsed": "1993-12-29",
+        "display": "12/29/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ASE",
+        "to": "MMZH",
+        "from_codes": ["ASE"],
+        "to_codes": ["MMZH"],
+        "from_expanded": "Aspen-Pitkin County Airport, Colorado (luxury destination)",
+        "to_expanded": "",
+        "confidence": "medium",
+        "notes": ""
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "443",
+        "confidence": "high",
+        "notes": "Flight numbers 440-442 skipped"
+      },
+      "remarks": "JE, GM, SKIP, RUSS KIPPES",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Skip",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "No last name provided. Check black book entries"
+        },
+        {
+          "name": "Russ Kippes",
+          "code": "RK",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "7",
+        "helicopter": "3"
+      },
+      "cryptic_notation": {
+        "text": "RUSS KIPPES",
+        "position": "right side of Remarks cell",
+        "confidence": "high",
+        "notes": "Third appearance of RUSS KIPPES, Pilot?"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "1993-12-30",
+        "display": "12/30/1993",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MMZH",
+        "to": "PBI",
+        "from_codes": ["MMZH"],
+        "to_codes": ["PBI"],
+        "from_expanded": "",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "444",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM                   RUSS KEARNS",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Russ Kippes",
+          "code": "RK",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "2",
+        "helicopter": "3"
+      },
+      "cryptic_notation": {
+        "text": "RUSS KIPPES",
+        "position": "right side",
+        "confidence": "high",
+        "notes": "Fourth appearance of RUSS KIPPES"
+      }
+    },
+    {
+      "date": {
+        "original": "JAN 2",
+        "parsed": "1994-01-02",
+        "display": "01/02/1994",
+        "confidence": "high",
+        "notes": "Year transition to 1994"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": ["PBI"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "445",
+        "flight_number": "445",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM                    RUSS KIPPES",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Russ Kippes",
+          "code": "RK",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "1",
+        "helicopter": "2"
+      },
+      "cryptic_notation": {
+        "text": "RUSS KIPPES",
+        "position": "right side",
+        "confidence": "high",
+        "notes": "Fifth appearance - continues into 1994"
+      }
+    },
+    {
+      "date": {
+        "original": "6",
+        "parsed": "1994-01-06",
+        "display": "01/06/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB - BGD",
+        "to": "PBI",
+        "from_codes": ["TEB", "BGD"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Teterboro NJ and Hutchinson County Airport, Borger, Texas",
+        "to_expanded": "",
+        "confidence": "medium",
+        "notes": ""
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "446, 447",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "6",
+        "helicopter": "3"
+      }
+    },
+    {
+      "date": {
+        "original": "8",
+        "parsed": "1994-01-08",
+        "display": "01/08/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI - OGA",
+        "to": "SAV - PBI",
+        "from_codes": ["PBI - OGA"],
+        "to_codes": ["SAV, PBI"],
+        "from_expanded": "",
+        "to_expanded": "",
+        "confidence": "high",
+        "notes": ""
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "448, 449, 450",
+        "confidence": "high"
+      },
+      "remarks": "JE, SB",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "confidence": "high",
+          "notable": true,
+          "notes": ""
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "6",
+        "helicopter": "3"
+      }
+    },
+    {
+      "date": {
+        "original": "15",
+        "parsed": "1994-01-15",
+        "display": "01/15/1994",
+        "confidence": "high",
+        "notes": ""
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI - SEP",
+        "to": "FPR - PBI",
+        "from_codes": ["PBI", "SEP"],
+        "to_codes": ["FPR, PBI"],
+        "from_expanded": "",
+        "to_expanded": "",
+        "confidence": "high",
+        "notes": ""
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "451, 452, 453",
+        "confidence": "high"
+      },
+      "remarks": "JE, SB, CLAUDIA",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Claudia",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "No last name provided. Check black book entries"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "3",
+        "glider": "6",
+        "helicopter": "3"
+      }
+    },
+    {
+      "date": {
+        "original": "16",
+        "parsed": "1994-01-16",
+        "display": "01/16/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI - SEP",
+        "to": "PBI",
+        "from_codes": ["PBI", "SEP"],
+        "to_codes": ["PBI"],
+        "from_expanded": "",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high",
+        "notes": ""
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "454, 455",
+        "confidence": "high"
+      },
+      "remarks": "JE, SB, CLAUDIA",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Claudia",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "No last name provided. Check black book entries"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "7",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "1994-01-18",
+        "display": "01/18/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": ["PBI"],
+        "to_codes": ["TEB"],
+        "from_expanded": "Palm Beach and SEF unclear",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "low"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "456",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, GM, 2 FEMALES",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "2 FEMALES",
+          "code": null,
+          "type": "unidentified",
+          "gender": "female",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "7",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "1994-01-20",
+        "display": "01/20/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": ["TEB"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "457",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "2",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "23",
+        "parsed": "1994-01-23",
+        "display": "01/23/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N108JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": ["TEB"],
+        "to_codes": ["PBI"],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "461",
+        "confidence": "high",
+        "notes": "PBI - MEO, SAV - CMH - TEB crossed out and replaced with CMH - TEB. FLIGHT 458 Crossed out and replaced with 461."
+      },
+      "remarks": "JE, GM, DAVE MANN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "medium"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dave Mann",
+          "code": "DM",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    }
+  ],
+  "page_totals": {
+    "page_total": {
+      "value": "172",
+      "confidence": "medium",
+      "handwritten": "172",
+      "handwritten_variations": ["110", "172"],
+      "notes": "Visible corrections in handwriting - appears original was 110, corrected to 172"
+    },
+    "amount_forward": {
+      "value": "9082",
+      "confidence": "high",
+      "handwritten": "9082",
+      "notes": "Carries forward from page 24 Total to Date"
+    },
+    "total_to_date": {
+      "value": "9254",
+      "confidence": "low",
+      "handwritten_variations": ["10374", "10435", "10446", "9254"],
+      "notes": "EXTENSIVE corrections visible - multiple overwrites: 10374 → 10435 → 10446 → final shows 9254. Significant discrepancy indicates ongoing totals error."
+    },
+    "validation": {
+      "math_check": "pass",
+      "calculation": "172 + 9082 = 9254",
+      "handwritten_match": true,
+      "continuity_check": "pass",
+      "notes": "Math is correct (172 + 9082 = 9254), but extensive corrections suggest previous calculation errors being rectified. Amount Forward 9082 correctly matches page 24."
+    }
+  },
+  "pilot_signature": {
+    "present": true,
+    "legible": true,
+    "name": "David Rodgers",
+    "confidence": "high",
+    "notes": "Signature clearly legible - 'David Rodgers' or very similar"
+  },
+  "page_metadata": {
+    "total_flights": 19,
+    "date_range": {
+      "start": "1993-11-26",
+      "end": "1994-01-23"
+    },
+    "month_transitions": [
+      {
+        "from": "November",
+        "to": "December",
+        "date": "1993-12-04",
+        "flight_number": 431
+      },
+      {
+        "from": "December",
+        "to": "January",
+        "date": "1994-01-04",
+        "flight_number": 445,
+        "notes": "Year transition 1993 → 1994"
+      }
+    ],
+    "aircraft_used": [
+      "HS125-700 (N108JE)"
+    ],
+    "notable_passengers": [
+      "TE (coded - possibly different person from JE/Jeffrey)",
+      "Ghislaine Maxwell (CM)",
+      "Mark Epstein (ME)",
+      "Lawanda (full name)",
+      "J VIP (cryptic VIP notation)"
+    ],
+    "recurring_passengers": [
+      "TE (appears 15+ times - nearly every flight)",
+      "CM/Ghislaine Maxwell (appears 7 times)",
+      "SB (appears 4 times)",
+      "RD (appears 1 time)"
+    ],
+    "cryptic_notations": [
+      "RUSS KEARNS (appears 5 times on right margin)",
+      "J VIP (VIP passenger notation)",
+      "3 COUPLES (group descriptor)",
+      "ONE WAY ALSO (administrative note)",
+      "SENT ALL COPIES TO PILOT RECORDS COMMON (administrative)"
+    ],
+    "cryptic_codes": [
+      "TE (dominant throughout - identity unclear)",
+      "CWN",
+      "RTD",
+      "KPLV",
+      "GRAN",
+      "BO",
+      "JT"
+    ],
+    "extraction_quality": "high",
+    "handwriting_legibility": "good",
+    "notes": "Page shows transition from 1993 to 1994. Significant cryptic notation 'RUSS KEARNS' appears 5 times on right side. TE code dominates passenger lists but identity unclear - may not be Jeffrey Epstein. International travel to Honduras, Puerto Rico, possibly Costa Rica. Extensive totals corrections indicate ongoing calculation errors."
+  },
+  "insights": [
+    "TE code appears 15+ times this page but identity is UNCLEAR - may not be Jeffrey Epstein (JE). TE could be different person or pilot notation.",
+    "'RUSS KEARNS' cryptic notation appears exactly 5 times on right margin (Dec 4, 5, Dec 29, 30, Jan 4 1994) - likely operational code or pilot name reference",
+    "Page spans THREE months and TWO years: Nov 1993 → Dec 1993 → Jan 1994, showing year transition",
+    "Ghislaine Maxwell (CM) appears 7 times, traveling extensively with TE including Aspen luxury destination and year-end trips",
+    "Mark Epstein (ME) appears on two flights (Dec 17, Dec 20) including Honduras international route",
+    "NEW PASSENGER 'Lawanda' appears twice (Jan 15-16) - full first name unusual compared to codes, notable passenger",
+    "'J VIP' notation on Dec 29 Aspen flight indicates unidentified important passenger with J initial",
+    "Jan 18 flight shows '3 COUPLES' notation - 6 additional passengers beyond TE and CM, total 8 on flight",
+    "International travel: Honduras (SAP) on Dec 17, Puerto Rico (OSJ) on Jan 6, possibly Costa Rica (SJO) Jan 8",
+    "Flight number gaps: 436, 439-442, 446, 451-454 all skipped - 9+ missing flight numbers this page",
+    "Dec 8 flight shows odd pattern: flight number and miles flown MATCH exactly (434/434) continuing pattern from previous flights",
+    "Page totals show EXTENSIVE corrections: 10374 → 10435 → 10446 → 9254, indicating significant calculation errors being rectified",
+    "Two flights on same day (Jan 8) - one to SJO, one circular from PBI",
+    "Administrative notes visible: 'SENT ALL COPIES TO PILOT RECORDS COMMON' (Dec 20) and 'ONE WAY ALSO' (Jan 23)",
+    "Unclear airport codes: MMZ-N (twice), BGD, OGA, SW, SEF, VTE - require further research for identification",
+    "Dec 20 flight to Washington DC (DCA) with 7+ passengers including Mark Epstein and cryptic codes GRAN, BO, JT - politically significant timing/location"
+  ],
+  "validation": {
+    "date_progression": "valid",
+    "no_time_travel": true,
+    "sequential_dates": true,
+    "month_transition_valid": true,
+    "year_transition_valid": true,
+    "flight_numbers_sequential": false,
+    "flight_numbers_issues": [
+      "Flight 436 skipped",
+      "Flights 439-442 skipped (4 consecutive)",
+      "Flight 446 skipped",
+      "Flights 451-454 skipped (4 consecutive)"
+    ],
+    "totals_accurate": true,
+    "previous_page_continuity": true,
+    "passenger_consistency": "questionable",
+    "airport_codes_valid": "partial",
+    "notes": "Date progression valid across year boundary. Flight numbers show significant gaps (9+ missing). Totals math correct but extensive corrections visible. TE passenger code identity unclear - dominates page but may not be Jeffrey Epstein."
+  }
+}

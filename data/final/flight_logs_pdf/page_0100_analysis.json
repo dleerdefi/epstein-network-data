@@ -1,0 +1,824 @@
+{
+  "page_number": 100,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:05.974310",
+  "chunk": "chunk_061-070",
+  "flights": [
+    {
+      "date": {
+        "original": "03/17/2002",
+        "parsed": "2002-03-17",
+        "display": "03/17/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "74",
+        "iidd": "169",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Joe Pagano",
+          "code": "JP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie ?",
+          "code": "J?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Todd Meistor",
+          "code": "TM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0004"
+    },
+    {
+      "date": {
+        "original": "03/19/2002",
+        "parsed": "2002-03-19",
+        "display": "03/19/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "EGGW",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "EGGW"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "London, England",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "75",
+        "iidd": "175",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Secret Service (3)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0010"
+    },
+    {
+      "date": {
+        "original": "03/21/2002",
+        "parsed": "2002-03-21",
+        "display": "03/21/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGGW",
+        "to": "JFK",
+        "from_codes": [
+          "EGGW"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "London, England",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "76",
+        "iidd": "181",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Secret Service (10)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Naomi Campbell",
+          "code": "NC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Male (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0016"
+    },
+    {
+      "date": {
+        "original": "03/22/2002",
+        "parsed": "2002-03-22",
+        "display": "03/22/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "77",
+        "iidd": "189",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Nicole Junkermann",
+          "code": "NJ",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sean Koo",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0024"
+    },
+    {
+      "date": {
+        "original": "04/01/2002",
+        "parsed": "2002-04-01",
+        "display": "04/01/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TIST",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "78",
+        "iidd": "99",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Sean Koo",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0027"
+    },
+    {
+      "date": {
+        "original": "04/05/2002",
+        "parsed": "2002-04-05",
+        "display": "04/05/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "PBI",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "79",
+        "iidd": "105",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Sean Koo",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0033"
+    },
+    {
+      "date": {
+        "original": "04/05/2002",
+        "parsed": "2002-04-05",
+        "display": "04/05/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "IAD",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "IAD"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Washington Dc, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "80",
+        "iidd": "106",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Sean Koo",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0034"
+    },
+    {
+      "date": {
+        "original": "04/06/2002",
+        "parsed": "2002-04-06",
+        "display": "04/06/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "IAD",
+        "to": "PBI",
+        "from_codes": [
+          "IAD"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Washington Dc, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "81",
+        "iidd": "107",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Sean Koo",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0035"
+    },
+    {
+      "date": {
+        "original": "04/08/2002",
+        "parsed": "2002-04-08",
+        "display": "04/08/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-082",
+        "iidd": "4003",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0036"
+    },
+    {
+      "date": {
+        "original": "04/14/2002",
+        "parsed": "2002-04-14",
+        "display": "04/14/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "TIST",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "TIST"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-083",
+        "iidd": "4004",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0037"
+    },
+    {
+      "date": {
+        "original": "04/18/2002",
+        "parsed": "2002-04-18",
+        "display": "04/18/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TIST",
+        "to": "MYEF",
+        "from_codes": [
+          "TIST"
+        ],
+        "to_codes": [
+          "MYEF"
+        ],
+        "from_full": "Charlotte Amalie, St. Thomas, United States Virgin Islands",
+        "to_full": "Great Exuma, Bahamas",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-084",
+        "iidd": "4005",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0038"
+    },
+    {
+      "date": {
+        "original": "04/18/2002",
+        "parsed": "2002-04-18",
+        "display": "04/18/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MYEF",
+        "to": "PBI",
+        "from_codes": [
+          "MYEF"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Great Exuma, Bahamas",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-085",
+        "iidd": "4006",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0039"
+    },
+    {
+      "date": {
+        "original": "04/21/2002",
+        "parsed": "2002-04-21",
+        "display": "04/21/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-086",
+        "iidd": "4007",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0040"
+    },
+    {
+      "date": {
+        "original": "04/26/2002",
+        "parsed": "2002-04-26",
+        "display": "04/26/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-087",
+        "iidd": "4008",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0041"
+    },
+    {
+      "date": {
+        "original": "04/29/2002",
+        "parsed": "2002-04-29",
+        "display": "04/29/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "ABQ",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "ABQ"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Albuquerque, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "90",
+        "iidd": "108",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rotholg",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p002_r0042"
+    }
+  ]
+}

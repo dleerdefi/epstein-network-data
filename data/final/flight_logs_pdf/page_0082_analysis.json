@@ -1,0 +1,831 @@
+{
+  "page_number": 82,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:46.405545",
+  "chunk": "chunk_041-050",
+  "flights": [
+    {
+      "date": {
+        "original": "03/08/2001",
+        "parsed": "2001-03-08",
+        "display": "03/08/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LEGR",
+        "to": "GMTT",
+        "from_codes": [
+          "LEGR"
+        ],
+        "to_codes": [
+          "GMTT"
+        ],
+        "from_full": "Granada, Spain",
+        "to_full": "Tanger, Morocco",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1467",
+        "iidd": "2895",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Virginia Roberts",
+          "code": "VR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alberto Pinto",
+          "code": "AP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Linda Pinto",
+          "code": "LP",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0004"
+    },
+    {
+      "date": {
+        "original": "03/09/2001",
+        "parsed": "2001-03-09",
+        "display": "03/09/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "GMTT",
+        "to": "EGGW",
+        "from_codes": [
+          "GMTT"
+        ],
+        "to_codes": [
+          "EGGW"
+        ],
+        "from_full": "Tanger, Morocco",
+        "to_full": "London, England",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1468",
+        "iidd": "2902",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Virginia Roberts",
+          "code": "VR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Roger ?",
+          "code": "R?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0011"
+    },
+    {
+      "date": {
+        "original": "03/11/2001",
+        "parsed": "2001-03-11",
+        "display": "03/11/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGGW",
+        "to": "BGR",
+        "from_codes": [
+          "EGGW"
+        ],
+        "to_codes": [
+          "BGR"
+        ],
+        "from_full": "London, England",
+        "to_full": "Bangor, ME, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1469",
+        "iidd": "2907",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Virginia Roberts",
+          "code": "VR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Roger ?",
+          "code": "R?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0016"
+    },
+    {
+      "date": {
+        "original": "03/11/2001",
+        "parsed": "2001-03-11",
+        "display": "03/11/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BGR",
+        "to": "TEB",
+        "from_codes": [
+          "BGR"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Bangor, ME, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1470",
+        "iidd": "2912",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Emmy Tayler",
+          "code": "ET",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Virginia Roberts",
+          "code": "VR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Roger ?",
+          "code": "R?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0021"
+    },
+    {
+      "date": {
+        "original": "03/11/2001",
+        "parsed": "2001-03-11",
+        "display": "03/11/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "AVO",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "AVO"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Avon Park, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "3354",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Chris Wagner",
+          "code": "CW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0026"
+    },
+    {
+      "date": {
+        "original": "03/11/2001",
+        "parsed": "2001-03-11",
+        "display": "03/11/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "AVO",
+        "to": "PBI",
+        "from_codes": [
+          "AVO"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Avon Park, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "3355",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Chris Wagner",
+          "code": "CW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0027"
+    },
+    {
+      "date": {
+        "original": "03/12/2001",
+        "parsed": "2001-03-12",
+        "display": "03/12/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "EYW",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "EYW"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Key West, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "3356",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Chris Wagner",
+          "code": "CW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Todd Lucky",
+          "code": "TL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Passenger (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0028"
+    },
+    {
+      "date": {
+        "original": "03/12/2001",
+        "parsed": "2001-03-12",
+        "display": "03/12/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EYW",
+        "to": "PBI",
+        "from_codes": [
+          "EYW"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Key West, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "3359",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Chris Wagner",
+          "code": "CW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0029"
+    },
+    {
+      "date": {
+        "original": "03/14/2001",
+        "parsed": "2001-03-14",
+        "display": "03/14/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "FLL",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "FLL"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Fort Lauderdale, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "2917",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0032"
+    },
+    {
+      "date": {
+        "original": "03/14/2001",
+        "parsed": "2001-03-14",
+        "display": "03/14/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "C-421B",
+        "tail_number": "N908GM",
+        "type": "Fixed Wing",
+        "seats": 8,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "FLL",
+        "to": "PBI",
+        "from_codes": [
+          "FLL"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Fort Lauderdale, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "",
+        "iidd": "2918",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Larry Morrison",
+          "code": "LM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0033"
+    },
+    {
+      "date": {
+        "original": "03/15/2001",
+        "parsed": "2001-03-15",
+        "display": "03/15/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "ISP",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "ISP"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Islip, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1471",
+        "iidd": "2919",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Alexia Wallert",
+          "code": "AW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0034"
+    },
+    {
+      "date": {
+        "original": "03/15/2001",
+        "parsed": "2001-03-15",
+        "display": "03/15/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ISP",
+        "to": "LCQ",
+        "from_codes": [
+          "ISP"
+        ],
+        "to_codes": [
+          "LCQ"
+        ],
+        "from_full": "Islip, NY, United States",
+        "to_full": "Lake City, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1472",
+        "iidd": "2924",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Alexia Wallert",
+          "code": "AW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Roger ?",
+          "code": "R?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0039"
+    },
+    {
+      "date": {
+        "original": "03/15/2001",
+        "parsed": "2001-03-15",
+        "display": "03/15/2001",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LCQ",
+        "to": "PBI",
+        "from_codes": [
+          "LCQ"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Lake City, FL, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1473",
+        "iidd": "2930",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Alexia Wallert",
+          "code": "AW",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Banu Koluk- Koylu",
+          "code": "BK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Roger ?",
+          "code": "R?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "041-050",
+      "v3_flight_id": "chunk_041-050_p004_r0045"
+    }
+  ]
+}

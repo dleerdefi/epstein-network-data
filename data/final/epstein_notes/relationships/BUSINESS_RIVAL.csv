@@ -1,0 +1,4 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_001,person_006,BUSINESS_RIVAL,false,,0.7,"Filed lawsuit against Epstein in 1982 over $450,000 investment that was not repaid",Unverified
+person_001,person_028,BUSINESS_RIVAL,false,68,1.0,Outbid Epstein for residential estate at 513 N. Country Road in Palm Beach in 2004,Factual
+person_004,person_043,BUSINESS_RIVAL,false,,0.7,Battled Maxwell in 1968 over News of the World and The Sun. Maxwell lost both.,Unverified

@@ -1,0 +1,806 @@
+{
+  "page_number": 101,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:05.974310",
+  "chunk": "chunk_061-070",
+  "flights": [
+    {
+      "date": {
+        "original": "05/02/2002",
+        "parsed": "2002-05-02",
+        "display": "05/02/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ABQ",
+        "to": "JFK",
+        "from_codes": [
+          "ABQ"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Albuquerque, NM, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "91",
+        "iidd": "112",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0002"
+    },
+    {
+      "date": {
+        "original": "05/04/2002",
+        "parsed": "2002-05-04",
+        "display": "05/04/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "FOIA-092",
+        "iidd": "4009",
+        "confidence": "high"
+      },
+      "passengers": [],
+      "data_source": "FOIA",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0005"
+    },
+    {
+      "date": {
+        "original": "05/11/2002",
+        "parsed": "2002-05-11",
+        "display": "05/11/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JFK",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "93",
+        "iidd": "192",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0006"
+    },
+    {
+      "date": {
+        "original": "05/11/2002",
+        "parsed": "2002-05-11",
+        "display": "05/11/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "LFPB",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "94",
+        "iidd": "194",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0008"
+    },
+    {
+      "date": {
+        "original": "05/13/2002",
+        "parsed": "2002-05-13",
+        "display": "05/13/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "LFPG",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "LFPG"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "95",
+        "iidd": "197",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Reposition",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0011"
+    },
+    {
+      "date": {
+        "original": "05/13/2002",
+        "parsed": "2002-05-13",
+        "display": "05/13/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPG",
+        "to": "EGGW",
+        "from_codes": [
+          "LFPG"
+        ],
+        "to_codes": [
+          "EGGW"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "London, England",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "96",
+        "iidd": "198",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0012"
+    },
+    {
+      "date": {
+        "original": "05/16/2002",
+        "parsed": "2002-05-16",
+        "display": "05/16/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "EGGW",
+        "to": "LFMN",
+        "from_codes": [
+          "EGGW"
+        ],
+        "to_codes": [
+          "LFMN"
+        ],
+        "from_full": "London, England",
+        "to_full": "Nice, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "97",
+        "iidd": "201",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0015"
+    },
+    {
+      "date": {
+        "original": "05/19/2002",
+        "parsed": "2002-05-19",
+        "display": "05/19/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFMN",
+        "to": "UNNT",
+        "from_codes": [
+          "LFMN"
+        ],
+        "to_codes": [
+          "UNNT"
+        ],
+        "from_full": "Nice, France",
+        "to_full": "Novosibirsk, Russia",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "98",
+        "iidd": "204",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0018"
+    },
+    {
+      "date": {
+        "original": "05/20/2002",
+        "parsed": "2002-05-20",
+        "display": "05/20/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "UNNT",
+        "to": "RJTA",
+        "from_codes": [
+          "UNNT"
+        ],
+        "to_codes": [
+          "RJTA"
+        ],
+        "from_full": "Novosibirsk, Russia",
+        "to_full": "Atsugi, Japan",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "99",
+        "iidd": "207",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0021"
+    },
+    {
+      "date": {
+        "original": "05/22/2002",
+        "parsed": "2002-05-22",
+        "display": "05/22/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "RJTA",
+        "to": "VHHH",
+        "from_codes": [
+          "RJTA"
+        ],
+        "to_codes": [
+          "VHHH"
+        ],
+        "from_full": "Atsugi, Japan",
+        "to_full": "Hong Kong, Hong Kong",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "100",
+        "iidd": "210",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Passenger (6)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "MCXG ?",
+          "code": "M?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Janice ?",
+          "code": "J?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Jessica Bauer",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0024"
+    },
+    {
+      "date": {
+        "original": "05/23/2002",
+        "parsed": "2002-05-23",
+        "display": "05/23/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "VHHH",
+        "to": "ZGSZ",
+        "from_codes": [
+          "VHHH"
+        ],
+        "to_codes": [
+          "ZGSZ"
+        ],
+        "from_full": "Hong Kong, Hong Kong",
+        "to_full": "Shenzhen, China",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "101",
+        "iidd": "220",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "MCXG ?",
+          "code": "M?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Janice ?",
+          "code": "J?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0034"
+    },
+    {
+      "date": {
+        "original": "05/23/2002",
+        "parsed": "2002-05-23",
+        "display": "05/23/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "ZGSZ",
+        "to": "WSSS",
+        "from_codes": [
+          "ZGSZ"
+        ],
+        "to_codes": [
+          "WSSS"
+        ],
+        "from_full": "Shenzhen, China",
+        "to_full": "Singapore, Singapore",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "102",
+        "iidd": "228",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Passenger (6)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Pete Rathgeb",
+          "code": "PR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "MCXG ?",
+          "code": "M?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Janice ?",
+          "code": "J?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Jessica Bauer",
+          "code": "JB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p003_r0042"
+    }
+  ]
+}

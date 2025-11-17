@@ -1,0 +1,45 @@
+{
+  "total_entities": 55,
+  "entities_with_verification": 38,
+  "entities_without_verification": 17,
+  "verification_coverage_pct": 69.1,
+  "total_claims": 53,
+  "total_citations": 43,
+  "avg_confidence_by_status": {
+    "factual": 0.983,
+    "speculative": 0.35,
+    "contested": 0.25
+  },
+  "top_5_entities": [
+    {
+      "entity_id": "person_001",
+      "name": "Jeffrey Edward Epstein",
+      "claims": 41,
+      "avg_confidence": 0.87
+    },
+    {
+      "entity_id": "person_002",
+      "name": "Ghislaine Noelle Maxwell",
+      "claims": 10,
+      "avg_confidence": 0.975
+    },
+    {
+      "entity_id": "org_002",
+      "name": "Bear Stearns",
+      "claims": 5,
+      "avg_confidence": 0.64
+    },
+    {
+      "entity_id": "person_073",
+      "name": "L.M.",
+      "claims": 4,
+      "avg_confidence": 1.0
+    },
+    {
+      "entity_id": "person_003",
+      "name": "Leslie H. Wexner",
+      "claims": 3,
+      "avg_confidence": 0.767
+    }
+  ]
+}

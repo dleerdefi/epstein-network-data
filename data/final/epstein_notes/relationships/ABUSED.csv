@@ -1,0 +1,22 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_007,person_001,ABUSED,false,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Direct abuse. Lived as his 'sex slave' 1999-2002. Had sex with her on 16th birthday with Ghislaine Maxwell.,Factual
+person_007,person_002,ABUSED,false,9;8;47;48;51;65;10,0.975,Direct abuse. Recruited Roberts at age 14 from Mar-a-Lago. Participated in abuse. Roberts sued Maxwell for defamation 2015.,Factual
+person_073,person_001,ABUSED,,,0.7,"Allegedly 'bought' from parents at age 14, victim and co-conspirator",Unverified
+person_073,person_061,ABUSED,,,0.7,Also abused by Alan Dershowitz,Unverified
+person_077,person_001,ABUSED,,,0.8,Victim - legal case B.B. v. Epstein,Unverified
+person_077,person_061,ABUSED,,,0.7,Also abused by Dershowitz,Unverified
+person_088,person_001,ABUSED,,,0.8,Legal case: Dianya Nida v. Epstein and Kellen,Unverified
+person_088,person_072,ABUSED,,,0.8,Legal case: Dianya Nida v. Epstein and Kellen,Unverified
+person_093,person_001,ABUSED,,,0.8,JE victim in NYC - complaint Cordero v. Epstein,Unverified
+person_095,person_002,ABUSED,,,0.7,"Alleged to be Maxwell's 'sex slave', close relationship",Unverified
+person_152,person_001,ABUSED,,,0.7,Filed suit April 26 2016 for sexual abuse in 1994 when she was 13,Unverified
+person_152,person_028,ABUSED,,,0.7,Filed suit April 26 2016 for sexual abuse in 1994 when she was 13,Unverified
+person_201,person_001,ABUSED,,43,0.87,Homeless JE victim - FBI investigation 2008,Factual
+person_201,person_061,ABUSED,,,0.7,Also abused by Alan Dershowitz,Unverified
+person_202,person_001,ABUSED,,,0.7,"Sent roses after high school play, raped after threesome",Unverified
+person_202,person_071,ABUSED,,,0.7,Raped after threesome with Marcinkova,Unverified
+person_205,person_002,ABUSED,,,0.8,Assaulted at Leslie Wexner's property,Unverified
+person_205,person_001,ABUSED,,,0.8,Assaulted at Leslie Wexner's property,Unverified
+person_207,person_001,ABUSED,,,0.8,Trafficked after 2006 arrest - critical post-arrest evidence,Unverified
+person_001,person_017,ABUSED,false,,0.7,Epstein deposed May 7 2009 for case Dianya Nida v. Epstein and Kellen,Unverified
+person_007,person_060,ABUSED,false,61;63,1.0,Sexually abused Roberts at age 13. She stayed with him 6 months. Age 67 at time.,Factual

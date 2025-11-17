@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_007,person_025,ALLEGED_(DENIED),false,65,0.733,"Alan Dershowitz implied in 2015 deposition that Roberts had sex with Clinton. Roberts explicitly denies, says never participated or saw Clinton have sexual contact with anyone.",Unverified

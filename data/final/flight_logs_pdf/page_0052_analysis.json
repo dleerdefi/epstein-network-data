@@ -1,0 +1,924 @@
+{
+  "page_number": 52,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:58:14.228185",
+  "chunk": "chunk_011-020",
+  "flights": [
+    {
+      "date": {
+        "original": "07/16/1997",
+        "parsed": "1997-07-16",
+        "display": "07/16/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "PBI",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1000",
+        "iidd": "4866",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Didier Cazaudumec",
+          "code": "DC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0002"
+    },
+    {
+      "date": {
+        "original": "08/09/1997",
+        "parsed": "1997-08-09",
+        "display": "08/09/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TVC",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TVC"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Traverse City, MI, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1012",
+        "iidd": "4869",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0005"
+    },
+    {
+      "date": {
+        "original": "08/10/1997",
+        "parsed": "1997-08-10",
+        "display": "08/10/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TVC",
+        "to": "TEB",
+        "from_codes": [
+          "TVC"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Traverse City, MI, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1013",
+        "iidd": "4871",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0007"
+    },
+    {
+      "date": {
+        "original": "08/13/1997",
+        "parsed": "1997-08-13",
+        "display": "08/13/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1014",
+        "iidd": "4873",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0009"
+    },
+    {
+      "date": {
+        "original": "08/17/1997",
+        "parsed": "1997-08-17",
+        "display": "08/17/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MVY",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "MVY"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Martha's Vineyard, MA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1015",
+        "iidd": "4875",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Heather Mann",
+          "code": "HM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0011"
+    },
+    {
+      "date": {
+        "original": "08/17/1997",
+        "parsed": "1997-08-17",
+        "display": "08/17/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MVY",
+        "to": "TEB",
+        "from_codes": [
+          "MVY"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Martha's Vineyard, MA, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1016",
+        "iidd": "4877",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Heather Mann",
+          "code": "HM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0013"
+    },
+    {
+      "date": {
+        "original": "08/20/1997",
+        "parsed": "1997-08-20",
+        "display": "08/20/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAF",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1017",
+        "iidd": "4879",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Dubin",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Glenn Dubin",
+          "code": "GD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Dubin",
+          "code": "ED",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Midelfart",
+          "code": "CM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Didier Cazaudumec",
+          "code": "DC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0015"
+    },
+    {
+      "date": {
+        "original": "08/23/1997",
+        "parsed": "1997-08-23",
+        "display": "08/23/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "TEB",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Santa Fe, NM, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1018",
+        "iidd": "4885",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Dubin",
+          "code": "CD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Eva Dubin",
+          "code": "ED",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Midelfart",
+          "code": "CM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Didier Cazaudumec",
+          "code": "DC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0021"
+    },
+    {
+      "date": {
+        "original": "08/24/1997",
+        "parsed": "1997-08-24",
+        "display": "08/24/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "FOK",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "FOK"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Long Island, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1019",
+        "iidd": "4890",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Midelfart",
+          "code": "CM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0026"
+    },
+    {
+      "date": {
+        "original": "08/24/1997",
+        "parsed": "1997-08-24",
+        "display": "08/24/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "FOK",
+        "to": "MVY",
+        "from_codes": [
+          "FOK"
+        ],
+        "to_codes": [
+          "MVY"
+        ],
+        "from_full": "Long Island, NY, United States",
+        "to_full": "Martha's Vineyard, MA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1020",
+        "iidd": "4892",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Midelfart",
+          "code": "CM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0028"
+    },
+    {
+      "date": {
+        "original": "08/25/1997",
+        "parsed": "1997-08-25",
+        "display": "08/25/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MVY",
+        "to": "PBI",
+        "from_codes": [
+          "MVY"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "Martha's Vineyard, MA, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1021",
+        "iidd": "4894",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Celina Midelfart",
+          "code": "CM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0030"
+    },
+    {
+      "date": {
+        "original": "09/01/1997",
+        "parsed": "1997-09-01",
+        "display": "09/01/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1022",
+        "iidd": "4896",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Heather Mann",
+          "code": "HM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0032"
+    },
+    {
+      "date": {
+        "original": "09/02/1997",
+        "parsed": "1997-09-02",
+        "display": "09/02/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Columbus, OH, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1023",
+        "iidd": "4898",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "No Passengers",
+          "code": "NP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0034"
+    },
+    {
+      "date": {
+        "original": "09/03/1997",
+        "parsed": "1997-09-03",
+        "display": "09/03/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "TEB",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Columbus, OH, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1024",
+        "iidd": "4899",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Steve Tuckerman",
+          "code": "ST",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Judy Tuckerman",
+          "code": "JT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0035"
+    },
+    {
+      "date": {
+        "original": "09/03/1997",
+        "parsed": "1997-09-03",
+        "display": "09/03/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "LFPB",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1025",
+        "iidd": "4901",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jack Robertson",
+          "code": "JR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Steve Tuckerman",
+          "code": "ST",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Judy Tuckerman",
+          "code": "JT",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Yehura Koppel",
+          "code": "YK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Zipora Koppel",
+          "code": "ZK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0037"
+    },
+    {
+      "date": {
+        "original": "09/06/1997",
+        "parsed": "1997-09-06",
+        "display": "09/06/1997",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "LFMN",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "LFMN"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Nice, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1026",
+        "iidd": "4907",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Illegible",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "011-020",
+      "v3_flight_id": "chunk_011-020_p004_r0043"
+    }
+  ]
+}

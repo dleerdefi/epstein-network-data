@@ -1,0 +1,114 @@
+:START_ID,:END_ID,:TYPE,section,confidence:float
+claim_1_1_1,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_2,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_3,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_4,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_4,org_003,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_5,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_5,org_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_6,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.3
+claim_1_1_6,org_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.3
+claim_1_1_7,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_7,org_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_8,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.5
+claim_1_1_8,person_010,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.5
+claim_1_1_8,org_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.5
+claim_1_1_9,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_9,org_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_10,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.3
+claim_1_1_10,org_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.3
+claim_1_1_11,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_11,org_005,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_1_11,org_006,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_1,person_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_2,person_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_2,person_004,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_2,person_005,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_3,person_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_4,person_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_2_4,person_004,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_2_4,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_2_5,person_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_5,org_011,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_2_6,org_011,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.95
+claim_1_2_6,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.95
+claim_1_2_6,person_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.95
+claim_1_3_1,person_003,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_3_1,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,1.0
+claim_1_3_2,person_003,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_3_2,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_3_2,org_013,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_3_3,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.4
+claim_1_3_3,person_003,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.4
+claim_1_3_3,org_002,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.4
+claim_1_4_1,person_011,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_4_1,org_014,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.9
+claim_1_4_2,person_011,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.95
+claim_1_4_2,org_015,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.95
+claim_1_4_2,person_001,CLAIM_ABOUT,I. Verification of Foundational Timelines and Biographies,0.95
+claim_2_1_1,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.9
+claim_2_1_1,org_016,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.9
+claim_2_1_2,person_023,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_1_2,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_1_3,person_023,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_1_3,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_1_3,org_016,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_1_4,person_023,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.3
+claim_2_1_4,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.3
+claim_2_1_4,org_016,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.3
+claim_2_2_1,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.9
+claim_2_2_1,person_024,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.9
+claim_2_2_1,org_017,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.9
+claim_2_2_2,org_017,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_2_2,person_024,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_2_3,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.3
+claim_2_2_3,person_024,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.3
+claim_2_2_3,org_017,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,0.3
+claim_2_3_1,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_3_1,org_093,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_3_1,person_045,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_3_2,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_3_2,org_093,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_4_1,person_001,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_2_4_1,org_020,CLAIM_ABOUT,II. Analysis of Core Financial and Corporate Structures,1.0
+claim_3_1_1,person_001,CLAIM_ABOUT,III. The Florida Criminal Case: 2005-2008,1.0
+claim_3_1_2,person_001,CLAIM_ABOUT,III. The Florida Criminal Case: 2005-2008,1.0
+claim_3_2_1,person_001,CLAIM_ABOUT,III. The Florida Criminal Case: 2005-2008,1.0
+claim_3_2_2,person_001,CLAIM_ABOUT,III. The Florida Criminal Case: 2005-2008,1.0
+claim_3_2_2,org_087,CLAIM_ABOUT,III. The Florida Criminal Case: 2005-2008,1.0
+claim_4_1_1,person_001,CLAIM_ABOUT,IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA),1.0
+claim_4_1_2,person_001,CLAIM_ABOUT,IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA),1.0
+claim_4_2_1,person_001,CLAIM_ABOUT,IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA),0.95
+claim_4_3_1,person_062,CLAIM_ABOUT,IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA),1.0
+claim_4_3_1,person_001,CLAIM_ABOUT,IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA),1.0
+claim_4_3_1,person_072,CLAIM_ABOUT,IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA),1.0
+claim_4_3_1,person_073,CLAIM_ABOUT,IV. Deconstruction of the 2007 Federal Non-Prosecution Agreement (NPA),1.0
+claim_5_1_1,person_073,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_1_1,person_059,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_1_1,person_001,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_1_2,person_074,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_1_2,person_059,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_2_1,person_007,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_2_1,person_002,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_2_2,person_007,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_3_1,person_072,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_3_1,person_073,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_3_1,person_001,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_3_1,person_002,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_3_2,person_072,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_3_2,person_073,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_4_1,person_075,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_5_1,person_001,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_5_1,person_059,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_5_5_1,person_060,CLAIM_ABOUT,V. A Compendium of Verified Civil Litigation and Testimonial Evidence,1.0
+claim_6_1_1,person_001,CLAIM_ABOUT,VI. Verification of Prominent Associations,0.9
+claim_6_1_1,person_002,CLAIM_ABOUT,VI. Verification of Prominent Associations,0.9
+claim_6_1_1,person_025,CLAIM_ABOUT,VI. Verification of Prominent Associations,0.9
+claim_6_1_2,person_001,CLAIM_ABOUT,VI. Verification of Prominent Associations,1.0
+claim_6_1_2,person_025,CLAIM_ABOUT,VI. Verification of Prominent Associations,1.0
+claim_6_1_2,person_002,CLAIM_ABOUT,VI. Verification of Prominent Associations,1.0
+claim_6_1_3,person_025,CLAIM_ABOUT,VI. Verification of Prominent Associations,0.3
+claim_6_2_1,person_001,CLAIM_ABOUT,VI. Verification of Prominent Associations,0.2
+claim_6_2_1,person_027,CLAIM_ABOUT,VI. Verification of Prominent Associations,0.2
+claim_6_3_1,person_001,CLAIM_ABOUT,VI. Verification of Prominent Associations,1.0
+claim_6_3_1,person_028,CLAIM_ABOUT,VI. Verification of Prominent Associations,1.0

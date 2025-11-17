@@ -1,0 +1,3 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_204,person_204,SUPPLIED,,0.7,Victoria Secret model provided by Epstein to Dershowitz,Unverified
+person_204,person_061,SUPPLIED,,0.7,Provided to Alan Dershowitz by Epstein,Unverified

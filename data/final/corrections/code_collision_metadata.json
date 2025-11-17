@@ -1,0 +1,3743 @@
+{
+  "1FP": {
+    "collision_count": 5,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "gender_passenger",
+    "canonical_names": [
+      "1 Female Passenger",
+      "1 Female Passenger",
+      "1 Female Passenger",
+      "1 Female Passenger",
+      "1 Female Passenger"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "1MP": {
+    "collision_count": 7,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "gender_passenger",
+    "canonical_names": [
+      "1 Male Passenger",
+      "1 Male Passenger",
+      "1 Male Passenger",
+      "1 Male Passenger",
+      "1 Male Passenger",
+      "1 Male Passenger",
+      "1 Male Passenger"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "1NA": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "special_passenger",
+    "canonical_names": [
+      "1 Nanny",
+      "1 Nanny"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "1UP": {
+    "collision_count": 4,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "gender_passenger",
+    "canonical_names": [
+      "1 Unidentified Passenger",
+      "1 Unidentified Passenger",
+      "1 Unidentified Passenger",
+      "1 Unidentified Passenger"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "1WF": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "special_passenger",
+    "canonical_names": [
+      "1 Wife",
+      "1 Wife"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "2A": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "other",
+    "canonical_names": [
+      "2 Aunts",
+      "2 Aunts"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "2FP": {
+    "collision_count": 3,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "gender_passenger",
+    "canonical_names": [
+      "2 Female Passengers",
+      "2 Female Passengers",
+      "2 Female Passengers"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "2MP": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "gender_passenger",
+    "canonical_names": [
+      "2 Male Passengers",
+      "2 Male Passengers"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "2UP": {
+    "collision_count": 4,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "gender_passenger",
+    "canonical_names": [
+      "2 Unidentified Passengers",
+      "2 Unidentified Passengers",
+      "2 Unidentified Passengers",
+      "2 Unidentified Passengers"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "AA": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ari Ashley",
+      "Aml Atkin",
+      "Azzedine Alaia",
+      "Abdullah Amad"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AB": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Antoine Blech",
+      "Anthony Bamford",
+      "Andrea Bonomi",
+      "Amanda Brooks",
+      "Alison Brown",
+      "Albert Benamou"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AC": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Alistar Campbell",
+      "Alby Cator",
+      "Alejandra Cicognani",
+      "Alice Fay Cleese",
+      "Andrew Cuomo",
+      "Alan Coles",
+      "Alby Carto"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AD": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Alexandria Dixon",
+      "Alain de Cadenet",
+      "Andrew de Candole",
+      "Alain de Cadenet",
+      "Anouska De Georgiou",
+      "Alex Dolbey"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AE": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Andrew Edwards",
+      "Amanda Eliasch",
+      "Angie Everhart"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AF": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Arnado Fakhre",
+      "Anne Fell",
+      "Astrid Forbes",
+      "Aliai Forte",
+      "Amanda Fry",
+      "Alexandra V. Furstenberg",
+      "Andrew Farkas"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AG": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Andrew Gillmour",
+      "Avi Gil",
+      "Arik Gutman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AH": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Andrews Helen",
+      "Ashley Hicks",
+      "Allegra Hicks",
+      "Andrea Hissom",
+      "Adam Horne"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AJ": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Andrew Jarecki",
+      "Ann Jones"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AK": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Abagail Koppel",
+      "Anton Katz",
+      "Amanda Keidan",
+      "Abby King",
+      "Astrid Kohl",
+      "Anna Kravetz",
+      "Alistar Kudrow"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AL": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Adam Perry Lang",
+      "Alex Lindsay",
+      "Arietta Livanos",
+      "Alex Loeb"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AM": {
+    "collision_count": 11,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Anna Macedo",
+      "Alexander Mann",
+      "Alessandro Manfredini",
+      "Alejandra Manzano",
+      "Alisa Marks",
+      "Astrid Merterier",
+      "Anthony McFarland",
+      "Andrea Mitrovich",
+      "Averell Mortimer",
+      "Alan Mruvka",
+      "Alexander Mann"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AN": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Adam Nagel",
+      "Alex Nastase",
+      "Andrew Neil",
+      "Andrew Neil",
+      "Alix Noel"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AO": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Anthony Outred",
+      "Arabella Oswald"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AR": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ali Reza",
+      "Andrew Rosen"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AS": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Alan Stepek",
+      "Amy Sacco",
+      "Andre Shearer",
+      "Angie Shearer",
+      "Andrew Solomon",
+      "Andrew Stengel",
+      "Allison Stern",
+      "Amanda Sunley"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AT": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Alfred Taubman",
+      "Anne Tish",
+      "Andrew Tish"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AW": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Alexia Wallaert",
+      "Alan Whitworth",
+      "Anouska Weinberg",
+      "Alexandra Williams",
+      "Andy Wong",
+      "Alexa Woodward"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "AZ": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Alex Zosman",
+      "Alexi Zaies",
+      "Adrian Zecher"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BB": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Bola Bismarck",
+      "Barbara Black",
+      "Barbara Black",
+      "Blogs Blacker",
+      "Bruce Bossom",
+      "Bandar bin Sultan",
+      "Brenda Boone",
+      "Berry Bernette"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BC": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Brooke Campo",
+      "Bob Crowley",
+      "Bruce Cope"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BF": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Beatrice Ferragamo",
+      "Bobby Foman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BG": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Barbara Guggenheim",
+      "Bert Guggenheim",
+      "Bob Gold",
+      "Bob Goodman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BH": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Barry Hearn",
+      "Bea Hollond"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BJ": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Brook Johnson",
+      "Barry Josephson",
+      "Bruno Jennifer"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BK": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Brian Kelly",
+      "Bruce King",
+      "Bobby Kotick"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BL": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Betty Lagardere",
+      "Blake Lindsley",
+      "Babis Liogos"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BM": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Brian Moseley",
+      "Bella Macmillan",
+      "Basil Mavroleon",
+      "Bluey Mavroleon",
+      "Barbara Mavroleon",
+      "Bruce Merivale-Austen",
+      "Bill Maronet",
+      "Bob Miranda"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BO": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Bob Oatman",
+      "Beo Otto"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BP": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Barbara Parsley",
+      "Bob Pittman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BR": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Bill Richardson",
+      "Bill Richardson",
+      "Bill Roedy"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BS": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ben Sangster",
+      "Benny Shabtai",
+      "Brenda Shad",
+      "Bobby Shriver",
+      "Bren Simon",
+      "Bobby Slayton"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BT": {
+    "collision_count": 9,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Brent Tindall",
+      "Bob Trossle",
+      "Bobby Taubman",
+      "Billy Tavoulareas",
+      "Barnaby Thompson",
+      "Bea Tollman",
+      "Brett Tollman",
+      "Blaine Trump",
+      "Blaine Trump"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BW": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Bill Wedge",
+      "Barbara Walters",
+      "Bob Weinstein"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "BZ": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Bob Zangrillo",
+      "Bibi Zecher",
+      "Bettina Zilkha"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CA": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Charlotte Assal",
+      "Cath Adler"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CB": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Christopher Brooks",
+      "Christopher Brooks",
+      "Chris Brown",
+      "Caprice Bourret",
+      "Cristina Bello"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CC": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Carina Carey",
+      "Charlene Carvalho",
+      "Camilla Cordle",
+      "Carolyn Cohen",
+      "CLASSIFIED CLASSIFIED",
+      "Carolin Coleman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CD": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Countess Derby",
+      "Cath Dietrich",
+      "Charlotte Duthie",
+      "Catherine Derby"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CF": {
+    "collision_count": 9,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Catherine Fairweather",
+      "Christine Fakhre",
+      "Christina Fallah",
+      "Cornelia Faulkner",
+      "Christopher Figg",
+      "Charlotte Figg",
+      "Christopher Forbes",
+      "Carina Frost",
+      "Cosmo Fry"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CG": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Chris Getty",
+      "Christophe Gaie"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CH": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Colin Hiss",
+      "Clare Hazell-Iveagh",
+      "Chantal Hanover",
+      "Craig Hatkoff",
+      "Clare Hazell-Iveagh",
+      "Carlyn Hunter",
+      "Clare Haven"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CK": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Christine Kenneally",
+      "Caroline Kellett Fraysse",
+      "Charlotte Klee",
+      "Caryn Krooth",
+      "Charlie Kryle"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CL": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Cindy Lopez",
+      "Claudia Leschuck",
+      "Christopher Lambert",
+      "Caroline Lang",
+      "Christopher Lawford",
+      "Christophe Lazar",
+      "Courtney Love",
+      "Colin Lucas"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CM": {
+    "collision_count": 16,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Charles Miller",
+      "C. Thomas McMillen",
+      "Carol Mack",
+      "Christopher Mason",
+      "Carolina Mattsson",
+      "Caitlin Mavroleon",
+      "Carina Mavroleon",
+      "Carlos Mavroleon",
+      "Christine Maxwell Malina",
+      "Cas McLancy",
+      "Caroline Merison",
+      "Cheryl Mills",
+      "Carie Minot",
+      "Cico Moncada",
+      "Cesar Montemayor",
+      "Chris Moore"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CN": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Clive Ng",
+      "Constantine Niarchos",
+      "Cecilia Noha"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CO": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Cynthia Ott",
+      "Claude Ott",
+      "Christina Oxenberg",
+      "Carletto O'Donnell"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CP": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Christy Prunier",
+      "Carolina Parsons",
+      "Clem Pease",
+      "Clary Polu",
+      "Catherine Prevost",
+      "Charles H. II Price",
+      "Christy Prunier",
+      "Chris Pymont"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CR": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Chris Royer",
+      "Carole Radziwill",
+      "Charlie Rose",
+      "Caroline Roumugere"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CS": {
+    "collision_count": 9,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Cecilia Szajman",
+      "Carlos Sanchez",
+      "Corrie Sandelmar",
+      "Christine Seilern",
+      "Chris Shore",
+      "Carlos Souza",
+      "Chris Steenkamp",
+      "Chris Steinkampf",
+      "Charlie Stopford-Sackville"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CT": {
+    "collision_count": 9,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Craig Tafoya",
+      "Charlie Taylor",
+      "Cla Threipland",
+      "Christy Tharpe",
+      "Cristina Tabet",
+      "Catherine Theodoli",
+      "Chris Tucker",
+      "Christy Turlington",
+      "Charles Turnbull"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CV": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Carmine S. Villani",
+      "Charles Vivian Smith"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "CW": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Cristalle Wasche",
+      "Casey Wasserman",
+      "Carter Wilson",
+      "Carol Wolper",
+      "Carrie Woods",
+      "Camilla Woodward",
+      "Cate Wyatt"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DB": {
+    "collision_count": 10,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Doug Bands",
+      "Debbie Bismarck",
+      "David Blaine",
+      "Doug Bands",
+      "Douglas J Bands",
+      "Dr. Burman",
+      "Dr. Burnbaum",
+      "Dr. Bruno",
+      "Dr. Perry Bard",
+      "Dr. Bard"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DC": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "David Cook",
+      "Dr. Dean Calakos",
+      "Dr. Dean Calakos",
+      "Dr. Dean Calakos",
+      "Dick Cowley"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DD": {
+    "collision_count": 9,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Denise Diorio",
+      "David Davies",
+      "Dawn Devito",
+      "Dina Deluca",
+      "Dawn Devito",
+      "David Doss",
+      "Dominice Dunne",
+      "Dale Djerassi",
+      "Dawn Devito"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DE": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Dr. Gerald Edelman",
+      "Don Engle"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DF": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Danny Fakhre",
+      "David Fell",
+      "David Frost",
+      "Dr. Farkus"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DG": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Dr. J R Gaynor",
+      "David Gladwin"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DH": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Darrell Halstead",
+      "Dr. Hirshfield"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DK": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Dr. Henry A Kissinger",
+      "David Koch",
+      "Dr. Michael Krumholtz"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DL": {
+    "collision_count": 10,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Donna Landa",
+      "Dalamal Lal",
+      "Demetra Lalaouni",
+      "David Lambert",
+      "Duff Lambos",
+      "Dieter Lange",
+      "Dominick Lester",
+      "Doug Liman",
+      "David Linley",
+      "Dr. Lee"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DM": {
+    "collision_count": 12,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Dave Mann",
+      "David Monahan",
+      "David Mitchell",
+      "Dave Macmillan",
+      "Didi Malek",
+      "Debbie Maxwell",
+      "Dr. Magnani",
+      "Dr. J. Meltzer",
+      "Dr. Bruce Moskowitz",
+      "Daniela Modafferi",
+      "Deborah Moore",
+      "Donald Munro"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DN": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Debbie Nichols",
+      "Dott M Jacope Nardi"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DP": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Dara Preece",
+      "Diane Plouvier",
+      "Denis Plouvier",
+      "David Puttnam"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DR": {
+    "collision_count": 13,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Daniel Romualdez",
+      "Denise Read",
+      "David Rockefeller",
+      "David Rigg",
+      "David Ross",
+      "Daniel Reynolds",
+      "Dr. Kashel Ray",
+      "Don Rappaport",
+      "Deb Roberts",
+      "David Rocksavage",
+      "Denis Rosen",
+      "Donald Rosenfeld",
+      "Della Rudnick"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DS": {
+    "collision_count": 10,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Doug Schoettle",
+      "Dr. Oliver Sacks",
+      "Douglas A Schoettle",
+      "David Shaeffer",
+      "Dottie Sowell",
+      "Debbie Stewart",
+      "Dr. Schimoni",
+      "Dr. Steinberg",
+      "Dr. Esther Sternberg",
+      "Derek Shaw"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DT": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Donald Trump",
+      "Donald Trump",
+      "David Tang",
+      "David Tisch"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DV": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Dr. Steve Victor",
+      "Dott. Marco Vittorelli"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "DW": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Dottle Wilson",
+      "David Wagner",
+      "Dr. Ruth Westheimer"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EA": {
+    "collision_count": 6,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "standard",
+    "canonical_names": [
+      "Eva Andersson Dubin",
+      "Eva Andersson Dubin",
+      "Eva Andersson Dubin",
+      "Eva Andersson Dubin",
+      "Eva Andersson Dubin",
+      "Eva Andersson Dubin"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "EB": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Edgar Bronfman Jr.",
+      "Emma Bullough",
+      "Ehud Barak"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EC": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Emilio Campo",
+      "Emma Clempson",
+      "Elliot Cas"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ED": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Earl Derby",
+      "Edouard de Rothschild",
+      "Evelyn de Rothschild"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EE": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Erin Eagan",
+      "Elisa Eshed",
+      "Efrat Evani Duud"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EG": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Evelyn Gruss",
+      "Emma Gillmour",
+      "Edmund Glentworth",
+      "Emily Glentworth",
+      "Emma Gomme",
+      "Eric Gany",
+      "Eileen Guggenheim"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EH": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Edward Hutley",
+      "Elsa Hurley",
+      "Eileen Hickery"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EK": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ethel Kennedy",
+      "Edward Kennedy"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EL": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Edward Lampert",
+      "Elizabeth Lindemann",
+      "Eva Vivre Lorenzotti"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EM": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Earl Mack",
+      "Eddie Mangope",
+      "Eddie Manners",
+      "Eric Margolis",
+      "E. Maxwell"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EN": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Erin Nance Hill",
+      "Emanuel Nadler"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EO": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ehud Olmert",
+      "Edvige Otto"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EP": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Elise Paschen",
+      "Edoardo Polli",
+      "Emmanuelle Polu",
+      "Emmanuelle Porthault",
+      "Electra Prestin"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ER": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ed Razek",
+      "Edmondo di Maya Robilant",
+      "Eric Ruttenberg"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ES": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Edmond Safra",
+      "Eric Salama",
+      "Elizabeth Saltzman",
+      "Esperanza Sobrino",
+      "Edward St. Bris"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ET": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Emmy Taylor",
+      "Eliot Taymor",
+      "Eduardo Teodorani-Fabbri",
+      "Emily Olypitus Todhunter"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "EW": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Eli Wiesel",
+      "Eric Wachtmeister",
+      "Elie Wiesel",
+      "Elizabeth Winston",
+      "Emily Woods"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "FB": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Frank Bowling",
+      "Ferdinando Brachetti Peretti"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "FC": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Fouard Chartuuni",
+      "Fuad Chartounian"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "FD": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Francesco Ducrey-Giordano",
+      "Francesco de la Garde",
+      "Fernando de Soto"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "FF": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "standard",
+    "canonical_names": [
+      "Frederic Fekkai",
+      "Frederic Fekkai"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "FJ": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "standard",
+    "canonical_names": [
+      "Frances Jardine",
+      "Frances Jardine"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "FP": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Francis Peadon",
+      "Federico Pignatelli",
+      "Felix Posen"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "FR": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Florina Rueda",
+      "Florena Rueda"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "FT": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Felicia Taylor",
+      "Francesca Theilmann",
+      "Francesca Thyssen"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "FW": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Francis Wahl",
+      "Felicity Waterman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GB": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Gretal Barham",
+      "Giola Bonomi",
+      "Gary Baura"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GC": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Gibby Cohen",
+      "George Case",
+      "Giancario Cammarata",
+      "Giuseppe Cipriani",
+      "Gustavo Cisneros",
+      "Graham Clempson",
+      "Georgia Coleridge"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GG": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Geordie Gregg",
+      "Geoffrey Gelardi",
+      "Georgina Gordon",
+      "Gerald Goldsmith"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GH": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Gilbert Hakim",
+      "Gregory Hedberg",
+      "Gerry Heinan",
+      "George Haven"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GJ": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Gloria Jarecki",
+      "Grainne Jones"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GK": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Gary Kerney",
+      "Gary Kerney",
+      "Georgie Keller",
+      "Gayl Kelmenson",
+      "Gary Kerney",
+      "Georgette Klinger",
+      "Geoffrey Kent"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GL": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Greg Lee",
+      "Guy J Louthan"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GM": {
+    "collision_count": 12,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ghislaine Maxwell",
+      "Ghislaine Maxwell",
+      "Gloria Minsky",
+      "George Mitchell",
+      "Giovanni Mahler",
+      "Ghislaine Maxwell",
+      "Guy Merison",
+      "Gianluca Milani",
+      "Geoffrey Moore",
+      "Gigi Mortimer",
+      "Ghislaine Maxwell",
+      "George Mitchell"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GR": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Gary Roxburgh",
+      "Gary Roxburgh",
+      "Gretchen Rhodes",
+      "Gavin Rankin",
+      "Gail Rolfe",
+      "Gerald Ronson",
+      "Gerald Ronson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GS": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Guy Sangster",
+      "Gianmarco Schiatti"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "GT": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Geraldine Talavera",
+      "Gavin Tollman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HB": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Hillary Batstone",
+      "Hillary Batstone",
+      "Hamish Bullough"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HF": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Heinrich Furstenberg",
+      "Hamish Fraser"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HG": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Hugo Guinness",
+      "Howard Glick",
+      "Howard Glick"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HH": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Henry Hay",
+      "Helen Herrero"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HM": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Henry Meer",
+      "Heather Mann",
+      "Harold Mollin",
+      "Harry Malek",
+      "Helen McDowell"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HN": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Hetty Newman",
+      "Hon Thomas Noel",
+      "Harry Nuttall"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HP": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Hon Charles Pearson",
+      "Harlan Peltz",
+      "Helsius Petangi",
+      "Holly Peterson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HR": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Henry Dean Rosovsky",
+      "Hannah Rothschild",
+      "Hon Lucinda Royle"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HS": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Helen Shifter",
+      "Helen Schifter",
+      "Henry Silverman",
+      "Hamilton South",
+      "Hugo Swire",
+      "Harry Sutherland",
+      "Hugo Swire"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HT": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Helen Taylor",
+      "Harry Tennenbaum"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "HW": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Herb Wolman",
+      "Harriet Weintraub"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ID": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Inca Doerrig",
+      "Isabel de Sejournet"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "IP": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Itzhak Perlman",
+      "Itzhak Perlman",
+      "Isabelle Polu"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "IR": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Isabel Rattazzi",
+      "Ian Rust",
+      "Ian Roche"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "IT": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ivana Trump",
+      "Ivanka Trump"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "IZ": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ira Zicherman",
+      "Ira Zuckerman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "J?": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "other",
+    "canonical_names": [
+      "Joann ?",
+      "Joanne ?",
+      "Joe ?",
+      "JoJo ?",
+      "Julie ?"
+    ],
+    "resolution_strategy": "unknown"
+  },
+  "JA": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "John Agnew",
+      "Jeremy Alun-Jones",
+      "John Alessi"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JB": {
+    "collision_count": 16,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jessica Benton",
+      "James Bruce",
+      "Jane Buffett",
+      "Jules Burney",
+      "Jon Bannenberg",
+      "Jonathan Barrett",
+      "Jerry Beck",
+      "Jerry Beck",
+      "Jerry Barson",
+      "Jerry Benic",
+      "Jessica Bauer",
+      "John Brockman",
+      "Julian Borees",
+      "Juliette Bryant",
+      "Jasmine Bon",
+      "John Bodie"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JC": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Joe Cashion",
+      "Joe Coffey",
+      "Justine Carolie",
+      "Jimmy Cayne",
+      "Jim Cayne",
+      "Jimmy Cayne",
+      "Julie Concebaugh"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JD": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jean Dedjeu",
+      "Jonathan Derby",
+      "Jonathan Dimbleby",
+      "John Duthie",
+      "Jacques de Crussol d'Uz\u00e8s",
+      "Jennifer Driver",
+      "Jim Dowd",
+      "Jordan Dubin"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JE": {
+    "collision_count": 19,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Johan Eliasch",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein",
+      "Jeffrey Epstein"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JF": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jasmine Fakhre",
+      "Jeanette Foman",
+      "Jojo Fontanilla",
+      "Jonathan D. Farkas",
+      "Jimmy Finkelstein",
+      "Jo-Jo Fontanella",
+      "Julie Fierson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JG": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "James A. Growney",
+      "Jacobo Gordon",
+      "John Gutfreund",
+      "Jerry Goldsmith",
+      "Jim Gibson",
+      "John Glenn"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JH": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jane Hatkoff",
+      "Juan Herrero",
+      "James Hollond",
+      "Jalila Hashemi",
+      "Joey Hunter"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JK": {
+    "collision_count": 11,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jim Kennedy",
+      "John Kerry",
+      "Jack Kessler",
+      "Jennifer Kalin",
+      "Jim Kennez",
+      "Julie K",
+      "Jon Keidan",
+      "John Kelly",
+      "Jo Kennedy",
+      "Jemma Kidd",
+      "Jonathan Klesch"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JL": {
+    "collision_count": 11,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Janice Lichtenstein",
+      "John Lambos",
+      "Janet Larsen",
+      "Jonathan Laurie",
+      "Jean Lawford",
+      "Jean-Yves Le Fur",
+      "Jeffrey Leeds",
+      "Jerry Lefcourt",
+      "Jaclyn Lindsay",
+      "John Lorimer",
+      "Jack Liggett"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JM": {
+    "collision_count": 21,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Joyce Michayluk",
+      "Jerry Merritt",
+      "Jonathan Mano",
+      "Jonathan Mano",
+      "Juan Molyneux",
+      "Josh Mailman",
+      "John Manconi",
+      "Jose Manzano",
+      "John Mappin",
+      "Jeremy Marsh",
+      "John Mayhew",
+      "John McDonald",
+      "Jonathan Mermagon",
+      "Justin Metcalf",
+      "Julian Metcalfe",
+      "Justin Metcalfe",
+      "Joane Metcalfe",
+      "John Micklethwait",
+      "Juliet Moore",
+      "Jean Pierre Murray",
+      "Jean-Jacques Moinet"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JN": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Joe Novich",
+      "Jelitza Negrete",
+      "John Newman",
+      "John Newman",
+      "Jayne Nickerson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JP": {
+    "collision_count": 13,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Joe Pagano",
+      "Joe Pagano",
+      "Joe Pagano",
+      "Joel Pashcow",
+      "James Palumbo",
+      "Jackie Parker",
+      "Joel Pashcow",
+      "John Peters",
+      "Jane Pickering",
+      "Jean Pigozzi",
+      "Jeffrey Podolsky",
+      "Judy Price",
+      "Jerome Pierre"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JR": {
+    "collision_count": 13,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Joseph Rueda",
+      "John Ray",
+      "Joe Recarey",
+      "Joan Rivers",
+      "Jon Robe",
+      "Joseph Robert",
+      "Jill Robert",
+      "Jo Robinson",
+      "Jo Rose",
+      "Jane Rosenthal",
+      "Jessica Rothschild",
+      "Joseph Rueda",
+      "Jilly Rutherford"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JS": {
+    "collision_count": 15,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jeff Schantz",
+      "Jeff Schantz",
+      "Jeffrey Schantz",
+      "Jes Staley",
+      "John Stefanidis",
+      "Julie Shay",
+      "Jeffrey Sachs",
+      "Jamie Sainsbury",
+      "Jon Sandelmar",
+      "Julio Mario Santo Domingo",
+      "James Smith",
+      "Jaime Soto",
+      "Jeffrey Steiner",
+      "James Sunley",
+      "Jenny Swire"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JT": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jim Taylor",
+      "Judy Tuckerman",
+      "Jim Tuttle",
+      "Jenny Turner"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JV": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Julia Verdin",
+      "Jane Veronis",
+      "Jacques Villeneuve"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "JW": {
+    "collision_count": 10,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Jamie Whitehead",
+      "Joan Waters",
+      "Jim Whitehead",
+      "Jim Worden",
+      "Joe Warner",
+      "Justin White",
+      "Jason Weinberg",
+      "Jim Wall",
+      "Jim Wyatt",
+      "Julia Walters"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "K?": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "other",
+    "canonical_names": [
+      "Karen ?",
+      "Kirsten ?"
+    ],
+    "resolution_strategy": "unknown"
+  },
+  "KB": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Katie Braine",
+      "Kelly Bovino",
+      "Kimberly Burns",
+      "Karen Bird"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KE": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Karen Epstein",
+      "Kate Edmunds"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KG": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Kuki Gallman",
+      "Katherine Gregg",
+      "Kit Gordon",
+      "Kenneth Gilman",
+      "Kathy Greenberg",
+      "Kinney Garage"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KH": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Kim Hersov",
+      "Kim Hurd"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KK": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Kay Katie",
+      "Kristina Kincaid",
+      "Kalliope Karella",
+      "Katherina Kotzig",
+      "Katherina Kotzig",
+      "Kristina Kincaid",
+      "Kit Kryle"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KL": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ken Lipper",
+      "Kenneth Lipper",
+      "Kit Layborne"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KM": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Karina Matson",
+      "Kelly McCarthy",
+      "Kevin McCutcheon",
+      "Kate Menzies",
+      "Kevin Mischer",
+      "Kate Murray Philipson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KR": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Kristy Rodgers",
+      "Kristy Rodgers",
+      "Kate Reardan",
+      "Kasia Robinski"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KS": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Kelly Spamm",
+      "Kevin Spacey",
+      "Ken South",
+      "Kevin Spacey",
+      "Koo Stark",
+      "Kate Stracher"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KT": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Kyle Taylor",
+      "Kim Taipale",
+      "Karim Tabet"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "KW": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Kate Weddington",
+      "Kevin Ward"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "L?": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "other",
+    "canonical_names": [
+      "Laurie ?",
+      "Lisa ?",
+      "Luba ?",
+      "Lydia ?",
+      "Lynn ?"
+    ],
+    "resolution_strategy": "unknown"
+  },
+  "LA": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Linda Aslanian",
+      "Laura Andrew",
+      "Lisa Andrew"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LB": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Lauren Booth",
+      "Lucinda Bruce",
+      "Leon Black",
+      "Leticia Birkholder"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LD": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Linda Davies",
+      "Louis Dubin",
+      "Laura D.B. de Laviada"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LF": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Leonardo Ferragamo",
+      "Lucinda Fox",
+      "Lynn Fontanella",
+      "Lynn Forester"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LH": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Laurie Hunter",
+      "Lulu Hutley",
+      "Laura Hames"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LJ": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Lily Johnson",
+      "Lucy Johnson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LK": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Arthur Kelmenson",
+      "Leonard Kay"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LL": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ludovic Lindsey",
+      "Lottie Lorimer",
+      "Lou Ladies Poker"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LM": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Larry Morrison",
+      "Larry Morrison",
+      "Larry Morrison",
+      "Lucy Morris",
+      "Larry Mogens"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LP": {
+    "collision_count": 12,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Lisa Phillips",
+      "Lisa Phillips",
+      "Lisa Phillips",
+      "Lauren Pashcow",
+      "Lauren Portilla",
+      "Lester Pollack",
+      "Linda Pinto",
+      "Leora Perlman",
+      "Lorenzo Pedrini",
+      "Dan Pham",
+      "Laudomia Pucci",
+      "Leah Pisar"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LS": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Lawrence S. Stroll",
+      "Larry Summers",
+      "Linda Scolaro",
+      "Lisa Shields",
+      "Lisa Summers",
+      "Linda Spankman",
+      "Leonard Stern",
+      "Lucy Ewen Sykes"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LT": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Linda Toscano",
+      "Larry Tobiason"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LV": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Larry V",
+      "Larry Visoski",
+      "Larry Visoski",
+      "Linda Vahabzadeh"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "LW": {
+    "collision_count": 13,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Lesley Wexner",
+      "Linda Wachner",
+      "Linda Wachner",
+      "Laura Wasserman",
+      "Les Wexner",
+      "Lucy Wastnage",
+      "Laura Wasserman",
+      "Lisa Wassong",
+      "Lucy Wastnage",
+      "Lord Weidenfeld",
+      "Lionel Wigram",
+      "Lydia Wigram",
+      "Lionel Wigram"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "M?": {
+    "collision_count": 11,
+    "collision_type": "different_people_collision",
+    "code_type": "other",
+    "canonical_names": [
+      "Mackla ?",
+      "Mandy ?",
+      "Manny ?",
+      "Margarita ?",
+      "Maria ?",
+      "Marshall ?",
+      "MCXG ?",
+      "Michelle ?",
+      "Mike ?",
+      "Monica ?",
+      "Mylene ?"
+    ],
+    "resolution_strategy": "unknown"
+  },
+  "MA": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mike Atkin",
+      "Mats Alexander",
+      "Mylene Arm"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MB": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mike Bloomberg",
+      "Mark Booth",
+      "Maria Bevan",
+      "Muriel Brandolini",
+      "Magali Blachon",
+      "Magali Blachon",
+      "Michelle Birkholder",
+      "Mr. Brown"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MC": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Michel Carvalho",
+      "Mark Cecil",
+      "Mini Cecil",
+      "Mark Cecil",
+      "Mandy Cochrane",
+      "Madison Cox",
+      "Michelle Campos"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MD": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Martine de Courcel",
+      "Marc Dietrich",
+      "Manny Dubin",
+      "Maya Dubin",
+      "Michael Durberry",
+      "Mike Donovan"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ME": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mandy Ellison",
+      "Marie Joseph Experton",
+      "Mark Epstein",
+      "Mandy Ellison",
+      "Mark Epstein",
+      "Mglindallns E?"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MF": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Marla Fairweather",
+      "Milana Furstenberg"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MG": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mario Ganero Sr.",
+      "Chantal Greece",
+      "Murray Gell-Mann",
+      "Matt Grippi",
+      "Malcolm Grumbridge",
+      "Mario B. Jr. Garnero"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MH": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ms Annabel Heseltine",
+      "Michael Holtz"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MJ": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Miranda Johnson",
+      "Mylene Jampanol",
+      "Mick Jones"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MK": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mark Katzenellenbogen",
+      "Mary Kennedy",
+      "Mary Kaye",
+      "Mary Kerney"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ML": {
+    "collision_count": 14,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Maria Loss",
+      "Madame Lemercier",
+      "Marc Lundberg",
+      "Melinda Luntz",
+      "Marie Lazar",
+      "Mark Lloyd",
+      "M L",
+      "Mandy Lang",
+      "Mark Lloyd",
+      "Melinda Luntz",
+      "Michael Liffman",
+      "Ms Lipper",
+      "Ms Lipper",
+      "Mick Lany"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MM": {
+    "collision_count": 22,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mark Middleton",
+      "Maureen McCarthy",
+      "Machel Malenga",
+      "Marjorie Malina",
+      "Michael Maller",
+      "Mandy Milroy",
+      "Miss Lucy Manners",
+      "Mark Middleton",
+      "Marla Maples",
+      "Manilo Marocco",
+      "Marvin Minsky",
+      "Marx McAfee",
+      "Matteo Marzotto",
+      "Manoll Mavroleon",
+      "Ms Anne Maxwell",
+      "Marcella Maxwell",
+      "Mateo Mazzotti",
+      "Melanie Metcalf",
+      "Mr. Martino",
+      "Mr. Mucinska",
+      "Mrs. Mucinska",
+      "Marchioness Marquess"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MN": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Martin Nowak",
+      "Mauri Nesson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MO": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Michael Ovitz",
+      "Ms Marella Oppenheim"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MP": {
+    "collision_count": 14,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mark Packer",
+      "M P",
+      "Mark Potter",
+      "Massimo Parisi",
+      "Murray Philipson",
+      "Murray Philipson",
+      "Marcia Palau",
+      "Mike Pezulo",
+      "Marcus Pekeler",
+      "Mark Pennell",
+      "Michael Picciotto",
+      "Meryl Poster",
+      "Muffie Potter",
+      "Marc Puig"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MR": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mary Richards",
+      "Michael Rena",
+      "Morgan RRY?",
+      "Michael Reynal",
+      "Miquel Reynal",
+      "Ms Claudia Rosencrantz",
+      "Michelle Russell",
+      "Marina Rust"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MS": {
+    "collision_count": 18,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Manuel Santo",
+      "Mr. Santos",
+      "Monty Shadow",
+      "Melissa Solomon",
+      "M S",
+      "Manuela Stoetter",
+      "Melanie Starves",
+      "Melissa Stahl",
+      "Marie Sabe",
+      "Mia Samuels",
+      "Maura Shore",
+      "Maria Shriver",
+      "Maria Snyder",
+      "Milly Soames",
+      "Marina Soto",
+      "Mary Stengel",
+      "Michael Stevens",
+      "Mark Swire"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MT": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Marty Trust",
+      "Maxine Tobias",
+      "Mark Tafoya",
+      "Maggie Tom",
+      "Mogens Tholstrup",
+      "Merryl Tisch",
+      "Miles Creswell Turner"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MV": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Martin Varsavsky",
+      "Martine Vittoz"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MW": {
+    "collision_count": 11,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Margaret Whippet",
+      "Melinda Walker",
+      "Michael Wells",
+      "Michael Wolf",
+      "Mike Wallace",
+      "Ms Mandy Warnford-Davis",
+      "Mrs Lally Weymouth",
+      "Michael White",
+      "Mark Weinberg",
+      "Manfred Windisch Grazot",
+      "Marquess Worcester"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "MZ": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Mort Zuckerman",
+      "Mark Zeff"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NA": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Nick Allan",
+      "Nick Ashley"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NB": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Natasha Batstone",
+      "Nicholas Barham",
+      "Nuno Brandolini",
+      "Nadia Bjorlin",
+      "Nadia Bjorlin",
+      "Neil Biggen"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NC": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Nicholas Coleridge",
+      "Naomi Campbell"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NG": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Nina Griscom",
+      "Nicolas Guedroitz"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NJ": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Nancy Jarecki",
+      "Nadine Johnson",
+      "Nicole Junkermann"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NM": {
+    "collision_count": 12,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Nathan Myhrvold",
+      "Nathan Myhrvold",
+      "Nicholas Mavroleon",
+      "Neil Mendoza",
+      "Nicole Miller",
+      "Nick Morris",
+      "Nadia Marcinkova",
+      "Nadia Marcinkova",
+      "Nadia Marcinkova",
+      "Natalya Malyshev",
+      "Nathan Myhrvold",
+      "Nathan Myhrvold"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NP": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Navah Perlman",
+      "Nicole Paini",
+      "Nick Pritzker"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NR": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Nicholas Rachline",
+      "Nick Ritblat",
+      "Noreen Roth",
+      "Natalie Rucellai",
+      "Nicholas Ryder"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "NS": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Natalie Simanova",
+      "Nick Simmonds",
+      "Nancy Silverman",
+      "Noona Smith Peterson",
+      "Nina Steinkampf"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "OH": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Olga Hermes",
+      "Olaf Hermes"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "OS": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Oliver Sacks",
+      "Osborne Smith"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PB": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Penelope Bossom",
+      "Prince Salman bin Abdulaziz Al Saud"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PC": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Pauline Case",
+      "Pietro Cicognani",
+      "Patty Cisneros",
+      "Pat Cayne",
+      "Patricia Cayne",
+      "Paul Cox",
+      "Peggy Culver Feign"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PD": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Paulette Dedjeu",
+      "Philip Dunne",
+      "Pierre d'Arenberg"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PE": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Paula Epstein",
+      "Paula Epstein",
+      "Paula H Epstein"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PF": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Patrick Fairweather",
+      "Pepe Fajul",
+      "Princess Firyal"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PH": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Patricia Hay",
+      "Paul Hoffman",
+      "Patricia Hughs",
+      "Paula Heil",
+      "Paula Halada"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PJ": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Philippe Junot",
+      "Pamela Johananoff",
+      "Pamela Johananoff"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PL": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Pascal Laparra",
+      "Paul Lawton",
+      "Piers Lea",
+      "Philip Levine",
+      "Paul Lister",
+      "Pierre Lemaine"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PM": {
+    "collision_count": 13,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Philip Mallinckrodt",
+      "Peter Mandelson",
+      "Pia Marocco",
+      "Peter Martins",
+      "Philip Maxwell",
+      "Philip Maxwell",
+      "Pandora Maxwell",
+      "Peter Morton",
+      "P M",
+      "Paul Mellon",
+      "Peter Marino",
+      "Philippe Mugnier",
+      "Patrick McMullan"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PO": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Patrick Ochin",
+      "Prince Michel of Yugoslavia"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PP": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Pavlos Princess",
+      "Peter Palumbo",
+      "Pliny Porter",
+      "Pascal Porthault"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PR": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Patsy Rodgers",
+      "Pete Rathgeb",
+      "Pete Rothholz",
+      "Patty Raynes",
+      "Peter Roth",
+      "Perri Ruttenberg"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PS": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Pat Sawyers",
+      "Pam Stevens",
+      "Pamela Stevens",
+      "Peggy Siegal",
+      "Peter Soros",
+      "Peter Soros",
+      "Peter Svenlinson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PT": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Pia Trusell",
+      "Paul Travis",
+      "Paul Taaffe",
+      "Pamela Taylor",
+      "Paola Tholstrup",
+      "Philip Treacy",
+      "Peter Tavoulareas"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "PV": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Patricia Velasquez",
+      "Patrick Vittoz"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "R?": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "other",
+    "canonical_names": [
+      "Ralph ?",
+      "Rich ?",
+      "Richard ?",
+      "Robert ?",
+      "Robin ?",
+      "Roger ?",
+      "Roger ?"
+    ],
+    "resolution_strategy": "unknown"
+  },
+  "RB": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ron Burkle",
+      "Richard Barnett",
+      "Richard Buckley",
+      "Ron Burkle",
+      "Ron Burkle",
+      "Ron Burkle"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RC": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Roddy Campbell",
+      "Rachel Cordle",
+      "Rupert Cordle",
+      "Ronnie Carey",
+      "Ray Carrell",
+      "Richard Cook",
+      "Ryan Coomer"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RD": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ros Derby",
+      "Ryan Daina",
+      "Rob Devito",
+      "Rupert Davemeadlus",
+      "Ryan Dionne"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RE": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ralph Ellison",
+      "Ralph Ellison"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "RF": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Rupert Fairfax",
+      "Rocco Forte",
+      "Remi Forthault"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RH": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Robert Hanson",
+      "Robert Hersov",
+      "Robert Hissom",
+      "Rachael Hunter"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RJ": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Randy James",
+      "Richard Johnson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RK": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ron Kastner",
+      "Rory Kegan",
+      "Rhonda King",
+      "Rupert Klee",
+      "Russ Kerry",
+      "Russ Kippes"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RL": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Robin Leach",
+      "Robert Lo Cascio",
+      "Richard Lonsdale",
+      "Ricardo Legorreta"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RM": {
+    "collision_count": 9,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Robert Maron",
+      "Robert Meister",
+      "Raymond McKenzie",
+      "Robin Metz",
+      "Riccardo Monti",
+      "Rosa Monckton",
+      "Robert Morton",
+      "Rupert Murdoch",
+      "Reba McEntire"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RO": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Robert Olney",
+      "Rachel Osbourne",
+      "Rodolph Onakewe",
+      "Robert Ord"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RP": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ronald Perelman",
+      "Riki Peterson",
+      "Richard Plepler",
+      "Rodney Propp",
+      "Ralph Pascale",
+      "Robin Plant"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RR": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Rob Rosenstein",
+      "Rich Rothenburg",
+      "Robin Rotherwick"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RS": {
+    "collision_count": 11,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ros Santo",
+      "Ron Shulman",
+      "Richard Snyder",
+      "Ray Scorn",
+      "Rhonda Sherer",
+      "Rhonda Sherer",
+      "Rodey Swater",
+      "Roger Sahle",
+      "Randall Scerbo",
+      "Ron Silver",
+      "Rena Sindi"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RT": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Rupert Tate",
+      "Robert Trump"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "RW": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Rebecca White",
+      "Rupert Wainwright",
+      "Rebecca Willis"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "S?": {
+    "collision_count": 9,
+    "collision_type": "different_people_collision",
+    "code_type": "other",
+    "canonical_names": [
+      "Semoine ?",
+      "Sharon ?",
+      "Sophie ?",
+      "Staff ?",
+      "Stefanie ?",
+      "Stephen ?",
+      "Steve ?",
+      "Steven ?",
+      "Suzanna ?"
+    ],
+    "resolution_strategy": "unknown"
+  },
+  "SA": {
+    "collision_count": 5,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Sally Albermarle",
+      "Sarah Allan",
+      "Simon Astaire",
+      "Shelly Aboff",
+      "Shelley Aboff"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SB": {
+    "collision_count": 10,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Steven Bentinck",
+      "Samantha Boardman",
+      "Serena Boardman",
+      "Sophie Boden",
+      "Serge Braine",
+      "Sophie Biddle",
+      "Sandy Berger",
+      "Sloane Barnette",
+      "Sophie Biddle",
+      "Spencer Barnette"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SC": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Sarah Charnon",
+      "Sara Massimo Carello",
+      "Susannah Constantine",
+      "Sherry Castle",
+      "Silas Chou",
+      "Sherrie Crape"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SD": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Suzie Dolbey",
+      "Sam Domb",
+      "Serge de Yugoslavia"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SF": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Steve Forbes",
+      "Sabine Forbes",
+      "Sarah Ferguson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SG": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Solina Guedroitz",
+      "Sabrina Guinness",
+      "Susan Gutfreund",
+      "Samuel Gen",
+      "Steve Gaston",
+      "Svetlana Griaznova",
+      "Sheridan Gibson",
+      "Svetlana Griaznova"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SH": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Susan Hearn",
+      "Sue Hamblin",
+      "Shannon Healy",
+      "Shannon Healy",
+      "Shelly Harrison",
+      "Susan Hamblin"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SK": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Steve Kosslyn",
+      "Sarah Kellen",
+      "Sarah Kellen",
+      "Sol Kerzner",
+      "Susan Kent",
+      "Sarah Kellen",
+      "Sean Koo"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SL": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Shelley Lewis",
+      "Saul Levy",
+      "Sean Lancaster",
+      "Shelley Lewis",
+      "Steve Lester",
+      "Steve Lester"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SM": {
+    "collision_count": 15,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Steve Mcguire",
+      "Sharon Mulvany",
+      "Sean Mahoney",
+      "Shelly Malkin",
+      "Stephen Marks",
+      "Shannon McLane",
+      "Sarah Milford Haven",
+      "Susan Minot",
+      "Stephen Morris",
+      "Sayne Miller",
+      "Simon Montefiore",
+      "Santa Montefiore",
+      "Shona McKinney",
+      "Steve Miller",
+      "Susan Michado"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SO": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Selma Ouertani",
+      "Simon Oates"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SP": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Stuart Pivar",
+      "Stacey Pashcow",
+      "Simon Pease",
+      "Sandy Pittman",
+      "Sonia Puopolo",
+      "Steven Pinker"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SR": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Sylvia Rosen",
+      "Scott Rueber",
+      "Sharon Reynolds"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SS": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Stan Schaeffer",
+      "Susie Shuster",
+      "Sophie Simpson",
+      "Sami Sindi",
+      "Steve Sherman",
+      "Stuart Sundlun",
+      "Sophie Swire",
+      "Susie Simon"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "ST": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Steve Tuckerman",
+      "Steve Tuckerman",
+      "Simon Talbot Williams",
+      "Sebastian Taylor",
+      "Sonia Titopupolo",
+      "Syrie Tollman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "SW": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Sam Waksal",
+      "Somers White",
+      "Steve Wynn",
+      "Steve Wyatt"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "T?": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "other",
+    "canonical_names": [
+      "Tami ?",
+      "Taylor ?"
+    ],
+    "resolution_strategy": "unknown"
+  },
+  "TB": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tim Batstone",
+      "Terri Button",
+      "Tom Barrack",
+      "Tony Busby",
+      "Tom Barrow",
+      "Tunde Oso Bota"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TC": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tim Cook",
+      "Tash Courage"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TD": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tiffany Dubin",
+      "Teala Davies",
+      "Tito Del Salto"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TE": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tracy Edwards",
+      "Tom Edmunds",
+      "Tatiana Espinosa"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TF": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Terence Faulkner",
+      "Taylor Foster"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TG": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tim Geary",
+      "Tiffany Gramza",
+      "Tiffany Gramza",
+      "Tiffany Gramza"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TK": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Ted Jr. Kennedy",
+      "Tatiana Kovylina",
+      "Terry Kafka"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TM": {
+    "collision_count": 8,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Thomas C. McMillen",
+      "Tony Malkin",
+      "Teressa Manners",
+      "Tara Maxwell",
+      "Todd Meister",
+      "Tony Meyer",
+      "Tom Melinchok",
+      "Todd Meister"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TN": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tim Newcombe",
+      "Timothy W. Newcombe",
+      "Tim Noonan"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TP": {
+    "collision_count": 7,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tara Palmer-Tomkinson",
+      "Tito Pedrini",
+      "Thomas Pritzker",
+      "Taria Puig",
+      "Toby Perlman",
+      "Tom Payette",
+      "Tom Pritzker"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TQ": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Thomas H. Quinn",
+      "Topper Quinn",
+      "Thomas H. Quinn"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TR": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Theresa Roberts",
+      "Thomas Rupert Ritson",
+      "Tania Rotherwick",
+      "Tim Rustow"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TS": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tim Shifter",
+      "Tom Sawyers",
+      "Tim Stehly",
+      "Tim Schifter",
+      "Thomas Starzewski",
+      "Ted Steinert"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TT": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Tertious Threipland",
+      "Tiffany Trump"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TW": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Theodore Wong",
+      "Trinny Woodall"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "TY": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Toby Young",
+      "Tracy Younger"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "VC": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Victoria Cator",
+      "Val Cushing",
+      "Valdson Cotrin"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "VH": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Victoria Hazell",
+      "Vor Holding"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "VP": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Victoria Pank",
+      "Veronique Pittman"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "VV": {
+    "collision_count": 4,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Vanessa von Bismarck",
+      "Valdson Vleira Cotrin",
+      "Valdson Vleira Cotrin",
+      "Vonnic Vittoz"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "VW": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Vera Wang",
+      "Virgil Wolfe",
+      "Victoria Watson",
+      "Veronica Webb",
+      "Victoria White",
+      "Victoria White O'Gara"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "WN": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "William Nagel",
+      "William Nickerson"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "WS": {
+    "collision_count": 6,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Warren Spector",
+      "Wayne Safro",
+      "Wafic Said",
+      "William Siegel",
+      "William Sieghart",
+      "Warren Spector"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "WW": {
+    "collision_count": 3,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Wayne Wyntik",
+      "Warren Whippet",
+      "Wendy Whitworth"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  },
+  "YK": {
+    "collision_count": 2,
+    "collision_type": "same_person_auto_merge",
+    "code_type": "standard",
+    "canonical_names": [
+      "Yehuda Koppel",
+      "Yehuda Koppel"
+    ],
+    "resolution_strategy": "auto_merge"
+  },
+  "YN": {
+    "collision_count": 2,
+    "collision_type": "different_people_collision",
+    "code_type": "standard",
+    "canonical_names": [
+      "Yakhof Neima",
+      "Yoshi Nishio"
+    ],
+    "resolution_strategy": "requires_context_disambiguation"
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "page_number": 104,
+  "source": "v3_flight_logs_pdf",
+  "extraction_date": "2025-10-28T17:59:05.974310",
+  "chunk": "chunk_061-070",
+  "flights": [
+    {
+      "date": {
+        "original": "07/10/2002",
+        "parsed": "2002-07-10",
+        "display": "07/10/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFTH",
+        "to": "LFPB",
+        "from_codes": [
+          "LFTH"
+        ],
+        "to_codes": [
+          "LFPB"
+        ],
+        "from_full": "Hyeres, France",
+        "to_full": "Paris, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "118",
+        "iidd": "327",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Julie Concebaugh",
+          "code": "JC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0001"
+    },
+    {
+      "date": {
+        "original": "07/13/2002",
+        "parsed": "2002-07-13",
+        "display": "07/13/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFPB",
+        "to": "LFMN",
+        "from_codes": [
+          "LFPB"
+        ],
+        "to_codes": [
+          "LFMN"
+        ],
+        "from_full": "Paris, France",
+        "to_full": "Nice, France",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "119",
+        "iidd": "329",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0003"
+    },
+    {
+      "date": {
+        "original": "07/13/2002",
+        "parsed": "2002-07-13",
+        "display": "07/13/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LFMN",
+        "to": "GMTT",
+        "from_codes": [
+          "LFMN"
+        ],
+        "to_codes": [
+          "GMTT"
+        ],
+        "from_full": "Nice, France",
+        "to_full": "Tanger, Morocco",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "120",
+        "iidd": "330",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0004"
+    },
+    {
+      "date": {
+        "original": "07/13/2002",
+        "parsed": "2002-07-13",
+        "display": "07/13/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "GMTT",
+        "to": "GMME",
+        "from_codes": [
+          "GMTT"
+        ],
+        "to_codes": [
+          "GMME"
+        ],
+        "from_full": "Tanger, Morocco",
+        "to_full": "Rabat, Morocco",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "121",
+        "iidd": "335",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0009"
+    },
+    {
+      "date": {
+        "original": "07/13/2002",
+        "parsed": "2002-07-13",
+        "display": "07/13/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "GMME",
+        "to": "LPAZ",
+        "from_codes": [
+          "GMME"
+        ],
+        "to_codes": [
+          "LPAZ"
+        ],
+        "from_full": "Rabat, Morocco",
+        "to_full": "Santa Maria, Portugal",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "122",
+        "iidd": "340",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Mike ?",
+          "code": "M?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Secret Service (8)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0014"
+    },
+    {
+      "date": {
+        "original": "07/13/2002",
+        "parsed": "2002-07-13",
+        "display": "07/13/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "LPAZ",
+        "to": "JFK",
+        "from_codes": [
+          "LPAZ"
+        ],
+        "to_codes": [
+          "JFK"
+        ],
+        "from_full": "Santa Maria, Portugal",
+        "to_full": "New York, NY, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "123",
+        "iidd": "349",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "A P",
+          "code": "AP",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Cindy Lopez",
+          "code": "CL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Bill Clinton",
+          "code": "BC",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Doug Band",
+          "code": "DB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Mike ?",
+          "code": "M?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        },
+        {
+          "name": "Secret Service (8)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0023"
+    },
+    {
+      "date": {
+        "original": "07/18/2002",
+        "parsed": "2002-07-18",
+        "display": "07/18/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "JFK",
+        "to": "PBI",
+        "from_codes": [
+          "JFK"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_full": "New York, NY, United States",
+        "to_full": "West Palm Beach, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "124",
+        "iidd": "358",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Shelley Lewis",
+          "code": "SL",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0032"
+    },
+    {
+      "date": {
+        "original": "07/19/2002",
+        "parsed": "2002-07-19",
+        "display": "07/19/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "B-727-31H",
+        "tail_number": "N908JE",
+        "type": "Jet",
+        "seats": 134,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "JAX",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "JAX"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Jacksonville, FL, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "125",
+        "iidd": "361",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Kristy Rodgers",
+          "code": "KR",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Greg Holburt",
+          "code": "GH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Alyssa Holders",
+          "code": "AH",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0035"
+    },
+    {
+      "date": {
+        "original": "08/04/2002",
+        "parsed": "2002-08-04",
+        "display": "08/04/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MVY",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "MVY"
+        ],
+        "from_full": "West Palm Beach, FL, United States",
+        "to_full": "Martha's Vineyard, MA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1583",
+        "iidd": "364",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0038"
+    },
+    {
+      "date": {
+        "original": "08/04/2002",
+        "parsed": "2002-08-04",
+        "display": "08/04/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MVY",
+        "to": "BED",
+        "from_codes": [
+          "MVY"
+        ],
+        "to_codes": [
+          "BED"
+        ],
+        "from_full": "Martha's Vineyard, MA, United States",
+        "to_full": "Bedford, MA, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1584",
+        "iidd": "366",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0040"
+    },
+    {
+      "date": {
+        "original": "08/04/2002",
+        "parsed": "2002-08-04",
+        "display": "08/04/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BED",
+        "to": "TEB",
+        "from_codes": [
+          "BED"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_full": "Bedford, MA, United States",
+        "to_full": "Teterboro, NJ, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1585",
+        "iidd": "368",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (1)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0042"
+    },
+    {
+      "date": {
+        "original": "08/05/2002",
+        "parsed": "2002-08-05",
+        "display": "08/05/2002",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "G-1159B",
+        "tail_number": "N909JE",
+        "type": "Jet",
+        "seats": 22,
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAF",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_full": "Teterboro, NJ, United States",
+        "to_full": "Santa Fe, NM, United States",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "flight_number": "1586",
+        "iidd": "370",
+        "confidence": "high"
+      },
+      "passengers": [
+        {
+          "name": "Jeff Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sarah Kellen",
+          "code": "SK",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Female (2)",
+          "code": "?",
+          "type": "unidentified",
+          "notable": false,
+          "confidence": "high"
+        }
+      ],
+      "data_source": "Flight Log",
+      "source_chunk": "061-070",
+      "v3_flight_id": "chunk_061-070_p006_r0044"
+    }
+  ]
+}

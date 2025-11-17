@@ -1,0 +1,6 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_001,person_024,PARTNERED_WITH,false,47;48;53,1.0,"Met in London early 80s, partnered in 1987. Epstein worked on bids for Pan Am (1987) and Emery Air Freight (1988)",Factual
+person_011,person_028,PARTNERED_WITH,false,68,1.0,Co-founded MC2 Model Management with Brunel in 2005,Factual
+person_054,person_005,PARTNERED_WITH,false,8,1.0,"Cut Wexner in on Sotheby's deal, rumored to be pursuing Federated Department Stores together",Factual
+person_054,person_054a,PARTNERED_WITH,false,,0.7,Cut in on Sotheby's deal along with Wexner,Unverified
+person_004,person_046,PARTNERED_WITH,false,,0.7,"Partner rescued by Lehman Brothers, Goldman Sachs, Coopers & Lybrand alongside Ian and Kevin",Unverified

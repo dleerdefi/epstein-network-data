@@ -1,0 +1,98 @@
+entity_id:ID,:LABEL,name,founded:int,location,note,sources:string[]
+org_001,Organization,Trilateral Commission,,,,batch1_jeffrey_epstein_extraction.json
+org_002,Organization,Council on Foreign Relations,,,,batch1_jeffrey_epstein_extraction.json
+org_003,Organization,Lafayette High School,,Brooklyn,,batch1_jeffrey_epstein_extraction.json
+org_004,Organization,Cooper Union,,,,batch1_jeffrey_epstein_extraction.json
+org_005,Organization,Dalton School,,Manhattan,,batch1_jeffrey_epstein_extraction.json
+org_006,Organization,New York University,,,,batch1_jeffrey_epstein_extraction.json
+org_007,Organization,Bear Stearns,,,,batch1_jeffrey_epstein_extraction.json
+org_008,Organization,International Assets Group Inc.,,East 66th St apartment,,batch1_jeffrey_epstein_extraction.json
+org_009,Organization,Williams Electronics Inc.,,,,batch1_jeffrey_epstein_extraction.json
+org_010,Organization,Pan American World Airways,,,,batch1_jeffrey_epstein_extraction.json
+org_011,Organization,Emery Air Freight Corp.,,,,batch1_jeffrey_epstein_extraction.json
+org_012,Organization,Ohio Higher Education Trust,,,,batch1_jeffrey_epstein_extraction.json
+org_013,Organization,Wexner Foundation,,,,batch1_jeffrey_epstein_extraction.json
+org_014,Organization,Wexner Heritage Foundation,,,,batch1_jeffrey_epstein_extraction.json
+org_015,Organization,Office of Foreign Missions,,,,batch1_jeffrey_epstein_extraction.json
+org_016,Organization,Zorro Development Corp.,,,,batch1_jeffrey_epstein_extraction.json
+org_017,Organization,Rockefeller University,,,,batch1_jeffrey_epstein_extraction.json
+org_018,Organization,Harvard University,,,,batch1_jeffrey_epstein_extraction.json
+org_019,Organization,Radar.com,,,,batch1_jeffrey_epstein_extraction.json
+org_020,Organization,"Financial Trust Co of St. Thomas, VI",,"St. Thomas, Virgin Islands",,batch1_jeffrey_epstein_extraction.json
+org_021,Organization,Citibank,,,,batch1_jeffrey_epstein_extraction.json
+org_022,Organization,Palm Beach Police,,,,batch1_jeffrey_epstein_extraction.json
+org_023,Organization,FBI,,,,batch1_jeffrey_epstein_extraction.json
+org_024,Organization,Herman and Mermelstein,,,,batch1_jeffrey_epstein_extraction.json
+org_025,Organization,Palm Beach County Stockade,,,,batch1_jeffrey_epstein_extraction.json
+org_026,Organization,Zorro Trust,,,,batch1_jeffrey_epstein_extraction.json
+org_027,Organization,Oxford University,,"Oxford, England",,batch1_ghislaine_maxwell_extraction.json
+org_028,Organization,The TerraMar Project,,,,batch1_ghislaine_maxwell_extraction.json
+org_029,Organization,Clinton Global Initiative,,,,batch1_ghislaine_maxwell_extraction.json
+org_030,Organization,Ellmax,,,,batch1_ghislaine_maxwell_extraction.json
+org_031,Organization,Cohen and Gresser,,,,batch1_ghislaine_maxwell_extraction.json
+org_032,Organization,United Nations,,,,batch1_ghislaine_maxwell_extraction.json
+org_033,Organization,Karin Models,,Paris,,batch1_jean_luc_brunel_extraction.json
+org_034,Organization,Karin Models of America,,New York and Miami,,batch1_jean_luc_brunel_extraction.json
+org_035,Organization,MC2 Model Management,,"New York, Miami, Tel Aviv",,batch1_jean_luc_brunel_extraction.json
+org_036,Organization,60 Minutes,,,,batch1_jean_luc_brunel_extraction.json
+org_037,Organization,Next Model Management,,,,batch1_jean_luc_brunel_extraction.json
+org_038,Organization,Scouting I International Co.,,Florida,,batch1_jean_luc_brunel_extraction.json
+org_039,Organization,Daily Beast,,,,batch1_jean_luc_brunel_extraction.json
+org_040,Organization,U.S. District Court for the Southern District of Florida,,,,batch1_jean_luc_brunel_extraction.json
+org_063,Organization,The Limited,,,,batch1_leslie_wexner_extraction.json
+org_064,Organization,Victoria's Secret,,,,batch1_leslie_wexner_extraction.json
+org_065,Organization,Bath & Body Works,,,,batch1_leslie_wexner_extraction.json
+org_066,Organization,Henri Bendel,,,,batch1_leslie_wexner_extraction.json
+org_067,Organization,Lane Bryant,,,,batch1_leslie_wexner_extraction.json
+org_068,Organization,Abercrombie & Fitch,,,,batch1_leslie_wexner_extraction.json
+org_069,Organization,Lerner New York,,,,batch1_leslie_wexner_extraction.json
+org_070,Organization,The Limited Too,,,,batch1_leslie_wexner_extraction.json
+org_071,Organization,Express,,,,batch1_leslie_wexner_extraction.json
+org_072,Organization,Mast Industries,,,,batch1_leslie_wexner_extraction.json
+org_041,Organization,Hambro's Bank London,,London,,batch1_robert_maxwell_extraction.json
+org_042,Organization,Butterworth's,,,,batch1_robert_maxwell_extraction.json
+org_043,Organization,Pergamon Press,,,,batch1_robert_maxwell_extraction.json
+org_044,Organization,Lange Maxwell & Springer Inc,,,,batch1_robert_maxwell_extraction.json
+org_045,Organization,Simpkin Marshall,,,,batch1_robert_maxwell_extraction.json
+org_046,Organization,British Parliament,,,,batch1_robert_maxwell_extraction.json
+org_047,Organization,Leasco,,,,batch1_robert_maxwell_extraction.json
+org_048,Organization,Board of Trade,,,,batch1_robert_maxwell_extraction.json
+org_049,Organization,Price Waterhouse,,,,batch1_robert_maxwell_extraction.json
+org_050,Organization,British Printing and Communications Corporation,,,,batch1_robert_maxwell_extraction.json
+org_051,Organization,Daily Mirror,,,,batch1_robert_maxwell_extraction.json
+org_052,Organization,Sunday Mirror,,,,batch1_robert_maxwell_extraction.json
+org_053,Organization,Macmillan Publishers,,,,batch1_robert_maxwell_extraction.json
+org_054,Organization,Maxwell Communications Corporation,,,,batch1_robert_maxwell_extraction.json
+org_055,Organization,Daily News,,,,batch1_robert_maxwell_extraction.json
+org_056,Organization,Mossad,,,,batch1_robert_maxwell_extraction.json
+org_057,Organization,Lehman Brothers,,,,batch1_robert_maxwell_extraction.json
+org_058,Organization,Goldman Sachs,,,,batch1_robert_maxwell_extraction.json
+org_059,Organization,Coopers & Lybrand,,,,batch1_robert_maxwell_extraction.json
+org_060,Organization,FBI,,,,batch1_robert_maxwell_extraction.json
+org_061,Organization,News of the World,,,,batch1_robert_maxwell_extraction.json
+org_062,Organization,The Sun,,,,batch1_robert_maxwell_extraction.json
+org_077,Organization,SLK Designs LLC,,301 E 66th St,,batch1_sarah_kellen_extraction.json
+org_073,Organization,Mar-a-Lago,,"Palm Beach, Florida",,batch1_virginia_giuffre_extraction.json
+org_074,Organization,Podhurst Orseck,,,,batch1_virginia_giuffre_extraction.json
+org_075,Organization,Daily Mail,,,,batch1_virginia_giuffre_extraction.json
+org_076,Organization,Victims Refuse Silence,,Florida,,batch1_virginia_giuffre_extraction.json
+org_084,Organization,Viacom,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_085,Organization,JPMorgan Chase,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_086,Organization,Woodward & Lothrop,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_087,Organization,Sotheby's,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_088,Organization,Taubman Company,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_089,Organization,Federated Department Stores,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_090,Organization,Towers Corp,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_091,Organization,New York Post,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_093,Organization,Leading Minds International,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_094,Organization,MyGivingTree,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_095,Organization,Mariner International Bank,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_096,Organization,British Aerospace,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_097,Organization,Bank of NT Butterfield,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_098,Organization,Hambros Bank,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_100,Organization,U.S. Department of Energy,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_141,Organization,Palm Beach Police Department,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_142,Organization,Florida's Crimes Against Children Unit,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_143,Organization,US Commission of Civil Rights,,,Referenced in relationships,batch3_part2_FULL_extraction.json
+org_092,Organization,Nine East 71st Street Corp,,,,batch3_remaining_profiles_part3_final.json
+org_099,Organization,Jeffrey Epstein VI Foundation,2000,,,batch3_remaining_profiles_part3_final.json

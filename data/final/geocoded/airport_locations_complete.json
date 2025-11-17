@@ -1,0 +1,4589 @@
+{
+  "metadata": {
+    "total_airports": 283,
+    "sources": [
+      "google_maps_api",
+      "manual_geocoding"
+    ],
+    "last_updated": "2025-11-16",
+    "notes": "Includes manually geocoded airports from web search verification"
+  },
+  "airports": {
+    "ABQ": {
+      "airport_code": "ABQ",
+      "icao_code": "KABQ",
+      "full_name": "Albuquerque International Sunport",
+      "location": {
+        "latitude": 35.039976,
+        "longitude": -106.608925
+      },
+      "city": "Albuquerque",
+      "state": "NM",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 5355,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:39.931293Z"
+    },
+    "ACK": {
+      "airport_code": "ACK",
+      "icao_code": "KACK",
+      "full_name": "Nantucket Memorial Airport",
+      "location": {
+        "latitude": 41.25310135,
+        "longitude": -70.06020355
+      },
+      "city": "Nantucket",
+      "state": "MA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 47,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:39.934906Z"
+    },
+    "ACY": {
+      "airport_code": "ACY",
+      "icao_code": "KACY",
+      "full_name": "Atlantic City International Airport",
+      "location": {
+        "latitude": 39.45759963989258,
+        "longitude": -74.57720184326172
+      },
+      "city": "Atlantic City",
+      "state": "NJ",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 75,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:39.939340Z"
+    },
+    "ALS": {
+      "airport_code": "ALS",
+      "icao_code": "KALS",
+      "full_name": "San Luis Valley Regional Airport/Bergman Field",
+      "location": {
+        "latitude": 37.434898,
+        "longitude": -105.866997
+      },
+      "city": "Alamosa",
+      "state": "CO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 7539,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:39.953260Z"
+    },
+    "ANH": {
+      "airport_code": "ANH",
+      "icao_code": null,
+      "full_name": "United Kingdom",
+      "location": {
+        "latitude": 55.378051,
+        "longitude": -3.435973
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:40.150194Z"
+    },
+    "ASE": {
+      "airport_code": "ASE",
+      "icao_code": "KASE",
+      "full_name": "Aspen-Pitkin County Airport (Sardy Field)",
+      "location": {
+        "latitude": 39.223202,
+        "longitude": -106.869003
+      },
+      "city": "Aspen",
+      "state": "CO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 7820,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.153591Z"
+    },
+    "ASF": {
+      "airport_code": "ASF",
+      "icao_code": "URWA",
+      "full_name": "Astrakhan Narimanovo Boris M. Kustodiev International Airport",
+      "location": {
+        "latitude": 46.282843,
+        "longitude": 48.010511
+      },
+      "city": "Astrakhan",
+      "state": "AST",
+      "country": "RU",
+      "country_name": "RU",
+      "elevation_ft": -65,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.156729Z"
+    },
+    "ASG": {
+      "airport_code": "ASG",
+      "icao_code": "NZAS",
+      "full_name": "Ashburton Airport",
+      "location": {
+        "latitude": -43.903301,
+        "longitude": 171.796997
+      },
+      "city": "Ashburton",
+      "state": "CAN",
+      "country": "NZ",
+      "country_name": "NZ",
+      "elevation_ft": 302,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.159927Z"
+    },
+    "ATL": {
+      "airport_code": "ATL",
+      "icao_code": "KATL",
+      "full_name": "Hartsfield Jackson Atlanta International Airport",
+      "location": {
+        "latitude": 33.6367,
+        "longitude": -84.428101
+      },
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 1026,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.165537Z"
+    },
+    "ATW": {
+      "airport_code": "ATW",
+      "icao_code": "KATW",
+      "full_name": "Appleton International Airport",
+      "location": {
+        "latitude": 44.258099,
+        "longitude": -88.519096
+      },
+      "city": "Appleton",
+      "state": "WI",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 918,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.170065Z"
+    },
+    "BED": {
+      "airport_code": "BED",
+      "icao_code": "KBED",
+      "full_name": "Laurence G Hanscom Field",
+      "location": {
+        "latitude": 42.470001,
+        "longitude": -71.289001
+      },
+      "city": "Bedford",
+      "state": "MA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 133,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.173203Z"
+    },
+    "BHB": {
+      "airport_code": "BHB",
+      "icao_code": "KBHB",
+      "full_name": "Hancock County-Bar Harbor Airport",
+      "location": {
+        "latitude": 44.45000076,
+        "longitude": -68.3615036
+      },
+      "city": "Bar Harbor",
+      "state": "ME",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 83,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.176734Z"
+    },
+    "BKL": {
+      "airport_code": "BKL",
+      "icao_code": "KBKL",
+      "full_name": "Burke Lakefront Airport",
+      "location": {
+        "latitude": 41.51750183105469,
+        "longitude": -81.68329620361328
+      },
+      "city": "Cleveland",
+      "state": "OH",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 583,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.183334Z"
+    },
+    "BMI": {
+      "airport_code": "BMI",
+      "icao_code": "KBMI",
+      "full_name": "Central Illinois Regional Airport at Bloomington-Normal",
+      "location": {
+        "latitude": 40.4771,
+        "longitude": -88.915901
+      },
+      "city": "Bloomington/Normal",
+      "state": "IL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 871,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.187136Z"
+    },
+    "BOS": {
+      "airport_code": "BOS",
+      "icao_code": "KBOS",
+      "full_name": "Logan International Airport",
+      "location": {
+        "latitude": 42.36197,
+        "longitude": -71.0079
+      },
+      "city": "Boston",
+      "state": "MA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 20,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.190397Z"
+    },
+    "BOS - CMH": {
+      "airport_code": "BOS - CMH",
+      "icao_code": null,
+      "full_name": "Boston Logan International Airport (BOS), East Boston, MA 02128, USA",
+      "location": {
+        "latitude": 42.365602,
+        "longitude": -71.0096136
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:40.406749Z"
+    },
+    "BUR": {
+      "airport_code": "BUR",
+      "icao_code": "KBUR",
+      "full_name": "Hollywood Burbank Airport",
+      "location": {
+        "latitude": 34.197703,
+        "longitude": -118.356378
+      },
+      "city": "Burbank",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 778,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.409961Z"
+    },
+    "BVY": {
+      "airport_code": "BVY",
+      "icao_code": "KBVY",
+      "full_name": "Beverly Regional Airport",
+      "location": {
+        "latitude": 42.584202,
+        "longitude": -70.916496
+      },
+      "city": "Beverly / Danvers",
+      "state": "MA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 107,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.413391Z"
+    },
+    "BWI": {
+      "airport_code": "BWI",
+      "icao_code": "KBWI",
+      "full_name": "Baltimore/Washington International Thurgood Marshall Airport",
+      "location": {
+        "latitude": 39.1754,
+        "longitude": -76.668297
+      },
+      "city": "Baltimore",
+      "state": "MD",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 146,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.416499Z"
+    },
+    "BZN": {
+      "airport_code": "BZN",
+      "icao_code": "KBZN",
+      "full_name": "Bozeman Yellowstone International Airport",
+      "location": {
+        "latitude": 45.7775,
+        "longitude": -111.153
+      },
+      "city": "Bozeman",
+      "state": "MT",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 4473,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.419757Z"
+    },
+    "CHO": {
+      "airport_code": "CHO",
+      "icao_code": "KCHO",
+      "full_name": "Charlottesville Albemarle Airport",
+      "location": {
+        "latitude": 38.13859939575195,
+        "longitude": -78.4529037475586
+      },
+      "city": "Charlottesville",
+      "state": "VA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 639,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.422744Z"
+    },
+    "CMH": {
+      "airport_code": "CMH",
+      "icao_code": "KCMH",
+      "full_name": "John Glenn Columbus International Airport",
+      "location": {
+        "latitude": 39.998001,
+        "longitude": -82.891899
+      },
+      "city": "Columbus",
+      "state": "OH",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 815,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:40.425857Z"
+    },
+    "CMH - BKL": {
+      "airport_code": "CMH - BKL",
+      "icao_code": null,
+      "full_name": "John Glenn Columbus International Airport (CMH), 4600 International Gateway, Columbus, OH 43219, USA",
+      "location": {
+        "latitude": 39.9999399,
+        "longitude": -82.8871767
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:40.639111Z"
+    },
+    "CMH - MBS": {
+      "airport_code": "CMH - MBS",
+      "icao_code": null,
+      "full_name": "John Glenn Columbus International Airport (CMH), 4600 International Gateway, Columbus, OH 43219, USA",
+      "location": {
+        "latitude": 39.9999399,
+        "longitude": -82.8871767
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:40.845742Z"
+    },
+    "CMH - PSP - CGB": {
+      "airport_code": "CMH - PSP - CGB",
+      "icao_code": null,
+      "full_name": "Cuiabá International Airport - Marechal Rondon (CGB) - Av. João Ponce de Arruda, s/n - Vila Pirineu, Várzea Grande - MT, 78110-900, Brazil",
+      "location": {
+        "latitude": -15.6506042,
+        "longitude": -56.1204589
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:41.058729Z"
+    },
+    "CMH - [RDU]": {
+      "airport_code": "CMH - [RDU]",
+      "icao_code": null,
+      "full_name": "Raleigh-Durham International Airport (RDU), 2400 John Brantley Blvd, Morrisville, NC 27560, USA",
+      "location": {
+        "latitude": 35.8797678,
+        "longitude": -78.7855512
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:41.239996Z"
+    },
+    "CMO": {
+      "airport_code": "CMO",
+      "icao_code": "HCMO",
+      "full_name": "Hobyo Airport",
+      "location": {
+        "latitude": 5.358003,
+        "longitude": 48.515281
+      },
+      "city": "Hobyo",
+      "state": "GA",
+      "country": "SO",
+      "country_name": "SO",
+      "elevation_ft": 65,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.243128Z"
+    },
+    "CNY": {
+      "airport_code": "CNY",
+      "icao_code": "KCNY",
+      "full_name": "Canyonlands Regional Airport",
+      "location": {
+        "latitude": 38.755001,
+        "longitude": -109.754997
+      },
+      "city": "Moab",
+      "state": "UT",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 4557,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.246105Z"
+    },
+    "CPS": {
+      "airport_code": "CPS",
+      "icao_code": "KCPS",
+      "full_name": "St Louis Downtown Airport",
+      "location": {
+        "latitude": 38.570701599100005,
+        "longitude": -90.1561965942
+      },
+      "city": "Cahokia/St Louis",
+      "state": "IL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 413,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.249082Z"
+    },
+    "CYMX": {
+      "airport_code": "YMX",
+      "icao_code": "CYMX",
+      "full_name": "Montreal International (Mirabel) Airport",
+      "location": {
+        "latitude": 45.679501,
+        "longitude": -74.038696
+      },
+      "city": "Montréal",
+      "state": "QC",
+      "country": "CA",
+      "country_name": "CA",
+      "elevation_ft": 270,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.254994Z"
+    },
+    "DAB": {
+      "airport_code": "DAB",
+      "icao_code": "KDAB",
+      "full_name": "Daytona Beach International Airport",
+      "location": {
+        "latitude": 29.179899,
+        "longitude": -81.058098
+      },
+      "city": "Daytona Beach",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 34,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.257980Z"
+    },
+    "DAY": {
+      "airport_code": "DAY",
+      "icao_code": "KDAY",
+      "full_name": "James M Cox Dayton International Airport",
+      "location": {
+        "latitude": 39.902401,
+        "longitude": -84.219398
+      },
+      "city": "Dayton",
+      "state": "OH",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 1009,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.261173Z"
+    },
+    "DCA": {
+      "airport_code": "DCA",
+      "icao_code": "KDCA",
+      "full_name": "Ronald Reagan Washington National Airport",
+      "location": {
+        "latitude": 38.8521,
+        "longitude": -77.037697
+      },
+      "city": "Washington",
+      "state": "DC",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 15,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.264252Z"
+    },
+    "DEN": {
+      "airport_code": "DEN",
+      "icao_code": "KDEN",
+      "full_name": "Denver International Airport",
+      "location": {
+        "latitude": 39.861698150635,
+        "longitude": -104.672996521
+      },
+      "city": "Denver",
+      "state": "CO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 5431,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.267222Z"
+    },
+    "DNN": {
+      "airport_code": "DNN",
+      "icao_code": "KDNN",
+      "full_name": "Dalton Municipal Airport",
+      "location": {
+        "latitude": 34.72290039,
+        "longitude": -84.87020111
+      },
+      "city": "Dalton",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 709,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.270176Z"
+    },
+    "EGE": {
+      "airport_code": "EGE",
+      "icao_code": "KEGE",
+      "full_name": "Eagle County Regional Airport",
+      "location": {
+        "latitude": 39.64260101,
+        "longitude": -106.9179993
+      },
+      "city": "Eagle",
+      "state": "CO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 6548,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.274670Z"
+    },
+    "ELP": {
+      "airport_code": "ELP",
+      "icao_code": "KELP",
+      "full_name": "El Paso International Airport",
+      "location": {
+        "latitude": 31.807199,
+        "longitude": -106.377998
+      },
+      "city": "El Paso",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 3959,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.277882Z"
+    },
+    "ESN": {
+      "airport_code": "ESN",
+      "icao_code": "KESN",
+      "full_name": "Easton Airport / Newnam Field",
+      "location": {
+        "latitude": 38.804199,
+        "longitude": -76.069
+      },
+      "city": "Easton",
+      "state": "MD",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 72,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.280998Z"
+    },
+    "EWR": {
+      "airport_code": "EWR",
+      "icao_code": "KEWR",
+      "full_name": "Newark Liberty International Airport",
+      "location": {
+        "latitude": 40.692501,
+        "longitude": -74.168701
+      },
+      "city": "Newark",
+      "state": "NJ",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 18,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.284080Z"
+    },
+    "EWR - SAV": {
+      "airport_code": "EWR - SAV",
+      "icao_code": null,
+      "full_name": "Newark Liberty International Airport (EWR), Newark International Airport St, Newark, NJ 07114, USA",
+      "location": {
+        "latitude": 40.6884837,
+        "longitude": -74.17686359999999
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:41.467302Z"
+    },
+    "EYW": {
+      "airport_code": "EYW",
+      "icao_code": "KEYW",
+      "full_name": "Key West International Airport",
+      "location": {
+        "latitude": 24.556101,
+        "longitude": -81.759598
+      },
+      "city": "Key West",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 3,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.470456Z"
+    },
+    "FOK": {
+      "airport_code": "FOK",
+      "icao_code": "KFOK",
+      "full_name": "Francis S Gabreski Airport",
+      "location": {
+        "latitude": 40.8437004089,
+        "longitude": -72.6317977905
+      },
+      "city": "Westhampton Beach",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 67,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.473758Z"
+    },
+    "FPR - PBI": {
+      "airport_code": "FPR - PBI",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:41.649042Z"
+    },
+    "FRG": {
+      "airport_code": "FRG",
+      "icao_code": "KFRG",
+      "full_name": "Republic Airport",
+      "location": {
+        "latitude": 40.7288017273,
+        "longitude": -73.4133987427
+      },
+      "city": "Farmingdale",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 82,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.654172Z"
+    },
+    "FRH": {
+      "airport_code": "FRH",
+      "icao_code": "KFRH",
+      "full_name": "French Lick Municipal Airport",
+      "location": {
+        "latitude": 38.5061988831,
+        "longitude": -86.63690185550001
+      },
+      "city": "French Lick",
+      "state": "IN",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 792,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.657432Z"
+    },
+    "FTY": {
+      "airport_code": "FTY",
+      "icao_code": "KFTY",
+      "full_name": "Fulton County Airport Brown Field",
+      "location": {
+        "latitude": 33.7790985107,
+        "longitude": -84.5214004517
+      },
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 841,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.661484Z"
+    },
+    "GRI": {
+      "airport_code": "GRI",
+      "icao_code": "KGRI",
+      "full_name": "Central Nebraska Regional Airport",
+      "location": {
+        "latitude": 40.96749877929688,
+        "longitude": -98.30960083007812
+      },
+      "city": "Grand Island",
+      "state": "NE",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 1847,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.665953Z"
+    },
+    "HJO": {
+      "airport_code": "HJO",
+      "icao_code": null,
+      "full_name": "Hanford Municipal Airport, 954 Hanford Armona Rd, Hanford, CA 93230, USA",
+      "location": {
+        "latitude": 36.314295,
+        "longitude": -119.628177
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:41.867959Z"
+    },
+    "HTO": {
+      "airport_code": "HTO",
+      "icao_code": "KHTO",
+      "full_name": "Town of East Hampton Airport",
+      "location": {
+        "latitude": 40.959954,
+        "longitude": -72.25105
+      },
+      "city": "East Hampton",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 55,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.871275Z"
+    },
+    "HTS": {
+      "airport_code": "HTS",
+      "icao_code": "KHTS",
+      "full_name": "Tri-State Airport / Milton J. Ferguson Field",
+      "location": {
+        "latitude": 38.366699,
+        "longitude": -82.557999
+      },
+      "city": "Huntington",
+      "state": "WV",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 828,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.874360Z"
+    },
+    "HYA": {
+      "airport_code": "HYA",
+      "icao_code": "KHYA",
+      "full_name": "Cape Cod Gateway Airport",
+      "location": {
+        "latitude": 41.6693,
+        "longitude": -70.280403
+      },
+      "city": "Hyannis",
+      "state": "MA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 54,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.878291Z"
+    },
+    "IAD": {
+      "airport_code": "IAD",
+      "icao_code": "KIAD",
+      "full_name": "Washington Dulles International Airport",
+      "location": {
+        "latitude": 38.9445,
+        "longitude": -77.455803
+      },
+      "city": "Dulles",
+      "state": "VA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 312,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.881523Z"
+    },
+    "ICT": {
+      "airport_code": "ICT",
+      "icao_code": "KICT",
+      "full_name": "Wichita Eisenhower National Airport",
+      "location": {
+        "latitude": 37.649899,
+        "longitude": -97.433098
+      },
+      "city": "Wichita",
+      "state": "KS",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 1333,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.884645Z"
+    },
+    "ILG": {
+      "airport_code": "ILG",
+      "icao_code": "KILG",
+      "full_name": "Wilmington Airport",
+      "location": {
+        "latitude": 39.678699,
+        "longitude": -75.606499
+      },
+      "city": "Wilmington",
+      "state": "DE",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 80,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.887716Z"
+    },
+    "ISM": {
+      "airport_code": "ISM",
+      "icao_code": "KISM",
+      "full_name": "Kissimmee Gateway Airport",
+      "location": {
+        "latitude": 28.2898006439,
+        "longitude": -81.4371032715
+      },
+      "city": "Orlando",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 82,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.890717Z"
+    },
+    "ISP": {
+      "airport_code": "ISP",
+      "icao_code": "KISP",
+      "full_name": "Long Island Mac Arthur Airport",
+      "location": {
+        "latitude": 40.79520035,
+        "longitude": -73.10019684
+      },
+      "city": "Islip",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 99,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:41.893908Z"
+    },
+    "ISP - ISP": {
+      "airport_code": "ISP - ISP",
+      "icao_code": null,
+      "full_name": "Long Island MacArthur Airport (ISP), 100 Arrival Ave, Ronkonkoma, NY 11779, USA",
+      "location": {
+        "latitude": 40.7956382,
+        "longitude": -73.0987574
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:42.079679Z"
+    },
+    "JAC": {
+      "airport_code": "JAC",
+      "icao_code": "KJAC",
+      "full_name": "Jackson Hole Airport",
+      "location": {
+        "latitude": 43.6072998046875,
+        "longitude": -110.73799896240234
+      },
+      "city": "Jackson",
+      "state": "WY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 6451,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.083678Z"
+    },
+    "JFK": {
+      "airport_code": "JFK",
+      "icao_code": "KJFK",
+      "full_name": "John F Kennedy International Airport",
+      "location": {
+        "latitude": 40.639447,
+        "longitude": -73.779317
+      },
+      "city": "New York",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 13,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.087009Z"
+    },
+    "JZI": {
+      "airport_code": "JZI",
+      "icao_code": null,
+      "full_name": "Charleston Executive Airport - JZI, 2702 Fort Trenholm Rd, Johns Island, SC 29455, USA",
+      "location": {
+        "latitude": 32.7023825,
+        "longitude": -80.0081099
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:42.283368Z"
+    },
+    "LAS": {
+      "airport_code": "LAS",
+      "icao_code": "KLAS",
+      "full_name": "Harry Reid International Airport",
+      "location": {
+        "latitude": 36.083361,
+        "longitude": -115.151817
+      },
+      "city": "Las Vegas",
+      "state": "NV",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 2181,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.289386Z"
+    },
+    "LAX": {
+      "airport_code": "LAX",
+      "icao_code": "KLAX",
+      "full_name": "Los Angeles International Airport",
+      "location": {
+        "latitude": 33.942501,
+        "longitude": -118.407997
+      },
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 125,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.295640Z"
+    },
+    "LEX": {
+      "airport_code": "LEX",
+      "icao_code": "KLEX",
+      "full_name": "Blue Grass Airport",
+      "location": {
+        "latitude": 38.036499,
+        "longitude": -84.605904
+      },
+      "city": "Lexington",
+      "state": "KY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 979,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.302145Z"
+    },
+    "LGA": {
+      "airport_code": "LGA",
+      "icao_code": "KLGA",
+      "full_name": "LaGuardia Airport",
+      "location": {
+        "latitude": 40.777199,
+        "longitude": -73.872597
+      },
+      "city": "New York",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 21,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.308602Z"
+    },
+    "LUK": {
+      "airport_code": "LUK",
+      "icao_code": "KLUK",
+      "full_name": "Cincinnati Municipal Airport Lunken Field",
+      "location": {
+        "latitude": 39.102357,
+        "longitude": -84.418945
+      },
+      "city": "Cincinnati",
+      "state": "OH",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 483,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.314763Z"
+    },
+    "MDW": {
+      "airport_code": "MDW",
+      "icao_code": "KMDW",
+      "full_name": "Chicago Midway International Airport",
+      "location": {
+        "latitude": 41.785999,
+        "longitude": -87.752403
+      },
+      "city": "Chicago",
+      "state": "IL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 620,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.318700Z"
+    },
+    "MIA": {
+      "airport_code": "MIA",
+      "icao_code": "KMIA",
+      "full_name": "Miami International Airport",
+      "location": {
+        "latitude": 25.79319953918457,
+        "longitude": -80.29060363769531
+      },
+      "city": "Miami",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 8,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.321878Z"
+    },
+    "MIA - PBI": {
+      "airport_code": "MIA - PBI",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:42.500259Z"
+    },
+    "MMQT": {
+      "airport_code": "QRO",
+      "icao_code": "MMQT",
+      "full_name": "Querétaro Intercontinental Airport",
+      "location": {
+        "latitude": 20.6173,
+        "longitude": -100.185997
+      },
+      "city": "Querétaro",
+      "state": "QUE",
+      "country": "MX",
+      "country_name": "MX",
+      "elevation_ft": 6296,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.506480Z"
+    },
+    "MMZH": {
+      "airport_code": "ZIH",
+      "icao_code": "MMZH",
+      "full_name": "Ixtapa-Zihuatanejo International Airport",
+      "location": {
+        "latitude": 17.601771,
+        "longitude": -101.460629
+      },
+      "city": "Ixtapa",
+      "state": "GRO",
+      "country": "MX",
+      "country_name": "MX",
+      "elevation_ft": 26,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.513761Z"
+    },
+    "MTJ": {
+      "airport_code": "MTJ",
+      "icao_code": "KMTJ",
+      "full_name": "Montrose Regional Airport",
+      "location": {
+        "latitude": 38.5098,
+        "longitude": -107.893997
+      },
+      "city": "Montrose",
+      "state": "CO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 5759,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.516760Z"
+    },
+    "MVY": {
+      "airport_code": "MVY",
+      "icao_code": "KMVY",
+      "full_name": "Martha's Vineyard Airport",
+      "location": {
+        "latitude": 41.3931007385,
+        "longitude": -70.6143035889
+      },
+      "city": "Martha's Vineyard",
+      "state": "MA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 67,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.519821Z"
+    },
+    "MYEH": {
+      "airport_code": "ELH",
+      "icao_code": "MYEH",
+      "full_name": "North Eleuthera Airport",
+      "location": {
+        "latitude": 25.474899292,
+        "longitude": -76.6835021973
+      },
+      "city": "North Eleuthera",
+      "state": "HI",
+      "country": "BS",
+      "country_name": "BS",
+      "elevation_ft": 13,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.526108Z"
+    },
+    "MYEM": {
+      "airport_code": "GHB",
+      "icao_code": "MYEM",
+      "full_name": "Governor's Harbour Airport",
+      "location": {
+        "latitude": 25.2847,
+        "longitude": -76.331001
+      },
+      "city": "Governor's Harbour",
+      "state": "CE",
+      "country": "BS",
+      "country_name": "BS",
+      "elevation_ft": 26,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.532316Z"
+    },
+    "MYGF": {
+      "airport_code": "FPO",
+      "icao_code": "MYGF",
+      "full_name": "Grand Bahama International Airport",
+      "location": {
+        "latitude": 26.5587005615,
+        "longitude": -78.695602417
+      },
+      "city": "Freeport",
+      "state": "FP",
+      "country": "BS",
+      "country_name": "BS",
+      "elevation_ft": 7,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.538172Z"
+    },
+    "NEW": {
+      "airport_code": "NEW",
+      "icao_code": "KNEW",
+      "full_name": "Lakefront Airport",
+      "location": {
+        "latitude": 30.042400360107,
+        "longitude": -90.028297424316
+      },
+      "city": "New Orleans",
+      "state": "LA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 8,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.541118Z"
+    },
+    "NGW": {
+      "airport_code": "NGW",
+      "icao_code": "KNGW",
+      "full_name": "Cabaniss Field Naval Outlying Landing Field",
+      "location": {
+        "latitude": 27.704426,
+        "longitude": -97.440578
+      },
+      "city": "Corpus Christi",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 30,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.544250Z"
+    },
+    "PBI": {
+      "airport_code": "PBI",
+      "icao_code": "KPBI",
+      "full_name": "Palm Beach International Airport",
+      "location": {
+        "latitude": 26.683201,
+        "longitude": -80.095596
+      },
+      "city": "West Palm Beach",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 19,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:42.547849Z"
+    },
+    "PBI - OGA": {
+      "airport_code": "PBI - OGA",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:42.767291Z"
+    },
+    "PBI - SEP": {
+      "airport_code": "PBI - SEP",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:42.956640Z"
+    },
+    "PBI - TEB": {
+      "airport_code": "PBI - TEB",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:43.157259Z"
+    },
+    "PBI TEB": {
+      "airport_code": "PBI TEB",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:43.338145Z"
+    },
+    "PHL": {
+      "airport_code": "PHL",
+      "icao_code": "KPHL",
+      "full_name": "Philadelphia International Airport",
+      "location": {
+        "latitude": 39.871899,
+        "longitude": -75.241096
+      },
+      "city": "Philadelphia",
+      "state": "PA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 36,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.341345Z"
+    },
+    "POU": {
+      "airport_code": "POU",
+      "icao_code": "KPOU",
+      "full_name": "Dutchess County Airport",
+      "location": {
+        "latitude": 41.6265983581543,
+        "longitude": -73.88420104980469
+      },
+      "city": "Poughkeepsie",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 165,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.344660Z"
+    },
+    "PSP": {
+      "airport_code": "PSP",
+      "icao_code": "KPSP",
+      "full_name": "Palm Springs International Airport",
+      "location": {
+        "latitude": 33.8297,
+        "longitude": -116.507004
+      },
+      "city": "Palm Springs",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 477,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.347762Z"
+    },
+    "PSP - CLE": {
+      "airport_code": "PSP - CLE",
+      "icao_code": null,
+      "full_name": "Cleveland Hopkins International Airport (CLE), 5300 Riverside Dr, Cleveland, OH 44135, USA",
+      "location": {
+        "latitude": 41.4057985,
+        "longitude": -81.8538669
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:43.543573Z"
+    },
+    "PSP - MDW - BKL": {
+      "airport_code": "PSP - MDW - BKL",
+      "icao_code": null,
+      "full_name": "Chicago Midway International Airport (MDW), 5700 S Cicero Ave, Chicago, IL 60638, USA",
+      "location": {
+        "latitude": 41.78677589999999,
+        "longitude": -87.7521884
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:43.740714Z"
+    },
+    "PUB": {
+      "airport_code": "PUB",
+      "icao_code": "KPUB",
+      "full_name": "Pueblo Memorial Airport",
+      "location": {
+        "latitude": 38.289101,
+        "longitude": -104.497002
+      },
+      "city": "Pueblo",
+      "state": "CO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 4726,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.744105Z"
+    },
+    "PVD": {
+      "airport_code": "PVD",
+      "icao_code": "KPVD",
+      "full_name": "Theodore Francis Green State Airport",
+      "location": {
+        "latitude": 41.725038,
+        "longitude": -71.425668
+      },
+      "city": "Warwick",
+      "state": "RI",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 55,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.747219Z"
+    },
+    "RIL": {
+      "airport_code": "RIL",
+      "icao_code": "KRIL",
+      "full_name": "Garfield County Regional Airport",
+      "location": {
+        "latitude": 39.526299,
+        "longitude": -107.726997
+      },
+      "city": "Rifle",
+      "state": "CO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 5548,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.750142Z"
+    },
+    "ROC": {
+      "airport_code": "ROC",
+      "icao_code": "KROC",
+      "full_name": "Frederick Douglass Greater Rochester International Airport",
+      "location": {
+        "latitude": 43.1189,
+        "longitude": -77.672401
+      },
+      "city": "Rochester",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 559,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.753044Z"
+    },
+    "SAEZ": {
+      "airport_code": "EZE",
+      "icao_code": "SAEZ",
+      "full_name": "Minister Pistarini International Airport",
+      "location": {
+        "latitude": -34.8222,
+        "longitude": -58.5358
+      },
+      "city": "Buenos Aires (Ezeiza)",
+      "state": "B",
+      "country": "AR",
+      "country_name": "AR",
+      "elevation_ft": 67,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.759058Z"
+    },
+    "SAF": {
+      "airport_code": "SAF",
+      "icao_code": "KSAF",
+      "full_name": "Santa Fe Municipal Airport",
+      "location": {
+        "latitude": 35.6171,
+        "longitude": -106.088997
+      },
+      "city": "Santa Fe",
+      "state": "NM",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 6348,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.762827Z"
+    },
+    "SAN": {
+      "airport_code": "SAN",
+      "icao_code": "KSAN",
+      "full_name": "San Diego International Airport",
+      "location": {
+        "latitude": 32.7336006165,
+        "longitude": -117.190002441
+      },
+      "city": "San Diego",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 17,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.766039Z"
+    },
+    "SARI": {
+      "airport_code": "IGR",
+      "icao_code": "SARI",
+      "full_name": "Cataratas Del Iguazú International Airport",
+      "location": {
+        "latitude": -25.737301,
+        "longitude": -54.4734
+      },
+      "city": "Puerto Iguazu",
+      "state": "N",
+      "country": "AR",
+      "country_name": "AR",
+      "elevation_ft": 916,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.772190Z"
+    },
+    "SAT": {
+      "airport_code": "SAT",
+      "icao_code": "KSAT",
+      "full_name": "San Antonio International Airport",
+      "location": {
+        "latitude": 29.533701,
+        "longitude": -98.469803
+      },
+      "city": "San Antonio",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 809,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.775225Z"
+    },
+    "SAV": {
+      "airport_code": "SAV",
+      "icao_code": "KSAV",
+      "full_name": "Savannah Hilton Head International Airport",
+      "location": {
+        "latitude": 32.127602,
+        "longitude": -81.202103
+      },
+      "city": "Savannah",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 50,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.778677Z"
+    },
+    "SAV - PBI": {
+      "airport_code": "SAV - PBI",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:43.952125Z"
+    },
+    "SBEG": {
+      "airport_code": "MAO",
+      "icao_code": "SBEG",
+      "full_name": "Eduardo Gomes International Airport",
+      "location": {
+        "latitude": -3.03861,
+        "longitude": -60.049702
+      },
+      "city": "Manaus",
+      "state": "AM",
+      "country": "BR",
+      "country_name": "BR",
+      "elevation_ft": 264,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.958437Z"
+    },
+    "SBGL": {
+      "airport_code": "GIG",
+      "icao_code": "SBGL",
+      "full_name": "Rio Galeão – Tom Jobim International Airport",
+      "location": {
+        "latitude": -22.809999,
+        "longitude": -43.250557
+      },
+      "city": "Rio De Janeiro",
+      "state": "RJ",
+      "country": "BR",
+      "country_name": "BR",
+      "elevation_ft": 28,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.965597Z"
+    },
+    "SLN": {
+      "airport_code": "SLN",
+      "icao_code": "KSLN",
+      "full_name": "Salina Municipal Airport",
+      "location": {
+        "latitude": 38.79100036621094,
+        "longitude": -97.6521987915039
+      },
+      "city": "Salina",
+      "state": "KS",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 1288,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.968763Z"
+    },
+    "SMO": {
+      "airport_code": "SMO",
+      "icao_code": "KSMO",
+      "full_name": "Santa Monica Municipal Airport",
+      "location": {
+        "latitude": 34.0158,
+        "longitude": -118.450996
+      },
+      "city": "Santa Monica",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 170,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.971838Z"
+    },
+    "SPI": {
+      "airport_code": "SPI",
+      "icao_code": "KSPI",
+      "full_name": "Abraham Lincoln Capital Airport",
+      "location": {
+        "latitude": 39.844101,
+        "longitude": -89.677902
+      },
+      "city": "Springfield",
+      "state": "IL",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 598,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.975057Z"
+    },
+    "SUS": {
+      "airport_code": "SUS",
+      "icao_code": "KSUS",
+      "full_name": "Spirit of St Louis Airport",
+      "location": {
+        "latitude": 38.662102,
+        "longitude": -90.652
+      },
+      "city": "St Louis",
+      "state": "MO",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 463,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.980481Z"
+    },
+    "TBI": {
+      "airport_code": "TBI",
+      "icao_code": "MYCB",
+      "full_name": "New Bight Airport",
+      "location": {
+        "latitude": 24.3153,
+        "longitude": -75.452301
+      },
+      "city": "Cat Island",
+      "state": "CI",
+      "country": "BS",
+      "country_name": "BS",
+      "elevation_ft": 5,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.984519Z"
+    },
+    "TEB": {
+      "airport_code": "TEB",
+      "icao_code": "KTEB",
+      "full_name": "Teterboro Airport",
+      "location": {
+        "latitude": 40.850101,
+        "longitude": -74.060799
+      },
+      "city": "Teterboro",
+      "state": "NJ",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 9,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:43.987750Z"
+    },
+    "TEB - ABC": {
+      "airport_code": "TEB - ABC",
+      "icao_code": null,
+      "full_name": "Teterboro Airport, 111 Industrial Ave, Teterboro, NJ 07608, USA",
+      "location": {
+        "latitude": 40.858332,
+        "longitude": -74.0615292
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:44.183131Z"
+    },
+    "TEB - AHN": {
+      "airport_code": "TEB - AHN",
+      "icao_code": null,
+      "full_name": "Teterboro Airport, 111 Industrial Ave, Teterboro, NJ 07608, USA",
+      "location": {
+        "latitude": 40.858332,
+        "longitude": -74.0615292
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:44.380978Z"
+    },
+    "TEB - BCT": {
+      "airport_code": "TEB - BCT",
+      "icao_code": null,
+      "full_name": "Teterboro Airport, 111 Industrial Ave, Teterboro, NJ 07608, USA",
+      "location": {
+        "latitude": 40.858332,
+        "longitude": -74.0615292
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:44.569504Z"
+    },
+    "TEB - BGD": {
+      "airport_code": "TEB - BGD",
+      "icao_code": null,
+      "full_name": "Teterboro Airport, 111 Industrial Ave, Teterboro, NJ 07608, USA",
+      "location": {
+        "latitude": 40.858332,
+        "longitude": -74.0615292
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:44.767787Z"
+    },
+    "TEB - IAD": {
+      "airport_code": "TEB - IAD",
+      "icao_code": null,
+      "full_name": "Dulles International Airport (IAD), 1 Saarinen Cir, Dulles, VA 20166, USA",
+      "location": {
+        "latitude": 38.9522483,
+        "longitude": -77.45788859999999
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:44.947119Z"
+    },
+    "TEB PBI": {
+      "airport_code": "TEB PBI",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:45.125882Z"
+    },
+    "TEB, DCA": {
+      "airport_code": "TEB, DCA",
+      "icao_code": null,
+      "full_name": "Ronald Reagan Washington National Airport (DCA), 2401 Smith Blvd, Arlington, VA 22202, USA",
+      "location": {
+        "latitude": 38.8501079,
+        "longitude": -77.039176
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:45.298975Z"
+    },
+    "TEB-ACY": {
+      "airport_code": "TEB-ACY",
+      "icao_code": null,
+      "full_name": "Atlantic City International Airport (ACY), 101 Atlantic City International Airport, Egg Harbor Township, NJ 08234, USA",
+      "location": {
+        "latitude": 39.4528283,
+        "longitude": -74.5714431
+      },
+      "city": "",
+      "state": "",
+      "country": "",
+      "country_name": "",
+      "elevation_ft": null,
+      "airport_type": "unknown",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-12T09:59:45.497923Z"
+    },
+    "TGB": {
+      "airport_code": "TGB",
+      "icao_code": "PH-0502",
+      "full_name": "Tagbita Airstrip",
+      "location": {
+        "latitude": 8.71491,
+        "longitude": 117.35259
+      },
+      "city": "Rizal",
+      "state": "PLW",
+      "country": "PH",
+      "country_name": "PH",
+      "elevation_ft": null,
+      "airport_type": "small_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.668651Z"
+    },
+    "TLG": {
+      "airport_code": "TLG",
+      "icao_code": "AGTI",
+      "full_name": "Tulaghi Heliport",
+      "location": {
+        "latitude": -9.108,
+        "longitude": 160.149166667
+      },
+      "city": "Tulaghi Island",
+      "state": "CE",
+      "country": "SB",
+      "country_name": "SB",
+      "elevation_ft": 3,
+      "airport_type": "heliport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.671635Z"
+    },
+    "TNCC": {
+      "airport_code": "CUR",
+      "icao_code": "TNCC",
+      "full_name": "Hato International Airport",
+      "location": {
+        "latitude": 12.1889,
+        "longitude": -68.959801
+      },
+      "city": "Willemstad",
+      "state": "U",
+      "country": "CW",
+      "country_name": "CW",
+      "elevation_ft": 29,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.680700Z"
+    },
+    "TUL": {
+      "airport_code": "TUL",
+      "icao_code": "KTUL",
+      "full_name": "Tulsa International Airport",
+      "location": {
+        "latitude": 36.19839859008789,
+        "longitude": -95.88809967041016
+      },
+      "city": "Tulsa",
+      "state": "OK",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 677,
+      "airport_type": "large_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.683950Z"
+    },
+    "TUS": {
+      "airport_code": "TUS",
+      "icao_code": "KTUS",
+      "full_name": "Tucson International Airport / Morris Air National Guard Base",
+      "location": {
+        "latitude": 32.115004,
+        "longitude": -110.938053
+      },
+      "city": "Tucson",
+      "state": "AZ",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 2643,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.686931Z"
+    },
+    "TVC": {
+      "airport_code": "TVC",
+      "icao_code": "KTVC",
+      "full_name": "Cherry Capital Airport",
+      "location": {
+        "latitude": 44.74140167236328,
+        "longitude": -85.58219909667969
+      },
+      "city": "Traverse City",
+      "state": "MI",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 624,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.690337Z"
+    },
+    "TXKF": {
+      "airport_code": "BDA",
+      "icao_code": "TXKF",
+      "full_name": "L.F. Wade International Airport",
+      "location": {
+        "latitude": 32.363998,
+        "longitude": -64.678703
+      },
+      "city": "Hamilton",
+      "state": "U",
+      "country": "BM",
+      "country_name": "BM",
+      "elevation_ft": 12,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.698705Z"
+    },
+    "YIP": {
+      "airport_code": "YIP",
+      "icao_code": "KYIP",
+      "full_name": "Willow Run Airport",
+      "location": {
+        "latitude": 42.2379,
+        "longitude": -83.530403
+      },
+      "city": "Detroit",
+      "state": "MI",
+      "country": "US",
+      "country_name": "US",
+      "elevation_ft": 716,
+      "airport_type": "medium_airport",
+      "data_source": "ourairports",
+      "geocoded_at": "2025-11-12T09:59:45.880975Z"
+    },
+    "ABE": {
+      "airport_code": "ABE",
+      "icao_code": null,
+      "full_name": "Lehigh Valley Int'l Airport (ABE), 3311 Airport Rd, Allentown, PA 18109, USA",
+      "location": {
+        "latitude": 40.6510611,
+        "longitude": -75.44388529999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:14.643541Z",
+      "city": "Allentown",
+      "state": "PA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "ABY": {
+      "airport_code": "ABY",
+      "icao_code": null,
+      "full_name": "Southwest Georgia Regional Airport (KABY), 3905 Newton Rd, Albany, GA 31701, USA",
+      "location": {
+        "latitude": 31.5326364,
+        "longitude": -84.1891454
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:14.855886Z",
+      "city": "Albany",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "ADS": {
+      "airport_code": "ADS",
+      "icao_code": null,
+      "full_name": "Addison Airport (ADS), 4545 Jimmy Doolittle Dr, Addison, TX 75001, USA",
+      "location": {
+        "latitude": 32.9682062,
+        "longitude": -96.833828
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:15.037319Z",
+      "city": "Addison",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US"
+    },
+    "AGC": {
+      "airport_code": "AGC",
+      "icao_code": null,
+      "full_name": "Allegheny County Airport - AGC, 12 Allegheny County Airport, West Mifflin, PA 15122, USA",
+      "location": {
+        "latitude": 40.3523988,
+        "longitude": -79.92704619999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:15.204920Z",
+      "city": "West Mifflin",
+      "state": "PA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "ALB": {
+      "airport_code": "ALB",
+      "icao_code": null,
+      "full_name": "Albany Int'l Airport (ALB), 737 Albany Shaker Rd, Albany, NY 12211, USA",
+      "location": {
+        "latitude": 42.7480103,
+        "longitude": -73.8025766
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:15.368019Z",
+      "city": "Albany",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US"
+    },
+    "AMA": {
+      "airport_code": "AMA",
+      "icao_code": null,
+      "full_name": "Rick Husband Amarillo International Airport (AMA), 10801 Airport Blvd, Amarillo, TX 79111, USA",
+      "location": {
+        "latitude": 35.2182002,
+        "longitude": -101.7063889
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:15.566507Z",
+      "city": "Amarillo",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US"
+    },
+    "APF": {
+      "airport_code": "APF",
+      "icao_code": null,
+      "full_name": "Naples Airport (APF), 160 Aviation Dr N, Naples, FL 34104, USA",
+      "location": {
+        "latitude": 26.153856,
+        "longitude": -81.7699117
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:15.739520Z",
+      "city": "Naples",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "AVO": {
+      "airport_code": "AVO",
+      "icao_code": null,
+      "full_name": "Avon Park Executive Airport, 1535 FL-64, Avon Park, FL 33825, USA",
+      "location": {
+        "latitude": 27.5948849,
+        "longitude": -81.5261963
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:15.912944Z",
+      "city": "Avon Park",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "BCT": {
+      "airport_code": "BCT",
+      "icao_code": null,
+      "full_name": "Boca Raton Airport, 903 NW 35th St, Boca Raton, FL 33431, USA",
+      "location": {
+        "latitude": 26.3795436,
+        "longitude": -80.1076947
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:16.068263Z",
+      "city": "Boca Raton",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "BFI": {
+      "airport_code": "BFI",
+      "icao_code": null,
+      "full_name": "King County International Airport - Boeing Field (BFI), 7277 Perimeter Rd S, Seattle, WA 98108, USA",
+      "location": {
+        "latitude": 47.5369043,
+        "longitude": -122.3038555
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:16.230400Z",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "BGD": {
+      "airport_code": "BGD",
+      "icao_code": null,
+      "full_name": "Hutchinson County Airport, 1608 Airport Rd, Borger, TX 79007, USA",
+      "location": {
+        "latitude": 35.6953854,
+        "longitude": -101.3947784
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:16.389699Z",
+      "city": "Borger",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US"
+    },
+    "BGR": {
+      "airport_code": "BGR",
+      "icao_code": null,
+      "full_name": "Bangor International Airport, 287 Godfrey Blvd, Bangor, ME 04401, USA",
+      "location": {
+        "latitude": 44.80801779999999,
+        "longitude": -68.81658709999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:16.544029Z",
+      "city": "Bangor",
+      "state": "ME",
+      "country": "US",
+      "country_name": "US"
+    },
+    "BQK": {
+      "airport_code": "BQK",
+      "icao_code": null,
+      "full_name": "Brunswick Golden Isles Airport, 295 Aviation Pkwy, Brunswick, GA 31525, USA",
+      "location": {
+        "latitude": 31.2548331,
+        "longitude": -81.46691109999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:16.705949Z",
+      "city": "Brunswick",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "CGB": {
+      "airport_code": "CGB",
+      "icao_code": null,
+      "full_name": "Cuiabá International Airport - Marechal Rondon (CGB) - Av. João Ponce de Arruda, s/n - Vila Pirineu, Várzea Grande - MT, 78110-900, Brazil",
+      "location": {
+        "latitude": -15.6506042,
+        "longitude": -56.1204589
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:16.886415Z",
+      "state": "MT",
+      "country": "BR",
+      "country_name": "BR"
+    },
+    "CLE": {
+      "airport_code": "CLE",
+      "icao_code": null,
+      "full_name": "Cleveland Hopkins International Airport (CLE), 5300 Riverside Dr, Cleveland, OH 44135, USA",
+      "location": {
+        "latitude": 41.4057985,
+        "longitude": -81.8538669
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:17.033492Z",
+      "city": "Cleveland",
+      "state": "OH",
+      "country": "US",
+      "country_name": "US"
+    },
+    "CRG": {
+      "airport_code": "CRG",
+      "icao_code": null,
+      "full_name": "Jacksonville Executive at Craig Airport (JAXEX), 855-1 St Johns Bluff Rd N, Jacksonville, FL 32225, USA",
+      "location": {
+        "latitude": 30.3360249,
+        "longitude": -81.5176219
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:17.203156Z",
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "CYQX": {
+      "airport_code": "CYQX",
+      "icao_code": null,
+      "full_name": "Gander International Airport (YQX), 1000 James Blvd, Gander, NL A1V 1W8, Canada",
+      "location": {
+        "latitude": 48.946558,
+        "longitude": -54.5756958
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:17.506343Z",
+      "city": "Gander",
+      "state": "NL",
+      "country": "CA",
+      "country_name": "CA"
+    },
+    "CYUL": {
+      "airport_code": "CYUL",
+      "icao_code": null,
+      "full_name": "Montréal-Pierre Elliott Trudeau International Airport (YUL), boul. Roméo-Vachon N Arrivées, Dorval, QC H4Y 1H1, Canada",
+      "location": {
+        "latitude": 45.4578601,
+        "longitude": -73.74916189999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:17.647834Z",
+      "city": "Dorval",
+      "state": "QC",
+      "country": "CA",
+      "country_name": "CA"
+    },
+    "CYXQ": {
+      "airport_code": "CYXQ",
+      "icao_code": null,
+      "full_name": "Beaver Creek Airstrip (YXQ), Yukon Y0B 1A0, Canada",
+      "location": {
+        "latitude": 62.40723329999999,
+        "longitude": -140.8633712
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:17.813633Z",
+      "state": "YT",
+      "country": "CA",
+      "country_name": "CA"
+    },
+    "DAL": {
+      "airport_code": "DAL",
+      "icao_code": null,
+      "full_name": "Dallas Love Fld (DAL), 8008 Herb Kelleher Way, Dallas, TX 75235, USA",
+      "location": {
+        "latitude": 32.8438345,
+        "longitude": -96.8484951
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:17.958282Z",
+      "city": "Dallas",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US"
+    },
+    "DFW": {
+      "airport_code": "DFW",
+      "icao_code": null,
+      "full_name": "Dallas Fort Worth International Airport (DFW), 2400 Aviation Dr, DFW Airport, TX 75261, USA",
+      "location": {
+        "latitude": 32.8921983,
+        "longitude": -97.03912319999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:18.106249Z",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US"
+    },
+    "DGAA": {
+      "airport_code": "DGAA",
+      "icao_code": null,
+      "full_name": "Kotoka International Airport - Accra, KA PMB 36 KIA, Accra, Ghana",
+      "location": {
+        "latitude": 5.606095499999999,
+        "longitude": -0.1681235
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:18.255962Z",
+      "city": "Accra",
+      "state": "Greater Accra Region",
+      "country": "GH",
+      "country_name": "GH"
+    },
+    "DNAA": {
+      "airport_code": "DNAA",
+      "icao_code": null,
+      "full_name": "Nnamdi Azikiwe International Airport, Abuja, Federal Capital Territory, Nigeria",
+      "location": {
+        "latitude": 9.006258899999999,
+        "longitude": 7.2695056
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:18.410246Z",
+      "city": "Abuja",
+      "state": "Federal Capital Territory",
+      "country": "NG",
+      "country_name": "NG"
+    },
+    "EBBR": {
+      "airport_code": "EBBR",
+      "icao_code": null,
+      "full_name": "Brussels Airport (BRU), Leopoldlaan, 1930 Zaventem, Belgium",
+      "location": {
+        "latitude": 50.90024,
+        "longitude": 4.4859439
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:18.556906Z",
+      "city": "Zaventem",
+      "state": "Vlaanderen",
+      "country": "BE",
+      "country_name": "BE"
+    },
+    "EGAA": {
+      "airport_code": "EGAA",
+      "icao_code": null,
+      "full_name": "Belfast Int'l Airport (BFS), Airport Rd, Crumlin BT29 4AB, UK",
+      "location": {
+        "latitude": 54.6556699,
+        "longitude": -6.2168636
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:18.717026Z",
+      "state": "Northern Ireland",
+      "country": "GB",
+      "country_name": "GB"
+    },
+    "EGBB": {
+      "airport_code": "EGBB",
+      "icao_code": null,
+      "full_name": "Birmingham Airport (BHX), Birmingham B26 3QJ, UK",
+      "location": {
+        "latitude": 52.4523739,
+        "longitude": -1.7435082
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:18.868743Z",
+      "state": "England",
+      "country": "GB",
+      "country_name": "GB"
+    },
+    "EGGW": {
+      "airport_code": "EGGW",
+      "icao_code": null,
+      "full_name": "London Luton Airport (LTN), Airport Way, Luton LU2 9LY, UK",
+      "location": {
+        "latitude": 51.875462,
+        "longitude": -0.372755
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:19.014438Z",
+      "state": "England",
+      "country": "GB",
+      "country_name": "GB"
+    },
+    "EGHL": {
+      "airport_code": "EGHL",
+      "icao_code": null,
+      "full_name": "Lasham Airfield, Lasham, Alton GU34 5SP, UK",
+      "location": {
+        "latitude": 51.18604389999999,
+        "longitude": -1.033482
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:19.178223Z",
+      "city": "Lasham",
+      "state": "England",
+      "country": "GB",
+      "country_name": "GB"
+    },
+    "EGSH": {
+      "airport_code": "EGSH",
+      "icao_code": null,
+      "full_name": "Norwich Arpt (NWI), Norwich Airport Ltd, Amsterdam Way, Norwich NR6 6JA, UK",
+      "location": {
+        "latitude": 52.6767172,
+        "longitude": 1.2815223
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:19.336476Z",
+      "state": "England",
+      "country": "GB",
+      "country_name": "GB"
+    },
+    "EGSS": {
+      "airport_code": "EGSS",
+      "icao_code": null,
+      "full_name": "London Stansted Airport (STN), Bassingbourn Rd, Stansted CM24 1QW, UK",
+      "location": {
+        "latitude": 51.8863747,
+        "longitude": 0.2413158
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:19.491182Z",
+      "state": "England",
+      "country": "GB",
+      "country_name": "GB"
+    },
+    "EIDW": {
+      "airport_code": "EIDW",
+      "icao_code": null,
+      "full_name": "Dublin Airport (DUB), Dublin, Ireland",
+      "location": {
+        "latitude": 53.425632,
+        "longitude": -6.257375499999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:19.834214Z",
+      "city": "Dublin",
+      "state": "D",
+      "country": "IE",
+      "country_name": "IE"
+    },
+    "EINN": {
+      "airport_code": "EINN",
+      "icao_code": null,
+      "full_name": "Shannon Airport (SNN), Shannon Airport, Shannon, Co. Clare, V14 EE06, Ireland",
+      "location": {
+        "latitude": 52.6926503,
+        "longitude": -8.921380599999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:20.006171Z",
+      "city": "Shannon",
+      "state": "CE",
+      "country": "IE",
+      "country_name": "IE"
+    },
+    "EIWF": {
+      "airport_code": "EIWF",
+      "icao_code": null,
+      "full_name": "Waterford Airport, Ballygarran, Waterford Regional Airport, Co. Waterford, X91 E2WP, Ireland",
+      "location": {
+        "latitude": 52.18856,
+        "longitude": -7.080912
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:20.166025Z",
+      "city": "Killowen",
+      "state": "WD",
+      "country": "IE",
+      "country_name": "IE"
+    },
+    "EKCH": {
+      "airport_code": "EKCH",
+      "icao_code": null,
+      "full_name": "Copenhagen Airport (CPH), Lufthavnsboulevarden 6, 2770 Kastrup, Denmark",
+      "location": {
+        "latitude": 55.6120128,
+        "longitude": 12.6476789
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:20.311816Z",
+      "city": "Kastrup",
+      "country": "DK",
+      "country_name": "DK"
+    },
+    "ENGM": {
+      "airport_code": "ENGM",
+      "icao_code": null,
+      "full_name": "Oslo lufthavn (OSL), Edvard Munchs veg, 2061 Gardermoen, Norway",
+      "location": {
+        "latitude": 60.1978446,
+        "longitude": 11.0963701
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:20.474626Z",
+      "state": "Akershus",
+      "country": "NO",
+      "country_name": "NO"
+    },
+    "ESSA": {
+      "airport_code": "ESSA",
+      "icao_code": null,
+      "full_name": "Stockholm Arlanda Airport (ARN), 190 45 Stockholm-Arlanda, Sweden",
+      "location": {
+        "latitude": 59.6493928,
+        "longitude": 17.9342942
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:20.619833Z",
+      "state": "Stockholms län",
+      "country": "SE",
+      "country_name": "SE"
+    },
+    "FACT": {
+      "airport_code": "FACT",
+      "icao_code": null,
+      "full_name": "Cape Town International Airport (CPT), Matroosfontein, Cape Town, 7490, South Africa",
+      "location": {
+        "latitude": -33.9688707,
+        "longitude": 18.5997595
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:20.774595Z",
+      "city": "Cape Town",
+      "state": "WC",
+      "country": "ZA",
+      "country_name": "ZA"
+    },
+    "FDK": {
+      "airport_code": "FDK",
+      "icao_code": null,
+      "full_name": "Frederick Municipal Airport (FDK), 310 Aviation Way, Frederick, MD 21701, USA",
+      "location": {
+        "latitude": 39.4162077,
+        "longitude": -77.3793103
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:21.073598Z",
+      "city": "Frederick",
+      "state": "MD",
+      "country": "US",
+      "country_name": "US"
+    },
+    "FLL": {
+      "airport_code": "FLL",
+      "icao_code": null,
+      "full_name": "Fort Lauderdale-Hollywood International Airport (FLL), 100 Terminal Dr, Fort Lauderdale, FL 33315, USA",
+      "location": {
+        "latitude": 26.0731729,
+        "longitude": -80.1512317
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:21.235801Z",
+      "city": "Fort Lauderdale",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "FPR, PBI": {
+      "airport_code": "FPR, PBI",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:21.383187Z",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "FQMA": {
+      "airport_code": "FQMA",
+      "icao_code": null,
+      "full_name": "Maputo International Airport, 2631 Av. Acordos De Lusaka, Maputo, Mozambique",
+      "location": {
+        "latitude": -25.9191124,
+        "longitude": 32.5745786
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:21.538647Z",
+      "city": "Maputo",
+      "state": "Maputo",
+      "country": "MZ",
+      "country_name": "MZ"
+    },
+    "FTK": {
+      "airport_code": "FTK",
+      "icao_code": null,
+      "full_name": "GODMAN AAF, Fort Knox, KY 40121, USA",
+      "location": {
+        "latitude": 37.9045788,
+        "longitude": -85.9642154
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:21.694523Z",
+      "city": "Fort Knox",
+      "state": "KY",
+      "country": "US",
+      "country_name": "US"
+    },
+    "GAI": {
+      "airport_code": "GAI",
+      "icao_code": null,
+      "full_name": "Montgomery County Airpark, 7940 Airpark Rd, Gaithersburg, MD 20879, USA",
+      "location": {
+        "latitude": 39.1672417,
+        "longitude": -77.161383
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:21.863384Z",
+      "city": "Gaithersburg",
+      "state": "MD",
+      "country": "US",
+      "country_name": "US"
+    },
+    "GMFF": {
+      "airport_code": "GMFF",
+      "icao_code": null,
+      "full_name": "Fes Sais International Airport, Aéroport Fes Saïss Oulad Tayeb، Fes 30000, Morocco",
+      "location": {
+        "latitude": 33.9306646,
+        "longitude": -4.9841368
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:22.027658Z",
+      "city": "Fes",
+      "state": "Fez-Meknès",
+      "country": "MA",
+      "country_name": "MA"
+    },
+    "GMME": {
+      "airport_code": "GMME",
+      "icao_code": null,
+      "full_name": "Rabat - Sale Airport (RBA), Salé, Rabat, Morocco",
+      "location": {
+        "latitude": 34.0502967,
+        "longitude": -6.749509600000001
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:22.190795Z",
+      "city": "Rabat",
+      "state": "Rabat-Salé-Kénitra",
+      "country": "MA",
+      "country_name": "MA"
+    },
+    "GMMX": {
+      "airport_code": "GMMX",
+      "icao_code": null,
+      "full_name": "Marrakesh Menara Airport (RAK), Marrakech 40000, Morocco",
+      "location": {
+        "latitude": 31.6017479,
+        "longitude": -8.0257112
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:22.355712Z",
+      "city": "Marrakech",
+      "state": "Marrakech-Safi",
+      "country": "MA",
+      "country_name": "MA"
+    },
+    "GMTT": {
+      "airport_code": "GMTT",
+      "icao_code": null,
+      "full_name": "Tangier-Ibn Battouta Intl. Airport, Tanger, Morocco",
+      "location": {
+        "latitude": 35.7261039,
+        "longitude": -5.9129331
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:22.510541Z",
+      "city": "Tanger",
+      "state": "Tanger-Tétouan-Al Hoceima",
+      "country": "MA",
+      "country_name": "MA"
+    },
+    "GNV": {
+      "airport_code": "GNV",
+      "icao_code": null,
+      "full_name": "Gainesville Regional Airport, 3880 NE 39th Ave A, Gainesville, FL 32609, USA",
+      "location": {
+        "latitude": 29.68654849999999,
+        "longitude": -82.276659
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:22.656944Z",
+      "city": "Gainesville",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "HNL": {
+      "airport_code": "HNL",
+      "icao_code": null,
+      "full_name": "Daniel K. Inouye International Airport (HNL), 300 Rodgers Blvd, Honolulu, HI 96819, USA",
+      "location": {
+        "latitude": 21.3186623,
+        "longitude": -157.9254018
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:23.107825Z",
+      "city": "Honolulu",
+      "state": "HI",
+      "country": "US",
+      "country_name": "US"
+    },
+    "HPN": {
+      "airport_code": "HPN",
+      "icao_code": null,
+      "full_name": "Westchester County Airport (HPN), 240 Airport Rd, West Harrison, NY 10604, USA",
+      "location": {
+        "latitude": 41.0683325,
+        "longitude": -73.7086641
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:23.261380Z",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US"
+    },
+    "HRYR": {
+      "airport_code": "HRYR",
+      "icao_code": null,
+      "full_name": "Kigali International Airport, KN 5 Rd, Kigali, Rwanda",
+      "location": {
+        "latitude": -1.9633119,
+        "longitude": 30.1350179
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:23.425252Z",
+      "city": "Kigali",
+      "state": "Kigali City",
+      "country": "RW",
+      "country_name": "RW"
+    },
+    "IMS": {
+      "airport_code": "IMS",
+      "icao_code": null,
+      "full_name": "Madison Regional Airport (KIMS), 3919 W Ims Ln, Madison, IN 47250, USA",
+      "location": {
+        "latitude": 38.760231,
+        "longitude": -85.46178429999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:23.595793Z",
+      "city": "Madison",
+      "state": "IN",
+      "country": "US",
+      "country_name": "US"
+    },
+    "IND": {
+      "airport_code": "IND",
+      "icao_code": null,
+      "full_name": "Indianapolis International Airport, 7800 Col. H. Weir Cook Memorial Dr, Indianapolis, IN 46241, USA",
+      "location": {
+        "latitude": 39.7149625,
+        "longitude": -86.2977052
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:23.742261Z",
+      "city": "Indianapolis",
+      "state": "IN",
+      "country": "US",
+      "country_name": "US"
+    },
+    "JAN": {
+      "airport_code": "JAN",
+      "icao_code": null,
+      "full_name": "Jackson-Medgar Wiley Evers International Airport (JAN), 100 International Dr, Jackson, MS 39208, USA",
+      "location": {
+        "latitude": 32.3148675,
+        "longitude": -90.0805403
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:23.906942Z",
+      "city": "Jackson",
+      "state": "MS",
+      "country": "US",
+      "country_name": "US"
+    },
+    "JAX": {
+      "airport_code": "JAX",
+      "icao_code": null,
+      "full_name": "Jacksonville International Airport (JAX), 2400 Yankee Clipper Dr, Jacksonville, FL 32218, USA",
+      "location": {
+        "latitude": 30.4943308,
+        "longitude": -81.68714969999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:24.058869Z",
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "JVY": {
+      "airport_code": "JVY",
+      "icao_code": null,
+      "full_name": "Clark Regional Airport, 6003 Propeller Ln, Sellersburg, IN 47172, USA",
+      "location": {
+        "latitude": 38.3637275,
+        "longitude": -85.741539
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:24.224686Z",
+      "city": "Sellersburg",
+      "state": "IN",
+      "country": "US",
+      "country_name": "US"
+    },
+    "KVQQ": {
+      "airport_code": "KVQQ",
+      "icao_code": null,
+      "full_name": "Cecil Airport, 13365 Simpson Way, Jacksonville, FL 32221, USA",
+      "location": {
+        "latitude": 30.2215274,
+        "longitude": -81.88070359999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:24.380355Z",
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "LAL": {
+      "airport_code": "LAL",
+      "icao_code": null,
+      "full_name": "Lakeland Linder International Airport, 3900 Don Emerson Dr, Lakeland, FL 33811, USA",
+      "location": {
+        "latitude": 27.9945173,
+        "longitude": -82.0143138
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:24.535069Z",
+      "city": "Lakeland",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "LEBB": {
+      "airport_code": "LEBB",
+      "icao_code": null,
+      "full_name": "Bilbao Arpt (BIO), Bo. Gaztañaga, 48180 Loiu, Bizkaia, Spain",
+      "location": {
+        "latitude": 43.3027879,
+        "longitude": -2.9139544
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:24.848747Z",
+      "city": "Loiu",
+      "state": "PV",
+      "country": "ES",
+      "country_name": "ES"
+    },
+    "LEE": {
+      "airport_code": "LEE",
+      "icao_code": null,
+      "full_name": "Lee Airport-ANP, 3090 Solomons Island Rd, Edgewater, MD 21037, USA",
+      "location": {
+        "latitude": 38.9410629,
+        "longitude": -76.56545249999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:25.019291Z",
+      "city": "Edgewater",
+      "state": "MD",
+      "country": "US",
+      "country_name": "US"
+    },
+    "LEGR": {
+      "airport_code": "LEGR",
+      "icao_code": null,
+      "full_name": "Federico García Lorca Granada Airport (GRX), A-4075, km 2.2, 18330 Chauchina, Granada, Spain",
+      "location": {
+        "latitude": 37.1877458,
+        "longitude": -3.7779569
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:25.174022Z",
+      "city": "Chauchina",
+      "state": "AN",
+      "country": "ES",
+      "country_name": "ES"
+    },
+    "LEMD": {
+      "airport_code": "LEMD",
+      "icao_code": null,
+      "full_name": "Adolfo Suárez Madrid-Barajas Airport (MAD), Av de la Hispanidad, s/n, 28042 Madrid, Spain",
+      "location": {
+        "latitude": 40.4895147,
+        "longitude": -3.5642764
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:25.333712Z",
+      "city": "Madrid",
+      "state": "MD",
+      "country": "ES",
+      "country_name": "ES"
+    },
+    "LEPA": {
+      "airport_code": "LEPA",
+      "icao_code": null,
+      "full_name": "Palma de Mallorca Airport (PMI), Autopista de Llevant, Llevant, 07611 Palma, Illes Balears, Spain",
+      "location": {
+        "latitude": 39.55247079999999,
+        "longitude": 2.7393803
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:25.480729Z",
+      "city": "Palma",
+      "state": "IB",
+      "country": "ES",
+      "country_name": "ES"
+    },
+    "LFML": {
+      "airport_code": "LFML",
+      "icao_code": null,
+      "full_name": "Marseille Provence Airport (MRS), rd 20, 13700 Marignane, France",
+      "location": {
+        "latitude": 43.4383502,
+        "longitude": 5.214456500000001
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:25.638376Z",
+      "city": "Marignane",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "country": "FR",
+      "country_name": "FR"
+    },
+    "LFMN": {
+      "airport_code": "LFMN",
+      "icao_code": null,
+      "full_name": "Nice Côte d'Azur Airport (NCE), 19 Rue Costes et Bellonte, 06200 Nice, France",
+      "location": {
+        "latitude": 43.6598704,
+        "longitude": 7.214201199999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:25.800305Z",
+      "city": "Nice",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "country": "FR",
+      "country_name": "FR"
+    },
+    "LFPB": {
+      "airport_code": "LFPB",
+      "icao_code": null,
+      "full_name": "Paris Airport-Le Bourget (LBG), 93350 Le Bourget, France",
+      "location": {
+        "latitude": 48.9622569,
+        "longitude": 2.4383628
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:25.946317Z",
+      "city": "Le Bourget",
+      "state": "IDF",
+      "country": "FR",
+      "country_name": "FR"
+    },
+    "LFPG": {
+      "airport_code": "LFPG",
+      "icao_code": null,
+      "full_name": "Paris Charles de Gaulle Arpt (CDG), 95700 Roissy-en-France, France",
+      "location": {
+        "latitude": 49.0078827,
+        "longitude": 2.5507855
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:26.082470Z",
+      "city": "Roissy-en-France",
+      "state": "IDF",
+      "country": "FR",
+      "country_name": "FR"
+    },
+    "LFPO": {
+      "airport_code": "LFPO",
+      "icao_code": null,
+      "full_name": "Paris Orly Airport (ORY), 94390 Orly, France",
+      "location": {
+        "latitude": 48.7299182,
+        "longitude": 2.3732304
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:26.241971Z",
+      "city": "Orly",
+      "state": "IDF",
+      "country": "FR",
+      "country_name": "FR"
+    },
+    "LFTH": {
+      "airport_code": "LFTH",
+      "icao_code": null,
+      "full_name": "Toulon Hyères Airport (TLN), Bd de la Marine, 83400 Hyères, France",
+      "location": {
+        "latitude": 43.0935779,
+        "longitude": 6.1590908
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:26.400168Z",
+      "city": "Hyères",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "country": "FR",
+      "country_name": "FR"
+    },
+    "LGB": {
+      "airport_code": "LGB",
+      "icao_code": null,
+      "full_name": "LGB (LGB), 4100 Donald Douglas Dr, Long Beach, CA 90808, USA",
+      "location": {
+        "latitude": 33.8161064,
+        "longitude": -118.1512558
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:26.558539Z",
+      "city": "Long Beach",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "LIEO": {
+      "airport_code": "LIEO",
+      "icao_code": null,
+      "full_name": "Olbia Costa Smeralda Airport (OLB), Via degli Astronauti, 07026 Olbia SS, Italy",
+      "location": {
+        "latitude": 40.89984,
+        "longitude": 9.5160796
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:26.720713Z",
+      "state": "Sardegna",
+      "country": "IT",
+      "country_name": "IT"
+    },
+    "LIML": {
+      "airport_code": "LIML",
+      "icao_code": null,
+      "full_name": "Milan Linate Airport (LIN), Viale Enrico Forlanini, 20054 Segrate MI, Italy",
+      "location": {
+        "latitude": 45.4533303,
+        "longitude": 9.2762862
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:26.869701Z",
+      "state": "Lombardia",
+      "country": "IT",
+      "country_name": "IT"
+    },
+    "LIPR": {
+      "airport_code": "LIPR",
+      "icao_code": null,
+      "full_name": "Federico Fellini Int'l Airport (RMI), Via Flaminia, 409, 47924 Rimini RN, Italy",
+      "location": {
+        "latitude": 44.0201456,
+        "longitude": 12.611991
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:27.034933Z",
+      "state": "Emilia-Romagna",
+      "country": "IT",
+      "country_name": "IT"
+    },
+    "LIRA": {
+      "airport_code": "LIRA",
+      "icao_code": null,
+      "full_name": "6WX5+2XP Lira Airport, Lira, Uganda",
+      "location": {
+        "latitude": 2.2475831,
+        "longitude": 32.9099617
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:27.189787Z",
+      "city": "Lira",
+      "state": "Northern Region",
+      "country": "UG",
+      "country_name": "UG"
+    },
+    "LIT": {
+      "airport_code": "LIT",
+      "icao_code": null,
+      "full_name": "Bill and Hillary Clinton National Airport (LIT), 1 Airport Rd, Little Rock, AR 72202, USA",
+      "location": {
+        "latitude": 34.7315031,
+        "longitude": -92.2233332
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:27.333065Z",
+      "city": "Little Rock",
+      "state": "AR",
+      "country": "US",
+      "country_name": "US"
+    },
+    "LKPR": {
+      "airport_code": "LKPR",
+      "icao_code": null,
+      "full_name": "Václav Havel Airport Prague (PRG), Aviatická, 161 00 Praha 6, Czechia",
+      "location": {
+        "latitude": 50.10179100000001,
+        "longitude": 14.2631811
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:27.472596Z",
+      "country": "CZ",
+      "country_name": "CZ"
+    },
+    "LPAZ": {
+      "airport_code": "LPAZ",
+      "icao_code": null,
+      "full_name": "Santa Maria Airport (SMA), 9580 Vila do Porto, Portugal",
+      "location": {
+        "latitude": 36.9742664,
+        "longitude": -25.1655119
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:27.625841Z",
+      "city": "Vila do Porto",
+      "state": "Açores",
+      "country": "PT",
+      "country_name": "PT"
+    },
+    "LSGG": {
+      "airport_code": "LSGG",
+      "icao_code": null,
+      "full_name": "Geneva Airport (GVA), Rte de l'Aéroport 21, 1215 Genève 15 Aéroport, Switzerland",
+      "location": {
+        "latitude": 46.2369794,
+        "longitude": 6.109088799999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:27.769046Z",
+      "state": "GE",
+      "country": "CH",
+      "country_name": "CH"
+    },
+    "LZU": {
+      "airport_code": "LZU",
+      "icao_code": null,
+      "full_name": "Gwinnett County Airport, 600 Briscoe Blvd, Lawrenceville, GA 30046, USA",
+      "location": {
+        "latitude": 33.9754965,
+        "longitude": -83.9625236
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:28.115776Z",
+      "city": "Lawrenceville",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "MBGT": {
+      "airport_code": "MBGT",
+      "icao_code": null,
+      "full_name": "JAGS McCartney International Airport, TKCA 1ZZ, Turks and Caicos Islands",
+      "location": {
+        "latitude": 21.4422227,
+        "longitude": -71.1460329
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:28.272483Z",
+      "state": "Turks Islands",
+      "country": "TC",
+      "country_name": "TC"
+    },
+    "MBPV": {
+      "airport_code": "MBPV",
+      "icao_code": null,
+      "full_name": "Providenciales International Airport, Airport Rd, TKCA 1ZZ, Turks and Caicos Islands",
+      "location": {
+        "latitude": 21.7763463,
+        "longitude": -72.27133400000001
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:28.432055Z",
+      "state": "Caicos Islands",
+      "country": "TC",
+      "country_name": "TC"
+    },
+    "MBS": {
+      "airport_code": "MBS",
+      "icao_code": null,
+      "full_name": "MBS International Airport, 8500 Garfield Rd, Freeland, MI 48623, USA",
+      "location": {
+        "latitude": 43.5386272,
+        "longitude": -84.0821024
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:28.598609Z",
+      "city": "Freeland",
+      "state": "MI",
+      "country": "US",
+      "country_name": "US"
+    },
+    "MCN": {
+      "airport_code": "MCN",
+      "icao_code": null,
+      "full_name": "Middle Georgia Regional Airport, 1000 Terminal Dr, Macon, GA 31297, USA",
+      "location": {
+        "latitude": 32.7014571,
+        "longitude": -83.65010079999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:28.765567Z",
+      "city": "Macon",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "MDLR": {
+      "airport_code": "MDLR",
+      "icao_code": null,
+      "full_name": "La Romana International Airport, Carr. La Romana - Higuey 5.5, La Romana 22000, Dominican Republic",
+      "location": {
+        "latitude": 18.4484458,
+        "longitude": -68.9118337
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:28.925532Z",
+      "city": "La Romana",
+      "state": "La Romana",
+      "country": "DO",
+      "country_name": "DO"
+    },
+    "MDPC": {
+      "airport_code": "MDPC",
+      "icao_code": null,
+      "full_name": "Punta Cana International Airport, Carr. Aeropuerto, Punta Cana 23000, Dominican Republic",
+      "location": {
+        "latitude": 18.5623134,
+        "longitude": -68.3676862
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:29.071809Z",
+      "city": "Punta Cana",
+      "state": "La Altagracia",
+      "country": "DO",
+      "country_name": "DO"
+    },
+    "MDPP": {
+      "airport_code": "MDPP",
+      "icao_code": null,
+      "full_name": "Banreservas Aeropuerto Gregorio Luperón, Puerto Plata International Airport, 57000, Puerto Plata 57000, Dominican Republic",
+      "location": {
+        "latitude": 19.7551279,
+        "longitude": -70.56342
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:29.233647Z",
+      "city": "Puerto Plata",
+      "state": "Puerto Plata",
+      "country": "DO",
+      "country_name": "DO"
+    },
+    "MEB": {
+      "airport_code": "MEB",
+      "icao_code": null,
+      "full_name": "Essendon Fields Airport Terminal (MEB), 72 Hargrave Ave, Essendon Fields VIC 3041, Australia",
+      "location": {
+        "latitude": -37.7257898,
+        "longitude": 144.9016264
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:29.391024Z",
+      "city": "Essendon Fields",
+      "state": "VIC",
+      "country": "AU",
+      "country_name": "AU"
+    },
+    "MIV": {
+      "airport_code": "MIV",
+      "icao_code": null,
+      "full_name": "Millville Executive Airport, 104 Leddon St, Millville, NJ 08332, USA",
+      "location": {
+        "latitude": 39.36890700000001,
+        "longitude": -75.0727544
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:29.568092Z",
+      "city": "Millville",
+      "state": "NJ",
+      "country": "US",
+      "country_name": "US"
+    },
+    "MPPV": {
+      "airport_code": "MPPV",
+      "icao_code": null,
+      "full_name": "Edward F. Knapp State Airport (MPV), 1979 Airport Rd, Orange, VT 05641, USA",
+      "location": {
+        "latitude": 44.1998344,
+        "longitude": -72.560785
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:29.736070Z",
+      "city": "Orange",
+      "state": "VT",
+      "country": "US",
+      "country_name": "US"
+    },
+    "MRY": {
+      "airport_code": "MRY",
+      "icao_code": null,
+      "full_name": "Monterey Regional Airport (MRY), 200 Fred Kane Dr, Monterey, CA 93940, USA",
+      "location": {
+        "latitude": 36.5871457,
+        "longitude": -121.8462322
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:29.893930Z",
+      "city": "Monterey",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "MTN": {
+      "airport_code": "MTN",
+      "icao_code": null,
+      "full_name": "Martin State Airport (MTN), 701 Wilson Point Rd, Middle River, MD 21220, USA",
+      "location": {
+        "latitude": 39.3299829,
+        "longitude": -76.42148689999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:30.060453Z",
+      "city": "Middle River",
+      "state": "MD",
+      "country": "US",
+      "country_name": "US"
+    },
+    "MTPP": {
+      "airport_code": "MTPP",
+      "icao_code": null,
+      "full_name": "Aeroport International Toussaint Louverture, Boulevard Toussaint Louverture Aeroport International Haiti Tabarre, Pòtoprens 1792, Haiti",
+      "location": {
+        "latitude": 18.575483,
+        "longitude": -72.29511149999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:30.227289Z",
+      "city": "Pòtoprens",
+      "state": "Lwès",
+      "country": "HT",
+      "country_name": "HT"
+    },
+    "MYEF": {
+      "airport_code": "MYEF",
+      "icao_code": null,
+      "full_name": "H47G+CFV Exuma International Airport, Unnamed Road, Moss Town, The Bahamas",
+      "location": {
+        "latitude": 23.5636217,
+        "longitude": -75.8738254
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:30.397585Z",
+      "city": "Moss Town",
+      "state": "Exuma",
+      "country": "BS",
+      "country_name": "BS"
+    },
+    "MYEY": {
+      "airport_code": "MYEY",
+      "icao_code": null,
+      "full_name": "VRQJ+JCW Rock Sound International Airport, Rock Sound South Eleuthera, Rock Sound, The Bahamas",
+      "location": {
+        "latitude": 24.8891117,
+        "longitude": -76.1689126
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:30.562571Z",
+      "city": "Rock Sound",
+      "state": "South Eleuthera",
+      "country": "BS",
+      "country_name": "BS"
+    },
+    "MYNN": {
+      "airport_code": "MYNN",
+      "icao_code": null,
+      "full_name": "3G2M+3JC Lynden Pindling International Airport, Windsor Field Road, Nassau, The Bahamas",
+      "location": {
+        "latitude": 25.0501926,
+        "longitude": -77.4659806
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:30.864304Z",
+      "city": "Nassau",
+      "state": "New Providence",
+      "country": "BS",
+      "country_name": "BS"
+    },
+    "OAK": {
+      "airport_code": "OAK",
+      "icao_code": null,
+      "full_name": "Oakland International Airport (OAK), 1 Airport Dr, Oakland, CA 94621, USA",
+      "location": {
+        "latitude": 37.7190366,
+        "longitude": -122.2195893
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:31.015596Z",
+      "city": "Oakland",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "OMDB": {
+      "airport_code": "OMDB",
+      "icao_code": null,
+      "full_name": "Dubai International Airport (DXB) - Airport Rd - Al Garhoud - Dubai - United Arab Emirates",
+      "location": {
+        "latitude": 25.2515401,
+        "longitude": 55.3683066
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:31.321186Z",
+      "city": "Dubai",
+      "state": "Dubai",
+      "country": "AE",
+      "country_name": "AE"
+    },
+    "OPF": {
+      "airport_code": "OPF",
+      "icao_code": null,
+      "full_name": "Miami-Opa Locka Executive Airport, 14201 NW 42nd Ave, Opa-locka, FL 33054, USA",
+      "location": {
+        "latitude": 25.9092857,
+        "longitude": -80.2683641
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:31.477194Z",
+      "city": "Opa-locka",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "OQU": {
+      "airport_code": "OQU",
+      "icao_code": null,
+      "full_name": "Quonset State Airport, 150 Airport St, North Kingstown, RI 02852, USA",
+      "location": {
+        "latitude": 41.594019,
+        "longitude": -71.413434
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:31.629191Z",
+      "city": "North Kingstown",
+      "state": "RI",
+      "country": "US",
+      "country_name": "US"
+    },
+    "ORL": {
+      "airport_code": "ORL",
+      "icao_code": null,
+      "full_name": "Orlando Executive Airport, 365 Rickenbacker Dr, Orlando, FL 32803, USA",
+      "location": {
+        "latitude": 28.5487931,
+        "longitude": -81.3322156
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:31.799519Z",
+      "city": "Orlando",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "OSU": {
+      "airport_code": "OSU",
+      "icao_code": null,
+      "full_name": "The Ohio State University Airport, 2160 W Case Rd, Columbus, OH 43235, USA",
+      "location": {
+        "latitude": 40.0774611,
+        "longitude": -83.0734688
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:31.961556Z",
+      "city": "Columbus",
+      "state": "OH",
+      "country": "US",
+      "country_name": "US"
+    },
+    "OXC": {
+      "airport_code": "OXC",
+      "icao_code": null,
+      "full_name": "Waterbury-Oxford Airport, 300 Christian St, Oxford, CT 06478, USA",
+      "location": {
+        "latitude": 41.4793841,
+        "longitude": -73.13859029999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:32.127580Z",
+      "city": "Oxford",
+      "state": "CT",
+      "country": "US",
+      "country_name": "US"
+    },
+    "PANC": {
+      "airport_code": "PANC",
+      "icao_code": null,
+      "full_name": "Ted Stevens Anchorage International Airport (ANC), 5000 W International Airport Rd, Anchorage, AK 99502, USA",
+      "location": {
+        "latitude": 61.1769173,
+        "longitude": -149.9905923
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:32.286949Z",
+      "city": "Anchorage",
+      "state": "AK",
+      "country": "US",
+      "country_name": "US"
+    },
+    "PBD": {
+      "airport_code": "PBD",
+      "icao_code": null,
+      "full_name": "Porbandar Airport (PBD), NH 27, Porbandar Airport Area, Porbandar, Dharampur, Gujarat 360575, India",
+      "location": {
+        "latitude": 21.6477008,
+        "longitude": 69.6609593
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:32.447811Z",
+      "city": "Porbandar",
+      "state": "GJ",
+      "country": "IN",
+      "country_name": "IN"
+    },
+    "PBF": {
+      "airport_code": "PBF",
+      "icao_code": null,
+      "full_name": "Pine Bluff Regional Airport, 709 Hangar Row, Pine Bluff, AR 71601, USA",
+      "location": {
+        "latitude": 34.1789016,
+        "longitude": -91.9382019
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:32.607532Z",
+      "city": "Pine Bluff",
+      "state": "AR",
+      "country": "US",
+      "country_name": "US"
+    },
+    "PBI-OFF": {
+      "airport_code": "PBI-OFF",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:32.755336Z",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "PDK": {
+      "airport_code": "PDK",
+      "icao_code": null,
+      "full_name": "DeKalb-Peachtree Airport (PDK), 2000 Airport Rd, Atlanta, GA 30341, USA",
+      "location": {
+        "latitude": 33.876789,
+        "longitude": -84.30794519999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:32.910576Z",
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "PHX": {
+      "airport_code": "PHX",
+      "icao_code": null,
+      "full_name": "Phoenix Sky Harbor International Airport (PHX), 3400 Sky Hbr Blvd, Phoenix, AZ 85034, USA",
+      "location": {
+        "latitude": 33.435249,
+        "longitude": -112.010124
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:33.050619Z",
+      "city": "Phoenix",
+      "state": "AZ",
+      "country": "US",
+      "country_name": "US"
+    },
+    "RDU": {
+      "airport_code": "RDU",
+      "icao_code": null,
+      "full_name": "Raleigh-Durham International Airport (RDU), 2400 John Brantley Blvd, Morrisville, NC 27560, USA",
+      "location": {
+        "latitude": 35.8797678,
+        "longitude": -78.7855512
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:33.204705Z",
+      "city": "Morrisville",
+      "state": "NC",
+      "country": "US",
+      "country_name": "US"
+    },
+    "RIC": {
+      "airport_code": "RIC",
+      "icao_code": null,
+      "full_name": "Richmond International Airport (RIC), 1 Richard E Byrd Terminal Dr, Richmond, VA 23250, USA",
+      "location": {
+        "latitude": 37.5105562,
+        "longitude": -77.3266991
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:33.351610Z",
+      "city": "Richmond",
+      "state": "VA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "RJTA": {
+      "airport_code": "RJTA",
+      "icao_code": null,
+      "full_name": "Tatekawa, Ayase, Kanagawa 252-1105, Japan",
+      "location": {
+        "latitude": 35.4584544,
+        "longitude": 139.4335866
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:33.515442Z",
+      "city": "Ayase",
+      "state": "Kanagawa",
+      "country": "JP",
+      "country_name": "JP"
+    },
+    "RSW": {
+      "airport_code": "RSW",
+      "icao_code": null,
+      "full_name": "Southwest Florida International Airport (RSW), 11000 Terminal Access Rd, Fort Myers, FL 33913, USA",
+      "location": {
+        "latitude": 26.5318723,
+        "longitude": -81.75956459999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:33.658318Z",
+      "city": "Fort Myers",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "SAV, PBI": {
+      "airport_code": "SAV, PBI",
+      "icao_code": null,
+      "full_name": "Palm Beach International Airport (PBI), 1000 James L Turnage Blvd, West Palm Beach, FL 33415, USA",
+      "location": {
+        "latitude": 26.6857475,
+        "longitude": -80.0928165
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:33.822098Z",
+      "city": "West Palm Beach",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "SBA": {
+      "airport_code": "SBA",
+      "icao_code": null,
+      "full_name": "Santa Barbara Airport (SBA), 500 James Fowler Rd, Santa Barbara, CA 93117, USA",
+      "location": {
+        "latitude": 34.4274791,
+        "longitude": -119.8420269
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:33.982657Z",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "SBGK": {
+      "airport_code": "SBGK",
+      "icao_code": null,
+      "full_name": "Budapest, Andrássy út 113, 1062 Hungary",
+      "location": {
+        "latitude": 47.512364,
+        "longitude": 19.0746258
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:34.154531Z",
+      "city": "Budapest",
+      "country": "HU",
+      "country_name": "HU"
+    },
+    "SBGR": {
+      "airport_code": "SBGR",
+      "icao_code": null,
+      "full_name": "São Paulo/Guarulhos–Governor André Franco Montoro Int'l Airport (GRU) - Rod. Hélio Smidt, s/nº - Aeroporto, Guarulhos - SP, 07190-100, Brazil",
+      "location": {
+        "latitude": -23.4302175,
+        "longitude": -46.47167109999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:34.300555Z",
+      "state": "SP",
+      "country": "BR",
+      "country_name": "BR"
+    },
+    "SEGU": {
+      "airport_code": "SEGU",
+      "icao_code": null,
+      "full_name": "José Joaquín de Olmedo International Airport, Av. de las Américas, Guayaquil 090513, Ecuador",
+      "location": {
+        "latitude": -2.1481341,
+        "longitude": -79.884394
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:34.478454Z",
+      "city": "Guayaquil",
+      "state": "Guayas",
+      "country": "EC",
+      "country_name": "EC"
+    },
+    "SEP": {
+      "airport_code": "SEP",
+      "icao_code": null,
+      "full_name": "Stephenville Clark Regional Airport, 1050 Airport Rd Suite 100, Stephenville, TX 76401, USA",
+      "location": {
+        "latitude": 32.217945,
+        "longitude": -98.1811752
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:34.663535Z",
+      "city": "Stephenville",
+      "state": "TX",
+      "country": "US",
+      "country_name": "US"
+    },
+    "SFO": {
+      "airport_code": "SFO",
+      "icao_code": null,
+      "full_name": "San Francisco International Airport (SFO), San Francisco, CA 94128, USA",
+      "location": {
+        "latitude": 37.61911449999999,
+        "longitude": -122.3816274
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:34.806052Z",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "SJC": {
+      "airport_code": "SJC",
+      "icao_code": null,
+      "full_name": "San Jose Mineta International Airport (SJC), 1701 Airport Blvd Ste B-1130, San Jose, CA 95110, USA",
+      "location": {
+        "latitude": 37.3635295,
+        "longitude": -121.9285932
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:34.945227Z",
+      "city": "San Jose",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "STL": {
+      "airport_code": "STL",
+      "icao_code": null,
+      "full_name": "St. Louis Lambert International Airport (STL), 10701 Lambert International Blvd, St. Louis, MO 63145, USA",
+      "location": {
+        "latitude": 38.7499403,
+        "longitude": -90.374819
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:35.090319Z",
+      "city": "St. Louis",
+      "state": "MO",
+      "country": "US",
+      "country_name": "US"
+    },
+    "SUA": {
+      "airport_code": "SUA",
+      "icao_code": null,
+      "full_name": "Witham Field (SUA), 2011 SE Airport Rd, Stuart, FL 34996, USA",
+      "location": {
+        "latitude": 27.1781916,
+        "longitude": -80.2244544
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:35.248229Z",
+      "city": "Stuart",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "SWF": {
+      "airport_code": "SWF",
+      "icao_code": null,
+      "full_name": "New York Stewart Int'l Airport (SWF), 1180 1st St, New Windsor, NY 12553, USA",
+      "location": {
+        "latitude": 41.4984032,
+        "longitude": -74.1008627
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:35.412162Z",
+      "city": "New Windsor",
+      "state": "NY",
+      "country": "US",
+      "country_name": "US"
+    },
+    "TAPA": {
+      "airport_code": "TAPA",
+      "icao_code": null,
+      "full_name": "V.C. Bird International Airport, Pavilion Dr, Osbourn, Antigua and Barbuda",
+      "location": {
+        "latitude": 17.1416455,
+        "longitude": -61.79054859999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:35.572180Z",
+      "city": "Osbourn",
+      "country": "AG",
+      "country_name": "AG"
+    },
+    "TEB, AHN": {
+      "airport_code": "TEB, AHN",
+      "icao_code": null,
+      "full_name": "Teterboro Airport, 111 Industrial Ave, Teterboro, NJ 07608, USA",
+      "location": {
+        "latitude": 40.858332,
+        "longitude": -74.0615292
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:35.734470Z",
+      "city": "Teterboro",
+      "state": "NJ",
+      "country": "US",
+      "country_name": "US"
+    },
+    "TED": {
+      "airport_code": "TED",
+      "icao_code": null,
+      "full_name": "Ted Stevens Anchorage International Airport (ANC), 5000 W International Airport Rd, Anchorage, AK 99502, USA",
+      "location": {
+        "latitude": 61.1769173,
+        "longitude": -149.9905923
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:35.881308Z",
+      "city": "Anchorage",
+      "state": "AK",
+      "country": "US",
+      "country_name": "US"
+    },
+    "TEb": {
+      "airport_code": "TEb",
+      "icao_code": null,
+      "full_name": "Teterboro Airport, 111 Industrial Ave, Teterboro, NJ 07608, USA",
+      "location": {
+        "latitude": 40.858332,
+        "longitude": -74.0615292
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:36.024548Z",
+      "city": "Teterboro",
+      "state": "NJ",
+      "country": "US",
+      "country_name": "US"
+    },
+    "TIST": {
+      "airport_code": "TIST",
+      "icao_code": null,
+      "full_name": "Cyril E. King Airport, St Thomas, Airport Rd, Charlotte Amalie West, St Thomas 00802, USVI",
+      "location": {
+        "latitude": 18.3355669,
+        "longitude": -64.97088409999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:36.164795Z",
+      "city": "Charlotte Amalie West",
+      "state": "St Thomas",
+      "country": "VI",
+      "country_name": "VI"
+    },
+    "TIST-LSJ": {
+      "airport_code": "TIST-LSJ",
+      "icao_code": null,
+      "full_name": "Cyril E. King Airport, St Thomas, Airport Rd, Charlotte Amalie West, St Thomas 00802, USVI",
+      "location": {
+        "latitude": 18.3355669,
+        "longitude": -64.97088409999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:36.319892Z",
+      "city": "Charlotte Amalie West",
+      "state": "St Thomas",
+      "country": "VI",
+      "country_name": "VI"
+    },
+    "TIX": {
+      "airport_code": "TIX",
+      "icao_code": null,
+      "full_name": "Space Coast Regional Airport, 355 Golden Knights Blvd, Titusville, FL 32780, USA",
+      "location": {
+        "latitude": 28.5133625,
+        "longitude": -80.7988013
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:36.473800Z",
+      "city": "Titusville",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "TLPL": {
+      "airport_code": "TLPL",
+      "icao_code": null,
+      "full_name": "Hewanorra International Airport (UVF), Vieux Fort, St Lucia",
+      "location": {
+        "latitude": 13.7372724,
+        "longitude": -60.952454
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:36.630643Z",
+      "city": "Vieux Fort",
+      "state": "Vieux Fort",
+      "country": "LC",
+      "country_name": "LC"
+    },
+    "TNCM": {
+      "airport_code": "TNCM",
+      "icao_code": null,
+      "full_name": "Princess Juliana International Airport (SXM), Airport Rd, Simpson Bay, Sint Maarten",
+      "location": {
+        "latitude": 18.0441915,
+        "longitude": -63.113445
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:36.792129Z",
+      "city": "Simpson Bay",
+      "state": "Sint Maarten",
+      "country": "SX",
+      "country_name": "SX"
+    },
+    "TPQF": {
+      "airport_code": "TPQF",
+      "icao_code": null,
+      "full_name": "6W4W+JXC Anguilla-Clayton J. Lloyd Airport, The Quarter 2640, Anguilla",
+      "location": {
+        "latitude": 18.2065638,
+        "longitude": -63.0526054
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:36.956124Z",
+      "city": "The Quarter",
+      "country": "AI",
+      "country_name": "AI"
+    },
+    "TQPF": {
+      "airport_code": "TQPF",
+      "icao_code": null,
+      "full_name": "6W4W+JXC Anguilla-Clayton J. Lloyd Airport, The Quarter 2640, Anguilla",
+      "location": {
+        "latitude": 18.2065638,
+        "longitude": -63.0526054
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:37.100554Z",
+      "city": "The Quarter",
+      "country": "AI",
+      "country_name": "AI"
+    },
+    "ULLI": {
+      "airport_code": "ULLI",
+      "icao_code": null,
+      "full_name": "Pulkovo Airport (LED), лит. ЗА, Pulkovskoe sh., д. 41, Sankt-Peterburg, Russia, 196140",
+      "location": {
+        "latitude": 59.80291270000001,
+        "longitude": 30.2678391
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:37.266489Z",
+      "city": "Sankt-Peterburg",
+      "state": "Sankt-Peterburg",
+      "country": "RU",
+      "country_name": "RU"
+    },
+    "UNNT": {
+      "airport_code": "UNNT",
+      "icao_code": null,
+      "full_name": "Novosibirsk International Airport (Tolmachevo) (OVB), Ob', Novosibirskaya oblast', Russia, 633104",
+      "location": {
+        "latitude": 55.01135410000001,
+        "longitude": 82.652163
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:37.433554Z",
+      "city": "Ob'",
+      "state": "Novosibirskaya oblast'",
+      "country": "RU",
+      "country_name": "RU"
+    },
+    "UUWW": {
+      "airport_code": "UUWW",
+      "icao_code": null,
+      "full_name": "Vnukovo International Airport (VKO), Moskva, Russia",
+      "location": {
+        "latitude": 55.59964799999999,
+        "longitude": 37.27123419999999
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:37.581949Z",
+      "city": "Moskva",
+      "state": "Moskva",
+      "country": "RU",
+      "country_name": "RU"
+    },
+    "VCBI": {
+      "airport_code": "VCBI",
+      "icao_code": null,
+      "full_name": "Colombo Bandaranaike International Airport (CMB), Airport and Aviation Services (Sri Lanka) (Private) Limited, Canada Friendship Rd, Katunayake 11450, Sri Lanka",
+      "location": {
+        "latitude": 7.1801543,
+        "longitude": 79.8842495
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:37.749256Z",
+      "city": "Katunayake",
+      "state": "WP",
+      "country": "LK",
+      "country_name": "LK"
+    },
+    "VHHH": {
+      "airport_code": "VHHH",
+      "icao_code": null,
+      "full_name": "Hong Kong International Airport, 1 Sky Plaza Rd, Chek Lap Kok, Hong Kong",
+      "location": {
+        "latitude": 22.3134736,
+        "longitude": 113.9137283
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:37.897676Z",
+      "state": "New Territories",
+      "country": "HK",
+      "country_name": "HK"
+    },
+    "VNC": {
+      "airport_code": "VNC",
+      "icao_code": null,
+      "full_name": "Venice Municipal Airport (VNC), 150 Airport Ave E, Venice, FL 34285, USA",
+      "location": {
+        "latitude": 27.0732113,
+        "longitude": -82.4405867
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:38.051625Z",
+      "city": "Venice",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "VNY": {
+      "airport_code": "VNY",
+      "icao_code": null,
+      "full_name": "Van Nuys Airport (VNY), 16461 Sherman Way, Van Nuys, CA 91406, USA",
+      "location": {
+        "latitude": 34.2096876,
+        "longitude": -118.4862402
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:38.214185Z",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "US",
+      "country_name": "US"
+    },
+    "VQQ": {
+      "airport_code": "VQQ",
+      "icao_code": null,
+      "full_name": "Cecil Airport, 13365 Simpson Way, Jacksonville, FL 32221, USA",
+      "location": {
+        "latitude": 30.2215274,
+        "longitude": -81.88070359999999
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:38.355037Z",
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "VTBD": {
+      "airport_code": "VTBD",
+      "icao_code": null,
+      "full_name": "Don Mueang International Airport (DMK), 222 Thanon Vibhavadi Rangsit, Khwaeng Sanambin, Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+      "location": {
+        "latitude": 13.9150135,
+        "longitude": 100.6054823
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:38.512146Z",
+      "state": "Krung Thep Maha Nakhon",
+      "country": "TH",
+      "country_name": "TH"
+    },
+    "WBSB": {
+      "airport_code": "WBSB",
+      "icao_code": null,
+      "full_name": "Brunei International Airport, Bandar Seri Begawan, Darussalam BB 2513, Brunei",
+      "location": {
+        "latitude": 4.9448545,
+        "longitude": 114.934508
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:38.816824Z",
+      "city": "Darussalam",
+      "state": "Brunei-Muara District",
+      "country": "BN",
+      "country_name": "BN"
+    },
+    "WRRR": {
+      "airport_code": "WRRR",
+      "icao_code": null,
+      "full_name": "I Gusti Ngurah Rai International Airport (DPS), Jl. Airport Ngurah Rai, Tuban, Kec. Kuta, Kabupaten Badung, Bali 80361, Indonesia",
+      "location": {
+        "latitude": -8.7469933,
+        "longitude": 115.1681655
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:38.994697Z",
+      "state": "Bali",
+      "country": "ID",
+      "country_name": "ID"
+    },
+    "WSSS": {
+      "airport_code": "WSSS",
+      "icao_code": null,
+      "full_name": "60 Airport Blvd., Singapore Changi Airport (SIN), Singapore 819643",
+      "location": {
+        "latitude": 1.358604,
+        "longitude": 103.9899436
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:39.142983Z",
+      "city": "Singapore",
+      "country": "SG",
+      "country_name": "SG"
+    },
+    "X21": {
+      "airport_code": "X21",
+      "icao_code": null,
+      "full_name": "Arthur Dunn Airpark-x21, 550 Airport Rd, Titusville, FL 32796, USA",
+      "location": {
+        "latitude": 28.6204128,
+        "longitude": -80.8320846
+      },
+      "location_type": "ROOFTOP",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:39.316385Z",
+      "city": "Titusville",
+      "state": "FL",
+      "country": "US",
+      "country_name": "US"
+    },
+    "ZBAA": {
+      "airport_code": "ZBAA",
+      "icao_code": null,
+      "full_name": "3JH3+W6X Beijing Capital International Airport (PEK), Shun Yi Qu, Bei Jing Shi, China",
+      "location": {
+        "latitude": 40.0798573,
+        "longitude": 116.6031121
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:39.626679Z",
+      "state": "Bei Jing Shi",
+      "country": "CN",
+      "country_name": "CN"
+    },
+    "ZGSZ": {
+      "airport_code": "ZGSZ",
+      "icao_code": null,
+      "full_name": "JRP7+PRQ Shenzhen Bao'an International Airport, Bao An Qu, Shen Zhen Shi, Guang Dong Sheng, China",
+      "location": {
+        "latitude": 22.636828,
+        "longitude": 113.814606
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:39.770648Z",
+      "city": "Shen Zhen Shi",
+      "state": "Guang Dong Sheng",
+      "country": "CN",
+      "country_name": "CN"
+    },
+    "ZUUU": {
+      "airport_code": "ZUUU",
+      "icao_code": null,
+      "full_name": "Chengdu Shuangliu International Airport (CTU), Shuang Liu Qu, Cheng Du Shi, Si Chuan Sheng, China",
+      "location": {
+        "latitude": 30.5610279,
+        "longitude": 103.946281
+      },
+      "location_type": "GEOMETRIC_CENTER",
+      "data_source": "google_geocoding_api",
+      "geocoded_at": "2025-11-16T12:22:40.067267Z",
+      "city": "Cheng Du Shi",
+      "state": "Si Chuan Sheng",
+      "country": "CN",
+      "country_name": "CN"
+    },
+    "27K": {
+      "name": "Georgetown-Scott County Regional Airport (Marshall Field)",
+      "city": "Georgetown",
+      "state": "Kentucky",
+      "country": "United States",
+      "latitude": 38.2344342,
+      "longitude": -84.4346836,
+      "iata_code": null,
+      "icao_code": "K27K",
+      "source": "manual_geocoding_airnav.com",
+      "notes": "FAA identifier 27K"
+    },
+    "CYJT": {
+      "name": "Stephenville Dymond International Airport",
+      "city": "Stephenville",
+      "state": "Newfoundland and Labrador",
+      "country": "Canada",
+      "latitude": 48.5442009,
+      "longitude": -58.5499992,
+      "iata_code": "YJT",
+      "icao_code": "CYJT",
+      "source": "manual_geocoding_latitude.to",
+      "notes": "1.5 nm SE of Stephenville"
+    },
+    "EGYM": {
+      "name": "RAF Marham",
+      "city": "Marham",
+      "state": "Norfolk",
+      "country": "United Kingdom",
+      "latitude": 52.6483994,
+      "longitude": 0.550692,
+      "iata_code": "KNF",
+      "icao_code": "EGYM",
+      "source": "manual_geocoding_skybrary.aero",
+      "notes": "Royal Air Force station"
+    },
+    "FAJS": {
+      "name": "Johannesburg International Airport (FORMER CODE - now FAOR)",
+      "city": "Johannesburg",
+      "state": "Gauteng",
+      "country": "South Africa",
+      "latitude": -26.1392,
+      "longitude": 28.246,
+      "iata_code": "JNB",
+      "icao_code": "FAOR",
+      "source": "manual_geocoding_wikipedia",
+      "notes": "OBSOLETE CODE - Changed from FAJS to FAOR in 2013. Using FAOR coordinates for O.R. Tambo International"
+    },
+    "GRT": {
+      "name": "Gujrat Airport",
+      "city": "Gujrat",
+      "state": "Punjab",
+      "country": "Pakistan",
+      "latitude": 32.62854,
+      "longitude": 74.06699,
+      "iata_code": "GRT",
+      "icao_code": null,
+      "source": "manual_geocoding_prokerala.com",
+      "notes": "No ICAO code - small airport"
+    },
+    "GVAL": {
+      "name": "Sal Island Airport",
+      "city": "Sal Island",
+      "state": null,
+      "country": "Cape Verde",
+      "latitude": 16.7333,
+      "longitude": -22.95,
+      "iata_code": "SID",
+      "icao_code": "GVAC",
+      "source": "manual_geocoding_world-airport-codes.com",
+      "notes": "Estimated coordinates - actual code may be GVAC"
+    },
+    "LCQ": {
+      "name": "Lake City Gateway Airport",
+      "city": "Lake City",
+      "state": "Florida",
+      "country": "United States",
+      "latitude": 30.1820556,
+      "longitude": -82.5768611,
+      "iata_code": "LCQ",
+      "icao_code": "KLCQ",
+      "source": "manual_geocoding_airnav.com",
+      "notes": "Formerly Lake City Municipal Airport"
+    },
+    "LSJ": {
+      "name": "Long Island Airport",
+      "city": "Long Island",
+      "state": "Madang Province",
+      "country": "Papua New Guinea",
+      "latitude": -5.3604,
+      "longitude": 147.0177,
+      "iata_code": "LSJ",
+      "icao_code": "AYLX",
+      "source": "manual_geocoding_ourairports.com",
+      "notes": "Papua New Guinea regional airport"
+    },
+    "MYGM": {
+      "name": "Grand Bahama Auxiliary Airfield",
+      "city": "Grand Bahama",
+      "state": null,
+      "country": "Bahamas",
+      "latitude": 26.6319008,
+      "longitude": -78.3591995,
+      "iata_code": "GBI",
+      "icao_code": "MYGM",
+      "source": "manual_geocoding_greatcirclemapper.net",
+      "notes": "USAF installation closed 1987, deteriorated runway"
+    },
+    "OEO": {
+      "name": "L.O. Simenstad Municipal Airport",
+      "city": "Osceola",
+      "state": "Wisconsin",
+      "country": "United States",
+      "latitude": 45.31007,
+      "longitude": -92.69154,
+      "iata_code": "OEO",
+      "icao_code": "KOEO",
+      "source": "manual_geocoding_airnav.com",
+      "notes": "SE of Osceola, elevation 905 ft"
+    },
+    "ZORRO": {
+      "name": "Zorro Ranch Private Airstrip",
+      "city": "Stanley",
+      "state": "New Mexico",
+      "country": "United States",
+      "latitude": 35.26717,
+      "longitude": -105.969673,
+      "iata_code": null,
+      "icao_code": null,
+      "source": "manual_geocoding_virtualglobetrotting.com",
+      "notes": "Jeffrey Epstein's private 4,400-foot airstrip - NOT an official airport code"
+    }
+  }
+}

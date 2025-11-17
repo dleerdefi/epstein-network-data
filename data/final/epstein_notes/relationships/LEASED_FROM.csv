@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_001,person_010,LEASED_FROM,false,,0.5,"Rental agreement. Epstein subleased E 69th St home to Fisher at $5k/month profit, both sued by feds",Unverified

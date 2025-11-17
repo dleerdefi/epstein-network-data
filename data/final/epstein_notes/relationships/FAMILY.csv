@@ -1,0 +1,39 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_004,person_ref_60464,FAMILY,false,,0.9,first wife,Unverified
+person_004,person_ref_50716,FAMILY,false,,0.9,daughter,Unverified
+person_004,person_ref_50533,FAMILY,false,,0.9,daughter,Unverified
+person_004,person_ref_87970,FAMILY,false,,0.9,daughter,Unverified
+person_004,person_ref_43714,FAMILY,false,,0.9,son,Unverified
+person_131,person_ref_63923,FAMILY,false,,0.9,second wife,Unverified
+person_131,person_ref_67366,FAMILY,false,,0.9,daughter,Unverified
+person_024,person_ref_86002,FAMILY,false,,0.9,wife,Unverified
+person_133,person_011,FAMILY,false,,0.9,father,Unverified
+person_134,person_ref_43422,FAMILY,false,,0.9,father,Unverified
+person_134,person_ref_9449,FAMILY,false,,0.9,mother,Unverified
+person_134,person_ref_10568,FAMILY,false,,0.9,daughter,Unverified
+person_134,person_ref_92504,FAMILY,false,,0.9,son,Unverified
+person_134,person_ref_31266,FAMILY,false,,0.9,daughter,Unverified
+person_135,person_ref_58643,FAMILY,false,,0.9,son,Unverified
+person_135,person_ref_36090,FAMILY,false,,0.9,son,Unverified
+person_135,person_ref_73329,FAMILY,false,,0.9,second wife,Unverified
+person_061,person_ref_19801,FAMILY,false,,0.9,wife,Unverified
+person_061,person_ref_1864,FAMILY,false,,0.9,wife,Unverified
+person_061,person_ref_20043,FAMILY,false,,0.9,child,Unverified
+person_061,person_ref_87058,FAMILY,false,,0.9,child,Unverified
+person_061,person_ref_86128,FAMILY,false,,0.9,child,Unverified
+person_148,person_ref_29981,FAMILY,false,,0.9,father,Unverified
+person_148,person_ref_37821,FAMILY,false,,0.9,wife,Unverified
+person_148,person_ref_32282,FAMILY,false,,0.9,child,Unverified
+person_148,person_ref_69944,FAMILY,false,,0.9,child,Unverified
+person_148,person_ref_3307,FAMILY,false,,0.9,child,Unverified
+person_150,person_ref_75664,FAMILY,false,,0.9,wife,Unverified
+person_150,person_ref_73506,FAMILY,false,,0.9,son,Unverified
+person_150,person_ref_54833,FAMILY,false,,0.9,daughter,Unverified
+person_150,person_ref_71517,FAMILY,false,,0.9,son,Unverified
+person_150,person_ref_14286,FAMILY,false,,0.9,daughter,Unverified
+person_150,person_ref_49042,FAMILY,false,,0.9,father,Unverified
+person_150,person_ref_12736,FAMILY,false,,0.9,uncle,Unverified
+person_150,person_ref_42800,FAMILY,false,,0.9,grandfather,Unverified
+person_148,person_148c,FAMILY,,,0.3,,Speculative
+person_135,person_135a,FAMILY,,,0.7,First wife of son Todd,Unverified
+person_067,person_069,FAMILY,false,,0.7,Married to Kellen. Her past is known to NASCAR community.,Unverified

@@ -1,0 +1,22 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_148,person_148b,REPRESENTED_BY,,,0.7,Defended Robertson's 'The New World Order' book,Unverified
+person_061,person_001,REPRESENTED_BY,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,"Legal representation. Helped broker JE's NPA 2007, provided flight manifests to police 2005",Factual
+person_007,person_066,REPRESENTED_BY,false,,0.7,Sent certified letter to Prince Andrew Jan 14 2015 requesting cooperation. Letter refused by recipient.,Unverified
+person_073,person_059,REPRESENTED_BY,,,0.9,Legal representation in L.M. v. Jeffrey Epstein ($15M award),Factual
+person_078,person_059,REPRESENTED_BY,,,0.8,"Legal representation - agreed to represent July 2, 200[?]",Unverified
+person_201,person_059,REPRESENTED_BY,,43,0.9,"Hired June 13, 2008 for federal CVRA lawsuit",Factual
+person_207,person_066,REPRESENTED_BY,,,0.8,Personally represented by David Boies,Unverified
+person_142,person_028,REPRESENTED_BY,,68,1.0,Represented Kellen at time of her deposition,Factual
+person_059,person_061a,REPRESENTED_BY,,47;48;53,1.0,Representing VA Roberts and several Jane Doe victims,Factual
+person_066,person_061a,REPRESENTED_BY,,47;48;53,1.0,Firm representing VA Roberts in case against Ghislaine Maxwell pro bono,Factual
+person_007,person_059,REPRESENTED_BY,false,63;41;61;43;44,1.0,Contacted by Roberts in 2011 when he was being sued by Epstein. Represented her in federal case attempts 2014-2015. Sent certified letter to Prince Andrew Jan 14 2015.,Factual
+person_007,person_063,REPRESENTED_BY,false,,0.7,Filed suit against Epstein Sept 9 2008 (Jane Doe 2 v Epstein),Unverified
+person_148,person_001,REPRESENTED_BY,false,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Helped negotiate JE's NPA with Kenneth Starr,Factual
+person_191,person_001,REPRESENTED_BY,false,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,,Factual
+person_150,person_001,REPRESENTED_BY,false,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,"Negotiated plea deal, then fired and replaced by Goldberger",Factual
+person_138,person_001,REPRESENTED_BY,false,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Brokered JE's secret plea deal,Factual
+person_154,person_001,REPRESENTED_BY,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,"JE's companies assigned to Indyke, visited JE daily in jail",Factual
+person_142,person_001,REPRESENTED_BY,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Left government prosecutor position to defend JE,Factual
+person_002,person_023,REPRESENTED_BY,false,20,0.767,"Represented Maxwell in 2009, from firm Cohen and Gresser",Unverified
+person_064,person_064a,REPRESENTED_BY,,,0.7,,Unverified
+person_064,person_064b,REPRESENTED_BY,,58;47;51;74;45;41;44,1.0,,Factual

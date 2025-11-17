@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_146,org_143,SUBPOENAED_BY,,0.7,Investigate irregularities during 2000 election Palm Beach County FL,Unverified

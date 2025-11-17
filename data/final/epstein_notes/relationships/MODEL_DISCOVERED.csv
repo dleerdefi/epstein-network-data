@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_011,person_033,MODEL_DISCOVERED,false,,0.7,Brunel 'discovered' her when she was 14,Unverified

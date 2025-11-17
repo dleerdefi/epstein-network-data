@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_004,person_042,FBI_INTERVIEWEE,false,,0.7,"Interviewed by FBI in 1954, provided information about Maxwell's Springer connection",Unverified

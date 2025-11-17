@@ -1,0 +1,439 @@
+{
+  "profile_name": "Ghislaine Noelle Maxwell",
+  "source_lines": "10-12",
+  "extraction_date": "2025-11-14",
+  "primary_person": {
+    "entity_id": "person_018",
+    "name": "Ghislaine Noelle Maxwell",
+    "aliases": [
+      "GM",
+      "Ghislaine Maxwell",
+      "Maxwell",
+      "Ghislaine"
+    ],
+    "birth_year": 1961,
+    "nationality": "British",
+    "occupations": [
+      "socialite",
+      "alleged co-conspirator",
+      "helicopter pilot",
+      "certified EMT",
+      "Deepworker submersible pilot",
+      "president of TerraMar Project",
+      "president of Ellmax"
+    ],
+    "education": "Oxford University (B.A. – M.A., graduated 1984)",
+    "summary": "British socialite, youngest child of publisher Robert Maxwell. Long-time associate and alleged co-conspirator of Jeffrey Epstein. Founded TerraMar Project (ocean conservation non-profit). Licensed helicopter pilot, certified EMT, submersible pilot."
+  },
+  "family_members": [
+    {
+      "entity_id": "person_019",
+      "name": "Robert Maxwell",
+      "occupations": [
+        "publisher"
+      ],
+      "death_year": 1991,
+      "death_date": "1991-11-05",
+      "relationship": "father",
+      "relationship_to": "person_018",
+      "note": "See separate detailed profile",
+      "confidence": 0.95,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "8",
+        "9"
+      ]
+    },
+    {
+      "entity_id": "person_020",
+      "name": "Elisabeth Maxwell",
+      "aliases": [
+        "Betty Maxwell",
+        "Elisabeth 'Betty' Maxwell (nee Meynard)"
+      ],
+      "relationship": "mother",
+      "relationship_to": "person_018",
+      "note": "Reportedly became ill June 2010 when Ghislaine used as excuse to avoid deposition",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "8"
+      ]
+    }
+  ],
+  "associates": [
+    {
+      "entity_id": "person_001",
+      "name": "Jeffrey Edward Epstein",
+      "relationship": "long-time partner/alleged co-conspirator",
+      "relationship_context": "Met in NYC in 1992 after father's death. Allegedly intimately involved in all of Epstein's crimes. Helped scout and procure girls since mid-1990s.",
+      "relationship_start": "1992",
+      "relationship_type": "partner/co-conspirator",
+      "confidence": 0.87,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "5",
+        "20",
+        "24",
+        "27",
+        "7",
+        "16",
+        "29",
+        "47",
+        "28",
+        "35",
+        "26",
+        "19",
+        "34",
+        "65",
+        "6",
+        "38",
+        "21",
+        "32",
+        "44",
+        "30",
+        "40",
+        "9",
+        "2",
+        "39",
+        "67",
+        "51",
+        "33",
+        "45",
+        "66",
+        "63",
+        "41",
+        "68",
+        "61",
+        "43",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_012",
+      "name": "Bill Clinton",
+      "relationship": "friend/associate",
+      "relationship_context": "Allegedly introduced Epstein to Clinton. Friends with Clinton's assistant Doug Bands.",
+      "relationship_start": "1990s",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "65"
+      ]
+    },
+    {
+      "entity_id": "person_021",
+      "name": "Doug Bands",
+      "aliases": [
+        "DOUG BANDS"
+      ],
+      "occupations": [
+        "Clinton's assistant"
+      ],
+      "relationship": "friend/connection to Clintons",
+      "relationship_context": "Clinton's assistant, friends with Maxwell",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_022",
+      "name": "Virginia Roberts Giuffre",
+      "relationship": "accuser/legal adversary",
+      "relationship_context": "Sued Maxwell for defamation after Maxwell called accusations 'all lies'",
+      "relationship_start": "lawsuit filed 2015",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_023",
+      "name": "Brett Jaffe",
+      "occupations": [
+        "attorney"
+      ],
+      "relationship": "legal counsel",
+      "relationship_context": "Represented Maxwell in 2009, from firm Cohen and Gresser",
+      "relationship_start": "2009",
+      "confidence": 0.767,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "20"
+      ]
+    },
+    {
+      "entity_id": "person_024",
+      "name": "Chelsea Clinton",
+      "aliases": [
+        "CHELSEA CLINTON"
+      ],
+      "relationship": "social connection",
+      "relationship_context": "Maxwell attended Chelsea Clinton's wedding July 31, 2010 in Rhinebeck NY, photographed by OK magazine",
+      "relationship_start": "2010",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "21",
+        "23",
+        "24"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "entity_id": "org_027",
+      "name": "Oxford University",
+      "org_type": "university",
+      "location": "Oxford, England",
+      "relationship": "graduated 1984 (B.A. – M.A.)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_028",
+      "name": "The TerraMar Project",
+      "aliases": [
+        "TMP",
+        "Terra Mar Project"
+      ],
+      "org_type": "non-profit",
+      "founded_year": 2012,
+      "dissolved_year": 2019,
+      "description": "Web-based non-profit to protect ocean commons, empower global community of ocean citizens. Collaborated with stakeholders on 2015 UN Sustainable Development Goals. Published 'The Daily Catch' online newspaper.",
+      "relationship": "founder and president",
+      "confidence": 0.975,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "9",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "org_029",
+      "name": "Clinton Global Initiative",
+      "org_type": "foundation",
+      "relationship": "pledged support in 2013 via TerraMar Project",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_030",
+      "name": "Ellmax",
+      "org_type": "global consulting firm",
+      "description": "Led private equity deals",
+      "relationship": "president",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_031",
+      "name": "Cohen and Gresser",
+      "org_type": "law firm",
+      "relationship": "legal representation (via Brett Jaffe, 2009)",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_032",
+      "name": "United Nations",
+      "aliases": [
+        "UN"
+      ],
+      "org_type": "international organization",
+      "relationship": "TerraMar Project collaborated on 2015 Sustainable Development Goals",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    }
+  ],
+  "locations": [
+    {
+      "entity_id": "location_014",
+      "name": "New York City",
+      "location_type": "city",
+      "state": "New York",
+      "country": "USA",
+      "relationship": "moved here 1992 after father's death, where she met Epstein"
+    },
+    {
+      "entity_id": "location_015",
+      "name": "England",
+      "location_type": "country",
+      "relationship": "citizenship (UK citizen)"
+    },
+    {
+      "entity_id": "location_016",
+      "name": "Rhinebeck",
+      "location_type": "city",
+      "state": "New York",
+      "country": "USA",
+      "description": "Location of Chelsea Clinton's wedding July 31, 2010"
+    }
+  ],
+  "legal_cases": [
+    {
+      "entity_id": "legal_013",
+      "case_name": "Deposition summons (first)",
+      "filed_date": "2009-09-21",
+      "description": "Ghislaine first served for deposition, failed to appear",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_014",
+      "case_name": "Deposition summons (rescheduled)",
+      "filed_date": "2010-06-30",
+      "description": "Rescheduled deposition. Day before, lawyer said Maxwell flying to England for ill mother, no intention of returning to US",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_015",
+      "case_name": "Virginia L Giuffre vs. Ghislaine Maxwell",
+      "filed_date": "2015-09-21",
+      "description": "Defamation lawsuit filed by Virginia Roberts Giuffre after Maxwell called accusations 'all lies'. Suit still ongoing as of document date.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    }
+  ],
+  "events": [
+    {
+      "entity_id": "event_029",
+      "name": "Born",
+      "event_date": "1961",
+      "description": "Born Ghislaine Noelle Maxwell, youngest child of Robert and Elisabeth Maxwell",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_030",
+      "name": "Graduated Oxford",
+      "event_date": "1984",
+      "location": "location_015",
+      "description": "Graduated Oxford University with B.A. – M.A.",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_031",
+      "name": "Father's death",
+      "event_date": "1991-11-05",
+      "description": "Father Robert Maxwell died, rumored she was destitute afterwards",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_032",
+      "name": "Moved to NYC, met Epstein",
+      "event_date": "1992",
+      "location": "location_014",
+      "description": "Moved to New York City where she met Jeffrey Epstein",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_033",
+      "name": "Began procuring for Epstein",
+      "event_date": "mid-1990s",
+      "description": "Had been helping Epstein scout and procure girls since mid-nineties",
+      "confidence": 0.7,
+      "date_confidence": 0.5,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_034",
+      "name": "Failed to appear for deposition",
+      "event_date": "2009-09-21",
+      "description": "First served for deposition, failed to appear",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_035",
+      "name": "Avoided deposition, fled to England",
+      "event_date": "2010-06-29",
+      "description": "Day before rescheduled deposition, lawyer said flying to England for ill mother, no intention to return to US",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_036",
+      "name": "Attended Chelsea Clinton wedding",
+      "event_date": "2010-07-31",
+      "location": "location_016",
+      "description": "Photographed by OK magazine at Chelsea Clinton's wedding in Rhinebeck NY (one month after claiming no intention to return to US)",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_037",
+      "name": "Founded TerraMar Project",
+      "event_date": "2012",
+      "description": "Founded ocean conservation non-profit",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_038",
+      "name": "Pledged Clinton Global Initiative support",
+      "event_date": "2013",
+      "description": "Pledged to support Clinton Global Initiative with TerraMar Project",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_039",
+      "name": "Made public statement",
+      "event_date": "unknown",
+      "description": "Made public statement calling accusations against her 'all lies'",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_040",
+      "name": "Sued for defamation",
+      "event_date": "2015-09-21",
+      "description": "Virginia Roberts Giuffre sued her for defamation",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    }
+  ],
+  "extracted_stats": {
+    "persons": 7,
+    "organizations": 6,
+    "locations": 3,
+    "legal_cases": 3,
+    "events": 12,
+    "total_entities": 31
+  },
+  "notes": [
+    "Profile emphasizes Maxwell's avoidance of legal proceedings and continued social connections despite accusations",
+    "TerraMar Project timing (2012 founding, Clinton Initiative 2013) notable given ongoing legal issues",
+    "Wedding attendance (July 2010) one month after claiming permanent departure from US shows continued US presence"
+  ]
+}

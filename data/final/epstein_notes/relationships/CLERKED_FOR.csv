@@ -1,0 +1,3 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_156,person_156a,CLERKED_FOR,,0.3,,Speculative
+person_150,person_158b,CLERKED_FOR,,0.7,Spitzer served as one of Sweet's law clerks,Unverified

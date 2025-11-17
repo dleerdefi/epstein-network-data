@@ -1,0 +1,82 @@
+{
+  "phase": "1 - Citation Parsing",
+  "timestamp": "2025-11-14T17:34:23.200767",
+  "status": "success",
+  "summary": {
+    "citations_extracted": 74,
+    "citations_expected": 74,
+    "match": true
+  },
+  "validation_results": {
+    "total_citations": 74,
+    "valid_urls": 74,
+    "url_validation": {
+      "all_start_with_http": true
+    },
+    "source_type_distribution": {
+      "primary": 23,
+      "tertiary": 46,
+      "secondary": 5
+    },
+    "reliability_scores": {
+      "avg": 0.8067567567567573,
+      "min": 0.7,
+      "max": 1.0
+    },
+    "accessed_dates": {
+      "unique_dates": 1,
+      "standard_date": "November 12, 2025",
+      "all_match": true
+    }
+  },
+  "sample_citations": {
+    "first_3": [
+      {
+        "citation_id": "1",
+        "title": "Epstein Research",
+        "url": "https://ia600705.us.archive.org/21/items/epsteindocs/m3%23Epstein%20Notes%20-%20416214831-Jeff-Epstein-Notes-pdf.pdf",
+        "source_type": "primary",
+        "reliability_score": 1.0
+      },
+      {
+        "citation_id": "2",
+        "title": "Jeffrey Epstein \\- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jeffrey_Epstein",
+        "source_type": "tertiary",
+        "reliability_score": 0.7
+      },
+      {
+        "citation_id": "3",
+        "title": "Jeffrey Epstein | Death, Island, List, Sex Crimes, & Facts | Britannica",
+        "url": "https://www.britannica.com/biography/Jeffrey-Epstein",
+        "source_type": "tertiary",
+        "reliability_score": 0.7
+      }
+    ],
+    "last_3": [
+      {
+        "citation_id": "72",
+        "title": "United States v. Epstein, 27 F. Supp. 2d 404 (S.D.N.Y. 1998\\) \\- Justia Law",
+        "url": "https://law.justia.com/cases/federal/district-courts/FSupp2/27/404/2346291/",
+        "source_type": "primary",
+        "reliability_score": 1.0
+      },
+      {
+        "citation_id": "73",
+        "title": "1 primary Jeffrey Edward Epstein b 1953 has one brother Mark, mother, Paula. Member of the Trilateral Commission and CFR. He was",
+        "url": "https://ia600705.us.archive.org/21/items/epsteindocs/m3%23Epstein%20Notes%20-%20416214831-Jeff-Epstein-Notes-pdf.pdf",
+        "source_type": "tertiary",
+        "reliability_score": 0.7
+      },
+      {
+        "citation_id": "74",
+        "title": "Nadia Marcinko \\- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nadia_Marcinko",
+        "source_type": "tertiary",
+        "reliability_score": 0.7
+      }
+    ]
+  },
+  "issues_found": [],
+  "warnings": []
+}

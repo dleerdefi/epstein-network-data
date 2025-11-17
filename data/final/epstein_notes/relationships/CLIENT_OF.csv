@@ -1,0 +1,7 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_066,person_151a,CLIENT_OF,,,0.7,,Unverified
+person_162,person_162a,CLIENT_OF,,,0.3,victim,Speculative
+person_163,person_162a,CLIENT_OF,,,0.3,victim,Speculative
+person_135,person_005,CLIENT_OF,,8,1.0,Financial client relationship. Wexner was client at Meister's insurance firm,Factual
+person_001,person_003,CLIENT_OF,false,8,1.0,"Financial service. Epstein became Wexner's money manager, met at Bear Stearns. In 1991 Wexner made Epstein trustee of Ohio Higher Education Trust ($230M)",Factual
+person_061,person_061d,CLIENT_OF,,,0.7,Dershowitz served as counsel to British law firm appealing his conviction,Unverified

@@ -1,0 +1,4 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_131,org_002,CEO_OF,2,0.64,,Unverified
+person_004,org_002,CEO_OF,2,0.64,CEO role,Unverified
+person_024,org_090,CEO_OF,21;23;24,0.733,CEO position,Unverified

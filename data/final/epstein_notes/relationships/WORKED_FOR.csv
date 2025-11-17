@@ -1,0 +1,19 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_024,org_090,WORKED_FOR,,21;23;24,0.733,Chief executive role,Unverified
+person_091,person_001,WORKED_FOR,,,0.8,"Procurer and co-conspirator for Epstein, met around 2004",Unverified
+person_094,person_001,WORKED_FOR,,,0.8,"Assistant and co-conspirator, organized daily massage rituals, worked late 2004+",Unverified
+person_096,person_001,WORKED_FOR,,,0.9,House manager for Jeffrey Epstein,Factual
+person_203,person_001,WORKED_FOR,,,0.8,"JE California 'massage' girl, traveled on Lolita Express",Unverified
+person_206,person_001,WORKED_FOR,,,0.8,Recruiter for Epstein,Unverified
+person_064,person_064c,WORKED_FOR,,,0.7,,Unverified
+person_003,person_056,WORKED_FOR,false,,0.7,"Employment relationship. Sold 200,000 Limited shares in March for $9.2M, holds 4.76M shares worth $199M",Unverified
+person_066,person_151b,WORKED_FOR,,,0.3,Hired by Boies' firm,Speculative
+person_134,person_134a,WORKED_FOR,,,0.3,,Speculative
+person_148,person_148a,WORKED_FOR,,,0.3,,Speculative
+person_157,person_157a,WORKED_FOR,,,0.7,,Unverified
+person_067,person_001,WORKED_FOR,false,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Employment relationship. Began working for Epstein circa 1990 when she was minor. Personal assistant and co-conspirator.,Factual
+person_001,person_010,WORKED_FOR,false,8;9,0.95,Employment. Greenberg brought Epstein on as money manager at Bear Stearns in 1976,Factual
+person_136,person_136a,WORKED_FOR,,,0.7,"Employment. Appointed Briatore director of Benetton US operations, later promoted to F1 manager",Unverified
+person_131,person_004,WORKED_FOR,,8;9,0.95,"Greenberg hired Cayne as stockbroker, met while playing bridge",Factual
+person_153,person_061,WORKED_FOR,,,0.7,Called in to mediate in suits against Edwards and Cassell,Unverified
+person_150,person_158a,WORKED_FOR,,,0.7,"Employment. Roomed together at Yale Law School, Sweet served as deputy mayor under Lindsay 1966-1969",Unverified

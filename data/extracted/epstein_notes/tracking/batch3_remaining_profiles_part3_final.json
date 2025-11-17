@@ -1,0 +1,2000 @@
+{
+  "batch_name": "Batch 3 Part 3: Companies, Misc Entities, Black Book Names, Journalists - NORMALIZED",
+  "source_lines": "254-600",
+  "extraction_date": "2025-11-14",
+  "normalization_date": "2025-11-14",
+  "normalization_note": "Normalized structure: journalists array converted to person profiles, black book names converted to person nodes with IN_BLACK_BOOK relationships, aircraft converted to equipment nodes",
+  "note": "Final section includes JE companies, misc associates, black book names (circled by Alfredo Rodriguez), journalists, and detailed narratives",
+  "companies_foundations": [
+    {
+      "entity_id": "org_084",
+      "name": "JEGE Inc",
+      "location": "Wilmington Delaware, 103 Foulk Road"
+    },
+    {
+      "entity_id": "org_085",
+      "name": "Hyperion Air"
+    },
+    {
+      "entity_id": "org_086",
+      "name": "Enhanced Education",
+      "location": "USVI"
+    },
+    {
+      "entity_id": "org_087",
+      "name": "Florida Science Foundation",
+      "founded": 2007
+    },
+    {
+      "entity_id": "org_088",
+      "name": "LSJ, LLC"
+    },
+    {
+      "entity_id": "org_089",
+      "name": "NES, LLC",
+      "note": "Pays pilot Larry Visoski"
+    },
+    {
+      "entity_id": "org_090",
+      "name": "C.O.U.Q. Foundation",
+      "note": "$90k donation to PBPD 2006, $25k to Clinton Foundation July 18 2006",
+      "location": "885 Second Ave NYC"
+    },
+    {
+      "entity_id": "org_091",
+      "name": "Caremi Partners"
+    },
+    {
+      "entity_id": "org_092",
+      "name": "Nine East 71st Street Corp"
+    },
+    {
+      "entity_id": "org_093",
+      "name": "Zorro Development Corp",
+      "note": "Used to buy Zorro Ranch"
+    },
+    {
+      "entity_id": "org_094",
+      "name": "LAW Plantation Management Co"
+    },
+    {
+      "entity_id": "org_095",
+      "name": "Epstein Interests"
+    },
+    {
+      "entity_id": "org_096",
+      "name": "Wexner Investment Group"
+    },
+    {
+      "entity_id": "org_097",
+      "name": "J. Epstein Trust Co",
+      "founded": 1982,
+      "location": "New York"
+    },
+    {
+      "entity_id": "org_098",
+      "name": "J. Epstein & Co",
+      "founded": 1982,
+      "note": "Later changed to Financial Trust Co"
+    },
+    {
+      "entity_id": "org_020",
+      "name": "Financial Trust Co",
+      "location": "USVI",
+      "note": "Defrauded by Matthew Tannin and Ralph Cioffi (Bear Stearns) 2008"
+    },
+    {
+      "entity_id": "org_099",
+      "name": "Jeffrey Epstein VI Foundation",
+      "founded": 2000
+    },
+    {
+      "entity_id": "org_100",
+      "name": "Wexner Children's Trust II"
+    }
+  ],
+  "key_misc_profiles": [
+    {
+      "entity_id": "person_009",
+      "name": "Xenophon A. Galinas",
+      "occupations": [
+        "businessman",
+        "ship building"
+      ],
+      "summary": "Negotiated lease on former Iranian consulate townhouse 34 E 69th St March 1996. Proposed arrangement included Epstein payment of $100k for improvements. Career in ship building with General Dynamics. Director: FreeSeas Inc, Manhattan Maritime Enterprises, ASA Holdings, Williston SA, Benzopetrol SA. Education: BS University of Surrey, MS Marine Engineering U Michigan, MBA Finance NYU.",
+      "entity_count": 12,
+      "relationships": []
+    },
+    {
+      "entity_id": "person_152",
+      "name": "Katie Johnson",
+      "summary": "Filed suit against JE and Donald Trump April 26 2016 for sexual abuse in 1994 when she was 13 years old",
+      "entity_count": 3,
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "ABUSED_BY",
+          "context": "Filed suit April 26 2016 for sexual abuse in 1994 when she was 13",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        },
+        {
+          "entity_id": "person_ref_donald_trump",
+          "name": "Donald Trump",
+          "type": "ABUSED_BY",
+          "context": "Filed suit April 26 2016 for sexual abuse in 1994 when she was 13",
+          "confidence": 0.7,
+          "verification_status": "Unverified",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "entity_id": "person_153",
+      "name": "Vlad Doronin",
+      "birth_year": 1962,
+      "summary": "Allegedly JE's client, boyfriend to Naomi Campbell (Lolita Express passenger). International businessman and real estate developer. 1985 relocated to Geneva then Zug, worked under Marc Rich. Founder/chairman Capital Group Moscow, owner/chairman Aman, chairman/CEO OKO Group.",
+      "entity_count": 10,
+      "relationships": []
+    },
+    {
+      "entity_id": "person_154",
+      "name": "Ralph Cioffi",
+      "summary": "Former Bear Stearns hedge fund manager. Arrested June 19 2008 with Matthew Tannin charged with securities fraud (accused of misleading investors about subprime mortgage market). Epstein lost $57M as 'Major Investor No. 1'. Cioffi never met Epstein at Bear Stearns. Found not guilty Nov 2009, case acquitted.",
+      "entity_count": 8,
+      "relationships": []
+    },
+    {
+      "entity_id": "person_155",
+      "name": "Matthew Tannin",
+      "summary": "Former Bear Stearns hedge fund manager. Arrested with Cioffi June 19 2008 charged securities fraud. Never met Epstein. Found not guilty Nov 2009, case acquitted.",
+      "entity_count": 5,
+      "relationships": []
+    },
+    {
+      "entity_id": "person_156",
+      "name": "Michael Reiter",
+      "occupations": [
+        "Palm Beach Police Chief"
+      ],
+      "summary": "PB Police Chief during JE's arrest. Complained JE received 'unusual treatment'. Lead detective in David Kennedy 1984 drug overdose death. Worked William Kennedy Smith 1991 rape investigation. Master's degree human resource development Palm Beach Atlantic U. FBI National Academy Quantico. Top secret national security clearance.",
+      "entity_count": 10,
+      "relationships": []
+    },
+    {
+      "entity_id": "person_157",
+      "name": "Scott Lipps",
+      "summary": "Next Model Management employee through family connection. 1997 moved to NY, hired by Karin to revamp office. Feuded with JLB, walked out. 2002 started One Management in TriBeCa. 2011 tapped by Courtney Love to be drummer for Hole.",
+      "entity_count": 6,
+      "relationships": []
+    },
+    {
+      "entity_id": "person_158",
+      "name": "Conchita Sarnoff",
+      "summary": "Author of TrafficKing (published May 2016) about sexual abuse of minors, focus on Jeffrey Epstein. Daughter of Pedro Suarez Hernandez (architectural/engineering company Madrid and Miami) and Conchita Priete Suarez of Spain. Grandmother related to Spanish Royal family. Columbia and Yale. Executive Director Alliance to Rescue Victims of Trafficking (ATRVT). 1984 married Daniel Jay Sarnoff (b 1956, grandson of David Sarnoff d 1971), divorced, one daughter Christina.",
+      "entity_count": 12,
+      "relationships": []
+    }
+  ],
+  "journalists": [
+    {
+      "entity_id": "person_159",
+      "name": "Sharon Churcher",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Journalist covering Epstein case",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_160",
+      "name": "Josh Gerstein",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Journalist covering Epstein case",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_161",
+      "name": "Vicky Ward",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Journalist covering Epstein case",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_162",
+      "name": "Vivia Chen",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Journalist covering Epstein case",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_163",
+      "name": "George Rush",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "NYDN journalist - spoke to JE 2009 recorded call",
+      "outlet": "NYDN",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_164",
+      "name": "Wendy Leigh",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Journalist covering Epstein case",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_165",
+      "name": "Michele Dargan",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Journalist covering Epstein case",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_166",
+      "name": "Andrew Marra",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Palm Beach Post journalist covering Epstein case",
+      "outlet": "Palm Beach Post",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_167",
+      "name": "Tim O'Meilia",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Palm Beach Post journalist covering Epstein case",
+      "outlet": "Palm Beach Post",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_168",
+      "name": "Larry Keller",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Palm Beach Post journalist covering Epstein case",
+      "outlet": "Palm Beach Post",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_169",
+      "name": "Elisa Cramer",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Palm Beach Post journalist covering Epstein case",
+      "outlet": "Palm Beach Post",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_170",
+      "name": "Jane Musgrave",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Palm Beach Post journalist covering Epstein case",
+      "outlet": "Palm Beach Post",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_171",
+      "name": "Shannon Donnelly",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "PB Daily News Society journalist covering Epstein case",
+      "outlet": "PB Daily News Society",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_172",
+      "name": "Dan Mangan",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "NY Post journalist covering Epstein case",
+      "outlet": "NY Post",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_173",
+      "name": "Nigel Rosser",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Evening Standard journalist covering Epstein case",
+      "outlet": "Evening Standard",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_174",
+      "name": "Nick Denton",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Gawker journalist covering Epstein case",
+      "outlet": "Gawker",
+      "relationships": []
+    },
+    {
+      "entity_id": "person_175",
+      "name": "Lilach Weissman",
+      "occupations": [
+        "journalist"
+      ],
+      "summary": "Jewish Business News journalist covering Epstein case",
+      "outlet": "Jewish Business News",
+      "relationships": []
+    }
+  ],
+  "black_book_circled": [
+    {
+      "entity_id": "person_blackbook_circled_001",
+      "name": "Flavio Briatore",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_002",
+      "name": "Jean Luc Brunel",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "canonical_ref": "person_011",
+      "note": "This is Jean-Luc Brunel who already has full profile as person_011",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_003",
+      "name": "Courtney Love",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_004",
+      "name": "Peter Soros",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_005",
+      "name": "Ghislaine Maxwell",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "canonical_ref": "person_002",
+      "note": "This is Ghislaine Maxwell who already has full profile as person_002",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_006",
+      "name": "Alberto Pinto",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_007",
+      "name": "Ehud Barak",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_008",
+      "name": "Alan Dershowitz",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "canonical_ref": "person_ref_dershowitz",
+      "note": "Alan Dershowitz referenced in multiple profiles",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_009",
+      "name": "Cindy Lopez",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "canonical_ref": "person_076",
+      "note": "This is C.L. / Cindy Lopez who appears in batch2 as person_076",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_010",
+      "name": "Donald Trump",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "canonical_ref": "person_ref_donald_trump",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_011",
+      "name": "Larry Visoski",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_012",
+      "name": "Les Wexner",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "canonical_ref": "person_003",
+      "note": "This is Leslie H. Wexner who already has full profile as person_003",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_013",
+      "name": "Christopher Gaie",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_014",
+      "name": "Bruce King",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_circled_015",
+      "name": "Bill Richardson",
+      "occupations": [
+        "black book contact (circled)"
+      ],
+      "summary": "Listed in Epstein's black book and circled by Alfredo Rodriguez - indicates closer association",
+      "black_book_status": "circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Circled in black book by Alfredo Rodriguez",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": true
+          }
+        }
+      ]
+    }
+  ],
+  "black_book_not_circled": [
+    {
+      "entity_id": "person_blackbook_001",
+      "name": "Alec Baldwin",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_002",
+      "name": "Doug Bands",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_003",
+      "name": "David Blaine",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_004",
+      "name": "Tony Blair",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_005",
+      "name": "Mike Bloomberg",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_006",
+      "name": "Edgar Bronfman Jr",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_007",
+      "name": "Candace Bushnell",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_008",
+      "name": "William Carey",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (William and Carina Carey)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_009",
+      "name": "Carina Carey",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (William and Carina Carey)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_010",
+      "name": "Sophie Dahl",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_011",
+      "name": "Jeff Davies",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_012",
+      "name": "Isabel Goldsmith",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_013",
+      "name": "Barry Josephson",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_014",
+      "name": "Nancy Jarecki",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Nancy and Andrew Jarecki)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_015",
+      "name": "Andrew Jarecki",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Nancy and Andrew Jarecki)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_016",
+      "name": "Nick Jarecki",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_017",
+      "name": "Lal Dalamel",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_018",
+      "name": "Doug Liman",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_019",
+      "name": "Carol Mack",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Carol and Earl Mack)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_020",
+      "name": "Earl Mack",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Carol and Earl Mack)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_021",
+      "name": "Kevin Maxwell",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Kevin & Pandora Maxwell)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_022",
+      "name": "Pandora Maxwell",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Kevin & Pandora Maxwell)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_023",
+      "name": "John Mayhew",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_024",
+      "name": "Todd Meister",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_025",
+      "name": "Joel Pashcow",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_026",
+      "name": "Jessica Rothschild",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_027",
+      "name": "Hannah Rothschild",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_028",
+      "name": "Edouard de Rothschild",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_029",
+      "name": "Evelyn de Rothschild",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_030",
+      "name": "Simon Sebag-Montefiore",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_031",
+      "name": "Bobby Shriver",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_032",
+      "name": "Andrew Solomon",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_033",
+      "name": "Allison Stern",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Allison & Leonard Stern)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_034",
+      "name": "Leonard Stern",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Allison & Leonard Stern)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_035",
+      "name": "Brett Tollman",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_036",
+      "name": "Blaine Trump",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Blaine & Robert Trump)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_037",
+      "name": "Robert Trump",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Blaine & Robert Trump)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_038",
+      "name": "Ivana Trump",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Ivana & Ivanka Trump)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_039",
+      "name": "Ivanka Trump",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Ivana & Ivanka Trump)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_040",
+      "name": "Steve Wynn",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_041",
+      "name": "Andrew Yates",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_042",
+      "name": "Robert Goldberg",
+      "occupations": [
+        "black book contact",
+        "NYPD"
+      ],
+      "summary": "Listed in Epstein's black book (Robert Goldberg NYPD)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_043",
+      "name": "Frederic Adler",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Frederic & Cath Adler)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_044",
+      "name": "Cath Adler",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book (Frederic & Cath Adler)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_045",
+      "name": "Eva Andersson",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_046",
+      "name": "Eileen Guggenheim",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_047",
+      "name": "Walter Isaacson",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_048",
+      "name": "George Mitchell",
+      "occupations": [
+        "black book contact",
+        "Senator"
+      ],
+      "summary": "Listed in Epstein's black book (Sen. George Mitchell)",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_049",
+      "name": "Lesley Wexner",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_050",
+      "name": "Joe Pagano",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_051",
+      "name": "Michael Ovitz",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    },
+    {
+      "entity_id": "person_blackbook_052",
+      "name": "David Rockefeller",
+      "occupations": [
+        "black book contact"
+      ],
+      "summary": "Listed in Epstein's black book",
+      "black_book_status": "not_circled",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "IN_BLACK_BOOK",
+          "context": "Listed in Epstein's black book",
+          "confidence": 0.8,
+          "verification_status": "Factual",
+          "citations": [],
+          "properties": {
+            "circled": false
+          }
+        }
+      ]
+    }
+  ],
+  "aircraft": [
+    {
+      "equipment_id": "equipment_001",
+      "name": "Gulfstream II-B",
+      "tail_number": "N909JE",
+      "note": "Spotted at Paris Le Borguet Airport frequently",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "OWNED_BY",
+          "context": "Aircraft owned by Jeffrey Epstein",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "equipment_id": "equipment_002",
+      "name": "Boeing 727",
+      "tail_number": "N908JE",
+      "note": "The 'Lolita Express'",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "OWNED_BY",
+          "context": "Aircraft owned by Jeffrey Epstein - nicknamed 'Lolita Express'",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "equipment_id": "equipment_003",
+      "name": "Sikorsky S-76B helicopter",
+      "note": "Flying between Palm Beach International and Fort Lauderdale Executive",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "OWNED_BY",
+          "context": "Helicopter owned by Jeffrey Epstein",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "equipment_id": "equipment_004",
+      "name": "Cessna 172-XP",
+      "note": "Flights to/from Double Eagle II Airport Albuquerque",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "OWNED_BY",
+          "context": "Aircraft owned by Jeffrey Epstein",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        }
+      ]
+    },
+    {
+      "equipment_id": "equipment_005",
+      "name": "Hawker",
+      "note": "Bought 1991",
+      "relationships": [
+        {
+          "entity_id": "person_001",
+          "name": "Jeffrey Epstein",
+          "type": "OWNED_BY",
+          "context": "Aircraft bought 1991 by Jeffrey Epstein",
+          "confidence": 0.9,
+          "verification_status": "Factual",
+          "citations": []
+        }
+      ]
+    }
+  ],
+  "batch_totals": {
+    "companies_foundations": 18,
+    "key_misc_profiles": 8,
+    "journalists": 17,
+    "black_book_circled": 15,
+    "black_book_not_circled": 52,
+    "aircraft": 5,
+    "total_person_nodes_created": 92,
+    "total_relationships_created": 74
+  },
+  "document_completion_note": "This completes extraction of Jeffrey Epstein Research.md (600 lines). Total extraction spans Batch 1-3 covering all profiles from detailed core figures to brief mentions and black book entries. All black book names and journalists have been normalized to person nodes with explicit relationship arrays for CSV generation."
+}

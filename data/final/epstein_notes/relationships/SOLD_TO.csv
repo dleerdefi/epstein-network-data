@@ -1,0 +1,4 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_001,person_011,SOLD_TO,false,19;17,0.925,Sold Zorro Ranch in New Mexico to Epstein in 1993,Factual
+person_133,person_001,SOLD_TO,,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,"Land sale transaction. JE bought land from King to build NM ranch, donated to his campaign",Factual
+person_004,person_047,SOLD_TO,false,,0.7,Maxwell bought yacht Lady Ghislaine from Khashoggi's brother,Unverified

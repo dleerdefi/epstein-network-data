@@ -1,0 +1,6 @@
+equipment_id:ID,:LABEL,name,tail_number,note,sources:string[]
+equipment_001,Equipment,Gulfstream II-B,N909JE,Spotted at Paris Le Borguet Airport frequently,batch3_remaining_profiles_part3_final.json
+equipment_002,Equipment,Boeing 727,N908JE,The 'Lolita Express',batch3_remaining_profiles_part3_final.json
+equipment_003,Equipment,Sikorsky S-76B helicopter,,Flying between Palm Beach International and Fort Lauderdale Executive,batch3_remaining_profiles_part3_final.json
+equipment_004,Equipment,Cessna 172-XP,,Flights to/from Double Eagle II Airport Albuquerque,batch3_remaining_profiles_part3_final.json
+equipment_005,Equipment,Hawker,,Bought 1991,batch3_remaining_profiles_part3_final.json

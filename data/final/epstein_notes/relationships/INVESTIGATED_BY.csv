@@ -1,0 +1,3 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_146,org_141,INVESTIGATED_BY,,,0.7,"PBPD unsatisfied with Krischer's deal, requested federal investigation",Unverified
+person_004,person_045,INVESTIGATED_BY,false,26,1.0,"During her investigation, former Mossad agent suggested Mossad killed Maxwell",Factual

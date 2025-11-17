@@ -1,0 +1,4 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_007,person_027,ALLEGED_ABUSER,false,66;67,0.2,Roberts claims she was abused by Prince Andrew. First met Easter 2001 per Sjoberg affidavit. Photo exists of Prince with Roberts as minor. Sex act in London affected 'foreign commerce'.,Speculative
+person_007,person_061,ALLEGED_ABUSER,false,,0.7,"Named as abuser in Dec 2014 filing. Dershowitz helped draft NPA. Made motion to strike Roberts' remarks, went on media blitz calling her 'serial liar'. Attempted to sanction her testimony Feb 2015. In 2015 deposition implied she had sex with Bill Clinton (Roberts denies).",Unverified
+person_007,person_011,ALLEGED_ABUSER,false,65,0.733,Roberts told Brad Edwards she was abused by Brunel,Unverified

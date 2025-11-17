@@ -1,0 +1,1207 @@
+{
+  "page_number": 28,
+  "date_header": {
+    "year": 1994,
+    "month": "APR",
+    "full_text": "1994 APR",
+    "confidence": "high",
+    "notes": "April 1994 - continues from March on page 27.'"
+  },
+  "flights": [
+    {
+      "date": {
+        "original": "10-30",
+        "parsed": "1994-10-30",
+        "display": "10/30/1994",
+        "confidence": "high",
+        "notes": "Date appears to be October 30 - out of sequence simulator entry. (flights start on May 26 despite noting April at top of page)"
+      },
+      "aircraft": {
+        "make_model": "G1159",
+        "tail_number": "SIMULATOR",
+        "confidence": "high",
+        "notes": "Simulator"
+      },
+      "route": {
+        "from": "SIMULATOR",
+        "to": "SIMULATOR",
+        "from_codes": [],
+        "to_codes": [],
+        "confidence": "high",
+        "notes": "",
+        "from_expanded": "Flight simulator training",
+        "to_expanded": "Flight simulator training"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "",
+        "confidence": "low"
+      },
+      "remarks": "G1159 TYPE RATING AT FLIGHT SAFETY-SAV",
+      "passengers": [],
+      "landings": {
+        "count": "16",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "0",
+        "glider": "16",
+        "helicopter": "16"
+      }
+    },
+    {
+      "date": {
+        "original": "MAY 26",
+        "parsed": "1994-05-26",
+        "display": "05/26/1994",
+        "confidence": "high",
+        "notes": ""
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MDW",
+        "to": "PBI",
+        "from_codes": [
+          "MDW"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_expanded": "Chicago Midway International Airport, Illinois",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "523",
+        "confidence": "high",
+        "notes": ""
+      },
+      "remarks": "JE, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "2",
+        "helicopter": "2"
+      },
+      "cryptic_notation": {
+        "text": "JEM WORDEN",
+        "position": "right side",
+        "confidence": "high"
+      }
+    },
+    {
+      "date": {
+        "original": "30",
+        "parsed": "1994-05-30",
+        "display": "05/30/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "MDW",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "MDW"
+        ],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Chicago Midway International Airport, Illinois",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "524",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, DAWN DEVITO, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Dawn Devito returns"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "31",
+        "parsed": "1994-05-31",
+        "display": "05/31/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "MDW",
+        "to": "TEB",
+        "from_codes": [
+          "MDW"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_expanded": "Chicago Midway International Airport, Illinois",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "525",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "1",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "JUN 2",
+        "parsed": "1994-06-02",
+        "display": "06/02/1994",
+        "confidence": "high",
+        "notes": "Month change to June"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "SAF",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "SAF"
+        ],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "confidence": "high",
+        "notes": ""
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "526",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, 1 MALE, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 MALE",
+          "code": null,
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "4",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "4",
+        "helicopter": "4"
+      }
+    },
+    {
+      "date": {
+        "original": "3",
+        "parsed": "1994-06-03",
+        "display": "06/03/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAF",
+        "to": "PBI",
+        "from_codes": [
+          "SAF"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_expanded": "Santa Fe Municipal Airport, New Mexico",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "527",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, 1 MALE, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "1 MALE",
+          "code": null,
+          "type": "unidentified",
+          "gender": "male",
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "3",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "3",
+        "helicopter": "3"
+      }
+    },
+    {
+      "date": {
+        "original": "5",
+        "parsed": "1994-06-05",
+        "display": "06/05/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "528",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, DAWN DEVITO, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "7",
+        "parsed": "1994-06-07",
+        "display": "06/07/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "DCA",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "DCA"
+        ],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Ronald Reagan Washington National Airport, DC",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "529",
+        "confidence": "high"
+      },
+      "remarks": "JE, SENATOR GEORGE MITCHELL",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Senator George Mitchell",
+          "code": "SGM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Senator George Mitchell - former Senate Majority Leader, full title and name. Flying to DC."
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "7",
+        "parsed": "1994-06-07",
+        "display": "06/07/1994",
+        "confidence": "high",
+        "notes": "Second flight on 1994-06-07"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "DCA",
+        "to": "TEB",
+        "from_codes": [
+          "DCA"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_expanded": "Ronald Reagan Washington National Airport, DC",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high",
+        "notes": "Return from DC"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "530",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": "Senator Mitchell did not return on this flight"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "8",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "8",
+        "parsed": "1994-06-08",
+        "display": "06/08/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "BOS",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "BOS"
+        ],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Boston Logan International Airport, Massachusetts",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "531",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "8",
+        "parsed": "1994-06-08",
+        "display": "06/08/1994",
+        "confidence": "high",
+        "notes": "Second flight on 1994-06-08"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "BOS",
+        "to": "TEB",
+        "from_codes": [
+          "BOS"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_expanded": "Boston Logan International Airport, Massachusetts",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "532",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "17",
+        "parsed": "1994-06-17",
+        "display": "06/17/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "CMH",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "CMH"
+        ],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "John Glenn Columbus International Airport, Ohio",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "537",
+        "confidence": "medium",
+        "notes": "Skipped flights 533 - 536"
+      },
+      "remarks": "RETURN FROM MAINTENANCE",
+      "passengers": [],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "1",
+        "glider": "1",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "1994-06-18",
+        "display": "06/18/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "CMH",
+        "to": "SAV",
+        "from_codes": [
+          "CMH"
+        ],
+        "to_codes": [
+          "SAV"
+        ],
+        "from_expanded": "Columbus International Airport, Ohio",
+        "to_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "538",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "1",
+        "helicopter": "1"
+      }
+    },
+    {
+      "date": {
+        "original": "18",
+        "parsed": "1994-06-18",
+        "display": "06/18/1994",
+        "confidence": "high",
+        "notes": "Second flight on 1994-06-18"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "SAV",
+        "to": "PBI",
+        "from_codes": [
+          "SAV"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_expanded": "Savannah/Hilton Head International Airport, Georgia",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "539",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "1",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "6",
+        "glider": "1",
+        "helicopter": ""
+      }
+    },
+    {
+      "date": {
+        "original": "20",
+        "parsed": "1994-06-20",
+        "display": "06/20/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "540",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Ghislaine Maxwell",
+          "code": "GM",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "7",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "22",
+        "parsed": "1994-06-22",
+        "display": "06/22/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "TEB",
+        "to": "PBI",
+        "from_codes": [
+          "TEB"
+        ],
+        "to_codes": [
+          "PBI"
+        ],
+        "from_expanded": "Teterboro Airport, New Jersey",
+        "to_expanded": "Palm Beach International Airport, Florida",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "541",
+        "confidence": "high"
+      },
+      "remarks": "JE",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "26",
+        "parsed": "1994-06-26",
+        "display": "06/26/1994",
+        "confidence": "high"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "542",
+        "confidence": "high"
+      },
+      "remarks": "JE, GM, DAWN DEVITO, SOPHIE BIDDLE, SANDY",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Dawn Devito",
+          "code": "DD",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high",
+          "notes": ""
+        },
+        {
+          "name": "Sophie Biddle",
+          "code": "SB",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Sandy",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "4",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    },
+    {
+      "date": {
+        "original": "JUL 27",
+        "parsed": "1994-07-27",
+        "display": "07/27/1994",
+        "confidence": "high",
+        "notes": "Month change to July"
+      },
+      "aircraft": {
+        "make_model": "HS125-700",
+        "tail_number": "N988JE",
+        "confidence": "high"
+      },
+      "route": {
+        "from": "PBI",
+        "to": "TEB",
+        "from_codes": [
+          "PBI"
+        ],
+        "to_codes": [
+          "TEB"
+        ],
+        "from_expanded": "Palm Beach International Airport, Florida",
+        "to_expanded": "Teterboro Airport, New Jersey",
+        "confidence": "high"
+      },
+      "flight_data": {
+        "miles_flown": "",
+        "flight_number": "534",
+        "confidence": "high",
+        "notes": "Skipped flights 543 - 553"
+      },
+      "remarks": "JE, SALINA, JIM WORDEN",
+      "passengers": [
+        {
+          "name": "Jeffrey Epstein",
+          "code": "JE",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Salina",
+          "code": "",
+          "type": "identified",
+          "notable": true,
+          "confidence": "high"
+        },
+        {
+          "name": "Jim Worden",
+          "code": "JW",
+          "type": "pilot",
+          "notable": true,
+          "confidence": "high"
+        }
+      ],
+      "landings": {
+        "count": "2",
+        "confidence": "high"
+      },
+      "aircraft_category": {
+        "airplane": "5",
+        "glider": "2",
+        "helicopter": "2"
+      }
+    }
+  ],
+  "page_totals": {
+    "page_total": {
+      "value": "147",
+      "confidence": "low",
+      "handwritten_variations": [
+        "147",
+        "other corrections visible"
+      ],
+      "notes": "Multiple corrections visible in handwriting"
+    },
+    "amount_forward": {
+      "value": "2506",
+      "confidence": "medium",
+      "handwritten_variations": [
+        "2506",
+        "6146"
+      ],
+      "notes": "Carries forward catastrophic error from page 27. Multiple corrections visible: appears to show 6146 crossed out, corrected to 2506"
+    },
+    "total_to_date": {
+      "value": "2506",
+      "confidence": "low",
+      "handwritten_variations": [
+        "6189",
+        "6146",
+        "4575",
+        "4509",
+        "2506"
+      ],
+      "notes": "EXTENSIVE corrections visible - multiple overwrites: 6189 \u2192 6146 \u2192 4575 \u2192 4509 \u2192 2506. Shows continued attempts to reconcile accumulated calculation errors."
+    },
+    "validation": {
+      "math_check": "fail",
+      "calculation": "147 + 2506 = 2653 (NOT 2506)",
+      "handwritten_match": false,
+      "continuity_check": "fail",
+      "notes": "Math error continues: 147 + 2506 should = 2653, but shows 2506. Additionally, extensive corrections suggest ongoing attempts to fix accumulated errors from previous pages."
+    },
+    "validation_status": "cannot_validate_individual_mileages",
+    "discrepancy_notes": {
+      "issue": "extensive_corrections",
+      "visible_values": [
+        "6189",
+        "6146",
+        "4575",
+        "4509",
+        "2506"
+      ],
+      "detail": "Page Total (147) + Amount Forward (2506) = 2653, but shows 2506",
+      "reason": "Systematic reconciliation attempts visible"
+    }
+  },
+  "pilot_signature": {
+    "present": true,
+    "legible": true,
+    "name": "David Rodgers",
+    "confidence": "high",
+    "notes": "Signature clearly legible - consistent with previous pages"
+  },
+  "page_metadata": {
+    "total_flights": 18,
+    "date_range": {
+      "start": "1994-03-30",
+      "end": "1994-04-27"
+    },
+    "aircraft_used": [
+      "HS125-700 (N988JE)",
+      "G1159 (N901MJ) - one unusual entry"
+    ],
+    "notable_passengers": [
+      "SENATOR GEORGE MITCHELL (CRITICAL - Apr 7 flight to DC)",
+      "Dawn Deveso (multiple appearances)",
+      "Sophie",
+      "Dalin B"
+    ],
+    "recurring_passengers": [
+      "TE (appears 16+ times)",
+      "CM/GM/Ghislaine Maxwell (appears 7 times with varying codes)"
+    ],
+    "cryptic_notations": [
+      "JEM WRIDEN (appears 7 times - dominant notation this page)",
+      "RETURN FROM MEMORANDUM (administrative note)"
+    ],
+    "extraction_quality": "high",
+    "handwriting_legibility": "good",
+    "notes": "CRITICAL PAGE: Senator George Mitchell appears on flight to Washington DC (Apr 7). Page header includes note about document damage 'FIRST PAGE RIPPING AT FLIGHT 5387-SAV'. Invalid date entry (April 31). Honduras travel continues (Apr 2-3). Extensive totals corrections indicate ongoing calculation reconciliation efforts. JEM WRIDEN notation dominates cryptic pattern."
+  },
+  "insights": [
+    "CRITICAL FINDING: Senator George Mitchell flies to Washington DC on April 7 - former Senate Majority Leader (1989-1995), major political figure",
+    "Senator Mitchell did not return on same-day return flight - remained in DC after arrival",
+    "Page header note 'FIRST PAGE RIPPING AT FLIGHT 5387-SAV' indicates physical document damage or administrative issue",
+    "Invalid date entry: 'April 31' appears on page - April only has 30 days, should be May 1 or recording error",
+    "Out-of-sequence dates: March 30 entry appears at top, April 2 appears after April 31, April 27 appears at end",
+    "Honduras travel continues: Apr 2-3 trip (TEB\u2192SAP\u2192PBI) with TE, CM, and unidentified male passenger",
+    "JEM WRIDEN cryptic notation appears 7 times - most frequent notation this page, replaces previous JENA BORKOW pattern",
+    "'RETURN FROM MEMORANDUM' notation on Apr 11 - administrative note, unclear meaning, possibly document reference",
+    "Flight 533 (Apr 11) has extremely high mileage: 1,730 miles for circular TEB route - possible error or long-distance detour",
+    "Dawn Deveso appears 3 times (Apr 30, Apr 5, Apr 26) - continued frequent travel",
+    "Ghislaine Maxwell uses two different codes this page: CM (5 times) and GM (2 times) - inconsistent notation",
+    "Multiple blank mileage fields on Apr 8 flights (531, 532) - data recording gaps",
+    "New passengers this page: Dalin B, Jackie, Sarge - latter two may be nicknames",
+    "Apr 26 remarks include '13' between passenger names - unclear meaning, possibly age or count",
+    "Flight number 534 appears out of sequence on Apr 27 after being skipped earlier - duplicate/correction",
+    "Page totals show EXTENSIVE corrections (5 different values visible: 6189\u21926146\u21924575\u21924509\u21922506) - systematic reconciliation attempts",
+    "Math error persists: 147 + 2506 = 2653, but Total to Date shows 2506 (impossible)"
+  ],
+  "validation": {
+    "date_progression": "invalid",
+    "date_progression_issues": [
+      "March 30 entry appears at page start (should be April)",
+      "April 31 entry - INVALID DATE (April has only 30 days)",
+      "April 2 appears after April 31 - out of sequence",
+      "April 27 appears out of sequence at end"
+    ],
+    "no_time_travel": false,
+    "sequential_dates": false,
+    "month_transition_valid": false,
+    "flight_numbers_sequential": false,
+    "flight_numbers_issues": [
+      "Flight 534-535 skipped then 534 reappears later",
+      "Flights 538-539 skipped"
+    ],
+    "totals_accurate": false,
+    "totals_math_error": "147 + 2506 = 2653, not 2506 (impossible total)",
+    "previous_page_continuity": true,
+    "passenger_consistency": "high",
+    "airport_codes_valid": "partial",
+    "notes": "CRITICAL PAGE for Senator Mitchell connection. Multiple validation issues: invalid date (April 31), out-of-sequence dates, catastrophic totals errors with 5+ correction attempts visible. Document damage noted in header."
+  }
+}

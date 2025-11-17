@@ -1,0 +1,10 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_011,person_029,MODEL_REPRESENTED,false,,0.7,Model who went on to successful career via Karin/MC2,Unverified
+person_011,person_030,MODEL_REPRESENTED,false,,0.7,Model who went on to successful career via MC2,Unverified
+person_011,person_031,MODEL_REPRESENTED,false,,0.3,,Speculative
+person_011,person_032,MODEL_REPRESENTED,false,,0.3,,Speculative
+person_011,person_034,MODEL_REPRESENTED,false,,0.3,MC2 model,Speculative
+person_011,person_035,MODEL_REPRESENTED,false,,0.3,MC2 model,Speculative
+person_011,person_036,MODEL_REPRESENTED,false,,0.3,MC2 model,Speculative
+person_011,person_037,MODEL_REPRESENTED,false,,0.3,MC2 model,Speculative
+person_011,person_038,MODEL_REPRESENTED,false,,0.3,MC2 model,Speculative

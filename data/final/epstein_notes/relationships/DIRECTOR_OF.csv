@@ -1,0 +1,3 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_146,org_142,DIRECTOR_OF,,0.3,,Speculative
+person_004,org_084,DIRECTOR_OF,,0.3,,Speculative

@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "created": "2025-11-14",
+    "purpose": "Standardize relationship types for Neo4j GraphRAG ingestion",
+    "total_relationship_types": 28,
+    "neo4j_compatibility": "All labels uppercase with underscores per Neo4j conventions"
+  },
+
+  "relationship_types": {
+    "WORKED_AT": {
+      "neo4j_label": "WORKED_AT",
+      "category": "employment",
+      "variations": [
+        "worked at",
+        "employed by",
+        "worked for",
+        "employee",
+        "worked as",
+        "position at"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "position": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "MANAGED_MONEY_FOR": {
+      "neo4j_label": "MANAGED_MONEY_FOR",
+      "category": "financial",
+      "variations": [
+        "money manager",
+        "managed money",
+        "financial manager",
+        "managed funds for",
+        "money management"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "CEO_OF": {
+      "neo4j_label": "CEO_OF",
+      "category": "leadership",
+      "variations": [
+        "CEO",
+        "chief executive officer",
+        "CEO of"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "CHAIRMAN_OF": {
+      "neo4j_label": "CHAIRMAN_OF",
+      "category": "leadership",
+      "variations": [
+        "chairman",
+        "chairman of",
+        "chairman of the board",
+        "board chairman"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "DIRECTOR_OF": {
+      "neo4j_label": "DIRECTOR_OF",
+      "category": "leadership",
+      "variations": [
+        "director",
+        "board member",
+        "director of",
+        "non-executive director"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "ABUSED": {
+      "neo4j_label": "ABUSED",
+      "category": "criminal",
+      "variations": [
+        "abuser",
+        "assaulted",
+        "raped",
+        "sexually abused",
+        "molested",
+        "sexually assaulted",
+        "victimized"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "verification_status": "string",
+        "confidence": "float",
+        "citations": "string[]"
+      }
+    },
+
+    "RECRUITED": {
+      "neo4j_label": "RECRUITED",
+      "category": "trafficking",
+      "variations": [
+        "recruiter",
+        "procurer",
+        "recruited by",
+        "procured",
+        "brought in by"
+      ],
+      "properties": {
+        "year": "int",
+        "context": "string",
+        "verification_status": "string",
+        "confidence": "float"
+      }
+    },
+
+    "REPRESENTED": {
+      "neo4j_label": "REPRESENTED",
+      "category": "legal",
+      "variations": [
+        "attorney",
+        "lawyer for",
+        "represented",
+        "legal counsel",
+        "attorney for",
+        "defended"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "case_name": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "PROSECUTED": {
+      "neo4j_label": "PROSECUTED",
+      "category": "legal",
+      "variations": [
+        "prosecutor",
+        "prosecuted",
+        "US Attorney",
+        "AUSA"
+      ],
+      "properties": {
+        "year": "int",
+        "case_name": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "JUDGED": {
+      "neo4j_label": "JUDGED",
+      "category": "legal",
+      "variations": [
+        "judge",
+        "presided over",
+        "ruled on"
+      ],
+      "properties": {
+        "year": "int",
+        "case_name": "string",
+        "ruling": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "TRAVELED_WITH": {
+      "neo4j_label": "TRAVELED_WITH",
+      "category": "association",
+      "variations": [
+        "flew with",
+        "traveled with",
+        "flight with",
+        "accompanied"
+      ],
+      "properties": {
+        "date": "string",
+        "flight_number": "string",
+        "route": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "ASSOCIATED_WITH": {
+      "neo4j_label": "ASSOCIATED_WITH",
+      "category": "association",
+      "variations": [
+        "associate",
+        "friend",
+        "companion",
+        "business associate",
+        "connection",
+        "affiliated with"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "MARRIED_TO": {
+      "neo4j_label": "MARRIED_TO",
+      "category": "family",
+      "variations": [
+        "wife",
+        "husband",
+        "married",
+        "spouse"
+      ],
+      "properties": {
+        "marriage_year": "int",
+        "divorce_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "PARENT_OF": {
+      "neo4j_label": "PARENT_OF",
+      "category": "family",
+      "variations": [
+        "father",
+        "mother",
+        "parent",
+        "son",
+        "daughter",
+        "child"
+      ],
+      "properties": {
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "SIBLING_OF": {
+      "neo4j_label": "SIBLING_OF",
+      "category": "family",
+      "variations": [
+        "brother",
+        "sister",
+        "sibling"
+      ],
+      "properties": {
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "FOUNDED": {
+      "neo4j_label": "FOUNDED",
+      "category": "organizational",
+      "variations": [
+        "founder",
+        "founded",
+        "established",
+        "created"
+      ],
+      "properties": {
+        "year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "OWNS": {
+      "neo4j_label": "OWNS",
+      "category": "financial",
+      "variations": [
+        "owner",
+        "owns",
+        "owned",
+        "proprietor"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "percentage": "float",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "INVESTED_IN": {
+      "neo4j_label": "INVESTED_IN",
+      "category": "financial",
+      "variations": [
+        "investor",
+        "invested in",
+        "investment in",
+        "backed"
+      ],
+      "properties": {
+        "year": "int",
+        "amount": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "HIRED": {
+      "neo4j_label": "HIRED",
+      "category": "employment",
+      "variations": [
+        "hired",
+        "brought on",
+        "recruited to"
+      ],
+      "properties": {
+        "year": "int",
+        "position": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "SUED": {
+      "neo4j_label": "SUED",
+      "category": "legal",
+      "variations": [
+        "sued",
+        "plaintiff",
+        "filed suit against"
+      ],
+      "properties": {
+        "year": "int",
+        "case_name": "string",
+        "case_number": "string",
+        "outcome": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "VISITED": {
+      "neo4j_label": "VISITED",
+      "category": "association",
+      "variations": [
+        "visited",
+        "visited in jail",
+        "met with"
+      ],
+      "properties": {
+        "date": "string",
+        "location": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "DEPOSED": {
+      "neo4j_label": "DEPOSED",
+      "category": "legal",
+      "variations": [
+        "deposed",
+        "deposition",
+        "testified"
+      ],
+      "properties": {
+        "date": "string",
+        "case_name": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "INVOKED_FIFTH_AMENDMENT": {
+      "neo4j_label": "INVOKED_FIFTH_AMENDMENT",
+      "category": "legal",
+      "variations": [
+        "invoked fifth amendment",
+        "pled the fifth",
+        "refused to testify"
+      ],
+      "properties": {
+        "date": "string",
+        "case_name": "string",
+        "question_topic": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "TUTORED": {
+      "neo4j_label": "TUTORED",
+      "category": "education",
+      "variations": [
+        "tutored",
+        "tutor",
+        "taught"
+      ],
+      "properties": {
+        "year": "int",
+        "subject": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "RESIDED_AT": {
+      "neo4j_label": "RESIDED_AT",
+      "category": "location",
+      "variations": [
+        "residence",
+        "lived at",
+        "resided at",
+        "address"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "MEMBER_OF": {
+      "neo4j_label": "MEMBER_OF",
+      "category": "organizational",
+      "variations": [
+        "member",
+        "membership",
+        "belongs to"
+      ],
+      "properties": {
+        "start_year": "int",
+        "end_year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "INTRODUCED": {
+      "neo4j_label": "INTRODUCED",
+      "category": "association",
+      "variations": [
+        "introduced",
+        "introduced by",
+        "connected"
+      ],
+      "properties": {
+        "year": "int",
+        "context": "string",
+        "confidence": "float"
+      }
+    },
+
+    "NEGOTIATED": {
+      "neo4j_label": "NEGOTIATED",
+      "category": "legal",
+      "variations": [
+        "negotiated",
+        "brokered",
+        "mediated"
+      ],
+      "properties": {
+        "year": "int",
+        "agreement": "string",
+        "context": "string",
+        "confidence": "float"
+      }
+    }
+  },
+
+  "confidence_scoring_guide": {
+    "1.0_court_records": "Court documents, sworn testimony, official records",
+    "0.9_multiple_sources": "Multiple corroborating reliable sources",
+    "0.8_verified_reporting": "Single verified journalistic source",
+    "0.7_documented_claim": "Documented but unverified claim (default for factual extraction)",
+    "0.5_according_to": "'According to X' single-source claims",
+    "0.3_speculative": "Allegedly, rumored, unconfirmed",
+    "0.1_contested": "Directly disputed or contested claims"
+  },
+
+  "usage_instructions": {
+    "step1_identify": "Identify relationship description in source JSON",
+    "step2_match": "Match to variations array to find correct neo4j_label",
+    "step3_standardize": "Replace with neo4j_label in uppercase",
+    "step4_properties": "Add required properties (year, context, confidence)",
+    "step5_validate": "Ensure all relationships use standardized labels"
+  },
+
+  "neo4j_csv_format": {
+    "example": ":START_ID,:END_ID,:TYPE,start_year:int,end_year:int,context,confidence:float,verification_status",
+    "note": ":TYPE column must contain neo4j_label from this vocabulary"
+  }
+}

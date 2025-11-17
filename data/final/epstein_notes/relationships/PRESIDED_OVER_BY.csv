@@ -1,0 +1,7 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_150,person_061a,PRESIDED_OVER_BY,47;48;53,1.0,,Factual
+person_150,person_027,PRESIDED_OVER_BY,66;67,0.2,,Speculative
+person_150,person_007,PRESIDED_OVER_BY,47;48;53,1.0,,Factual
+person_150,person_001,PRESIDED_OVER_BY,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,,Factual
+person_147,person_001,PRESIDED_OVER_BY,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,Made favorable rulings for JE against victims and their attorneys,Factual
+person_155,person_001,PRESIDED_OVER_BY,5;20;24;27;7;16;29;47;28;35;26;19;34;65;6;38;21;32;44;30;40;9;2;39;67;51;33;45;66;63;41;68;61;43;10,0.87,,Factual

@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_150,person_158e,CAMPAIGN_MANAGED_FOR,,0.7,on same ticket as mayoral candidate Louis Lefkowitz,Unverified

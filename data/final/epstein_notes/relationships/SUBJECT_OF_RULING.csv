@@ -1,0 +1,4 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_147,person_015,SUBJECT_OF_RULING,63;41;61;43;44,1.0,Ruled no legal basis for Edwards' claims of abuse of process and malicious prosecution,Factual
+person_155,person_061a,SUBJECT_OF_RULING,47;48;53,1.0,Ruled Roberts' allegations against Prince Andrew should be struck from record,Factual
+person_155,person_155a,SUBJECT_OF_RULING,66;67,0.2,Allegations by Roberts against Prince Andrew struck from record,Speculative

@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_061,person_061c,EVENT_ORGANIZER,,0.7,Dinner chairman who cancelled Dershowitz's keynote after learning of al-Megrahi representation,Unverified

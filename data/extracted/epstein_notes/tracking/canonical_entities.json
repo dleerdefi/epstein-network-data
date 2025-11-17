@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "created": "2025-11-14",
+    "purpose": "Canonical entity resolution - maps all entity variations to single authoritative ID",
+    "total_canonical_entities": 183,
+    "deduplication_applied": true,
+    "entity_id_format": "person_XXX, org_XXX, location_XXX, legal_XXX"
+  },
+
+  "persons": {
+    "JEFFREY_EDWARD_EPSTEIN": {
+      "canonical_id": "person_001",
+      "canonical_name": "Jeffrey Edward Epstein",
+      "aliases": ["JE", "Jeffrey Epstein", "Epstein", "Jeffrey E. Epstein"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "mentioned_in_batches": ["ALL"],
+      "verification_claims": ["1.1.1", "1.1.2", "1.1.3", "1.1.4", "1.1.5", "1.1.7", "1.1.9", "1.1.11", "2.1.1", "2.1.2", "2.2.1", "2.2.2", "2.3.1", "2.4.1", "3.1.1", "3.2.1", "4.1.1", "5.1.1"]
+    },
+    "GHISLAINE_NOELLE_MAXWELL": {
+      "canonical_id": "person_002",
+      "canonical_name": "Ghislaine Noelle Maxwell",
+      "aliases": ["Ghislaine Maxwell", "GM", "Maxwell", "Ghislaine"],
+      "appears_in_batches": ["batch1_ghislaine_maxwell_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch1_virginia_giuffre_extraction.json", "batch2_victims_procurers_extraction.json"],
+      "verification_claims": ["1.2.1", "1.2.2", "1.2.3", "1.2.4", "1.2.5", "1.2.6", "5.2.1", "5.3.1"]
+    },
+    "LESLIE_H_WEXNER": {
+      "canonical_id": "person_003",
+      "canonical_name": "Leslie H. Wexner",
+      "aliases": ["Les Wexner", "Leslie Wexner", "LES WEXNER"],
+      "appears_in_batches": ["batch1_leslie_wexner_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch3_remaining_profiles_part1.json"],
+      "verification_claims": ["1.3.1", "1.3.2"]
+    },
+    "ROBERT_MAXWELL": {
+      "canonical_id": "person_004",
+      "canonical_name": "Ian Robert Maxwell",
+      "aliases": ["Robert Maxwell", "Ian Robert Maxwell"],
+      "appears_in_batches": ["batch1_robert_maxwell_extraction.json"],
+      "mentioned_in_batches": ["batch1_ghislaine_maxwell_extraction.json"]
+    },
+    "ELISABETH_MAXWELL": {
+      "canonical_id": "person_005",
+      "canonical_name": "Elisabeth Maxwell",
+      "aliases": ["Betty Maxwell", "Elisabeth 'Betty' Maxwell"],
+      "appears_in_batches": ["batch1_robert_maxwell_extraction.json"],
+      "mentioned_in_batches": ["batch1_ghislaine_maxwell_extraction.json"],
+      "verification_claims": ["1.2.2"]
+    },
+    "VIRGINIA_LOUISE_ROBERTS_GIUFFRE": {
+      "canonical_id": "person_007",
+      "canonical_name": "Virginia Louise Roberts Giuffre",
+      "aliases": ["Virginia Roberts", "Virginia Giuffre", "VA Roberts", "Jane Doe #3", "Jane Doe 3"],
+      "appears_in_batches": ["batch1_virginia_giuffre_extraction.json"],
+      "mentioned_in_batches": ["batch1_ghislaine_maxwell_extraction.json", "batch2_victims_procurers_extraction.json", "batch3_part2_FULL_extraction.json"],
+      "verification_claims": ["5.2.1", "5.2.2"]
+    },
+    "JEAN_LUC_BRUNEL": {
+      "canonical_id": "person_011",
+      "canonical_name": "Jean-Luc Brunel",
+      "aliases": ["Jean Luc Brunel", "JLB", "Jeanluc Brunelle"],
+      "appears_in_batches": ["batch1_jean_luc_brunel_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch1_virginia_giuffre_extraction.json"],
+      "verification_claims": ["1.4.1", "1.4.2"]
+    },
+    "NADIA_MARCINKOVA": {
+      "canonical_id": "person_073",
+      "canonical_name": "Nadia Marcinkova",
+      "aliases": ["Nadia Marcinko", "Nada Marcinkova", "Global Girl", "Nadia/Nada Marcinkova"],
+      "appears_in_batches": ["batch2_victims_procurers_extraction.json"],
+      "mentioned_in_batches": ["batch1_virginia_giuffre_extraction.json", "supplemental_victim_extraction.json"],
+      "verification_claims": ["5.3.1", "5.3.2"]
+    },
+    "SARAH_KELLEN": {
+      "canonical_id": "person_072",
+      "canonical_name": "Sarah Kellen",
+      "aliases": ["Sarah Kensington", "SLK"],
+      "appears_in_batches": ["batch1_sarah_kellen_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch3_part2_FULL_extraction.json"],
+      "verification_claims": ["5.3.1", "5.3.2", "4.3.1"]
+    },
+    "LM_JANE_DOE_1": {
+      "canonical_id": "person_073",
+      "canonical_name": "L.M.",
+      "aliases": ["Jane Doe #1", "Jane Doe 1", "L.M."],
+      "appears_in_batches": ["batch2_victims_procurers_extraction.json"],
+      "mentioned_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "verification_claims": ["5.1.1"]
+    },
+    "EW_COURTNEY_WILD": {
+      "canonical_id": "person_201",
+      "canonical_name": "E.W.",
+      "aliases": ["Courtney Wild", "E.W."],
+      "appears_in_batches": ["supplemental_victim_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["5.1.2"]
+    },
+    "AH_ALEXANDRA_HALL": {
+      "canonical_id": "person_202",
+      "canonical_name": "A.H.",
+      "aliases": ["Alexandra Hall", "Jane Doe 3", "A.H."],
+      "appears_in_batches": ["supplemental_victim_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "CHAUNTAE_DAVIES": {
+      "canonical_id": "person_203",
+      "canonical_name": "Chauntae Davies",
+      "aliases": [],
+      "appears_in_batches": ["supplemental_victim_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "JANE_DOE_43": {
+      "canonical_id": "person_207",
+      "canonical_name": "Jane Doe 43",
+      "aliases": [],
+      "appears_in_batches": ["supplemental_victim_extraction.json"],
+      "mentioned_in_batches": ["batch3_part2_FULL_extraction.json"]
+    },
+    "ALAN_GREENBERG": {
+      "canonical_id": "person_010",
+      "canonical_name": "Alan Courtney 'Ace' Greenberg",
+      "aliases": ["Ace Greenberg", "Alan Greenberg", "Alan 'Ace' Greenberg", "ALAN 'ACE' GREENBERG"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json"]
+    },
+    "JAMES_CAYNE": {
+      "canonical_id": "person_131",
+      "canonical_name": "James E. 'Jimmy' Cayne",
+      "aliases": ["Jimmy Cayne", "James Cayne"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "STEVEN_HOFFENBERG": {
+      "canonical_id": "person_024",
+      "canonical_name": "Steven Jude Hoffenberg",
+      "aliases": ["Hoffenberg", "Steven Hoffenberg", "STEVEN HOFFENBERG"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "verification_claims": ["2.2.1", "2.2.2", "2.2.3"]
+    },
+    "BILL_CLINTON": {
+      "canonical_id": "person_025",
+      "canonical_name": "William Jefferson Clinton",
+      "aliases": ["Bill Clinton", "President Clinton", "William Clinton", "BILL CLINTON"],
+      "appears_in_batches": ["batch3_remaining_profiles_part3_final.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch1_virginia_giuffre_extraction.json", "supplemental_victim_extraction.json", "batch3_part2_FULL_extraction.json"],
+      "verification_claims": ["6.1.1", "6.1.2"]
+    },
+    "PRINCE_ANDREW": {
+      "canonical_id": "person_027",
+      "canonical_name": "Prince Andrew",
+      "aliases": ["Prince Andrew", "PRINCE ANDREW"],
+      "appears_in_batches": ["batch3_remaining_profiles_part1.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch1_virginia_giuffre_extraction.json"],
+      "verification_claims": ["6.2.1"]
+    },
+    "DONALD_TRUMP": {
+      "canonical_id": "person_028",
+      "canonical_name": "Donald Trump",
+      "aliases": ["Donald Trump", "DONALD TRUMP"],
+      "appears_in_batches": ["batch3_remaining_profiles_part1.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch3_part2_FULL_extraction.json"],
+      "verification_claims": ["6.3.1"]
+    },
+    "ALAN_DERSHOWITZ": {
+      "canonical_id": "person_061",
+      "canonical_name": "Alan Morton Dershowitz",
+      "aliases": ["Alan Dershowitz", "Dershowitz", "ALAN DERSHOWITZ"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch1_virginia_giuffre_extraction.json", "batch2_victims_procurers_extraction.json", "supplemental_victim_extraction.json"]
+    },
+    "BRADLEY_EDWARDS": {
+      "canonical_id": "person_059",
+      "canonical_name": "Bradley J. Edwards",
+      "aliases": ["Brad Edwards", "Bradley Edwards", "BRADLEY J. EDWARDS"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch1_virginia_giuffre_extraction.json", "batch2_victims_procurers_extraction.json", "supplemental_victim_extraction.json"],
+      "verification_claims": ["5.1.1"]
+    },
+    "PAUL_CASSELL": {
+      "canonical_id": "person_062",
+      "canonical_name": "Paul Cassell",
+      "aliases": [],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_virginia_giuffre_extraction.json"]
+    },
+    "BRUCE_REINHART": {
+      "canonical_id": "person_142",
+      "canonical_name": "Bruce E. Reinhart",
+      "aliases": ["Bruce Reinhart"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["4.3.1"]
+    },
+    "MARIE_VILLAFANA": {
+      "canonical_id": "person_064",
+      "canonical_name": "Marie Villafaña",
+      "aliases": ["A. Marie Villafana", "AUSA Villafaña"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_virginia_giuffre_extraction.json"]
+    },
+    "DAVID_BOIES": {
+      "canonical_id": "person_066",
+      "canonical_name": "David Boies",
+      "aliases": [],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_virginia_giuffre_extraction.json", "supplemental_victim_extraction.json"],
+      "verification_claims": ["5.1.1"]
+    },
+    "KENNETH_STARR": {
+      "canonical_id": "person_138",
+      "canonical_name": "Kenneth Starr",
+      "aliases": [],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "GEORGE_MITCHELL": {
+      "canonical_id": "person_134",
+      "canonical_name": "George John Mitchell Jr.",
+      "aliases": ["George Mitchell", "Senator Mitchell"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "ROBERT_SWEET": {
+      "canonical_id": "person_150",
+      "canonical_name": "Robert Workman Sweet",
+      "aliases": ["Judge Sweet"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "ALEX_ACOSTA": {
+      "canonical_id": "person_147",
+      "canonical_name": "R. Alexander 'Alex' Acosta",
+      "aliases": ["Alex Acosta", "R. Alex Acosta"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "ALFREDO_RODRIGUEZ": {
+      "canonical_id": "person_096",
+      "canonical_name": "Alfredo Rodriguez",
+      "aliases": [],
+      "appears_in_batches": ["batch3_remaining_profiles_part3_final.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["5.4.1"]
+    }
+  },
+
+  "organizations": {
+    "BEAR_STEARNS": {
+      "canonical_id": "org_002",
+      "canonical_name": "Bear Stearns",
+      "aliases": ["Bear Stearns", "BS"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": ["batch1_leslie_wexner_extraction.json"],
+      "verification_claims": ["1.1.7", "1.1.9"]
+    },
+    "DALTON_SCHOOL": {
+      "canonical_id": "org_001",
+      "canonical_name": "Dalton School",
+      "aliases": ["The Dalton School"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["1.1.5", "1.1.6"]
+    },
+    "TRILATERAL_COMMISSION": {
+      "canonical_id": "org_005",
+      "canonical_name": "Trilateral Commission",
+      "aliases": [],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["1.1.11"]
+    },
+    "COUNCIL_ON_FOREIGN_RELATIONS": {
+      "canonical_id": "org_006",
+      "canonical_name": "Council on Foreign Relations",
+      "aliases": ["CFR"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["1.1.11"]
+    },
+    "TERRAMAR_PROJECT": {
+      "canonical_id": "org_011",
+      "canonical_name": "The TerraMar Project",
+      "aliases": ["TerraMar", "TMP"],
+      "appears_in_batches": ["batch1_ghislaine_maxwell_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["1.2.5", "1.2.6"]
+    },
+    "MC2_MODEL_MANAGEMENT": {
+      "canonical_id": "org_015",
+      "canonical_name": "MC2 Model Management",
+      "aliases": ["MC2"],
+      "appears_in_batches": ["batch1_jean_luc_brunel_extraction.json"],
+      "mentioned_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "verification_claims": ["1.4.2"]
+    },
+    "INTERNATIONAL_ASSETS_GROUP": {
+      "canonical_id": "org_016",
+      "canonical_name": "International Assets Group Inc.",
+      "aliases": ["I.A.G.", "IAG", "Intercontinental Assets Group"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["2.1.1", "2.1.3"]
+    },
+    "TOWERS_FINANCIAL": {
+      "canonical_id": "org_017",
+      "canonical_name": "Towers Financial Corporation",
+      "aliases": ["Towers Corp", "Towers Financial"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json", "batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["2.2.1", "2.2.2", "2.2.3"]
+    },
+    "FINANCIAL_TRUST_COMPANY": {
+      "canonical_id": "org_020",
+      "canonical_name": "Financial Trust Company, Inc.",
+      "aliases": ["Financial Trust Co"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["2.4.1"]
+    },
+    "ZORRO_TRUST": {
+      "canonical_id": "org_093",
+      "canonical_name": "Zorro Trust",
+      "aliases": ["Zorro Development Corp", "Zorro Ranch"],
+      "appears_in_batches": ["batch1_jeffrey_epstein_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["2.3.1", "2.3.2"]
+    },
+    "AVILOOP": {
+      "canonical_id": "org_012",
+      "canonical_name": "Aviloop",
+      "aliases": [],
+      "appears_in_batches": ["batch2_victims_procurers_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["5.3.2"]
+    },
+    "VIACOM": {
+      "canonical_id": "org_084",
+      "canonical_name": "Viacom",
+      "aliases": [],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "JPMORGAN_CHASE": {
+      "canonical_id": "org_085",
+      "canonical_name": "JPMorgan Chase",
+      "aliases": ["JPMorgan"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": []
+    },
+    "BOIES_SCHILLER_FLEXNER": {
+      "canonical_id": "org_086",
+      "canonical_name": "Boies Schiller & Flexner",
+      "aliases": ["Boies Schiller"],
+      "appears_in_batches": ["batch3_part2_FULL_extraction.json"],
+      "mentioned_in_batches": [],
+      "verification_claims": ["5.1.1"]
+    }
+  },
+
+  "deduplication_notes": {
+    "resolved_duplicates": [
+      {
+        "issue": "person_078 (S.R.) vs person_201 (E.W./Courtney Wild) confusion",
+        "resolution": "Confirmed as separate entities. S.R. is distinct from E.W./Courtney Wild.",
+        "action": "No merge needed, both valid separate entities"
+      },
+      {
+        "issue": "Elena Weber vs Aline Weber",
+        "entity_ids": ["person_087", "person_029"],
+        "resolution": "NEEDS VERIFICATION - may be same person with name variations",
+        "action": "Manual review required"
+      },
+      {
+        "issue": "Bill Clinton mentioned in multiple files",
+        "resolution": "Consolidated to canonical_id: person_025",
+        "action": "All references map to single entity"
+      },
+      {
+        "issue": "Alan Dershowitz entity_id variations",
+        "resolution": "Canonical_id: person_061 across all files",
+        "action": "Standardized"
+      }
+    ],
+    "pending_verification": [
+      "Elena Weber (person_087) vs Aline Weber (person_029) - need source check"
+    ]
+  },
+
+  "usage_instructions": {
+    "purpose": "Use this file to resolve entity references across all batch JSON files",
+    "lookup_by_alias": "Search aliases array to find canonical_id",
+    "csv_generation": "Use canonical_id as entity_id in all Neo4j CSV files",
+    "relationship_validation": "All :START_ID and :END_ID must reference canonical_id values",
+    "deduplication": "When encountering variations, always map to canonical entity"
+  }
+}

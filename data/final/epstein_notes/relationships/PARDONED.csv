@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_137,person_012,PARDONED,65,0.733,Presidential pardon/commutation. Clinton commuted Prosperi's sentence from 5 years federal prison to 3 years house arrest in 2001,Unverified

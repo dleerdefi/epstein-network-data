@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_001,person_003,PATRONIZED_BY,false,8,1.0,"Benefactor relationship. Epstein became Wexner's money manager, met at Bear Stearns. In 1991 Wexner made Epstein trustee of Ohio Higher Education Trust ($230M)",Factual

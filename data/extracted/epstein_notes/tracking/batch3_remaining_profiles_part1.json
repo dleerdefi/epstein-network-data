@@ -1,0 +1,431 @@
+{
+  "batch_name": "Batch 3 Part 1: Associates & Staff",
+  "source_lines": "106-154",
+  "extraction_date": "2025-11-14",
+  "note": "This batch covers detailed profiles from 'Abettors' section and staff/associates",
+  "profiles": [
+    {
+      "entity_id": "person_068",
+      "name": "Story Austin Cowles",
+      "birth_year": 1981,
+      "occupations": [
+        "JE's assistant",
+        "paralegal"
+      ],
+      "summary": "Born 1981. JE's assistant/paralegal. Lives with Sara Kellen (aka Kensington). Visited JE countless times in jail 2008. Mother: Elizabeth Close Redfield Atterbury. Works at Jack Goldberger's law office (Goldberger b 1955 d 2013). Residence: 801 S Olive Ave, West Palm Beach, FL",
+      "family": "Mother: Elizabeth Close Redfield Atterbury",
+      "associates": [
+        "Sara Kellen",
+        "Jack Goldberger"
+      ],
+      "locations": [
+        "801 S Olive Ave, West Palm Beach, FL"
+      ],
+      "entity_count": 6
+    },
+    {
+      "entity_id": "person_097",
+      "name": "Gregory B. Taylor",
+      "occupations": [
+        "JE friend/business associate",
+        "Certified Public Accountant"
+      ],
+      "summary": "JE friend and business associate. CPA. Maxwell attempted to use as witness in her case against VA Roberts Giuffre.",
+      "entity_count": 3
+    },
+    {
+      "entity_id": "person_098",
+      "name": "Lawrence Visoski Jr.",
+      "aliases": [
+        "Larry Visoski"
+      ],
+      "occupations": [
+        "JE pilot"
+      ],
+      "summary": "JE's pilot (till present day as of document date). Deposed Oct 15 2009. Employed by JE since 1991, paid by 'NES, LLC'. JE deeded him 40 acres of New Mexico property to build home around 1997. JE gifted him Hummer in 2005. Wife Eileen worked for JE's Florida Science Foundation one month. Residence: 1131 Pine Point Road Riviera Beach FL",
+      "wife": "Eileen Visoski",
+      "employment": "Since 1991 by NES, LLC",
+      "gifts_from_JE": [
+        "40 acres New Mexico property (1997)",
+        "Hummer (2005)"
+      ],
+      "locations": [
+        "1131 Pine Point Road Riviera Beach FL"
+      ],
+      "organizations": [
+        "NES, LLC",
+        "Florida Science Foundation"
+      ],
+      "legal_events": [
+        {
+          "description": "Deposed Oct 15 2009",
+          "confidence": 0.7,
+          "date_confidence": 0.3,
+          "verification_status": "Unverified"
+        }
+      ],
+      "entity_count": 10
+    },
+    {
+      "entity_id": "person_099",
+      "name": "Maritza Vasquez",
+      "aliases": [
+        "Marztza Vazquez",
+        "Marissa Vasquez"
+      ],
+      "occupations": [
+        "former accountant at MC2",
+        "Brunel associate"
+      ],
+      "summary": "Former MC2 accountant. Met JLB 1998 in Miami. Sent by 'gentleman from Switzerland' to examine JLB's books for Karin Models. Worked for Karin's Miami till 2003 when became MC2. 2003 moved to NYC, worked MC2 office until 2006. Fired for inside info, charged with embezzling. Has criminal record. FBI interviewed by Agent Nesbitt 2008. Deposed June 15 2010, told Edwards Epstein's numerous condos at 301 E 66th St NYC used to house young models. Told MC2 brought underage girls from worldwide promising modeling contracts, Epstein/Brunel obtained visas, charged girls rent to live as underage prostitutes in condos.",
+      "timeline": [
+        "Met JLB 1998 Miami",
+        "Worked Karin's 1998-2003",
+        "MC2 NYC 2003-2006",
+        "Fired 2006",
+        "FBI interview 2008",
+        "Deposed June 15 2010"
+      ],
+      "legal_status": "Criminal record, embezzlement charges",
+      "key_testimony": "301 E 66th St condos housed young models, MC2 visa scheme for underage girls",
+      "entity_count": 12
+    },
+    {
+      "entity_id": "person_100",
+      "name": "Jeffrey Fuller",
+      "occupations": [
+        "MC Square operator"
+      ],
+      "sexual_orientation": "allegedly gay",
+      "summary": "Ran MC Square, allegedly gay. Karin Models Miami Director. Described as having cocaine problem, 'king of coke' at midnight hour on Miami party circuit. Well known among Miami bookers and models for coke habit, kept him from moving to NY or Paris. Business Address: 6 W. 14th Street",
+      "locations": [
+        "6 W. 14th Street"
+      ],
+      "organizations": [
+        "MC Square",
+        "Karin Models Miami"
+      ],
+      "reputation": "Cocaine problem, Miami party circuit",
+      "entity_count": 5
+    },
+    {
+      "entity_id": "person_101",
+      "name": "Frederick Rudd",
+      "summary": "2016 bought Ghislaine Maxwell's townhouse at 116 E 65th St for $15 million with wife Kim Rudd",
+      "wife": "Kim Rudd",
+      "real_estate_transaction": "116 E 65th St purchased 2016 for $15M",
+      "entity_count": 3
+    },
+    {
+      "entity_id": "person_102",
+      "name": "Kim Rudd",
+      "summary": "2016 bought Ghislaine Maxwell's townhouse at 116 E 65th St for $15 million with husband Frederick Rudd",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_103",
+      "name": "Cecile de Jongh",
+      "occupations": [
+        "JE's office manager",
+        "wife of former USVI governor"
+      ],
+      "summary": "Office Manager at Financial Trust Company (JE's offshore company). Simultaneously served as board member at Antilles School on St. Thomas. First wife of sitting US governor employed by convicted sex offender. Strange/unprincipled not to notify private school/parents given fiduciary/ethical responsibilities and proximity laws between predator and school-aged children. As of Jan 2016 no longer first lady but remains employed as Epstein's office manager.",
+      "organizations": [
+        "Financial Trust Company",
+        "Antilles School (board member)"
+      ],
+      "husband": "Former governor of USVI",
+      "ethical_concerns": "Working for sex offender while on school board, did not notify parents",
+      "status_2016": "No longer first lady, still Epstein's office manager",
+      "entity_count": 7
+    },
+    {
+      "entity_id": "person_104",
+      "name": "Janusz Banasiak",
+      "aliases": [
+        "Janusz Banziak"
+      ],
+      "birth_year": 1953,
+      "occupations": [
+        "JE's house manager"
+      ],
+      "summary": "Born 1953. JE's house manager. Has Montgomery County Health Dept ID (questioned why). Deposed Feb 16 2010. Wife: Beata",
+      "wife": "Beata Banasiak",
+      "legal_events": [
+        {
+          "description": "Deposed Feb 16 2010",
+          "confidence": 0.7,
+          "date_confidence": 0.3,
+          "verification_status": "Unverified"
+        }
+      ],
+      "questions": "Why does he have Montgomery County health dept ID?",
+      "entity_count": 5
+    },
+    {
+      "entity_id": "person_105",
+      "name": "Jo-Jo Fontanella",
+      "occupations": [
+        "JE's NYC mansion house manager"
+      ],
+      "summary": "JE's NYC mansion house manager. Friendly with NYPD. Works with wife Lynn Fontanella.",
+      "wife": "Lynn Fontanella",
+      "connections": "Friendly with NYPD",
+      "entity_count": 3
+    },
+    {
+      "entity_id": "person_106",
+      "name": "Lynn Fontanella",
+      "occupations": [
+        "JE's NYC mansion house manager"
+      ],
+      "summary": "JE's NYC mansion house manager. Works with husband Jo-Jo Fontanella. Friendly with NYPD.",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_107",
+      "name": "Igor Zinoviev",
+      "occupations": [
+        "bodyguard"
+      ],
+      "summary": "Bodyguard for JE",
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_108",
+      "name": "Brent Tyndall",
+      "occupations": [
+        "chef"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_109",
+      "name": "Eva Andersson",
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_110",
+      "name": "Dana Burns",
+      "occupations": [
+        "JLB's assistant"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_111",
+      "name": "Cecilia Stein",
+      "occupations": [
+        "JE assistant"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_112",
+      "name": "Luis Font",
+      "occupations": [
+        "attorney handling MC2 visas in Miami"
+      ],
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_113",
+      "name": "Simon Parra",
+      "occupations": [
+        "JLB associate"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_114",
+      "name": "Evelyn Valenzeula",
+      "occupations": [
+        "Office Manager MC2 NYC"
+      ],
+      "phone": "917-648-6433",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_115",
+      "name": "Amanda Grant",
+      "occupations": [
+        "worked for JE and JLB"
+      ],
+      "summary": "Worked for JE and JLB until 2008. Single mother of four kids. Was fired.",
+      "employment_end": "2008 (fired)",
+      "family": "Single mother, four kids",
+      "entity_count": 3
+    },
+    {
+      "entity_id": "person_116",
+      "name": "Michael Friedman",
+      "occupations": [
+        "former JE house manager in Palm Beach"
+      ],
+      "summary": "Former JE house manager in Palm Beach. Teared up when confronted by attorneys in CA",
+      "emotional_response": "Teared up when confronted by attorneys in CA",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_117",
+      "name": "Edward Tuttle",
+      "occupations": [
+        "hotel designer"
+      ],
+      "summary": "Hotel designer. Designed JE's luxury resort on Little St. James island",
+      "projects": "Little St. James luxury resort",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_118",
+      "name": "Paula Heil Fisher",
+      "occupations": [
+        "writer"
+      ],
+      "location": "New York",
+      "summary": "JE ex-girlfriend. New York writer.",
+      "relationship": "JE ex-girlfriend",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_119",
+      "name": "Mark Zeff",
+      "occupations": [
+        "house designer"
+      ],
+      "summary": "JE's house designer",
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_120",
+      "name": "Daniel Estes",
+      "occupations": [
+        "architect"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_121",
+      "name": "Douglas Schoettle",
+      "occupations": [
+        "architect"
+      ],
+      "summary": "JE's architect for 7 years as of 2005",
+      "employment": "JE's architect 1998-2005 (7 years)",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_122",
+      "name": "Sergio Cordero",
+      "occupations": [
+        "scouter",
+        "Brunel associate"
+      ],
+      "location": "Miami",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_123",
+      "name": "Mike Sanka",
+      "occupations": [
+        "JLB modelling buddy",
+        "scouter"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_124",
+      "name": "David Mullen",
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_125",
+      "name": "Khalid Monroe",
+      "occupations": [
+        "scouter"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_126",
+      "name": "Eric Gany",
+      "occupations": [
+        "JE assistant"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_127",
+      "name": "Khalid Salaam",
+      "aliases": [
+        "Mohammed"
+      ],
+      "occupations": [
+        "scouter",
+        "booker"
+      ],
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_128",
+      "name": "Dr. Stephen Alexander",
+      "occupations": [
+        "psychologist"
+      ],
+      "summary": "'Court appointed' psychologist who visited JE in prison",
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_129",
+      "name": "Dr. Steve Strumwasser",
+      "occupations": [
+        "doctor"
+      ],
+      "entity_count": 1
+    },
+    {
+      "entity_id": "person_130",
+      "name": "Louella Rabuyo",
+      "occupations": [
+        "JE's housekeeper"
+      ],
+      "summary": "JE's housekeeper. JE paid for her attorney. Deposed Oct 20 2009.",
+      "legal_events": [
+        {
+          "description": "Deposed Oct 20 2009",
+          "confidence": 0.7,
+          "date_confidence": 0.3,
+          "verification_status": "Unverified"
+        }
+      ],
+      "entity_count": 2
+    },
+    {
+      "entity_id": "person_002",
+      "name": "Mark L. Epstein",
+      "birth_year": 1954,
+      "summary": "JE's brother. Born 1954. Deposed Sept 21 2009.",
+      "legal_events": [
+        {
+          "description": "Deposed Sept 21 2009",
+          "confidence": 0.975,
+          "date_confidence": 0.3,
+          "verification_status": "Factual"
+        }
+      ],
+      "note": "Already extracted in JE profile as person_002, adding details",
+      "entity_count": 2
+    }
+  ],
+  "batch_stats": {
+    "total_profiles": 37,
+    "detailed_profiles": 10,
+    "brief_mentions": 27,
+    "total_entities": 100,
+    "persons": 37,
+    "organizations": 8,
+    "locations": 12,
+    "legal_events": 8,
+    "real_estate": 2
+  }
+}

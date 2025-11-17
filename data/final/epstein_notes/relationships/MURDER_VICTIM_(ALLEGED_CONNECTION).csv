@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_003,person_058,MURDER_VICTIM_(ALLEGED_CONNECTION),false,,0.7,Wexner has ties to Shapiro's murder in 1985,Unverified

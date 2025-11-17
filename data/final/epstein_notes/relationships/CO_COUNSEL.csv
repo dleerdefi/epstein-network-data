@@ -1,0 +1,6 @@
+:START_ID,:END_ID,:TYPE,circled:boolean,citations:string[],confidence:float,context,verification_status
+person_007,person_062,CO_COUNSEL,false,,0.7,Co-counsel with Edwards attempting to add Roberts to federal case 2014,Unverified
+person_148,person_149,CO_COUNSEL,false,,0.7,Together negotiated JE's NPA,Unverified
+person_138,person_148,CO_COUNSEL,false,,0.7,Together negotiated JE's NPA,Unverified
+person_162,person_163,CO_COUNSEL,false,,0.7,Both attorneys for B.B.,Unverified
+person_163,person_162,CO_COUNSEL,false,,0.7,Both attorneys for B.B.,Unverified

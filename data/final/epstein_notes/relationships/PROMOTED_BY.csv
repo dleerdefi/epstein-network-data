@@ -1,0 +1,2 @@
+:START_ID,:END_ID,:TYPE,citations:string[],confidence:float,context,verification_status
+person_136,person_136a,PROMOTED_BY,,0.7,"Career promotion. Appointed Briatore director of Benetton US operations, later promoted to F1 manager",Unverified

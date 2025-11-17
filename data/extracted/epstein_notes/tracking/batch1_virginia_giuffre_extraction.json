@@ -1,0 +1,671 @@
+{
+  "profile_name": "Virginia Louise Roberts Giuffre",
+  "source_lines": "61-62",
+  "extraction_date": "2025-11-14",
+  "primary_person": {
+    "entity_id": "person_022",
+    "name": "Virginia Louise Roberts Giuffre",
+    "aliases": [
+      "Virginia Roberts",
+      "Jane Doe 2",
+      "Jane Doe #3",
+      "VA Roberts"
+    ],
+    "occupations": [
+      "JE victim",
+      "activist"
+    ],
+    "summary": "Sexually abused at 13 by Ron Eppinger. Recruited by Ghislaine Maxwell at age 14 while working at Mar-a-Lago in 1999. Lived as Epstein's 'sex slave' 1999-2002. Fled to Australia 2002. Key victim in Epstein cases. Founded non-profit 'Victims Refuse Silence' 2014. Sued Ghislaine Maxwell for defamation 2015."
+  },
+  "family_members": [
+    {
+      "entity_id": "person_059",
+      "name": "Sky William Roberts",
+      "occupations": [
+        "maintenance manager at Mar-a-Lago"
+      ],
+      "relationship": "father",
+      "relationship_to": "person_022",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "63",
+        "41",
+        "61",
+        "43",
+        "44"
+      ]
+    }
+  ],
+  "associates": [
+    {
+      "entity_id": "person_001",
+      "name": "Jeffrey Edward Epstein",
+      "relationship": "abuser/trafficker",
+      "relationship_context": "Lived as his 'sex slave' 1999-2002. Had sex with her on 16th birthday with Ghislaine Maxwell.",
+      "relationship_start": "1999",
+      "relationship_end": "2002",
+      "confidence": 0.87,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "5",
+        "20",
+        "24",
+        "27",
+        "7",
+        "16",
+        "29",
+        "47",
+        "28",
+        "35",
+        "26",
+        "19",
+        "34",
+        "65",
+        "6",
+        "38",
+        "21",
+        "32",
+        "44",
+        "30",
+        "40",
+        "9",
+        "2",
+        "39",
+        "67",
+        "51",
+        "33",
+        "45",
+        "66",
+        "63",
+        "41",
+        "68",
+        "61",
+        "43",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_018",
+      "name": "Ghislaine Noelle Maxwell",
+      "relationship": "recruiter/abuser",
+      "relationship_context": "Recruited Roberts at age 14 from Mar-a-Lago. Participated in abuse. Roberts sued Maxwell for defamation 2015.",
+      "relationship_start": "1999",
+      "confidence": 0.975,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "9",
+        "8",
+        "47",
+        "48",
+        "51",
+        "65",
+        "10"
+      ]
+    },
+    {
+      "entity_id": "person_060",
+      "name": "Ron Eppinger",
+      "occupations": [
+        "knows JE"
+      ],
+      "relationship": "childhood abuser",
+      "relationship_context": "Sexually abused Roberts at age 13. She stayed with him 6 months. Age 67 at time.",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "61",
+        "63"
+      ]
+    },
+    {
+      "entity_id": "person_013",
+      "name": "Prince Andrew",
+      "relationship": "alleged abuser",
+      "relationship_context": "Roberts claims she was abused by Prince Andrew. First met Easter 2001 per Sjoberg affidavit. Photo exists of Prince with Roberts as minor. Sex act in London affected 'foreign commerce'.",
+      "confidence": 0.2,
+      "verification_status": "Speculative",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "66",
+        "67"
+      ]
+    },
+    {
+      "entity_id": "person_061",
+      "name": "Alan Dershowitz",
+      "aliases": [
+        "ALAN DERSHOWITZ"
+      ],
+      "occupations": [
+        "attorney"
+      ],
+      "relationship": "alleged abuser",
+      "relationship_context": "Named as abuser in Dec 2014 filing. Dershowitz helped draft NPA. Made motion to strike Roberts' remarks, went on media blitz calling her 'serial liar'. Attempted to sanction her testimony Feb 2015. In 2015 deposition implied she had sex with Bill Clinton (Roberts denies).",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_025",
+      "name": "Jean-Luc Brunel",
+      "relationship": "alleged abuser",
+      "relationship_context": "Roberts told Brad Edwards she was abused by Brunel",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "65"
+      ]
+    },
+    {
+      "entity_id": "person_015",
+      "name": "Bradley J. Edwards",
+      "relationship": "attorney",
+      "relationship_context": "Contacted by Roberts in 2011 when he was being sued by Epstein. Represented her in federal case attempts 2014-2015. Sent certified letter to Prince Andrew Jan 14 2015.",
+      "relationship_start": "2011",
+      "confidence": 1.0,
+      "verification_status": "Factual",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "63",
+        "41",
+        "61",
+        "43",
+        "44"
+      ]
+    },
+    {
+      "entity_id": "person_062",
+      "name": "Paul Cassell",
+      "occupations": [
+        "attorney"
+      ],
+      "relationship": "co-counsel",
+      "relationship_context": "Co-counsel with Edwards attempting to add Roberts to federal case 2014",
+      "relationship_start": "2014",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_063",
+      "name": "Robert Josephsberg",
+      "occupations": [
+        "attorney"
+      ],
+      "relationship": "attorney",
+      "relationship_context": "Filed suit against Epstein Sept 9 2008 (Jane Doe 2 v Epstein)",
+      "relationship_start": "2008",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_064",
+      "name": "Marie Villafaña",
+      "aliases": [
+        "AUSA MARIE VILLAFAÑA"
+      ],
+      "occupations": [
+        "Assistant US Attorney"
+      ],
+      "relationship": "government contact",
+      "relationship_context": "Contacted Roberts March 2011 after Daily Mail story, expressed interest in case",
+      "relationship_start": "2011-03",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_065",
+      "name": "Wilfredo Ferrer",
+      "occupations": [
+        "US Attorney"
+      ],
+      "relationship": "government official",
+      "relationship_context": "Edwards sent letter Aug 20 2014 requesting consent to add Roberts as Jane Doe #3. Delayed response until Dec 23 2014 objection.",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_066",
+      "name": "Jack Scarola",
+      "aliases": [
+        "JACK SCAROLA"
+      ],
+      "occupations": [
+        "attorney"
+      ],
+      "relationship": "Edwards' attorney",
+      "relationship_context": "Sent certified letter to Prince Andrew Jan 14 2015 requesting cooperation. Letter refused by recipient.",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "person_012",
+      "name": "Bill Clinton",
+      "relationship": "alleged (denied)",
+      "relationship_context": "Alan Dershowitz implied in 2015 deposition that Roberts had sex with Clinton. Roberts explicitly denies, says never participated or saw Clinton have sexual contact with anyone.",
+      "confidence": 0.733,
+      "verification_status": "Unverified",
+      "confidence_basis": "verification_claim",
+      "citations": [
+        "65"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "entity_id": "org_073",
+      "name": "Mar-a-Lago",
+      "org_type": "resort/club",
+      "location": "Palm Beach, Florida",
+      "relationship": "former employee",
+      "description": "Had part-time job here at age 14 in 1999 when recruited by Maxwell. Father was maintenance manager.",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_074",
+      "name": "Podhurst Orseck",
+      "org_type": "law firm",
+      "relationship": "legal representation",
+      "relationship_context": "Contacted this firm Sept 3 2008 to file civil suit",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_075",
+      "name": "Daily Mail",
+      "org_type": "newspaper",
+      "relationship": "media",
+      "relationship_context": "Roberts sold story in 2011, they published parts",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    },
+    {
+      "entity_id": "org_023",
+      "name": "FBI",
+      "relationship": "interviewed Roberts at length after March 2011 Daily Mail story",
+      "confidence": 0.3,
+      "verification_status": "Speculative",
+      "confidence_basis": "vague_mention"
+    },
+    {
+      "entity_id": "org_076",
+      "name": "Victims Refuse Silence",
+      "org_type": "non-profit",
+      "founded_year": 2014,
+      "founded_date": "2014-12",
+      "location": "Florida",
+      "relationship": "founder",
+      "description": "Non-profit incorporated by Roberts December 2014",
+      "confidence": 0.7,
+      "verification_status": "Unverified",
+      "confidence_basis": "explicit_statement_research_only"
+    }
+  ],
+  "locations": [
+    {
+      "entity_id": "location_033",
+      "name": "Australia",
+      "location_type": "country",
+      "relationship": "fled here 2002, settled, was living here 2008"
+    },
+    {
+      "entity_id": "location_034",
+      "name": "London",
+      "location_type": "city",
+      "country": "England",
+      "description": "Location where sex act with Prince Andrew occurred, affecting 'foreign commerce'"
+    }
+  ],
+  "legal_cases": [
+    {
+      "entity_id": "legal_022",
+      "case_name": "Victim notification letters",
+      "filed_date": "2008-09-03",
+      "description": "Sept 3 2008 received victim notification while in Australia, contacted Podhurst Orseck firm",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_023",
+      "case_name": "Jane Doe 2 v Epstein",
+      "filed_date": "2008-09-09",
+      "description": "Robert Josephsberg filed suit against Epstein. Settled out of court.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_024",
+      "case_name": "FBI interview",
+      "filed_date": "2011",
+      "description": "After March 2011 Daily Mail story, FBI contacted and interviewed Roberts at length",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_025",
+      "case_name": "Epstein v Scott Rothstein and Bradley J Edwards",
+      "filed_date": "2011",
+      "description": "Roberts contacted by Brad Edwards who was being sued by Epstein. Told him about abuse by Prince Andrew, Maxwell, Brunel, Dershowitz, others.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_026",
+      "case_name": "Return to US",
+      "filed_date": "2013-10",
+      "description": "Roberts returned to US October 2013",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_027",
+      "case_name": "Jane Doe #1 and Jane Doe #2 et al. v. US",
+      "filed_date": "2014-04",
+      "description": "April 2014 Roberts sought through Edwards and Cassell to join federal case",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_028",
+      "case_name": "Letter to US Attorney Ferrer",
+      "filed_date": "2014-08-20",
+      "description": "Edwards sent letter requesting consent to add Roberts as Jane Doe #3",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_029",
+      "case_name": "Government delays response",
+      "filed_date": "2014-08 to 2014-12",
+      "description": "Three months no response, Edwards wrote again with Dec 10 deadline. Government requested more time, finally objected Dec 23 2014.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_030",
+      "case_name": "Joinder motion filed",
+      "filed_date": "2014-12-30",
+      "description": "Edwards and Cassell filed joinder motion publicly citing Roberts victimized by Dershowitz and Prince Andrew",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_031",
+      "case_name": "Dershowitz motion to intervene",
+      "filed_date": "2015-01-05",
+      "description": "Dershowitz made motion to intervene and have Roberts' remarks about him stricken from record",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_032",
+      "case_name": "Dershowitz media blitz",
+      "filed_date": "2015-01",
+      "description": "Dershowitz went on media blitz calling Roberts 'serial liar' who 'has lied through her teeth about many world leaders'",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_033",
+      "case_name": "Prince Andrew spokesperson denial",
+      "filed_date": "2015-01",
+      "description": "Prince Andrew spokesperson denied allegations without explaining photo of Prince with Roberts as minor",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_034",
+      "case_name": "Letter to Prince Andrew",
+      "filed_date": "2015-01-14",
+      "description": "Jack Scarola sent Prince Andrew certified letter requesting cooperation. Letter refused by recipient.",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_035",
+      "case_name": "Dershowitz second sanction attempt",
+      "filed_date": "2015-02",
+      "description": "Alan Dershowitz attempted again to sanction Roberts' testimony",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_015",
+      "case_name": "Virginia L Giuffre vs. Ghislaine Maxwell",
+      "filed_date": "2015-09-21",
+      "description": "Roberts sued Maxwell for slander after Maxwell called accusations 'all lies'",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "legal_036",
+      "case_name": "Dershowitz 2015 deposition",
+      "filed_date": "2015",
+      "description": "Dershowitz implies Roberts had sex with Bill Clinton despite Roberts explicitly denying in her own deposition",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    }
+  ],
+  "events": [
+    {
+      "entity_id": "event_084",
+      "name": "Sexually abused by Ron Eppinger",
+      "event_date": "age 13",
+      "description": "Abused by 67-year-old Ron Eppinger, stayed with him 6 months",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_085",
+      "name": "Working at Mar-a-Lago",
+      "event_date": "1999",
+      "location": "org_073",
+      "description": "Age 14, part-time job at Mar-a-Lago where father was maintenance manager",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_086",
+      "name": "Recruited by Ghislaine Maxwell",
+      "event_date": "1999",
+      "location": "org_073",
+      "description": "Age 14, recruited by Maxwell to work for Epstein at Mar-a-Lago",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_087",
+      "name": "16th birthday abuse",
+      "event_date": "unknown",
+      "description": "Says GM and JE had sex with her on her 16th birthday",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_088",
+      "name": "First met Prince Andrew",
+      "event_date": "2001 Easter",
+      "description": "Per Johanna Sjoberg affidavit, Easter 2001. Maxwell and Roberts present plus other underage girls.",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_089",
+      "name": "Fled, settled in Australia",
+      "event_date": "2002",
+      "location": "location_033",
+      "description": "Escaped from Epstein, eventually settled in Australia",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_090",
+      "name": "Got married",
+      "event_date": "before 2007",
+      "description": "Married, had no contact with Epstein or associates for years",
+      "confidence": 0.7,
+      "date_confidence": 0.3,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_091",
+      "name": "Contacted by Epstein's people",
+      "event_date": "2007",
+      "description": "About Palm Beach Police investigation. Told she would keep quiet and did",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_092",
+      "name": "Received victim notification",
+      "event_date": "2008-09-03",
+      "location": "location_033",
+      "description": "While living in Australia, received notification",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_093",
+      "name": "Filed Jane Doe 2 lawsuit",
+      "event_date": "2008-09-09",
+      "description": "Attorney filed suit against Epstein, settled out of court",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_094",
+      "name": "Sold story to Daily Mail",
+      "event_date": "2011",
+      "description": "Contacted by journalist, sold story, Daily Mail published parts",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_095",
+      "name": "AUSA contacted Roberts",
+      "event_date": "2011-03",
+      "description": "After Daily Mail story, Marie Villafaña expressed interest",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_096",
+      "name": "FBI interview",
+      "event_date": "2011",
+      "description": "FBI contacted and interviewed at length",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_097",
+      "name": "Contacted Brad Edwards",
+      "event_date": "2011",
+      "description": "Told Edwards about abuse by Prince Andrew, Maxwell, Brunel, Dershowitz, others",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_098",
+      "name": "Returned to US",
+      "event_date": "2013-10",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_099",
+      "name": "Sought to join federal case",
+      "event_date": "2014-04",
+      "description": "Through Edwards and Cassell attempted to join as Jane Doe #3",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_100",
+      "name": "Founded Victims Refuse Silence",
+      "event_date": "2014-12",
+      "location": "Florida",
+      "description": "Incorporated non-profit",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_101",
+      "name": "Named Dershowitz and Prince Andrew",
+      "event_date": "2014-12-30",
+      "description": "Publicly named in joinder motion filing",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    },
+    {
+      "entity_id": "event_102",
+      "name": "Sued Ghislaine Maxwell",
+      "event_date": "2015-09-21",
+      "description": "Defamation lawsuit for Maxwell calling accusations 'all lies'",
+      "confidence": 0.8,
+      "date_confidence": 0.8,
+      "verification_status": "Unverified"
+    }
+  ],
+  "extracted_stats": {
+    "persons": 13,
+    "organizations": 5,
+    "locations": 2,
+    "legal_cases": 16,
+    "events": 19,
+    "total_entities": 55
+  },
+  "notes": [
+    "Extremely detailed legal timeline with specific dates",
+    "Key victim with extensive documentation",
+    "Named multiple high-profile alleged abusers",
+    "Founded victim advocacy organization",
+    "Ongoing defamation suit against Maxwell as of document date"
+  ]
+}
