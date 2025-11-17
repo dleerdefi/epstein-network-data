@@ -88,7 +88,7 @@ cd epstein-network-data
 
 Production-ready knowledge graph for Neo4j GraphRAG integrating all data sources (Flight Logs + Black Book + Epstein Notes):
 
-**Nodes** (7,447 total):
+**Nodes** (10,356 total):
 - 2,541 Persons (canonical persons from flight logs, black book, Epstein Notes)
 - 2,051 Flights (flight records with date, aircraft, route)
 - 283 Airports (with IATA/ICAO codes, geocoding)
